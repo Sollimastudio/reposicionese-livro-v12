@@ -1,6 +1,6 @@
 # Status Executivo e Ponto de Retomada — Reposicione-se™
 
-**Versão:** 4.0  
+**Versão:** 5.0  
 **Data do marco:** 2026-07-20  
 **Branch:** `direcao-editorial-executiva-2026-07-20`  
 **Função:** registrar o estágio operacional mais recente sem substituir as definições conceituais do Registro Mestre.
@@ -9,83 +9,105 @@
 
 ---
 
-# 1. MARCO ATUAL
+# 1. MARCOS CONCLUÍDOS
 
-A **Revisão Integral A do Reposicione-se™ está concluída**.
+## 1.1 Primeira versão estrutural integral
 
-Existe uma linha revisada contínua composta por:
+Permanece preservada em `manuscrito-v13/`.
+
+Contém:
+
+- Pré-livro;
+- Partes I–VIII;
+- Epílogo;
+- rastreabilidade por lote;
+- sumário navegável.
+
+## 1.2 Revisão Integral A
+
+Concluída em `revisao-integral/`:
+
+- `00_PRE_LIVRO_REV_A.md`;
+- `01_PARTE_I_REV_A.md`;
+- `02_PARTE_II_REV_A.md`;
+- `03_PARTE_III_REV_A.md`;
+- `04_PARTE_IV_REV_A.md`;
+- `05_PARTE_V_REV_A.md`;
+- `06_PARTE_VI_REV_A.md`;
+- `07_PARTE_VII_REV_A.md`;
+- `08_PARTE_VIII_REV_A.md`.
+
+A linha revisada possui:
 
 - Pré-livro;
 - oito Partes;
-- 38 capítulos;
+- Capítulos 1–38;
 - Epílogo.
 
-Arquivos:
+## 1.3 Manuscrito Canônico Consolidado — Revisão A
 
-- `revisao-integral/00_PRE_LIVRO_REV_A.md`;
-- `revisao-integral/01_PARTE_I_REV_A.md`;
-- `revisao-integral/02_PARTE_II_REV_A.md`;
-- `revisao-integral/03_PARTE_III_REV_A.md`;
-- `revisao-integral/04_PARTE_IV_REV_A.md`;
-- `revisao-integral/05_PARTE_V_REV_A.md`;
-- `revisao-integral/06_PARTE_VI_REV_A.md`;
-- `revisao-integral/07_PARTE_VII_REV_A.md`;
-- `revisao-integral/08_PARTE_VIII_REV_A.md`.
+Gerado automaticamente em:
 
-A primeira versão estrutural integral permanece preservada em `manuscrito-v13/`.
+`manuscrito-canonico-rev-a/REPOSICIONESE_REV_A_CONSOLIDADO.md`
 
-A Revisão A não é ainda texto final, certificado, aprovado, diagramado ou pronto para publicação.
+Validações executadas:
+
+- nove fontes presentes;
+- UTF-8;
+- capítulos exatamente 1–38;
+- ausência de número duplicado;
+- Epílogo presente;
+- arquivo não vazio;
+- marcadores de origem inseridos.
+
+Primeira geração confirmada:
+
+- 9.773 linhas;
+- 38 capítulos validados;
+- commit de origem registrado no cabeçalho.
+
+Arquivos de suporte:
+
+- `manuscrito-canonico-rev-a/SUMARIO_REV_A.md`;
+- `manuscrito-canonico-rev-a/REGISTRO_DE_CONSOLIDACAO.md`;
+- `scripts/consolidar_revisao_a.py`;
+- `.github/workflows/consolidar-revisao-a.yml`.
+
+## 1.4 Pacote de leitura autoral
+
+Criado em `revisao-autoral/`:
+
+- `PACOTE_DE_LEITURA_AUTORAL.md`;
+- `FICHA_DE_DECISOES_AUTORAIS.md`;
+- `REGISTRO_DE_REVISOES_ESPECIALIZADAS.md`.
+
+Porta principal:
+
+`LER_AGORA_REPOSICIONESE_REV_A.md`
 
 ---
 
 # 2. AUDITORIAS CONCLUÍDAS
 
-## Auditoria Integral 01
+1. `16_AUDITORIA_INTEGRAL_01_PRE_LIVRO_PARTES_I_II.md`;
+2. `17_AUDITORIA_INTEGRAL_02_PARTES_III_IV.md`;
+3. `18_AUDITORIA_INTEGRAL_03_PARTES_V_VI.md`;
+4. `19_AUDITORIA_INTEGRAL_04_PARTES_VII_VIII.md`.
 
-Pré-livro e Partes I–II.
-
-Arquivo:
-
-`direcao-editorial/16_AUDITORIA_INTEGRAL_01_PRE_LIVRO_PARTES_I_II.md`
-
-## Auditoria Integral 02
-
-Partes III–IV.
-
-Arquivo:
-
-`direcao-editorial/17_AUDITORIA_INTEGRAL_02_PARTES_III_IV.md`
-
-## Auditoria Integral 03
-
-Partes V–VI.
-
-Arquivo:
-
-`direcao-editorial/18_AUDITORIA_INTEGRAL_03_PARTES_V_VI.md`
-
-## Auditoria Integral 04
-
-Partes VII–VIII.
-
-Arquivo:
-
-`direcao-editorial/19_AUDITORIA_INTEGRAL_04_PARTES_VII_VIII.md`
-
-As quatro auditorias registram:
+As auditorias registram:
 
 - repetições;
 - conflitos conceituais;
 - numeração;
 - cortes, fusões e deslocamentos;
-- conteúdo transferido ao Workbook;
+- itens destinados ao Workbook;
 - pendências autorais;
-- riscos factuais, jurídicos, psicológicos, teológicos e de sensibilidade;
-- critérios de aceitação de cada lote.
+- riscos factuais, jurídicos, teológicos, psicológicos e de sensibilidade;
+- critérios de aceitação.
 
 ---
 
-# 3. NUMERAÇÃO FINAL DA REVISÃO A
+# 3. LINHA CANÔNICA DA REVISÃO A
 
 ## Parte I — Frutos
 
@@ -152,161 +174,125 @@ Epílogo — O Cajueiro Ainda Está Lá.
 
 ---
 
-# 4. RESULTADOS EDITORIAIS ALCANÇADOS
+# 4. RESULTADOS EDITORIAIS PRESERVADOS
 
 ## Método
 
-- Árvore preservada como protagonista;
-- Semente inicial ensinada;
-- Fruto definido como evidência, não sentença;
-- Solo, Raiz, Corrente, Mapa, Tronco, Galho, Praga, Poda e Nova Semente diferenciados;
-- Mirante mantido como ponto metacognitivo;
-- comandos integrados à jornada;
-- Jaula subordinada à Árvore;
-- Filtro preservado com 12 perguntas oficiais;
-- 14 Leis mantidas como critérios recorrentes;
-- 14 Tipos mantidos como espelhos, não diagnósticos.
+- Árvore como protagonista;
+- Fruto como evidência, não sentença;
+- Semente, Solo, Raiz, Corrente, Mapa, Tronco, Galho, Praga, Poda e Nova Semente diferenciados;
+- Mirante como ponto metacognitivo;
+- Jaula como intervenção subordinada;
+- Filtro com 12 perguntas oficiais;
+- 14 Leis como critérios distribuídos;
+- 14 Tipos como espelhos pedagógicos.
 
-## Posicionamento autoral
+## Posição autoral
 
-- lente cristã, conservadora, pedagógica e experiencial explícita;
-- autora não finge neutralidade;
-- posição da autora não recebe imunidade ao Filtro;
-- livro não pede obediência nem substitui consciência;
-- sensatez não é ficar em cima do muro;
+- lente cristã e conservadora explícita;
+- nenhuma neutralidade fingida;
+- posição da autora submetida ao mesmo Filtro;
+- leitor não troca um grupo pela autora;
 - mesmo critério não significa mesmo veredito;
-- verdade, responsabilidade, liberdade e humanidade permanecem no mesmo eixo.
+- sensatez não é ausência de posição.
 
 ## Polarização
 
-Foi distribuída com funções diferentes:
+Distribuída como:
 
-- Solo Digital: amplificação, repetição e pertencimento;
-- Mapas: posições herdadas;
-- Tronco: teste de soberania;
-- Galhos: convivência com pessoas reais;
-- Pragas: pensamento binário, validação e caricatura;
-- Filtro: exame honesto;
-- Escuta: compreensão sem adesão automática.
+- Solo de repetição e pertencimento;
+- Mapa herdado;
+- teste de Soberania;
+- desafio de convivência;
+- combinação de Pragas;
+- objeto de Filtro e escuta.
+
+Não existe capítulo partidário autônomo.
 
 ## Identidade
 
-- identidade atravessa a obra;
-- Fuga Identitária não sequestra o livro;
-- aprofundamento reservado à obra própria;
-- grupos, rótulos e diagnósticos não substituem a pessoa inteira.
+- fio transversal;
+- Fuga Identitária reservada à obra própria;
+- nenhum grupo ou rótulo recebe o direito de explicar a pessoa inteira.
 
 ## Responsabilidade e segurança
 
-- autoresponsabilidade separada de culpa;
-- violência permanece responsabilidade de quem a pratica;
-- risco, poder, dependência e recursos são considerados;
-- Poda não autoriza impulso, vingança ou abandono de dever;
-- Jaula não culpa quem não consegue sair imediatamente;
-- pedido de ajuda e proteção são posicionamentos possíveis.
-
-## Encerramento
-
-- Nova Semente é prática concreta e revisável;
-- recaída não vira identidade;
-- apoio não substitui autoria;
-- sinais cotidianos de incorporação foram separados dos Sete Frutos;
-- Sete Frutos não são promessa;
-- retorno ao mapa permite reconhecer ausência de mudança;
-- Cajueiro fecha a imagem inaugural;
-- leitor é enviado de volta à vida.
+- responsabilidade sem culpa total;
+- responsabilidade pela violência permanece com quem a pratica;
+- risco, poder, dependência e recursos considerados;
+- Jaula não culpa quem não consegue sair;
+- Poda não autoriza vingança ou abandono de dever;
+- ajuda e proteção são posicionamentos possíveis.
 
 ---
 
-# 5. RELATÓRIOS COMPARATIVOS
+# 5. DECISÕES AUTORAIS ORGANIZADAS
 
-- `revisao-integral/RELATORIO_COMPARATIVO_REV_A_INICIO.md`;
-- `revisao-integral/RELATORIO_COMPARATIVO_REV_A_PARTES_III_IV.md`;
-- `revisao-integral/RELATORIO_COMPARATIVO_REV_A_PARTES_V_VI.md`;
-- `revisao-integral/RELATORIO_COMPARATIVO_REV_A_PARTES_VII_VIII.md`.
+A ficha possui 15 decisões priorizadas:
 
-Eles documentam:
+1. lente cristã e conservadora;
+2. polarização e uso de `centro`/`Centrão`;
+3. `Observe os Frutos`;
+4. `Deixe na Árvore`;
+5. `Volte para a Raiz`;
+6. autoria emocional;
+7. Autopiedade como `praga-mãe`;
+8. feminicídio emocional;
+9. Vitrine como metáfora e Tipo;
+10. nomes dos 14 Tipos;
+11. cena do batom vermelho;
+12. pai presente que não protegeu;
+13. histórias de trabalho, dinheiro, fazenda e casamento;
+14. tom do encerramento;
+15. nível de autobiografia.
 
-- preservações;
-- reescritas;
-- reduções;
-- transferências;
-- pendências;
-- riscos;
-- decisões de numeração e função.
+Arquivo:
 
----
-
-# 6. PENDÊNCIAS AUTORAIS
-
-Ainda precisam de validação de Sol Lima:
-
-- cena do batom vermelho;
-- histórias pessoais publicáveis;
-- uso de `feminicídio emocional`;
-- `Deixe na Árvore` como forma principal;
-- `Volte para a Raiz` como comando visual ou orientação;
-- termo `autoria emocional`;
-- possível nome do roteiro de cinco movimentos do limite;
-- conteúdo `pai presente que não protegeu`;
-- histórias ligadas a trabalho, dinheiro, família, fazenda e casamento;
-- destaque definitivo de `praga-mãe`;
-- nomes e gêneros dos 14 Tipos;
-- diferença entre `Espelho Partido`, `Espelho` e `Vitrine`;
-- tom final do Capítulo 38 e do Epílogo;
-- política de exposição autobiográfica.
-
-Nenhuma pendência deverá ser resolvida por improvisação silenciosa.
+`revisao-autoral/FICHA_DE_DECISOES_AUTORAIS.md`
 
 ---
 
-# 7. PENDÊNCIAS ESPECIALIZADAS
+# 6. REVISÕES ESPECIALIZADAS ORGANIZADAS
 
-## Factual
+Arquivo:
 
-- ambiente digital e algoritmos;
-- atenção;
-- trauma e sistema nervoso;
-- corpo e emoção;
-- alegações psicológicas;
-- referências históricas e culturais;
-- citações atribuídas.
+`revisao-autoral/REGISTRO_DE_REVISOES_ESPECIALIZADAS.md`
 
-## Jurídica
+Frentes:
 
-- controle coercitivo;
-- risco e segurança;
-- consentimento;
-- denúncia;
-- histórias identificáveis;
-- relações de trabalho;
-- orientação financeira;
-- deveres legais.
+- factual;
+- jurídica;
+- teológica;
+- psicológica;
+- sensibilidade;
+- segurança;
+- ortotipográfica.
 
-## Teológica
+Nenhuma afirmação sensível será considerada segura apenas porque está editorialmente fluida.
 
-- Filipenses 4:8 e base do Filtro;
-- honra;
-- submissão;
-- autoridade;
-- perdão;
-- reconciliação;
-- sofrimento;
-- cruz;
-- espera em Deus;
-- graça e responsabilidade.
+---
 
-## Psicológica e de sensibilidade
+# 7. O QUE AINDA NÃO ESTÁ CONCLUÍDO
 
-- Autopiedade;
-- trauma;
-- luto;
-- vítima e agência;
-- tipos pedagógicos;
-- identidade;
-- coerção;
-- saúde mental;
-- risco de moralização.
+- aprovação autoral;
+- respostas à ficha de decisões;
+- Revisão B;
+- confronto integral com DOCX/PDF canônicos;
+- recuperação e auditoria do banco visual;
+- verificação factual e bibliográfica;
+- revisão jurídica;
+- revisão teológica;
+- revisão psicológica e de sensibilidade;
+- revisão de segurança;
+- preparação textual final;
+- referências;
+- projeto gráfico;
+- Kindle;
+- impressão P&B;
+- edição premium;
+- Workbook final;
+- prova física;
+- publicação.
 
 ---
 
@@ -314,67 +300,63 @@ Nenhuma pendência deverá ser resolvida por improvisação silenciosa.
 
 ## Arquivos canônicos anteriores
 
-O DOCX, PDFs e materiais premium anteriores ainda precisam ser recuperados e confrontados integralmente.
+DOCX, PDFs e arquivos premium anteriores ainda precisam ser confrontados.
 
-Risco:
+## Histórias pessoais
 
-- histórias, frases, imagens ou decisões existirem apenas nos binários.
+Não podem ser certificadas sem autorização, confirmação factual e proteção de terceiros.
 
-## Banco visual
+## 14 Tipos
 
-O mapa conceitual existe.
+Precisam ser comparados com atlas, testes e artes anteriores.
 
-O inventário técnico dos originais, licenças, resoluções e versões P&B ainda não está concluído.
+## Fontes e pareceres
 
-## Aprovação autoral
-
-A Revisão A foi produzida editorialmente, mas ainda precisa da leitura e da decisão da autora.
+Ainda não foram executados integralmente.
 
 ---
 
-# 9. PRÓXIMO MARCO
+# 9. PRÓXIMO PONTO DE RETOMADA
 
-**Tarefa:** criar o **Manuscrito Canônico Consolidado — Revisão A**.
+**Tarefa:** leitura autoral orientada e preparação da Revisão B.
 
-## Objetivo
+## Ordem
 
-Reunir em sequência única:
+1. autora lê início e final;
+2. autora lê capítulos metodológicos;
+3. autora lê trechos de posicionamento;
+4. autora lê capítulos de maior risco;
+5. autora responde decisões prioritárias;
+6. edição registra respostas;
+7. Revisão B é criada por lote;
+8. versões anteriores são confrontadas;
+9. auditorias especializadas são executadas.
 
-- Pré-livro;
-- Capítulos 1–38;
-- Epílogo.
+## Regra
 
-## Regras
+Enquanto a autora não responder todas as decisões, a equipe pode:
 
-- não apagar os arquivos modulares;
-- não chamar o consolidado de final;
-- manter marcações editoriais rastreáveis;
-- separar, quando possível, notas internas do fluxo do leitor;
-- criar sumário contínuo;
-- conferir títulos e numeração;
-- verificar transições entre arquivos;
-- não resolver pendências autorais silenciosamente.
+- preparar matriz de comentários;
+- localizar afirmações factuais;
+- recuperar arquivos antigos;
+- auditar imagens;
+- preparar referências;
+- mapear repetições do consolidado.
 
-## Entregáveis
+Não pode:
 
-1. `manuscrito-canonico-rev-a/REPOSICIONESE_REV_A_CONSOLIDADO.md`;
-2. `manuscrito-canonico-rev-a/SUMARIO_REV_A.md`;
-3. `manuscrito-canonico-rev-a/REGISTRO_DE_CONSOLIDACAO.md`;
-4. atualização do painel e do PR;
-5. preparação de pacote de leitura autoral.
+- decidir história pessoal;
+- alterar posição autoral;
+- certificar nomes dos Tipos;
+- remover conceito canônico silenciosamente;
+- chamar o livro de final.
 
 ---
 
-# 10. REGRA DE RETOMADA
+# 10. PORTA DE ENTRADA
 
-Antes da consolidação, ler:
+Use:
 
-1. este Status Executivo;
-2. Registro Mestre de Contexto;
-3. Matriz de Não Perda;
-4. Protocolo de Continuidade sem Fadiga;
-5. quatro auditorias;
-6. quatro relatórios comparativos;
-7. arquivos `00` a `08` da Revisão A.
+`LER_AGORA_REPOSICIONESE_REV_A.md`
 
-> A primeira revisão integral está concluída. O próximo trabalho não é inventar mais conteúdo. É consolidar, confrontar, verificar e preparar decisões autorais sem perder a linha conquistada.
+> A arquitetura, a primeira versão estrutural, a Revisão A, o consolidado e o pacote autoral existem e estão versionados. O trabalho seguinte é decidir, confrontar, verificar e refinar — não voltar a depender da memória da conversa.
