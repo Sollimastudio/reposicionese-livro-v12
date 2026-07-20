@@ -1,6 +1,6 @@
 # Status Executivo e Ponto de Retomada — Reposicione-se™
 
-**Versão:** 3.0  
+**Versão:** 4.0  
 **Data do marco:** 2026-07-20  
 **Branch:** `direcao-editorial-executiva-2026-07-20`  
 **Função:** registrar o estágio operacional mais recente sem substituir as definições conceituais do Registro Mestre.
@@ -9,33 +9,18 @@
 
 ---
 
-# 1. MARCOS ALCANÇADOS
+# 1. MARCO ATUAL
 
-## Primeira versão estrutural integral
+A **Revisão Integral A do Reposicione-se™ está concluída**.
 
-Existe uma travessia textual completa em `manuscrito-v13/`:
-
-- Pré-livro;
-- Partes I a VIII;
-- Epílogo;
-- rastreabilidade por lote;
-- sumário navegável.
-
-Essa versão permanece preservada como base de comparação.
-
-## Revisão Integral A
-
-Já passaram pela primeira auditoria de progressão, repetição, coerência, função conceitual e proteção ética:
+Existe uma linha revisada contínua composta por:
 
 - Pré-livro;
-- Parte I — Olhe os Frutos;
-- Parte II — Semente, Solo e Configuração;
-- Parte III — Raízes e Heranças;
-- Parte IV — O Tronco;
-- Parte V — Os Galhos;
-- Parte VI — Pragas, Jaulas e Fugas.
+- oito Partes;
+- 38 capítulos;
+- Epílogo.
 
-Arquivos revisados:
+Arquivos:
 
 - `revisao-integral/00_PRE_LIVRO_REV_A.md`;
 - `revisao-integral/01_PARTE_I_REV_A.md`;
@@ -43,9 +28,13 @@ Arquivos revisados:
 - `revisao-integral/03_PARTE_III_REV_A.md`;
 - `revisao-integral/04_PARTE_IV_REV_A.md`;
 - `revisao-integral/05_PARTE_V_REV_A.md`;
-- `revisao-integral/06_PARTE_VI_REV_A.md`.
+- `revisao-integral/06_PARTE_VI_REV_A.md`;
+- `revisao-integral/07_PARTE_VII_REV_A.md`;
+- `revisao-integral/08_PARTE_VIII_REV_A.md`.
 
-O manuscrito ainda não é final, certificado, diagramado ou aprovado pela autora.
+A primeira versão estrutural integral permanece preservada em `manuscrito-v13/`.
+
+A Revisão A não é ainda texto final, certificado, aprovado, diagramado ou pronto para publicação.
 
 ---
 
@@ -53,92 +42,78 @@ O manuscrito ainda não é final, certificado, diagramado ou aprovado pela autor
 
 ## Auditoria Integral 01
 
+Pré-livro e Partes I–II.
+
+Arquivo:
+
 `direcao-editorial/16_AUDITORIA_INTEGRAL_01_PRE_LIVRO_PARTES_I_II.md`
-
-Corrigiu ou encaminhou:
-
-- ausência da Semente inicial;
-- repetição Pré-livro x Parte I;
-- Letreiro x Vitrine;
-- Vitrine x 14 Tipos;
-- polarização repetida cedo demais;
-- ponte com *Morte em Vida*;
-- terminologia e numeração inicial.
 
 ## Auditoria Integral 02
 
+Partes III–IV.
+
+Arquivo:
+
 `direcao-editorial/17_AUDITORIA_INTEGRAL_02_PARTES_III_IV.md`
-
-Corrigiu ou encaminhou:
-
-- Solo x configuração x Raiz;
-- Raiz x Corrente;
-- lealdades invisíveis;
-- Mapas Herdados;
-- identidade x Fuga Identitária;
-- família, fé e autoridade;
-- Tronco x Soberania Interna;
-- autoria emocional;
-- limite x muro x controle;
-- Acordos Conscientes;
-- transições Raízes → Tronco → Galhos;
-- numeração dos Capítulos 7–14.
 
 ## Auditoria Integral 03
 
+Partes V–VI.
+
+Arquivo:
+
 `direcao-editorial/18_AUDITORIA_INTEGRAL_03_PARTES_V_VI.md`
 
-Corrigiu ou encaminhou:
+## Auditoria Integral 04
 
-- Galhos como aplicação, não novos métodos;
-- repetição de Limite, Acordo e Identidade;
-- Relacionamentos;
-- Família como Galho atual;
-- proteção versus controle;
-- trabalho, dinheiro e propósito;
-- fé, comunidade, política e pertencimento;
-- corpo, sexualidade, cuidado e outros Galhos;
-- Praga como mecanismo;
-- Sono da Negligência;
-- Sofá Quente da Mentira;
-- Autopiedade e Autocompaixão;
-- `praga-mãe` como linguagem pedagógica, não diagnóstico;
-- comparação, validação, ressentimento, pensamento binário e influência;
-- Jaula subordinada à Árvore;
-- transição para Filtro e Poda;
-- numeração dos Capítulos 15–26.
+Partes VII–VIII.
+
+Arquivo:
+
+`direcao-editorial/19_AUDITORIA_INTEGRAL_04_PARTES_VII_VIII.md`
+
+As quatro auditorias registram:
+
+- repetições;
+- conflitos conceituais;
+- numeração;
+- cortes, fusões e deslocamentos;
+- conteúdo transferido ao Workbook;
+- pendências autorais;
+- riscos factuais, jurídicos, psicológicos, teológicos e de sensibilidade;
+- critérios de aceitação de cada lote.
 
 ---
 
-# 3. NUMERAÇÃO DA LINHA REVISADA
+# 3. NUMERAÇÃO FINAL DA REVISÃO A
 
-## Parte I
+## Parte I — Frutos
 
 1. A Vitrine da Vida.  
 2. A Morte em Vida.
 
-## Parte II
+## Parte II — Semente, Solo e Configuração
 
 3. A Semente e o Solo.  
 4. O Celular Configurado.  
 5. O Solo Digital.  
 6. Crenças, Valores e Modo Operante.
 
-## Parte III
+## Parte III — Raízes e Heranças
 
 7. As Raízes.  
 8. A Corrente.  
 9. Os Mapas Herdados.  
 10. Família, Fé e Autoridade.
 
-## Parte IV
+## Parte IV — O Tronco
 
 11. O Tronco.  
 12. Soberania Interna.  
 13. O Limite Sagrado.  
 14. Acordos Conscientes.
 
-## Parte V
+## Parte V — Os Galhos
 
 15. Os Galhos.  
 16. Relacionamentos.  
@@ -147,7 +122,7 @@ Corrigiu ou encaminhou:
 19. Fé, Comunidade, Política e Pertencimento.  
 20. Corpo, Sexualidade, Cuidado e Outros Galhos.
 
-## Parte VI
+## Parte VI — Pragas, Jaulas e Fugas
 
 21. O que é uma Praga.  
 22. O Sono da Negligência.  
@@ -156,230 +131,250 @@ Corrigiu ou encaminhou:
 25. Pragas de Atenção, Pertencimento e Imagem.  
 26. A Jaula e a Porta Possível.
 
-A linha revisada está contínua até o Capítulo 26.
+## Parte VII — Filtro, Poda e Posicionamento
+
+27. O Filtro da Sensatez em Ação.  
+28. A Arte de Ouvir Verdades.  
+29. Posicionamento Saudável, Tóxico e Morno.  
+30. Os 14 Tipos de Posicionamento.  
+31. Poda.  
+32. Ação com Visão de Futuro.
+
+## Parte VIII — Nova Semente e Novos Frutos
+
+33. A Nova Semente.  
+34. Cultivo, Repetição e Revisão.  
+35. O que o Posicionamento Produz.  
+36. Os Sete Frutos do Posicionamento.  
+37. Volte ao Mapa dos Frutos.  
+38. Sua Árvore, Seus Frutos.  
+Epílogo — O Cajueiro Ainda Está Lá.
 
 ---
 
-# 4. CORREÇÕES ESTRUTURAIS APLICADAS ATÉ AQUI
+# 4. RESULTADOS EDITORIAIS ALCANÇADOS
 
 ## Método
 
-- fruto é evidência, não sentença ou diagnóstico final;
-- ordem estrutural e ordem de investigação foram separadas;
-- Semente inicial foi ensinada;
-- Mirante permanece ponto de observação;
-- Jaula não compete com a Árvore;
-- Filtro da Influência é aplicação do Filtro da Sensatez;
-- polarização cumpre funções diferentes em Solo, Raízes, Tronco, Galhos e Pragas.
+- Árvore preservada como protagonista;
+- Semente inicial ensinada;
+- Fruto definido como evidência, não sentença;
+- Solo, Raiz, Corrente, Mapa, Tronco, Galho, Praga, Poda e Nova Semente diferenciados;
+- Mirante mantido como ponto metacognitivo;
+- comandos integrados à jornada;
+- Jaula subordinada à Árvore;
+- Filtro preservado com 12 perguntas oficiais;
+- 14 Leis mantidas como critérios recorrentes;
+- 14 Tipos mantidos como espelhos, não diagnósticos.
 
-## Raízes e Tronco
+## Posicionamento autoral
 
-- Raiz foi definida pelo alimento atual, não apenas pela origem;
-- Corrente foi separada de dever e compromisso legítimo;
-- Mapas Herdados deixaram de repetir toda a Parte II;
-- Fuga Identitária permanece fio, não tema central;
-- família e fé foram tratadas sem romantização, demonização ou determinismo;
-- honra, perdão, reconciliação, confiança e acesso foram diferenciados;
-- Tronco foi separado de Soberania Interna;
-- autoria emocional foi definida sem negar influência, trauma ou contexto;
-- limite foi separado de muro, controle, ameaça e consequência;
-- pedido, limite, acordo e exigência foram diferenciados.
+- lente cristã, conservadora, pedagógica e experiencial explícita;
+- autora não finge neutralidade;
+- posição da autora não recebe imunidade ao Filtro;
+- livro não pede obediência nem substitui consciência;
+- sensatez não é ficar em cima do muro;
+- mesmo critério não significa mesmo veredito;
+- verdade, responsabilidade, liberdade e humanidade permanecem no mesmo eixo.
 
-## Galhos
+## Polarização
 
-- Galhos foram organizados por localizar, comparar, conectar e transferir recurso;
-- um Galho adoecido não condena a Árvore inteira;
-- um Galho saudável não absolve outro;
-- Relacionamentos aplicam Limites e Acordos sem repetir a Parte IV;
-- família foi tratada como origem e área atual de convivência;
-- `pai presente que não protegeu` permanece pendente de validação;
-- trabalho foi separado de identidade total;
-- dever foi separado de exploração;
-- dinheiro foi tratado com contexto e responsabilidade;
-- afirmações absolutas sobre extrato, dívida, autoestima e precificação foram impedidas;
-- posição cristã e conservadora foi mantida sem imunidade;
-- política foi tratada como convivência, não eixo central;
-- corpo e sexualidade receberam marcadores de revisão especializada.
+Foi distribuída com funções diferentes:
 
-## Pragas
+- Solo Digital: amplificação, repetição e pertencimento;
+- Mapas: posições herdadas;
+- Tronco: teste de soberania;
+- Galhos: convivência com pessoas reais;
+- Pragas: pensamento binário, validação e caricatura;
+- Filtro: exame honesto;
+- Escuta: compreensão sem adesão automática.
 
-- Praga foi definida por repetição, drenagem, distorção, resistência à revisão e fruto;
-- emoção difícil foi separada de Praga;
-- interno não significa culpa;
-- Sono da Negligência foi separado de sobrecarga, luto e preparação;
-- Sofá Quente foi separado de descanso, cautela e segurança;
-- resistência do leitor não prova acerto da autora;
-- Autopiedade foi separada de dor, trauma, denúncia, ajuda e Autocompaixão;
-- `praga-mãe` foi mantida como linguagem pedagógica, não diagnóstico clínico;
-- pensamento binário não foi usado para relativizar violência ou mentira;
-- Fuga Identitária permaneceu fio;
-- Jaula foi reafirmada como intervenção, não taxonomia concorrente;
-- porta possível considera segurança, tempo, poder e recursos.
+## Identidade
 
----
+- identidade atravessa a obra;
+- Fuga Identitária não sequestra o livro;
+- aprofundamento reservado à obra própria;
+- grupos, rótulos e diagnósticos não substituem a pessoa inteira.
 
-# 5. PROTEÇÃO CONTRA PERDA DE CONTEXTO
+## Responsabilidade e segurança
 
-Continuam ativos:
+- autoresponsabilidade separada de culpa;
+- violência permanece responsabilidade de quem a pratica;
+- risco, poder, dependência e recursos são considerados;
+- Poda não autoriza impulso, vingança ou abandono de dever;
+- Jaula não culpa quem não consegue sair imediatamente;
+- pedido de ajuda e proteção são posicionamentos possíveis.
 
-- Constituição Editorial;
-- Registro Mestre de Contexto;
-- Matriz de Não Perda;
-- Protocolo de Continuidade sem Fadiga;
-- Matriz Capítulo a Capítulo;
-- inventário factual;
-- rastreabilidade das oito Partes;
-- rascunho estrutural preservado;
-- Revisão A em diretório separado;
-- relatórios comparativos;
-- painéis de visualização.
+## Encerramento
 
-Nenhum corte ou fusão deverá ocorrer sem destino registrado.
+- Nova Semente é prática concreta e revisável;
+- recaída não vira identidade;
+- apoio não substitui autoria;
+- sinais cotidianos de incorporação foram separados dos Sete Frutos;
+- Sete Frutos não são promessa;
+- retorno ao mapa permite reconhecer ausência de mudança;
+- Cajueiro fecha a imagem inaugural;
+- leitor é enviado de volta à vida.
 
 ---
 
-# 6. ESTADO REAL
+# 5. RELATÓRIOS COMPARATIVOS
 
-## Concluído
+- `revisao-integral/RELATORIO_COMPARATIVO_REV_A_INICIO.md`;
+- `revisao-integral/RELATORIO_COMPARATIVO_REV_A_PARTES_III_IV.md`;
+- `revisao-integral/RELATORIO_COMPARATIVO_REV_A_PARTES_V_VI.md`;
+- `revisao-integral/RELATORIO_COMPARATIVO_REV_A_PARTES_VII_VIII.md`.
 
-- governança editorial;
-- primeira versão estrutural integral;
-- Revisão A do Pré-livro e Partes I–VI;
-- auditorias 01, 02 e 03;
-- numeração revisada até o Capítulo 26;
-- relatórios comparativos do início, Partes III–IV e Partes V–VI;
-- painel de leitura atualizado.
+Eles documentam:
 
-## Em andamento
-
-- revisão modular do restante do livro;
-- auditoria de repetição e progressão;
-- preparação de decisões autorais;
-- inventário factual.
-
-## Ainda não concluído
-
-- Revisão A das Partes VII–VIII;
-- manuscrito canônico consolidado;
-- confronto integral com DOCX/PDF anteriores;
-- verificação factual completa;
-- revisão jurídica;
-- revisão psicológica e de sensibilidade;
-- revisão teológica;
-- aprovação autoral;
-- inventário técnico das imagens;
-- preparação ortográfica final;
-- diagramação;
-- Kindle;
-- impressão P&B;
-- premium colorida;
-- Workbook final;
-- prova física.
+- preservações;
+- reescritas;
+- reduções;
+- transferências;
+- pendências;
+- riscos;
+- decisões de numeração e função.
 
 ---
 
-# 7. PENDÊNCIAS AUTORAIS E ESPECIALIZADAS ABERTAS
+# 6. PENDÊNCIAS AUTORAIS
 
-## Autorais
+Ainda precisam de validação de Sol Lima:
 
-- validar a cena do batom vermelho;
-- definir histórias pessoais publicáveis;
-- decidir o uso de `feminicídio emocional`;
-- confirmar `Deixe na Árvore` como forma principal;
-- confirmar `Volte para a Raiz` como comando visual ou orientação;
-- validar `autoria emocional`;
-- decidir se o roteiro de cinco movimentos do limite terá nome próprio;
-- validar o conteúdo `pai presente que não protegeu`;
-- validar histórias ligadas a trabalho, dinheiro e família;
-- confirmar destaque definitivo de `praga-mãe`.
+- cena do batom vermelho;
+- histórias pessoais publicáveis;
+- uso de `feminicídio emocional`;
+- `Deixe na Árvore` como forma principal;
+- `Volte para a Raiz` como comando visual ou orientação;
+- termo `autoria emocional`;
+- possível nome do roteiro de cinco movimentos do limite;
+- conteúdo `pai presente que não protegeu`;
+- histórias ligadas a trabalho, dinheiro, família, fazenda e casamento;
+- destaque definitivo de `praga-mãe`;
+- nomes e gêneros dos 14 Tipos;
+- diferença entre `Espelho Partido`, `Espelho` e `Vitrine`;
+- tom final do Capítulo 38 e do Epílogo;
+- política de exposição autobiográfica.
 
-## Especializadas
+Nenhuma pendência deverá ser resolvida por improvisação silenciosa.
 
-- política de referências bíblicas;
-- honra, submissão, autoridade, perdão, cruz e espera em Deus;
-- coerção, risco, consentimento e histórias identificáveis;
-- linguagem de trauma e sistema nervoso;
-- corpo e sintomas;
-- relações de trabalho e orientação financeira;
-- recuperação dos arquivos binários canônicos.
+---
 
-Nenhuma pendência autoriza improvisação silenciosa.
+# 7. PENDÊNCIAS ESPECIALIZADAS
+
+## Factual
+
+- ambiente digital e algoritmos;
+- atenção;
+- trauma e sistema nervoso;
+- corpo e emoção;
+- alegações psicológicas;
+- referências históricas e culturais;
+- citações atribuídas.
+
+## Jurídica
+
+- controle coercitivo;
+- risco e segurança;
+- consentimento;
+- denúncia;
+- histórias identificáveis;
+- relações de trabalho;
+- orientação financeira;
+- deveres legais.
+
+## Teológica
+
+- Filipenses 4:8 e base do Filtro;
+- honra;
+- submissão;
+- autoridade;
+- perdão;
+- reconciliação;
+- sofrimento;
+- cruz;
+- espera em Deus;
+- graça e responsabilidade.
+
+## Psicológica e de sensibilidade
+
+- Autopiedade;
+- trauma;
+- luto;
+- vítima e agência;
+- tipos pedagógicos;
+- identidade;
+- coerção;
+- saúde mental;
+- risco de moralização.
 
 ---
 
 # 8. BLOQUEIOS REAIS
 
-## DOCX/PDF canônicos
+## Arquivos canônicos anteriores
 
-Ainda precisam ser recuperados e comparados integralmente.
+O DOCX, PDFs e materiais premium anteriores ainda precisam ser recuperados e confrontados integralmente.
 
-Risco: trechos, cenas e escolhas visuais existirem apenas nos binários anteriores.
+Risco:
 
-## Banco visual original
+- histórias, frases, imagens ou decisões existirem apenas nos binários.
 
-O mapa conceitual existe, mas o inventário técnico ainda depende dos originais aprovados.
+## Banco visual
 
-## Fontes
+O mapa conceitual existe.
 
-O inventário factual existe, mas a verificação por fontes primárias ou oficiais ainda não foi concluída.
+O inventário técnico dos originais, licenças, resoluções e versões P&B ainda não está concluído.
 
-## Revisão autoral
+## Aprovação autoral
 
-A autora ainda precisa validar cortes, intensidade, histórias, títulos e termos sensíveis.
+A Revisão A foi produzida editorialmente, mas ainda precisa da leitura e da decisão da autora.
 
 ---
 
-# 9. PRÓXIMO PONTO DE RETOMADA
+# 9. PRÓXIMO MARCO
 
-**Tarefa:** Auditoria Integral 04 e Revisão Integral A das Partes VII e VIII.
+**Tarefa:** criar o **Manuscrito Canônico Consolidado — Revisão A**.
 
-## Parte VII — Filtro, Poda e Posicionamento
+## Objetivo
 
-Revisar:
+Reunir em sequência única:
 
-- 12 perguntas oficiais do Filtro da Sensatez;
-- Arte de Ouvir Verdades;
-- diferença entre avaliar e condenar;
-- Poda sem impulso, vingança ou abandono de dever;
-- posicionamento saudável, tóxico e morno;
-- 14 Tipos de Posicionamento;
-- distribuição das 14 Leis;
-- transição da análise para decisão.
+- Pré-livro;
+- Capítulos 1–38;
+- Epílogo.
 
-## Parte VIII — Nova Semente e Novos Frutos
+## Regras
 
-Revisar:
-
-- Nova Semente;
-- cultivo, repetição e revisão;
-- acompanhamento de evidências;
-- sete frutos do posicionamento;
-- retorno ao diagnóstico inicial;
-- encerramento;
-- Epílogo;
-- numeração final.
+- não apagar os arquivos modulares;
+- não chamar o consolidado de final;
+- manter marcações editoriais rastreáveis;
+- separar, quando possível, notas internas do fluxo do leitor;
+- criar sumário contínuo;
+- conferir títulos e numeração;
+- verificar transições entre arquivos;
+- não resolver pendências autorais silenciosamente.
 
 ## Entregáveis
 
-1. `direcao-editorial/19_AUDITORIA_INTEGRAL_04_PARTES_VII_VIII.md`;
-2. `revisao-integral/07_PARTE_VII_REV_A.md`;
-3. `revisao-integral/08_PARTE_VIII_REV_A.md`;
-4. relatório comparativo;
-5. painel e status atualizados;
-6. proposta de numeração final completa.
+1. `manuscrito-canonico-rev-a/REPOSICIONESE_REV_A_CONSOLIDADO.md`;
+2. `manuscrito-canonico-rev-a/SUMARIO_REV_A.md`;
+3. `manuscrito-canonico-rev-a/REGISTRO_DE_CONSOLIDACAO.md`;
+4. atualização do painel e do PR;
+5. preparação de pacote de leitura autoral.
 
 ---
 
 # 10. REGRA DE RETOMADA
 
-Antes da próxima rodada, ler:
+Antes da consolidação, ler:
 
 1. este Status Executivo;
 2. Registro Mestre de Contexto;
 3. Matriz de Não Perda;
 4. Protocolo de Continuidade sem Fadiga;
-5. Auditoria Integral 04 quando criada;
-6. arquivos estruturais das Partes VII e VIII;
-7. Revisão A das Partes V e VI para preservar a transição.
+5. quatro auditorias;
+6. quatro relatórios comparativos;
+7. arquivos `00` a `08` da Revisão A.
 
-> O manuscrito estrutural está inteiro. A Revisão A alcança agora os Galhos e as Pragas. O próximo passo é concluir Filtro, Poda, Posicionamento, Nova Semente e Novos Frutos sem transformar o encerramento em repetição ou motivação vaga.
+> A primeira revisão integral está concluída. O próximo trabalho não é inventar mais conteúdo. É consolidar, confrontar, verificar e preparar decisões autorais sem perder a linha conquistada.
