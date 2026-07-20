@@ -9,6 +9,14 @@ on:
       - ".github/workflows/gerar-pacote-leitura.yml"
       - "manuscrito-canonico-rev-a/REPOSICIONESE_REV_A_CONSOLIDADO.md"
       - "revisao-integral/**"
+  pull_request:
+    branches:
+      - main
+    paths:
+      - "scripts/preparar_manuscrito_leitura.py"
+      - ".github/workflows/gerar-pacote-leitura.yml"
+      - "manuscrito-canonico-rev-a/REPOSICIONESE_REV_A_CONSOLIDADO.md"
+      - "revisao-integral/**"
   workflow_dispatch:
 
 permissions:
@@ -22,7 +30,7 @@ jobs:
       - name: Obter repositório
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.ref_name }}
+          ref: ${{ github.event.pull_request.head.sha || github.sha }}
           fetch-depth: 0
 
       - name: Configurar Python
