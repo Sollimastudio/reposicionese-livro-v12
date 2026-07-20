@@ -1,86 +1,93 @@
 # VISUALIZAR AGORA — REPOSICIONE-SE™ V13
 
 **Autora:** Sol Lima  
-**Estado:** reconstrução editorial em andamento  
-**Branch:** `direcao-editorial-executiva-2026-07-20`  
-**Função desta página:** permitir leitura direta do que já foi produzido, sem confundir manuscrito, governança, rastreabilidade e edição final.
+**Estado real:** primeira versão estrutural completa; edição integral em andamento  
+**Branch:** `direcao-editorial-executiva-2026-07-20`
 
-> Esta é uma porta de leitura do trabalho real. Ainda não é a edição final diagramada.
+> Esta página é a porta de entrada para ver o trabalho real. O manuscrito já percorre toda a jornada da Árvore, mas ainda não é a edição final revisada, aprovada e diagramada.
 
 ---
 
-# LEIA O MANUSCRITO NA ORDEM
+# COMECE AQUI
 
-## 1. Pré-livro — Mapa de Navegação
+## Sumário completo
 
-[ABRIR O PRÉ-LIVRO](manuscrito-v13/00_PRE_LIVRO_MAPA_DE_NAVEGACAO.md)
+[ABRIR O SUMÁRIO NAVEGÁVEL DO V13](manuscrito-v13/SUMARIO_NAVEGAVEL_V13.md)
 
-Contém:
+## Status executivo
 
-- lente autoral cristã e conservadora;
-- o que o método não autoriza;
+[ABRIR O STATUS E O PONTO EXATO DE RETOMADA](direcao-editorial/15_STATUS_EXECUTIVO_E_PONTO_DE_RETOMADA.md)
+
+---
+
+# MANUSCRITO V13 — ORDEM DE LEITURA
+
+1. [Pré-livro — Mapa de Navegação](manuscrito-v13/00_PRE_LIVRO_MAPA_DE_NAVEGACAO.md)
+2. [Parte I — Olhe os Frutos](manuscrito-v13/01_PARTE_I_OLHE_OS_FRUTOS.md)
+3. [Parte II — Solo, Sementes e Configuração](manuscrito-v13/02_PARTE_II_SOLO_SEMENTES_E_CONFIGURACAO.md)
+4. [Parte III — Raízes e Heranças](manuscrito-v13/03_PARTE_III_RAIZES_E_HERANCAS.md)
+5. [Parte IV — O Tronco](manuscrito-v13/04_PARTE_IV_TRONCO_SOBERANIA_E_LIMITES.md)
+6. [Parte V — Os Galhos](manuscrito-v13/05_PARTE_V_GALHOS_VIDA_PRATICA.md)
+7. [Parte VI — Pragas, Jaulas e Fugas](manuscrito-v13/06_PARTE_VI_PRAGAS_JAULAS_E_FUGAS.md)
+8. [Parte VII — Filtro, Poda e Posicionamento](manuscrito-v13/07_PARTE_VII_FILTRO_PODA_E_POSICIONAMENTO.md)
+9. [Parte VIII — Nova Semente e Novos Frutos](manuscrito-v13/08_PARTE_VIII_NOVA_SEMENTE_E_NOVOS_FRUTOS.md)
+
+A Parte VIII inclui:
+
+- capítulo final `Sua Árvore, Seus Frutos`;
+- ritual completo do método;
+- Epílogo `O Cajueiro Ainda Está Lá`.
+
+---
+
+# O QUE ESTÁ ESCRITO
+
+## Pré-livro
+
+- posição cristã e conservadora da autora;
+- blindagens éticas;
 - ponte com *Morte em Vida*;
-- tese “toda pessoa já está posicionada”;
 - Letreiro de Neon;
 - Cajueiro de Pirangi;
 - Árvore do Discernimento;
 - Mirante;
 - comandos;
 - Filtro da Sensatez;
-- mapa das 14 Leis.
+- 14 Leis.
 
-## 2. Parte I — Olhe os Frutos
+## Parte I — Frutos
 
-[ABRIR A PARTE I](manuscrito-v13/01_PARTE_I_OLHE_OS_FRUTOS.md)
-
-Contém:
-
-- A Vitrine da Vida;
+- Vitrine da Vida;
 - posicionamento antes do discurso;
-- Letreiro e valor comunicado;
-- Morte em Vida como fruto de apagamento;
-- proteção contra culpabilização;
-- diagnóstico inicial por áreas.
+- apagamento e Morte em Vida;
+- mapa inicial dos frutos;
+- autoresponsabilidade sem culpabilização.
 
-## 3. Parte II — Solo, Sementes e Configuração
+## Parte II — Solo
 
-[ABRIR A PARTE II](manuscrito-v13/02_PARTE_II_SOLO_SEMENTES_E_CONFIGURACAO.md)
-
-Contém:
-
-- Solo;
-- diferença entre fato e interpretação;
+- fato x interpretação;
 - Parábola do Semeador;
 - celular configurado sem “nascer zerado” literal;
 - Sistema Operacional Interno;
 - ambiente digital;
 - crenças, valores e modo operante;
-- direita, esquerda e centro como possíveis filtros rígidos;
-- Filtro da Influência.
+- Filtro da Influência;
+- polarização como rigidez interpretativa.
 
-## 4. Parte III — Raízes e Heranças
+## Parte III — Raízes
 
-[ABRIR A PARTE III](manuscrito-v13/03_PARTE_III_RAIZES_E_HERANCAS.md)
-
-Contém:
-
-- Raízes;
+- raízes saudáveis e adoecidas;
 - A Corrente;
 - mapas herdados;
 - lealdades invisíveis;
 - família como origem;
 - fé e autoridade;
 - honra sem obediência cega;
-- pensamento próprio sem isolamento;
-- proteção para coerção e risco real.
+- risco e proteção.
 
-## 5. Parte IV — O Tronco
+## Parte IV — Tronco
 
-[ABRIR A PARTE IV](manuscrito-v13/04_PARTE_IV_TRONCO_SOBERANIA_E_LIMITES.md)
-
-Contém:
-
-- identidade como estrutura;
+- identidade;
 - eixo x rigidez;
 - autoria emocional;
 - Soberania Interna;
@@ -88,177 +95,71 @@ Contém:
 - Limite Sagrado;
 - limite x muro x controle;
 - Acordos Conscientes;
-- pedido x limite x acordo x exigência;
-- dever, responsabilidade e sustentação.
+- pedido x limite x acordo x exigência.
 
-## 6. Parte V — Os Galhos
+## Parte V — Galhos
 
-[ABRIR A PARTE V](manuscrito-v13/05_PARTE_V_GALHOS_VIDA_PRATICA.md)
-
-Contém:
-
-- galhos como áreas da vida;
 - relacionamentos;
-- intensidade x profundidade;
 - família, proteção e modelos;
 - reescrita sensível de “Pai Presente que Não Protegeu”;
-- honra, perdão, reconciliação, confiança e acesso;
 - trabalho, dinheiro e propósito;
-- fé, comunidade e política;
-- polarização na convivência;
+- fé, comunidade, política e pertencimento;
 - corpo, sexualidade, cuidado, descanso e outros galhos.
 
-## 7. Parte VI — Pragas, Jaulas e Fugas
+## Parte VI — Pragas
 
-[ABRIR A PARTE VI](manuscrito-v13/06_PARTE_VI_PRAGAS_JAULAS_E_FUGAS.md)
-
-Contém:
-
-- conceito de Praga como mecanismo, não pessoa;
+- Praga como mecanismo, não pessoa ou grupo;
 - Sono da Negligência;
 - Sofá Quente da Mentira;
 - Autopiedade x Autocompaixão;
-- comparação;
-- validação externa;
-- dependência de plateia;
-- ressentimento;
-- pensamento binário;
-- influência indevida;
+- comparação, validação, ressentimento e plateia;
+- pensamento binário e influência indevida;
 - anestesia digital;
-- identidade emprestada;
-- síntese das Jaulas e da porta possível.
+- Jaulas e porta possível.
 
----
+## Parte VII — Filtro e Poda
 
-# O QUE JÁ ESTÁ PRONTO EM PRIMEIRA VERSÃO
+- aplicação das 12 perguntas oficiais;
+- Arte de Ouvir Verdades;
+- posicionamento saudável, tóxico e morno;
+- 14 Tipos de Posicionamento;
+- Poda;
+- Ação com Visão de Futuro;
+- `Que fruto isso vai dar?`;
+- Desça da Árvore.
 
-- Pré-livro;
-- Parte I — Frutos;
-- Parte II — Solo;
-- Parte III — Raízes;
-- Parte IV — Tronco;
-- Parte V — Galhos;
-- Parte VI — Pragas;
-- rastreabilidade individual de cada Parte;
-- Constituição Editorial;
-- arquitetura integral;
-- Registro Mestre de Contexto;
-- Matriz de Não Perda;
-- Protocolo de Continuidade sem Fadiga;
-- inventário factual inicial;
-- mapa visual preliminar.
+## Parte VIII — Nova Semente e Novos Frutos
 
-“Primeira versão” significa:
-
-- texto real escrito e versionado;
-- arquitetura aplicada;
-- conceitos preservados ou destinados;
-- riscos principais registrados;
-- ainda sujeito a revisão autoral, factual, teológica, jurídica, psicológica, de sensibilidade e de linguagem.
-
----
-
-# COMO O LIVRO ESTÁ FUNCIONANDO
-
-## Tese central
-
-> Toda pessoa já está posicionada. A pergunta é: que frutos a posição atual está produzindo?
-
-## Ordem de investigação
-
-1. Observe os frutos.
-2. Identifique o galho.
-3. Examine o tronco.
-4. Volte às raízes.
-5. Compreenda o solo.
-6. Identifique pragas.
-7. Passe pelo Filtro da Sensatez.
-8. Defina a poda.
-9. Escolha a nova semente.
-10. Desça da Árvore e sustente uma decisão.
-
-## Hierarquia
-
-- A Árvore explica.
-- O Filtro organiza a avaliação.
-- A Jaula interrompe uma prisão invisível.
-- As Leis oferecem critérios.
-- O posicionamento transforma clareza em conduta.
-
----
-
-# POSIÇÃO AUTORAL
-
-A autora escreve a partir de uma lente:
-
-- cristã;
-- conservadora;
-- experiencial;
-- pedagógica;
-- comprometida com consciência, metacognição, discernimento e autorresponsabilidade.
-
-A posição não será apagada para fingir neutralidade.
-
-Também não receberá imunidade.
-
-O mesmo Filtro aplicado à esquerda deverá ser aplicado à direita, a líderes conservadores, a ambientes religiosos e às narrativas com as quais a autora concorda.
-
-> Eu declaro de onde penso, mas não tomo o lugar do pensamento do leitor.
+- Nova Semente como prática repetível;
+- cultivo, repetição e revisão;
+- resultados possíveis do posicionamento sem promessas absolutas;
+- sete frutos: Verdade, Responsabilidade, Discernimento, Coerência, Coragem, Sabedoria e Legado;
+- retorno ao mapa inicial;
+- ritual final;
+- retorno ao Cajueiro.
 
 ---
 
 # RASTREABILIDADE
 
-Cada Parte possui um arquivo que registra:
+Cada Parte possui um documento que registra fontes, preservações, cortes, movimentos, riscos e pendências:
 
-- fontes consultadas;
-- conceitos preservados;
-- trechos movidos;
-- conteúdos desmontados;
-- reescritas críticas;
-- itens enviados ao Workbook;
-- itens pendentes de fonte;
-- riscos jurídicos, psicológicos, teológicos e de sensibilidade;
-- decisões autorais ainda abertas.
-
-## Arquivos
-
-- [Rastreabilidade da Parte I](manuscrito-v13/_RASTREABILIDADE_LOTE_01_PARTE_I.md)
-- [Rastreabilidade da Parte II](manuscrito-v13/_RASTREABILIDADE_LOTE_02_PARTE_II.md)
-- [Rastreabilidade da Parte III](manuscrito-v13/_RASTREABILIDADE_LOTE_03_PARTE_III.md)
-- [Rastreabilidade da Parte IV](manuscrito-v13/_RASTREABILIDADE_LOTE_04_PARTE_IV.md)
-- [Rastreabilidade da Parte V](manuscrito-v13/_RASTREABILIDADE_LOTE_05_PARTE_V.md)
-- [Rastreabilidade da Parte VI](manuscrito-v13/_RASTREABILIDADE_LOTE_06_PARTE_VI.md)
+- [Lote 01 — Parte I](manuscrito-v13/_RASTREABILIDADE_LOTE_01_PARTE_I.md)
+- [Lote 02 — Parte II](manuscrito-v13/_RASTREABILIDADE_LOTE_02_PARTE_II.md)
+- [Lote 03 — Parte III](manuscrito-v13/_RASTREABILIDADE_LOTE_03_PARTE_III.md)
+- [Lote 04 — Parte IV](manuscrito-v13/_RASTREABILIDADE_LOTE_04_PARTE_IV.md)
+- [Lote 05 — Parte V](manuscrito-v13/_RASTREABILIDADE_LOTE_05_PARTE_V.md)
+- [Lote 06 — Parte VI](manuscrito-v13/_RASTREABILIDADE_LOTE_06_PARTE_VI.md)
+- [Lote 07 — Parte VII](manuscrito-v13/_RASTREABILIDADE_LOTE_07_PARTE_VII.md)
+- [Lote 08 — Parte VIII](manuscrito-v13/_RASTREABILIDADE_LOTE_08_PARTE_VIII.md)
 
 ---
 
-# O QUE AINDA NÃO ESTÁ PRONTO
-
-- Parte VII — Filtro, Poda e Posicionamento;
-- Parte VIII — Nova Semente e Novos Frutos;
-- encerramento integral;
-- versão consolidada contínua do V13;
-- confronto com o DOCX canônico;
-- inventário técnico dos originais visuais;
-- revisão factual completa;
-- referências bibliográficas verificadas;
-- revisão jurídica de casos sensíveis;
-- revisão teológica;
-- revisão psicológica e de sensibilidade;
-- revisão ortográfica final;
-- aprovação autoral final;
-- diagramação Kindle;
-- impressão econômica P&B;
-- edição premium colorida;
-- prova física.
-
----
-
-# DIREÇÃO E CONTROLE
+# CONSTITUIÇÃO E CONTROLE
 
 - [Constituição Editorial](direcao-editorial/00_CONSTITUICAO_EDITORIAL_REPOSICIONESE.md)
 - [Arquitetura Definitiva](direcao-editorial/01_ARQUITETURA_DEFINITIVA_DA_OBRA.md)
-- [Mapa da Árvore](direcao-editorial/02_MAPA_DA_ARVORE_E_COMANDOS.md)
+- [Mapa da Árvore e Comandos](direcao-editorial/02_MAPA_DA_ARVORE_E_COMANDOS.md)
 - [Mapa da Jaula](direcao-editorial/03_MAPA_DA_JAULA.md)
 - [Mapa das Imagens](direcao-editorial/04_MAPA_DAS_IMAGENS_PRELIMINAR.md)
 - [14 Leis e Tipos](direcao-editorial/05_DISTRIBUICAO_DOS_PRINCIPIOS_E_TIPOS.md)
@@ -271,25 +172,56 @@ Cada Parte possui um arquivo que registra:
 - [Registro Mestre de Contexto](direcao-editorial/12_REGISTRO_MESTRE_DE_CONTEXTO.md)
 - [Matriz de Não Perda](direcao-editorial/13_MATRIZ_DE_NAO_PERDA.md)
 - [Protocolo sem Fadiga](direcao-editorial/14_PROTOCOLO_DE_CONTINUIDADE_SEM_FADIGA.md)
+- [Status Executivo](direcao-editorial/15_STATUS_EXECUTIVO_E_PONTO_DE_RETOMADA.md)
 
 ---
 
-# PRÓXIMA ENTREGA
+# O QUE “COMPLETO” SIGNIFICA — E O QUE NÃO SIGNIFICA
 
-A próxima Parte é:
+## Completo neste marco
 
-> **PARTE VII — FILTRO, PODA E POSICIONAMENTO**
+- toda a jornada metodológica possui texto;
+- existe começo, desenvolvimento, decisão, cultivo e fechamento;
+- os conceitos principais possuem lugar;
+- os oito lotes possuem rastreabilidade;
+- o leitor percorre a Árvore inteira;
+- a polarização foi distribuída;
+- a posição autoral foi preservada;
+- as principais regressões foram bloqueadas.
 
-Ela deverá reunir:
+## Ainda não concluído
 
-- aplicação aprofundada do Filtro da Sensatez;
-- A Arte de Ouvir Verdades;
-- posicionamento saudável, tóxico e morno;
-- os 14 Tipos em versão enxuta e protegida;
-- Ação com Visão de Futuro;
-- Que Fruto Isso Vai Dar?;
-- Poda;
-- decisão, consequência e sustentação;
-- transição para Nova Semente.
+- auditoria integral de repetições e transições;
+- texto consolidado contínuo;
+- confronto com DOCX e PDF canônicos;
+- recuperação de possíveis trechos ausentes nos binários;
+- verificação factual e bibliográfica;
+- revisão autoral;
+- revisão jurídica, psicológica, teológica e de sensibilidade;
+- separação final do Workbook;
+- inventário técnico das imagens;
+- revisão ortográfica final;
+- Kindle;
+- impressão P&B;
+- edição premium;
+- prova física.
 
-Nada será marcado como final antes das auditorias e da aprovação autoral.
+---
+
+# PRÓXIMO TRABALHO EM EXECUÇÃO
+
+> **Auditoria Integral 01 — Pré-livro e Partes I–II**
+
+A auditoria verificará:
+
+- repetições;
+- transições;
+- progressão;
+- conceitos ensinados cedo ou tarde demais;
+- excesso de definições;
+- lacunas;
+- divergências terminológicas;
+- afirmações factuais de risco;
+- oportunidades de preservar mais voz autoral sem perder precisão.
+
+O primeiro rascunho não será sobrescrito. Toda proposta de corte ou fusão será registrada antes de ser aplicada.
