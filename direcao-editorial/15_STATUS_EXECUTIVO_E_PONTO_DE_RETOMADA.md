@@ -1,335 +1,306 @@
 # Status Executivo e Ponto de Retomada — Reposicione-se™
 
-**Versão:** 1.0  
+**Versão:** 2.0  
 **Data do marco:** 2026-07-20  
 **Branch:** `direcao-editorial-executiva-2026-07-20`  
-**Função:** registrar o estado operacional mais recente do projeto sem substituir as definições conceituais do Registro Mestre.
+**Função:** registrar o estágio operacional mais recente sem substituir as definições conceituais do Registro Mestre.
 
-> Em caso de conflito sobre conceitos, prevalece o Registro Mestre de Contexto. Em caso de dúvida sobre o estágio de execução, prevalece este arquivo até a próxima atualização formal.
+> Em conflito conceitual, prevalece o Registro Mestre de Contexto. Em dúvida sobre estágio de execução, prevalece este arquivo até a próxima atualização formal.
 
 ---
 
-# 1. MARCO ALCANÇADO
+# 1. MARCOS ALCANÇADOS
 
-A **primeira versão estrutural completa do manuscrito V13** foi escrita e salva no GitHub.
+## Primeira versão estrutural integral
 
-Ela contém:
+Existe uma travessia textual completa em `manuscrito-v13/`:
 
 - Pré-livro;
-- oito Partes;
-- 37 capítulos;
+- Partes I a VIII;
 - Epílogo;
-- rastreabilidade individual das Partes I a VIII;
+- rastreabilidade por lote;
 - sumário navegável.
 
-Isso significa que existe uma travessia textual completa, da apresentação da Árvore ao retorno aos novos frutos.
+Essa versão permanece preservada como base de comparação.
 
-Isso não significa que o livro está revisado, certificado, diagramado ou pronto para publicação.
+## Revisão Integral A
 
----
+Já passaram pela primeira auditoria de progressão, repetição e coerência:
 
-# 2. MANUSCRITO PRODUZIDO
+- Pré-livro;
+- Parte I — Olhe os Frutos;
+- Parte II — Semente, Solo e Configuração;
+- Parte III — Raízes e Heranças;
+- Parte IV — O Tronco.
 
-## Pré-livro
+Arquivos revisados:
 
-`manuscrito-v13/00_PRE_LIVRO_MAPA_DE_NAVEGACAO.md`
+- `revisao-integral/00_PRE_LIVRO_REV_A.md`;
+- `revisao-integral/01_PARTE_I_REV_A.md`;
+- `revisao-integral/02_PARTE_II_REV_A.md`;
+- `revisao-integral/03_PARTE_III_REV_A.md`;
+- `revisao-integral/04_PARTE_IV_REV_A.md`.
 
-Função:
-
-- posição autoral;
-- blindagens éticas;
-- promessa da obra;
-- Letreiro;
-- Cajueiro;
-- Árvore;
-- Mirante;
-- comandos;
-- Filtro;
-- Leis.
-
-## Parte I — Frutos
-
-`manuscrito-v13/01_PARTE_I_OLHE_OS_FRUTOS.md`
-
-## Parte II — Solo
-
-`manuscrito-v13/02_PARTE_II_SOLO_SEMENTES_E_CONFIGURACAO.md`
-
-## Parte III — Raízes
-
-`manuscrito-v13/03_PARTE_III_RAIZES_E_HERANCAS.md`
-
-## Parte IV — Tronco
-
-`manuscrito-v13/04_PARTE_IV_TRONCO_SOBERANIA_E_LIMITES.md`
-
-## Parte V — Galhos
-
-`manuscrito-v13/05_PARTE_V_GALHOS_VIDA_PRATICA.md`
-
-## Parte VI — Pragas
-
-`manuscrito-v13/06_PARTE_VI_PRAGAS_JAULAS_E_FUGAS.md`
-
-## Parte VII — Filtro e Poda
-
-`manuscrito-v13/07_PARTE_VII_FILTRO_PODA_E_POSICIONAMENTO.md`
-
-## Parte VIII — Nova Semente e Novos Frutos
-
-`manuscrito-v13/08_PARTE_VIII_NOVA_SEMENTE_E_NOVOS_FRUTOS.md`
-
-## Sumário
-
-`manuscrito-v13/SUMARIO_NAVEGAVEL_V13.md`
+O manuscrito ainda não é final, certificado, diagramado ou aprovado pela autora.
 
 ---
 
-# 3. O QUE “PRIMEIRA VERSÃO ESTRUTURAL COMPLETA” SIGNIFICA
+# 2. AUDITORIAS CONCLUÍDAS
 
-Significa:
+## Auditoria Integral 01
 
-- todas as etapas da metodologia possuem lugar textual;
-- a jornada do leitor possui início, desenvolvimento, decisão e fechamento;
-- os principais conceitos foram preservados ou receberam destino registrado;
-- as contradições mais graves foram corrigidas na nova arquitetura;
-- cada Parte possui aplicação e movimento de posicionamento;
-- a Árvore permanece protagonista;
-- Jaula, Filtro, Leis e Tipos permanecem subordinados;
-- polarização, identidade, fé, ambiente digital e autoresponsabilidade foram distribuídos;
-- existe rastreabilidade para evitar perda silenciosa.
+`direcao-editorial/16_AUDITORIA_INTEGRAL_01_PRE_LIVRO_PARTES_I_II.md`
 
-Não significa:
+Corrigiu ou encaminhou:
 
-- texto final;
-- revisão linha a linha concluída;
-- ausência de repetição;
-- fatos verificados;
-- histórias autorizadas;
-- referências completas;
-- aprovação autoral;
-- projeto gráfico;
-- arquivo Kindle ou PDF final.
+- ausência da Semente inicial;
+- repetição Pré-livro x Parte I;
+- Letreiro x Vitrine;
+- Vitrine x 14 Tipos;
+- polarização repetida cedo demais;
+- ponte insuficiente com *Morte em Vida*;
+- padronização de comandos e terminologia;
+- duplicidade inicial de numeração.
+
+## Auditoria Integral 02
+
+`direcao-editorial/17_AUDITORIA_INTEGRAL_02_PARTES_III_IV.md`
+
+Corrigiu ou encaminhou:
+
+- Solo x configuração x Raiz;
+- Raiz x Corrente;
+- lealdades invisíveis;
+- Mapas Herdados;
+- repetição da polarização;
+- identidade x Fuga Identitária;
+- família, fé e autoridade;
+- Tronco x Soberania Interna;
+- autoria emocional;
+- limite x muro x controle;
+- Acordos Conscientes;
+- transições Raízes → Tronco → Galhos;
+- numeração dos Capítulos 7–14.
 
 ---
 
-# 4. GOVERNANÇA CONCLUÍDA
+# 3. NUMERAÇÃO DA LINHA REVISADA
 
-Existem e estão ativos:
+## Parte I
+
+1. A Vitrine da Vida.  
+2. A Morte em Vida.
+
+## Parte II
+
+3. A Semente e o Solo.  
+4. O Celular Configurado.  
+5. O Solo Digital.  
+6. Crenças, Valores e Modo Operante.
+
+## Parte III
+
+7. As Raízes.  
+8. A Corrente.  
+9. Os Mapas Herdados.  
+10. Família, Fé e Autoridade.
+
+## Parte IV
+
+11. O Tronco.  
+12. Soberania Interna.  
+13. O Limite Sagrado.  
+14. Acordos Conscientes.
+
+A duplicidade do Capítulo 6 não existe na linha revisada.
+
+---
+
+# 4. CORREÇÕES ESTRUTURAIS APLICADAS ATÉ AQUI
+
+- fruto é evidência, não sentença ou diagnóstico final;
+- ordem estrutural e ordem de investigação foram separadas;
+- Semente inicial foi ensinada;
+- Mirante permanece ponto de observação;
+- Jaula não compete com a Árvore;
+- celular é metáfora pedagógica, sem “nascer zerado” literal;
+- Parábola do Semeador permanece no Solo;
+- Filtro da Influência é aplicação do Filtro da Sensatez;
+- polarização cumpre funções diferentes em Solo, Raízes e Tronco;
+- Raiz foi definida pelo alimento atual, não apenas pela origem;
+- Corrente foi separada de Raiz, dever e compromisso legítimo;
+- Mapas Herdados deixaram de repetir toda a Parte II;
+- Fuga Identitária permanece fio, não tema central;
+- família e fé foram tratadas sem romantização, demonização ou determinismo;
+- honra foi separada de mentira e apagamento;
+- perdão, reconciliação, confiança e acesso foram diferenciados;
+- Tronco foi separado de Soberania Interna;
+- autoria emocional foi definida sem negar influência, trauma ou contexto;
+- limite foi separado de muro, controle e ameaça;
+- poder, risco e segurança foram integrados aos limites;
+- pedido, limite, acordo e exigência foram diferenciados;
+- contratos invisíveis foram concentrados em Acordos Conscientes;
+- transições Raízes → Tronco e Tronco → Galhos foram fortalecidas.
+
+---
+
+# 5. PROTEÇÃO CONTRA PERDA DE CONTEXTO
+
+Continuam ativos:
 
 - Constituição Editorial;
-- Arquitetura Definitiva;
-- Mapa da Árvore e Comandos;
-- Mapa da Jaula;
-- Mapa Visual Preliminar;
-- 14 Leis e 14 Tipos;
-- Filtro da Sensatez;
-- Fios Condutores;
-- Plano Executivo;
-- Auditoria de Coerência e Riscos;
-- Matriz Capítulo a Capítulo;
-- Inventário Factual;
 - Registro Mestre de Contexto;
 - Matriz de Não Perda;
 - Protocolo de Continuidade sem Fadiga;
-- painel de visualização imediata.
+- Matriz Capítulo a Capítulo;
+- inventário factual;
+- rastreabilidade das oito Partes;
+- rascunho estrutural preservado;
+- Revisão A em diretório separado;
+- relatórios comparativos;
+- painéis de visualização.
+
+Nenhum corte ou fusão deverá ocorrer sem destino registrado.
 
 ---
 
-# 5. CORREÇÕES ESTRUTURAIS JÁ APLICADAS
+# 6. ESTADO REAL
 
-- fruto deixou de ser tratado como laudo;
-- fruto passou a ser evidência, não sentença ou diagnóstico final;
-- ordem estrutural e ordem de investigação foram separadas;
-- Mirante deixou de ser camada anatômica;
-- Jaula deixou de competir com a Árvore;
-- celular deixou de afirmar que pessoas nascem zeradas;
-- Parábola do Semeador foi posicionada no Solo;
-- raiz foi separada de culpado;
-- corrente foi separada de herança saudável;
-- família foi tratada sem romantização ou demonização;
-- fé foi separada de medo, coerção e terceirização;
-- limite foi separado de muro e controle;
-- pedido, limite, acordo e exigência foram diferenciados;
-- autoria emocional foi separada de controle absoluto;
-- resistência do leitor deixou de ser prova de acerto da autora;
-- autopiedade foi separada de dor, trauma, luto e autocompaixão;
-- praga foi definida como mecanismo, não pessoa ou grupo;
-- polarização foi distribuída com exame simétrico;
-- posição conservadora foi mantida sem imunidade ao Filtro;
-- Fuga Identitária permaneceu fio, não método concorrente;
-- 14 Leis foram certificadas;
-- 14 Tipos foram preservados como espelhos, não diagnósticos;
-- Poda foi separada de vingança, impulso e abandono de dever;
-- Nova Semente foi definida como prática repetível;
-- sete frutos foram protegidos contra promessa e absolutização;
-- encerramento devolve o leitor à ação, não à dependência da autora.
+## Concluído
 
----
+- governança editorial;
+- primeira versão estrutural integral;
+- Revisão A do Pré-livro e Partes I–IV;
+- auditorias 01 e 02;
+- numeração revisada até o Capítulo 14;
+- relatórios comparativos do início e das Partes III–IV.
 
-# 6. PRÓXIMA FASE: EDIÇÃO INTEGRAL
+## Em andamento
 
-A próxima fase possui seis frentes principais.
+- revisão modular do restante do livro;
+- auditoria de repetição e progressão;
+- preparação de decisões autorais;
+- inventário factual.
 
-## Frente A — Consolidação contínua
+## Ainda não concluído
 
-Criar um manuscrito único em sequência, mantendo os arquivos modulares como fonte de segurança.
-
-Objetivos:
-
-- verificar numeração;
-- harmonizar títulos;
-- criar transições;
-- identificar capítulos excessivos ou curtos;
-- eliminar duplicações sem apagar funções diferentes;
-- garantir progressão real.
-
-## Frente B — Auditoria da Matriz de Não Perda
-
-Para cada item:
-
-- localizar ocorrência;
-- verificar função;
-- confirmar destino;
-- marcar pendência;
-- impedir conceitos apenas mencionados e não ensinados.
-
-## Frente C — Verificação factual
-
-Verificar por fontes primárias ou oficiais:
-
-- ciência e psicologia;
-- controle coercitivo;
-- neuroplasticidade;
-- primeiras impressões;
-- locus de controle;
-- ambiente digital;
-- referências bíblicas;
-- direito e segurança;
-- citações atribuídas;
-- histórias populares.
-
-## Frente D — Confronto de versões
-
-Recuperar e comparar:
-
-- DOCX certificado;
-- versão consolidada premium;
-- PDF anterior;
-- arquivos editáveis;
-- textos extraídos;
-- banco de imagens.
-
-Nenhum conteúdo relevante poderá ser descartado apenas porque não apareceu na extração atual.
-
-## Frente E — Revisão autoral e especializada
-
-- revisão autoral;
+- Revisão A das Partes V–VIII;
+- manuscrito canônico consolidado;
+- confronto integral com DOCX/PDF anteriores;
+- verificação factual completa;
 - revisão jurídica;
-- revisão psicológica;
-- revisão de sensibilidade;
+- revisão psicológica e de sensibilidade;
 - revisão teológica;
-- revisão factual;
-- revisão ortográfica e estilística.
-
-## Frente F — Produto editorial
-
-- separar livro e Workbook;
-- definir imagens canônicas;
-- gerar texto-espelho;
-- diagramar Kindle;
-- diagramar impressão P&B;
-- diagramar premium colorida;
-- realizar QA e provas.
+- aprovação autoral;
+- inventário técnico das imagens;
+- preparação ortográfica final;
+- diagramação;
+- Kindle;
+- impressão P&B;
+- premium colorida;
+- Workbook final;
+- prova física.
 
 ---
 
-# 7. ORDEM IMEDIATA DE EXECUÇÃO
+# 7. PENDÊNCIAS AUTORAIS E ESPECIALIZADAS ABERTAS
 
-1. atualizar o painel de visualização com Partes VII e VIII;
-2. gerar inventário global dos capítulos e conceitos;
-3. iniciar auditoria de repetição e transição, Parte por Parte;
-4. criar manuscrito consolidado somente depois da primeira auditoria modular;
-5. iniciar verificação factual dos itens de maior risco;
-6. recuperar binários canônicos;
-7. preparar pacote de revisão autoral.
+- validar a cena do batom vermelho;
+- definir histórias pessoais publicáveis;
+- decidir o uso de “feminicídio emocional”;
+- confirmar `Deixe na Árvore` como forma principal;
+- confirmar `Volte para a Raiz` como comando visual ou orientação;
+- validar o termo `autoria emocional`;
+- decidir se o roteiro de cinco movimentos do limite terá nome próprio;
+- definir política de referências bíblicas;
+- revisar honra, submissão, autoridade e perdão;
+- revisar juridicamente coerção, risco e casos identificáveis;
+- recuperar arquivos binários canônicos.
+
+Nenhuma pendência autoriza improvisação silenciosa.
 
 ---
 
 # 8. BLOQUEIOS REAIS
 
-## DOCX canônico
+## DOCX/PDF canônicos
 
-Ainda não está preservado e comparado integralmente no repositório.
+Ainda precisam ser recuperados e comparados integralmente.
 
-Risco:
-
-- perder trechos ou escolhas visuais existentes apenas nos binários.
+Risco: trechos, cenas e escolhas visuais existirem apenas nos binários anteriores.
 
 ## Banco visual original
 
-O mapa conceitual existe, mas o inventário técnico dos arquivos aprovados ainda não foi concluído.
-
-Risco:
-
-- versões conflitantes;
-- resolução insuficiente;
-- texto errado em arte;
-- falta de licença ou autoria registrada;
-- inadequação para P&B ou Kindle.
+O mapa conceitual existe, mas o inventário técnico ainda depende dos originais aprovados.
 
 ## Fontes
 
-O inventário existe, mas a verificação completa ainda não foi executada.
-
-Risco:
-
-- alegações fortes sem sustentação;
-- atribuições incorretas;
-- simplificações científicas;
-- interpretação bíblica apresentada como consenso.
+O inventário factual existe, mas a verificação por fontes primárias ou oficiais ainda não foi concluída.
 
 ## Revisão autoral
 
-A autora ainda precisa validar escolhas de corte, intensidade, história pessoal, títulos, termos e posição em trechos sensíveis.
+A autora ainda precisa validar cortes, intensidade, histórias, títulos e termos sensíveis.
 
 ---
 
-# 9. REGRA DE RETOMADA
+# 9. PRÓXIMO PONTO DE RETOMADA
 
-Antes de qualquer nova rodada, ler:
+**Tarefa:** Auditoria Integral 03 e Revisão Integral A das Partes V e VI.
+
+## Parte V — Galhos
+
+Revisar:
+
+- Relacionamentos;
+- Família como Galho;
+- Trabalho;
+- dinheiro e responsabilidade;
+- fé e comunidade;
+- política e convivência;
+- comunicação;
+- pertencimento;
+- propósito;
+- repetição de limites e acordos já ensinados no Tronco.
+
+## Parte VI — Pragas, Jaulas e Fugas
+
+Revisar:
+
+- definição de Praga como mecanismo;
+- Autopiedade como praga-mãe;
+- Sono da Negligência;
+- Sofá Quente da Mentira;
+- ressentimento;
+- comparação;
+- validação externa;
+- culpa paralisante;
+- pensamento binário;
+- polarização rígida;
+- influência digital;
+- Fuga Identitária como fio;
+- uso ético da Jaula;
+- transição para Filtro, Poda e Posicionamento.
+
+## Entregáveis
+
+1. `direcao-editorial/18_AUDITORIA_INTEGRAL_03_PARTES_V_VI.md`;
+2. `revisao-integral/05_PARTE_V_REV_A.md`;
+3. `revisao-integral/06_PARTE_VI_REV_A.md`;
+4. relatório comparativo;
+5. painel e status atualizados.
+
+---
+
+# 10. REGRA DE RETOMADA
+
+Antes da próxima rodada, ler:
 
 1. este Status Executivo;
 2. Registro Mestre de Contexto;
 3. Matriz de Não Perda;
 4. Protocolo de Continuidade sem Fadiga;
-5. Sumário Navegável;
-6. rastreabilidade do último lote;
-7. arquivo que será editado.
+5. Auditoria Integral 03 quando criada;
+6. arquivos estruturais das Partes V e VI;
+7. Revisão A das Partes III e IV para preservar transições.
 
-Nenhuma nova rodada deverá:
-
-- começar reescrevendo sem auditar;
-- sobrescrever a versão modular;
-- declarar “final” sem revisões;
-- confundir volume escrito com qualidade certificada;
-- improvisar decisão autoral pendente;
-- apagar conteúdo sem destino registrado.
-
----
-
-# 10. PRÓXIMO PONTO DE RETOMADA
-
-**Tarefa:** Auditoria Integral — Passo 1: continuidade, repetição e progressão do Pré-livro e Partes I–II.
-
-Entregáveis:
-
-- mapa de repetição;
-- lista de cortes propostos;
-- transições necessárias;
-- lacunas de ensino;
-- divergências terminológicas;
-- itens factuais a verificar;
-- proposta revisada sem sobrescrever o primeiro rascunho.
-
-> O manuscrito estrutural está inteiro. Agora a edição precisa torná-lo inevitável, progressivo, preciso e digno de publicação.
+> O manuscrito estrutural está inteiro. A Revisão A agora alcança o Tronco. O próximo passo é levar a mesma precisão aos Galhos e às Pragas sem permitir que aplicações ou confrontos sequestrarem a Árvore.
