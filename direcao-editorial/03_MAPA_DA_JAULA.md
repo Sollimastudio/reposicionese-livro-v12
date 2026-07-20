@@ -1,85 +1,158 @@
-# Mapa da Jaula
+# Mapa da Jaula — Metáfora Narrativa Recorrente
 
 ## Função editorial
-A Jaula é a metáfora de prisão invisível. Ela não substitui a Árvore, não organiza o método e não ganha uma metodologia paralela.
+A Jaula representa prisões invisíveis, contradições sustentadas e permanências que continuam mesmo depois que alguma possibilidade de escolha foi percebida.
 
-A Árvore explica a estrutura. A Jaula interrompe a contradição.
+Ela não substitui a Árvore, não organiza o método e não cria uma metodologia paralela.
+
+> **A Árvore explica a estrutura. A Jaula interrompe a contradição.**
 
 ## Comando
-> A JAULA ESTÁ ABERTA.
+> **A JAULA ESTÁ ABERTA.**
 
-Esse comando aparece quando o leitor já dispõe de alguma possibilidade de escolha, mas permanece preso por culpa, medo, aprovação, lealdade invisível, autopunição, contradição, identidade emprestada ou narrativa não examinada.
+O comando aparece quando o leitor já recebeu elementos de consciência e alguma possibilidade real de movimento, mas continua preso por culpa, medo, aprovação, lealdade invisível, autopunição, autoengano, pensamento terceirizado ou identidade emprestada.
 
-## Regras de uso
-- Não usar para culpabilizar pessoas em situação de violência ou coerção real.
-- Não insinuar que toda prisão é apenas mental.
-- Não negar contexto, risco, dependência financeira, trauma ou vulnerabilidade.
-- Usar quando a porta possível já foi mostrada e a consciência ainda procura a chave exclusivamente fora.
-- Cada aparição deve ser breve, específica e ligada ao capítulo.
+## Limite ético
+A Jaula nunca pode:
+- culpabilizar pessoa em situação de violência;
+- sugerir que toda prisão é apenas mental;
+- ignorar risco físico, coerção, trauma, dependência financeira ou isolamento;
+- tratar incapacidade momentânea de sair como escolha confortável;
+- substituir orientação de segurança e apoio especializado;
+- insinuar que reconhecer uma porta cria obrigação imediata de atravessá-la.
 
-## Distribuição proposta
-
-### Abertura
-A pergunta da porta: a jaula pode ter frases bonitas, pertencimentos prontos e explicações que aliviam sem libertar.
-
-### Vitrine da Vida
-Jaula da imagem: viver para parecer bem enquanto os frutos mostram outra realidade.
-
-### Morte em Vida
-Jaula do apagamento: funcionar por fora e desaparecer por dentro.
-
-### Raiz do Padrão
-Jaula da repetição: chamar de destino aquilo que nunca foi examinado.
-
-### Geração Anestesiada
-Jaula da atenção capturada: confundir consumo de narrativas com pensamento próprio.
-
-### Soberania Interna
-Jaula da autorização: continuar esperando permissão para existir.
-
-### Limite Sagrado
-Jaula da culpa: punir-se por colocar um limite legítimo.
-
-### Sono da Negligência
-Jaula do automático: a porta existe, mas a pessoa não desperta para tocá-la.
-
-### Sofá Quente da Mentira
-Jaula do conforto: permanecer onde dói porque o conhecido parece mais seguro.
-
-### Tipos de Posicionamento
-Jaula da pose: dureza, silêncio ou performance usados no lugar de posicionamento real.
-
-### Relacionamentos
-Jaula da aprovação e da dependência emocional.
-
-### Família
-Jaula das lealdades invisíveis e do pertencimento que exige desaparecimento.
-
-### Trabalho
-Jaula do merecimento e da sobrevivência sem autoria.
-
-### Fuga Identitária
-Jaula do pensamento terceirizado e da identidade substituída pelo grupo.
-
-### Polarização
-Jaula do pensamento binário: quando pertencer a um lado elimina a investigação.
-
-### Autopiedade
-Jaula da dor no trono: a dor é legítima, mas não pode governar tudo.
-
-### Ritual final
-A porta, o fruto e o propósito. O leitor reconhece a porta, escolhe atravessá-la e desce da árvore para agir.
+A pergunta correta não é apenas “por que você continua aí?”. Antes dela vêm:
+- a porta existe de fato?
+- é seguro atravessá-la?
+- que apoio é necessário?
+- que condições ainda precisam ser construídas?
+- que parte da permanência está dentro da esfera real de escolha?
 
 ## Formato das intervenções
-Cada intervenção deve conter:
+Cada aparição deve conter:
 1. o comando em destaque;
-2. uma pergunta curta;
-3. uma frase de devolução de autoria.
+2. uma pergunta ligada ao tema do capítulo;
+3. uma frase que devolva autoria sem negar contexto;
+4. no máximo um pequeno bloco, para não roubar o protagonismo da Árvore.
 
 Exemplo:
 
 > **A JAULA ESTÁ ABERTA.**
 >
-> Você ainda está obedecendo a uma culpa que já examinou?
+> Você ainda está obedecendo a uma culpa que já passou pelo Filtro da Sensatez?
 >
-> Reconhecer a porta não obriga você a atravessá-la hoje. Mas impede que continue chamando a jaula de destino.
+> Reconhecer a porta não obriga você a atravessá-la sem plano. Mas permite começar a construir o próximo movimento possível.
+
+# Distribuição pela arquitetura V13
+
+## Pré-livro
+**Jaula da concordância automática.**
+
+Pergunta: você abriu este livro para pensar ou apenas para encontrar outra voz que pense por você?
+
+A intervenção deve ser curta. O Cajueiro e a Árvore continuam protagonistas.
+
+## Parte I — Olhe os Frutos
+**Jaula da vitrine.**
+
+Viver para parecer bem enquanto os frutos mostram outra realidade.
+
+**Jaula do apagamento.**
+
+Funcionar por fora e desaparecer por dentro.
+
+## Parte II — Solo, Sementes e Configuração
+**Jaula do automático.**
+
+Confundir programação com personalidade.
+
+**Jaula da atenção capturada.**
+
+Consumir narrativas, estímulos e indignações até perder o contato com o próprio pensamento.
+
+## Parte III — Raízes e Heranças
+**Jaula da repetição.**
+
+Chamar de destino aquilo que nunca foi examinado.
+
+**Jaula das lealdades invisíveis.**
+
+Permanecer fiel a um padrão para não sentir que traiu a família, a igreja, a história ou o grupo.
+
+## Parte IV — Tronco
+**Jaula da autorização.**
+
+Esperar permissão para existir, decidir ou ocupar espaço.
+
+**Jaula da culpa.**
+
+Punir-se por sustentar um limite legítimo.
+
+**Jaula da identidade emprestada.**
+
+Usar papel, rótulo ou pertencimento como substituto de autoria.
+
+## Parte V — Galhos
+**Relacionamentos:** jaula da aprovação e da dependência emocional.
+
+**Família:** jaula do pertencimento que exige desaparecimento.
+
+**Trabalho:** jaula do merecimento, da vitrine e da sobrevivência sem autoria.
+
+**Fé:** jaula da culpa espiritual e da obediência sem discernimento.
+
+**Política e redes:** jaula do pensamento binário e da fidelidade ao grupo acima da realidade.
+
+## Parte VI — Pragas, Jaulas e Fugas
+Aqui ocorre a única síntese explícita da metáfora. Não será uma “Parte da Jaula” nem um método paralelo.
+
+Intervenções:
+- jaula do sofá quente da mentira;
+- jaula do sono da negligência;
+- jaula da autopiedade;
+- jaula da identidade substituída pelo grupo;
+- jaula da influência indevida;
+- jaula do ressentimento;
+- jaula da polarização rígida.
+
+## Parte VII — Filtro, Poda e Posicionamento
+**Jaula da análise infinita.**
+
+Subir na Árvore e nunca descer.
+
+**Jaula da pose.**
+
+Usar dureza, silêncio, performance ou agressividade no lugar de posicionamento real.
+
+**Jaula da verdade como arma.**
+
+Usar clareza sem sensatez para controlar ou ferir.
+
+## Parte VIII — Nova Semente e Novos Frutos
+**Jaula da promessa sem prática.**
+
+Desejar novos frutos sem cultivar nova semente.
+
+## Ritual final
+A porta, o fruto e o propósito.
+
+O leitor:
+1. reconhece o fruto;
+2. sobe na Árvore;
+3. identifica a Jaula;
+4. passa a interpretação pelo Filtro;
+5. avalia segurança e condições reais;
+6. escolhe poda e nova semente;
+7. desce para sustentar uma ação.
+
+## Regra de frequência
+A Jaula não deve aparecer por calendário ou em todos os capítulos. Só entra quando existe uma prisão específica a confrontar.
+
+Antes de inserir, perguntar:
+- esta intervenção acrescenta consciência?
+- a Árvore já explicou o mecanismo?
+- a pergunta respeita contexto e risco?
+- o capítulo já contém outra imagem forte que seria enfraquecida?
+- a Jaula está despertando ou apenas repetindo um slogan?
+
+Se não houver função clara, a intervenção não entra.
