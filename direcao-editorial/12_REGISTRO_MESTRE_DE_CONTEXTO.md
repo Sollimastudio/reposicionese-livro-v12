@@ -1,10 +1,14 @@
 # Registro Mestre de Contexto — Reposicione-se™
 
-## Função deste arquivo
+**Versão:** 2.0  
+**Função:** memória editorial canônica do projeto  
+**Precedência:** este arquivo substitui estados anteriores registrados no mesmo caminho
 
-Este documento é a memória editorial canônica do projeto.
+---
 
-Ele existe para impedir que decisões tomadas em conversas, arquivos antigos, versões concorrentes ou rodadas extensas de revisão sejam esquecidas, simplificadas ou contraditas.
+# 1. FUNÇÃO DESTE ARQUIVO
+
+Este documento existe para impedir que decisões tomadas em conversas, versões concorrentes, arquivos antigos ou rodadas extensas de revisão sejam esquecidas, simplificadas ou contraditas.
 
 Antes de iniciar qualquer nova rodada de edição, o responsável deverá ler:
 
@@ -12,13 +16,22 @@ Antes de iniciar qualquer nova rodada de edição, o responsável deverá ler:
 2. a Constituição Editorial;
 3. o Mapa da Árvore e dos Comandos;
 4. a Matriz de Não Perda;
-5. o último arquivo de rastreabilidade do manuscrito V13.
+5. o Protocolo de Continuidade sem Fadiga;
+6. o último arquivo de rastreabilidade do manuscrito V13.
 
-Nenhuma versão posterior poderá apagar silenciosamente um conceito registrado aqui. Quando um conceito precisar ser alterado, a mudança deverá ser justificada no histórico de decisões.
+Nenhuma versão posterior poderá apagar silenciosamente um conceito registrado aqui.
+
+Quando um conceito precisar ser alterado:
+
+- registrar a decisão;
+- explicar o motivo;
+- indicar o destino do conteúdo anterior;
+- atualizar a rastreabilidade;
+- conferir se a mudança fortalece posicionamento e Árvore.
 
 ---
 
-# 1. IDENTIDADE DO PROJETO
+# 2. IDENTIDADE DO PROJETO
 
 ## Obra
 
@@ -34,19 +47,22 @@ A obra pertence ao ecossistema **Relacione-se®**.
 
 ## Natureza editorial
 
-O livro não será tratado apenas como manuscrito de autoajuda. Ele será tratado como:
+O livro será tratado como:
 
 - obra autoral;
 - metodologia pedagógica;
 - sistema visual de discernimento;
 - propriedade intelectual;
-- base para Workbook e produtos complementares.
+- base para Workbook;
+- base para edições e produtos complementares.
+
+Ele não será reduzido a autoajuda, motivação, aconselhamento ou relato autobiográfico.
 
 ## Tese central
 
 > Reposicionar-se é recuperar o governo da própria consciência por meio do discernimento aplicado à realidade, para produzir frutos coerentes com a vida que se escolhe cultivar.
 
-## Competência que o livro ensina
+## Competência ensinada
 
 > Discernimento aplicado ao posicionamento.
 
@@ -65,11 +81,11 @@ Ao terminar o livro, o leitor deverá conseguir:
 - pensar por si mesmo;
 - transformar discernimento em posicionamento concreto.
 
-O livro falha se o leitor apenas admirar as ideias e continuar dependente da voz da autora para pensar.
+O livro falha se o leitor apenas admirar ideias e continuar dependente da autora para pensar.
 
 ---
 
-# 2. POSICIONAMENTO AUTORAL
+# 3. POSICIONAMENTO AUTORAL
 
 A voz da autora deverá permanecer nítida.
 
@@ -94,13 +110,15 @@ Entretanto, declarar posição não autoriza:
 - usar fé para impedir investigação;
 - aplicar rigor apenas ao lado oposto;
 - confundir firmeza com agressão;
-- transformar posicionamento em licença para controlar.
+- transformar posicionamento em licença para controlar;
+- tratar discordância como prova de cegueira;
+- usar a autora como consciência substituta do leitor.
 
 A posição autoral deverá ser forte o suficiente para ser reconhecida e sensata o suficiente para submeter a si mesma ao método que propõe.
 
 ---
 
-# 3. HIERARQUIA DO MÉTODO
+# 4. HIERARQUIA DO MÉTODO
 
 ## Protagonista absoluta
 
@@ -111,25 +129,22 @@ Nenhuma metáfora, teste, tipologia, lei, comando ou ferramenta poderá competir
 ## Funções subordinadas
 
 - A **Jaula** confronta prisões invisíveis.
-- O **Filtro da Sensatez** organiza a avaliação.
+- O **Filtro da Sensatez** organiza avaliação.
 - As **14 Leis** oferecem critérios recorrentes.
 - Os **14 Tipos de Posicionamento** funcionam como espelhos pedagógicos.
 - O **Workbook** concentra testes, pontuações e exercícios extensos.
-- A **Fuga Identitária** atravessa a obra como fio condutor, mas será aprofundada em livro próprio.
+- A **Fuga Identitária** atravessa a obra como fio condutor e será aprofundada em livro próprio.
 
 ## Regra de decisão
 
-Quando o leitor precisa compreender a estrutura, usa-se a Árvore.
-
-Quando o leitor já percebe a estrutura, mas continua preso numa contradição, aparece a Jaula.
-
-Quando o leitor precisa avaliar uma informação, pensamento, influência ou decisão, aplica-se o Filtro.
-
-Quando o leitor já compreendeu o suficiente e precisa agir, entra o posicionamento.
+- Para compreender a estrutura: **Árvore**.
+- Para interromper contradição já percebida: **Jaula**.
+- Para avaliar pensamento, informação, influência ou decisão: **Filtro**.
+- Para transformar clareza em conduta: **Posicionamento**.
 
 ---
 
-# 4. A ÁRVORE DO DISCERNIMENTO
+# 5. A ÁRVORE DO DISCERNIMENTO
 
 ## Ordem estrutural
 
@@ -147,22 +162,20 @@ A representação visual canônica deverá mostrar:
 
 ## Mirante do Discernimento
 
-O Mirante não é parte anatômica da Árvore.
+O Mirante não é parte anatômica da árvore.
 
 É o ponto metacognitivo de observação a partir do qual o leitor consegue olhar:
 
-- para o fruto;
-- para o galho;
-- para o tronco;
-- para as raízes;
-- para o solo;
-- para as pragas;
-- para a poda;
-- para a nova semente.
+- fruto;
+- galho;
+- tronco;
+- raízes;
+- solo;
+- pragas;
+- poda;
+- nova semente.
 
 ## Ordem de investigação
-
-A investigação prática começa pelo que está visível:
 
 1. Observe os frutos.
 2. Identifique o galho.
@@ -193,11 +206,15 @@ Crenças profundas, vínculos, memórias, lealdades, medos e interpretações qu
 
 ### Tronco
 
-Estrutura que sustenta identidade, limites, coerência, autocontrole, autoria e governo interno.
+Estrutura que sustenta identidade, limites, coerência, autocontrole, autoria, responsabilidade e governo interno.
+
+O Tronco não é força bruta. É sustentação com capacidade de flexão e revisão.
 
 ### Galhos
 
 Áreas da vida em que a estrutura aparece: família, relacionamentos, trabalho, fé, política, corpo, dinheiro, comunicação, pertencimento, propósito e outras.
+
+Um galho pode estar saudável enquanto outro pede atenção.
 
 ### Frutos
 
@@ -215,61 +232,55 @@ Mecanismos internos ou externos que drenam, distorcem, sabotam ou contaminam o c
 
 Interrupção consciente do que continua produzindo frutos incompatíveis com a vida escolhida.
 
+Poda não autoriza ruptura impulsiva, imprudência ou destruição indiscriminada.
+
 ### Nova Semente
 
 Nova prática, pensamento, decisão, limite, interpretação ou hábito que será repetido até produzir outro cultivo.
 
 ---
 
-# 5. COMANDOS CANÔNICOS
+# 6. COMANDOS CANÔNICOS
 
 ## Observe os frutos
-
-Usado no início da investigação.
 
 Função: suspender defesa de intenções e olhar para resultados sem condenação.
 
 ## Suba na árvore
 
-Usado quando há reação, urgência, confusão, julgamento rápido ou visão fragmentada.
-
-Função: ampliar o panorama, praticar metacognição e observar a estrutura.
+Função: ampliar panorama, praticar metacognição e observar estrutura quando há urgência, reação, confusão ou julgamento rápido.
 
 ## Deixe na árvore
 
-Forma verbal recomendada no texto formal: **Deixe na árvore**.
+Forma formal recomendada: **Deixe na árvore**.
 
-A oralidade da autora pode ocasionalmente usar **Deixa na árvore**, desde que a padronização editorial preserve a compreensão.
+A oralidade da autora pode ocasionalmente usar **Deixa na árvore**.
 
 Função: suspender temporariamente culpa, rótulo, acusação, opinião ou interpretação ainda não examinada.
 
-Não significa engolir uma ideia nem concordar com a autora.
+Não significa concordar com a autora.
 
 ## Volte para a raiz
 
-Usado quando um fruto ou padrão se repete.
+Função: investigar origem e alimentação quando um fruto ou padrão se repete.
 
-Função: investigar origem e alimentação sem transformar origem em desculpa ou destino.
+Permanece decisão aberta se será comando oficial visual ou orientação derivada.
 
 ## Passe pelo Filtro da Sensatez
 
-Usado antes de aderir a narrativa, reagir, acusar, decidir ou aceitar influência com custo real.
+Função: organizar avaliação antes de aderir a narrativa, reagir, acusar, decidir ou aceitar influência com custo real.
 
 ## Desça da árvore
-
-Usado quando já há discernimento suficiente.
 
 Função: interromper ruminação e retornar à vida com ação, conversa, limite, pedido de ajuda, decisão ou mudança concreta.
 
 ## Regra essencial
 
-Subir sem descer vira análise sem posicionamento.
-
-Descer sem subir vira reação sem discernimento.
+> Subir sem descer vira análise sem posicionamento. Descer sem subir vira reação sem discernimento.
 
 ---
 
-# 6. COMANDOS DO PENSAMENTO
+# 7. COMANDOS DO PENSAMENTO
 
 ## Pense comigo
 
@@ -277,24 +288,24 @@ Convite para acompanhar um raciocínio antes de aceitar ou rejeitar.
 
 ## Pense nisso
 
-Pausa consciente para nomear, observar e deixar uma pergunta produzir consciência.
+Pausa consciente para nomear e observar.
 
 ## Repense isso
 
 Revisão de crença, interpretação, narrativa ou configuração antiga.
 
-Repensar não significa abandonar automaticamente o que se acredita. Significa verificar se a crença continua coerente, verdadeira e frutífera.
+Repensar não significa abandonar automaticamente o que se acredita. Significa verificar coerência, verdade e frutos.
 
 ---
 
-# 7. FILTRO DA SENSATEZ
+# 8. FILTRO DA SENSATEZ
 
 O Filtro da Sensatez é o protocolo recorrente de higiene mental da obra.
 
-Ele atua em dois sentidos:
+Ele atua:
 
-- o que chega de fora;
-- o que a própria pessoa produz internamente.
+- no que chega de fora;
+- no que a própria pessoa produz internamente.
 
 ## Doze perguntas oficiais
 
@@ -313,15 +324,13 @@ Ele atua em dois sentidos:
 
 ## Filtro da Influência
 
-Perguntas complementares:
-
 - Eu sei que estou sendo influenciada?
 - Que acesso essa voz pede à minha consciência?
 - A fonte diferencia fato de interpretação?
 - Posso discordar sem perder meu lugar?
 - Essa influência admite complexidade?
 - Consigo aplicar o mesmo rigor ao meu lado?
-- Quem ganha quando eu penso assim?
+- Quem ganha quando penso assim?
 - Essa influência amplia minha autoria ou substitui meu pensamento?
 - Que fruto ela já produziu em mim?
 
@@ -331,11 +340,9 @@ Perguntas complementares:
 
 ---
 
-# 8. AS 14 LEIS DO POSICIONAMENTO
+# 9. AS 14 LEIS DO POSICIONAMENTO
 
 As leis estão certificadas como catorze.
-
-Não voltar a treze sem decisão formal registrada.
 
 1. Pense Antes de Reagir.
 2. Questione a Narrativa.
@@ -352,25 +359,22 @@ Não voltar a treze sem decisão formal registrada.
 13. Abrace o Desconforto.
 14. Seja Sensata.
 
-## Regra editorial das leis
+## Regra editorial
 
-O livro não deverá despejar as leis como um bloco autônomo que compete com a Árvore.
-
-A lista completa pode existir no manual de navegação ou guia rápido.
-
-No corpo da obra, cada lei deverá surgir no momento em que o leitor necessita dela.
+- A lista completa pode existir no manual de navegação e guia rápido.
+- No corpo do livro, cada lei surge quando o leitor necessita dela.
+- As leis são subordinadas à Árvore.
+- Não voltar a treze sem decisão formal registrada.
 
 ---
 
-# 9. A JAULA
+# 10. A JAULA
 
 ## Função
 
 A Jaula é metáfora narrativa de prisão invisível.
 
-A Árvore explica.
-
-A Jaula interrompe.
+> A Árvore explica. A Jaula interrompe.
 
 ## Comando
 
@@ -387,27 +391,28 @@ A Jaula interrompe.
 - autopunição;
 - narrativa já questionada;
 - permanência no automático;
-- conforto conhecido que impede ação possível.
+- conforto conhecido que impede ação possível;
+- autorização externa que substitui decisão própria;
+- contrato invisível que mantém ressentimento.
 
 ## Proteções éticas
 
 Não usar a Jaula para:
 
-- culpabilizar vítima de violência;
+- culpabilizar vítima;
 - negar coerção real;
 - minimizar risco físico;
 - ignorar dependência financeira;
 - desconsiderar trauma;
 - sugerir que toda prisão é apenas mental;
-- pressionar o leitor a uma saída sem plano ou proteção.
+- pressionar saída sem plano ou proteção;
+- transformar dificuldade em falta de vontade.
 
-A porta pode estar aberta em uma dimensão e continuar bloqueada em outra.
-
-Reconhecer possibilidade não significa que a ação será simples, imediata ou segura sem ajuda.
+A porta pode estar aberta em uma dimensão e bloqueada em outra.
 
 ---
 
-# 10. SUA ÁRVORE, SEUS FRUTOS
+# 11. SUA ÁRVORE, SEUS FRUTOS
 
 Essa frase é o chamado central de autoresponsabilidade.
 
@@ -430,18 +435,19 @@ Ela significará:
 - Origem explica, mas não governa automaticamente.
 - Responsabilidade devolve movimento.
 - Culpa indiscriminada esmaga.
+- Autoria não significa controle absoluto.
 
 ---
 
-# 11. AUTOPIEDADE
+# 12. AUTOPIEDADE
 
 A autopiedade é tratada como **praga-mãe**.
 
-Definição:
+## Definição
 
 > A dor se torna autopiedade quando deixa de pedir cuidado e passa a exigir governo, identidade, imunidade à confrontação ou terceirização permanente da responsabilidade.
 
-A obra deverá distinguir:
+Distinguir:
 
 - dor;
 - luto;
@@ -450,21 +456,19 @@ A obra deverá distinguir:
 - autocompaixão;
 - autopiedade.
 
-Autopiedade não poderá ser usada como rótulo contra quem ainda está ferido ou vulnerável.
-
-Frase de proteção:
+Autopiedade não poderá ser usada como rótulo contra quem está ferido ou vulnerável.
 
 > A dor é legítima. Ela não precisa ocupar o trono para ser respeitada.
 
 ---
 
-# 12. IDENTIDADE E FUGA IDENTITÁRIA
+# 13. IDENTIDADE E FUGA IDENTITÁRIA
 
-## Papel no Reposicione-se™
+## Papel no livro
 
-Identidade é fio condutor de toda a obra.
+Identidade é fio condutor.
 
-Fuga Identitária não será um capítulo dominante que transforme este livro no livro futuro.
+Fuga Identitária não será centro do Reposicione-se™.
 
 ## Pergunta permanente
 
@@ -484,52 +488,58 @@ Fuga identitária ocorre quando a pessoa substitui o encontro consigo por:
 - versão exigida pelo ambiente;
 - identidade oferecida por influência externa.
 
-## Proteção conceitual
+## Proteção
 
-O livro não afirmará que toda identificação coletiva é fuga.
+Nem toda identificação coletiva é fuga.
 
 Pertencimento, linguagem, comunidade e nomeação podem organizar experiência e oferecer proteção.
 
-O problema começa quando qualquer categoria elimina investigação, autonomia, complexidade ou possibilidade de revisão.
+O problema começa quando a categoria elimina investigação, autonomia, complexidade ou possibilidade de revisão.
 
 O aprofundamento ficará em **Fuga Identitária: O Apagamento do Eu**.
 
 ---
 
-# 13. POLARIZAÇÃO
+# 14. POLARIZAÇÃO
 
-A polarização entra ao longo do livro, não como capítulo partidário isolado.
+A polarização entra distribuída, não como capítulo partidário isolado.
 
 ## Lente editorial
 
 Esquerda, direita e centro podem funcionar como estruturas de interpretação ou mindsets quando se tornam filtros rígidos.
 
-A obra não afirmará que todas as correntes são iguais nem tentará apagar diferenças reais.
+A obra não afirmará que todas as correntes são iguais nem apagará diferenças reais.
 
-A pergunta metodológica será:
+Pergunta central:
 
 > A pessoa ainda consegue investigar, revisar, reconhecer erro no próprio lado e pensar sem autorização do grupo?
 
 ## Posição da autora
 
-A autora poderá declarar sua posição conservadora.
+A autora declara posição conservadora.
 
-Essa declaração deverá ser acompanhada da aplicação do mesmo Filtro da Sensatez à direita, a líderes conservadores, a ambientes religiosos e às narrativas com as quais ela concorda.
+Essa posição exige aplicação do mesmo Filtro:
+
+- à direita;
+- a líderes conservadores;
+- a ambientes religiosos;
+- às narrativas com as quais a autora concorda.
 
 ## Distribuição
 
 - Solo: filtros prévios e linguagem.
 - Raízes: pertencimento e lealdades.
+- Tronco: soberania e sustentação sem terceirização.
+- Galhos: política, família, igreja, redes e relações.
 - Pragas: pensamento binário, confirmação e desumanização.
-- Filtro: exame simétrico de ideias.
-- Galhos: política, família, igreja, redes e relacionamentos.
+- Filtro: exame simétrico.
 - Frutos: divisão, arrogância, medo, dependência, clareza ou responsabilidade.
 
 ---
 
-# 14. AMBIENTE DIGITAL E PÓS-PANDEMIA
+# 15. AMBIENTE DIGITAL E PÓS-PANDEMIA
 
-A obra deverá integrar, de forma distribuída:
+Integrar de forma distribuída:
 
 - algoritmo;
 - economia da atenção;
@@ -547,11 +557,11 @@ A obra deverá integrar, de forma distribuída:
 
 A tecnologia não será apresentada como vilã autônoma.
 
-O foco será o modo como pessoa, plataforma, grupo, desejo e algoritmo interagem.
+O foco será a interação entre pessoa, plataforma, grupo, desejo e algoritmo.
 
 ---
 
-# 15. TIPOS DE POSICIONAMENTO
+# 16. TIPOS DE POSICIONAMENTO
 
 Os catorze tipos existentes são:
 
@@ -583,19 +593,15 @@ Cada tipo deverá apresentar:
 - pergunta metacognitiva;
 - caminho de reposicionamento.
 
-## Modelos contemporâneos
-
-Os modelos pós-pandemia deverão ser confrontados com os catorze tipos para evitar duplicidade.
-
-Podem aparecer como modos contemporâneos ou combinações, não necessariamente como novos tipos oficiais.
+Modelos pós-pandemia serão confrontados com os tipos para evitar duplicidade.
 
 ---
 
-# 16. FÉ
+# 17. FÉ
 
 A Bíblia é fonte real da autora.
 
-A obra distinguirá:
+Distinguir:
 
 - fé de medo;
 - honra de obediência cega;
@@ -610,15 +616,13 @@ Não usar Deus para substituir ação que cabe à pessoa.
 
 Não usar posicionamento para desprezar oração, dependência de Deus, comunhão ou aconselhamento.
 
-O equilíbrio autoral será:
-
 > Fé fortalece discernimento e responsabilidade; não exige amputação da consciência.
 
 ---
 
-# 17. NÃO GENERALIZAR
+# 18. NÃO GENERALIZAR
 
-Evitar formulações absolutas como:
+Evitar formulações totais como:
 
 - homens são;
 - mulheres são;
@@ -647,34 +651,41 @@ Padrão é material de investigação, não sentença sobre toda categoria.
 
 ---
 
-# 18. VIOLÊNCIA, ABUSO E CONTROLE
+# 19. VIOLÊNCIA, ABUSO E CONTROLE
 
-## Regra de proteção
+A obra não poderá sugerir que o posicionamento da vítima causa abuso.
 
-A obra não poderá sugerir que o posicionamento da vítima causa o abuso.
+A responsabilidade do agressor permanece com o agressor.
 
-A responsabilidade do agressor permanece integralmente com o agressor.
-
-O método pode ajudar o leitor a:
+O método pode ajudar a:
 
 - reconhecer padrões;
 - nomear o que ocorre;
 - procurar proteção;
 - reconstruir limites;
-- identificar permissões e vulnerabilidades;
-- recuperar autoria após a violência.
+- identificar vulnerabilidades e permissões;
+- recuperar autoria após violência.
 
-Não poderá prometer que posicionamento impede toda violência.
+Não prometer que posicionamento impede toda violência.
 
-Em contextos de risco, o livro deverá recomendar rede de proteção e apoio profissional, jurídico, policial, médico, psicológico ou pastoral adequado.
+Em contextos de risco, recomendar rede de proteção e apoio profissional, jurídico, policial, médico, psicológico ou pastoral adequado.
+
+Limites e acordos deverão considerar:
+
+- assimetria de poder;
+- dependência financeira;
+- vigilância;
+- ameaça;
+- coerção;
+- recursos;
+- segurança;
+- capacidade real de escolha.
 
 ---
 
-# 19. HISTÓRIAS AUTORAIS E CASOS
+# 20. HISTÓRIAS AUTORAIS E CASOS
 
-Histórias pessoais são parte essencial da voz da obra.
-
-Entretanto, cada caso deverá ser classificado como:
+Cada caso deverá ser classificado como:
 
 - autobiográfico documentado;
 - memória autoral;
@@ -687,11 +698,21 @@ Não apresentar composição como fato real específico.
 
 Não expor terceiros identificáveis sem necessidade, consentimento ou proteção jurídica.
 
-Histórias como Cajueiro do Pirangi, letreiro de neon, batom, portão, ministério, família e relacionamentos deverão permanecer rastreáveis à fonte autorizada.
+Histórias que precisam permanecer rastreáveis:
+
+- Cajueiro do Pirangi;
+- letreiro de neon;
+- batom;
+- portão;
+- ministério;
+- família;
+- relacionamentos;
+- cenas judiciais;
+- casos usados em tipos ou arquétipos.
 
 ---
 
-# 20. FONTES E AFIRMAÇÕES FACTUAIS
+# 21. FONTES E AFIRMAÇÕES FACTUAIS
 
 Alegações científicas, psicológicas, jurídicas, bíblicas, históricas, digitais ou sociais deverão entrar no inventário factual.
 
@@ -710,19 +731,28 @@ Não tratar como fato sem verificação:
 - causalidades psicológicas;
 - frases atribuídas;
 - explicações neurológicas simplificadas;
+- protocolos clínicos;
 - afirmações jurídicas;
 - histórias populares;
 - interpretações bíblicas apresentadas como consenso.
 
+Na Parte IV foram retirados ou suspensos:
+
+- modelo simplificado “amígdala contra córtex” como explicação total;
+- regra universal dos 90 segundos;
+- citação não verificada atribuída a Viktor Frankl;
+- protocolo 30–90 apresentado como ferramenta validada;
+- absolutos sobre quem permanece ou sai após um limite.
+
 ---
 
-# 21. WORKBOOK
+# 22. WORKBOOK
 
 O Workbook será separado do livro principal.
 
 Instrumentos mapeados:
 
-- Teste da Árvore do Discernimento por áreas da vida;
+- Teste da Árvore por áreas;
 - Diagnóstico de Influência Indevida ou Coerção Mental;
 - Teste de Posicionamento;
 - Diagnóstico da Autopiedade;
@@ -732,13 +762,13 @@ Instrumentos mapeados:
 - plano de replante;
 - acompanhamento de novas sementes.
 
-O livro principal poderá apresentar versões enxutas e encaminhar ao Workbook.
+O livro poderá apresentar versões enxutas.
 
 Pontuações, escalas extensas, fichas e páginas de resposta não devem interromper a leitura principal.
 
 ---
 
-# 22. BANCO VISUAL
+# 23. BANCO VISUAL
 
 ## Destinos
 
@@ -771,13 +801,17 @@ Pontuações, escalas extensas, fichas e páginas de resposta não devem interro
 - Autoria Emocional;
 - tipos de posicionamento;
 - o que o método não autoriza;
+- limite x muro x controle;
+- pedido x limite x acordo x exigência;
+- fato → impacto → linha → intenção → consequência;
+- círculo de responsabilidade;
 - ritual final.
 
 ## Pendência
 
-A curadoria conceitual existe, mas o inventário técnico final depende dos arquivos originais aprovados.
+O inventário técnico depende dos arquivos originais aprovados.
 
-Não afirmar que o banco visual está finalizado sem:
+Não afirmar que o banco está finalizado sem:
 
 - resolução;
 - dimensões;
@@ -792,11 +826,11 @@ Não afirmar que o banco visual está finalizado sem:
 
 ---
 
-# 23. EDIÇÕES
+# 24. EDIÇÕES
 
 ## Kindle
 
-Texto refluível, imagens essenciais, sumário clicável, legibilidade em telas pequenas.
+Texto refluível, imagens essenciais, sumário clicável e legibilidade em telas pequenas.
 
 ## Impressão econômica P&B
 
@@ -808,57 +842,68 @@ PDF navegável, infográficos completos, experiência visual ampliada e links.
 
 ## Regra
 
-A edição premium não poderá ser confundida com o manuscrito canônico.
+A edição premium não é o manuscrito canônico.
 
 O texto canônico precisa existir independentemente da diagramação.
 
 ---
 
-# 24. HIERARQUIA DE FONTES DO PROJETO
+# 25. HIERARQUIA DE FONTES DO PROJETO
 
-Em caso de conflito, usar esta ordem:
+Em caso de conflito:
 
-1. decisões autorais explícitas mais recentes registradas na Constituição e neste arquivo;
-2. manuscrito V13 e sua rastreabilidade;
+1. decisões autorais explícitas mais recentes registradas na Constituição e neste Registro;
+2. manuscrito V13 e rastreabilidade;
 3. versão consolidada premium como fonte textual anterior;
 4. manuscrito certificado anterior, quando recuperado;
-5. versões antigas apenas como fonte de resgate;
-6. prompts e relatórios antigos como histórico, não como autoridade final.
+5. versões antigas como fonte de resgate;
+6. prompts e relatórios antigos como histórico.
 
-Nenhum arquivo chamado “FINAL” será considerado automaticamente canônico apenas pelo nome.
+Nenhum arquivo chamado “FINAL” será automaticamente canônico pelo nome.
 
 ---
 
-# 25. ESTADO ATUAL DO PROJETO
+# 26. ESTADO ATUAL DO PROJETO
 
-## Concluído
+## Governança concluída e revisada
 
-- Constituição Editorial revisada.
-- Arquitetura revisada.
-- Mapa da Árvore e comandos.
-- Mapa da Jaula.
-- Filtro da Sensatez.
-- Fios condutores.
-- 14 Leis certificadas.
-- Matriz capítulo a capítulo.
-- Auditoria de coerência e riscos.
-- Inventário factual inicial.
-- Pré-livro V13.
-- Parte I V13 — Olhe os Frutos.
-- Parte II V13 — Solo, Sementes e Configuração.
-- Rastreabilidade dos lotes I e II.
+- Constituição Editorial;
+- Arquitetura da Obra;
+- Mapa da Árvore e Comandos;
+- Mapa da Jaula;
+- Filtro da Sensatez;
+- Fios Condutores;
+- 14 Leis certificadas;
+- Matriz capítulo a capítulo;
+- Auditoria de coerência e riscos;
+- Inventário factual inicial;
+- Matriz de Não Perda;
+- Protocolo de Continuidade sem Fadiga;
+- página de visualização imediata.
+
+## Manuscrito V13 em primeira versão editorial
+
+- Pré-livro — Mapa de Navegação;
+- Parte I — Olhe os Frutos;
+- Parte II — Solo, Sementes e Configuração;
+- Parte III — Raízes e Heranças;
+- Parte IV — Tronco, Soberania e Limites;
+- rastreabilidade dos quatro lotes.
 
 ## Em andamento
 
-- Parte III — Raízes e Heranças.
 - auditoria linha a linha da extração antiga;
+- Parte V — Galhos;
 - recuperação do DOCX canônico;
 - inventário técnico visual;
 - verificação factual por fontes primárias.
 
 ## Ainda não concluído
 
-- reescrita integral dos 25 capítulos;
+- Parte V — Galhos;
+- Parte VI — Pragas e Jaulas;
+- Parte VII — Filtro, Poda e Posicionamento;
+- Parte VIII — Novos Frutos e encerramento;
 - Workbook final;
 - DOCX V13 consolidado;
 - diagramação;
@@ -868,52 +913,64 @@ Nenhum arquivo chamado “FINAL” será considerado automaticamente canônico a
 - revisão factual completa;
 - revisão jurídica de casos sensíveis;
 - revisão teológica;
+- revisão psicológica e de sensibilidade;
 - revisão ortográfica final;
+- aprovação autoral final;
 - prova física.
 
 ---
 
-# 26. DECISÕES EM ABERTO
+# 27. DECISÕES EM ABERTO
 
-1. Confirmar se “Volte para a raiz” permanecerá como comando oficial ou como orientação derivada.
-2. Confirmar a forma editorial definitiva: “Deixe na árvore” ou preservação mais ampla da oralidade “Deixa na árvore”.
+1. Confirmar se “Volte para a raiz” permanecerá como comando oficial ou orientação derivada.
+2. Confirmar a forma definitiva: “Deixe na árvore” ou maior preservação de “Deixa na árvore”.
 3. Recuperar o nome definitivo do terceiro teste principal do Workbook.
-4. Definir quais histórias pessoais poderão ser mantidas com detalhes identificáveis.
-5. Confrontar arquétipos clássicos com os 14 Tipos para decidir se permanecem no livro, vão para apêndice ou são retirados.
+4. Definir quais histórias pessoais poderão permanecer com detalhes identificáveis.
+5. Decidir destino dos arquétipos clássicos: livro, apêndice, Workbook ou retirada.
 6. Selecionar uma única imagem canônica da Árvore.
-7. Confirmar se a árvore visual terá Semente inicial e Nova Semente final como elementos distintos.
-8. Definir tratamento final de “feminicídio emocional” com revisão jurídica, psicológica e de sensibilidade.
-9. Recuperar e comparar o DOCX certificado, a versão premium e demais binários.
+7. Confirmar Semente inicial e Nova Semente final como elementos visuais distintos.
+8. Definir tratamento de “feminicídio emocional” após revisão jurídica, psicológica e de sensibilidade.
+9. Recuperar e comparar DOCX certificado, versão premium e binários.
 10. Definir política de referências bíblicas: tradução, notas, citações e direitos.
+11. Validar o termo “autoria emocional” como conceito pedagógico da metodologia.
+12. Definir se o roteiro fato → impacto → linha → intenção → consequência receberá nome próprio ou permanecerá recurso de capítulo.
+13. Definir quais galhos aparecerão como capítulos e quais serão aplicações internas.
 
-Nenhuma dessas pendências autoriza improvisação silenciosa.
+Nenhuma pendência autoriza improvisação silenciosa.
 
 ---
 
-# 27. REGRESSÕES PROIBIDAS
+# 28. REGRESSÕES PROIBIDAS
 
 Não voltar a:
 
 - tratar fruto como laudo;
 - afirmar que o problema sempre está na raiz;
-- dizer que o leitor resiste porque a autora está certa;
+- dizer que resistência prova que a autora está certa;
 - afirmar que seres humanos nascem literalmente zerados;
-- tratar Mirante como camada anatômica sem distinção;
+- tratar Mirante como camada anatômica;
 - criar metodologia autônoma da Jaula;
 - transformar Fuga Identitária em centro deste livro;
-- usar esquerda, direita ou centro como rótulos totais de pessoas;
+- usar esquerda, direita ou centro como rótulos totais;
 - culpabilizar vítimas por abuso;
 - tratar 14 Leis como 13 sem registro;
-- usar um Filtro diferente sem explicar versão;
+- usar Filtro diferente sem explicar versão;
 - repetir testes extensos no corpo principal;
 - apresentar tipologias como diagnóstico clínico;
 - chamar toda discordância de falta de discernimento;
 - usar fé para suspender responsabilidade;
-- usar posicionamento para justificar agressão.
+- usar posicionamento para justificar agressão;
+- dizer que limite sempre afasta apenas “as pessoas erradas”;
+- dizer que o outro não afeta sentimentos;
+- tratar toda culpa como falsa;
+- tratar todo desconforto como crescimento;
+- tratar toda distância como muro;
+- tratar qualquer sim como consentimento livre;
+- apresentar protocolo não validado como ciência.
 
 ---
 
-# 28. TESTE FINAL DE COERÊNCIA
+# 29. TESTE FINAL DE COERÊNCIA
 
 Antes de aprovar qualquer capítulo, responder:
 
@@ -937,5 +994,36 @@ Antes de aprovar qualquer capítulo, responder:
 18. Algum conceito importante foi perdido?
 19. Alguma ideia foi repetida sem progressão?
 20. O leitor termina mais capaz de pensar por si mesmo?
+21. Poder, risco e dependência foram considerados?
+22. Limite foi diferenciado de controle e muro?
+23. Acordo foi diferenciado de expectativa e imposição?
+24. A ação proposta está dentro da esfera real do leitor?
 
 Se qualquer resposta relevante for “não”, o capítulo não está pronto.
+
+---
+
+# 30. PRÓXIMO MARCO
+
+Construir a Parte V — **Os Galhos: a estrutura aparecendo na vida prática**.
+
+Núcleos obrigatórios:
+
+- princípio de que um galho adoecido não condena automaticamente toda a árvore;
+- relacionamentos;
+- família como campo atual de prática, além da origem;
+- trabalho;
+- dinheiro;
+- fé vivida;
+- comunicação;
+- política;
+- corpo e autocuidado;
+- pertencimento e presença;
+- limites e acordos aplicados;
+- reciprocidade;
+- poder e responsabilidade;
+- revisão sensível das histórias autorais;
+- frutos específicos por área;
+- comandos da Árvore em situações concretas.
+
+A Parte V deverá evitar transformar o livro num livro apenas sobre relacionamentos. Cada galho servirá para mostrar o mesmo método operando em contextos diferentes.
