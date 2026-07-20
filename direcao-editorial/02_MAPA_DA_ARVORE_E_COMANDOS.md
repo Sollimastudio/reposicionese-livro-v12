@@ -1,78 +1,153 @@
-# Mapa da Árvore do Discernimento
+# Mapa Canônico da Árvore do Discernimento
 
 ## Regra de navegação
 O leitor não aprende a Árvore apenas para entender o livro. O livro treina o leitor a pensar como a Árvore.
 
-## Hierarquia
+A metodologia possui uma estrutura, operações de cultivo e um ponto de observação. Essas categorias não devem ser misturadas.
 
-### Frutos
-Resultados visíveis. São o primeiro medidor da posição atual.
+# 1. Estrutura da Árvore
 
-Pergunta: o que minha vida está produzindo?
+## Solo
+**Função:** ambiente interno e externo em que interpretações se tornam férteis.
 
-### Galhos
-Áreas, escolhas e comportamentos em que a estrutura interna aparece.
+Inclui crenças, valores, memória, cultura, fé, linguagem, experiências, ambiente, hábitos mentais, telas e modelos de mundo.
 
-Pergunta: em qual área esse fruto está surgindo?
+**Pergunta:** em que ambiente esse modo de funcionar foi cultivado?
 
-### Tronco
-Estrutura de sustentação: identidade, limites, autoria, coerência e governo interno.
+O solo não é “o fato”. Fato pertence ao Filtro da Sensatez. O solo é a configuração em que o fato será interpretado.
 
-Pergunta: o que sustenta ou enfraquece minhas escolhas?
+## Raízes
+**Função:** fontes de alimentação invisíveis.
 
-### Raízes
-Origem das interpretações, vínculos e padrões.
+Incluem crenças profundas, lealdades, feridas, vínculos, medos, votos silenciosos, pertencimentos e narrativas herdadas.
 
-Pergunta: de onde isso foi alimentado?
+**Pergunta:** o que continua alimentando essa resposta?
 
-### Solo
-Sistema interno de cultivo: crenças, valores, memória, ambiente, hábitos mentais, fé, cultura e experiências.
+## Tronco
+**Função:** sustentação da identidade no mundo real.
 
-Pergunta: que configuração torna esse padrão fértil?
+Inclui critérios, limites, coerência, autocontrole, soberania interna, autoria e capacidade de manter posição quando existe custo.
 
-### Pragas
-Mecanismos que adoecem qualquer parte da árvore.
+**Pergunta:** eu sustento na prática aquilo que afirmo acreditar?
 
-Pergunta: o que está consumindo energia, deformando leitura ou impedindo crescimento?
+## Galhos
+**Função:** áreas da vida em que a estrutura aparece.
 
-### Poda
-Interrupção consciente do que continua produzindo frutos incompatíveis.
+Incluem relacionamentos, família, trabalho, fé, corpo, dinheiro, comunicação, sexualidade, maternidade, paternidade, política, pertencimento e propósito.
 
-Pergunta: o que precisa deixar de ser alimentado?
+**Pergunta:** em qual área esse padrão está produzindo resultado?
 
-### Nova semente
-Decisão possível, repetida até se tornar novo cultivo.
+## Frutos
+**Função:** resultados, consequências e evidências visíveis.
 
-Pergunta: o que começo a sustentar agora?
+Fruto bom não significa vida perfeita. Fruto ruim não significa condenação. O fruto mostra que existe algo a investigar, mas não identifica sozinho a causa.
 
-## Comandos oficiais
+**Pergunta:** o que minha posição atual está produzindo?
 
-### Observe os frutos
-Uso: início de uma investigação. Suspende explicações e começa pela evidência.
+# 2. Operações e condições de cultivo
 
-### Suba na árvore
-Uso: quando a pessoa está reagindo, julgando rapidamente ou enxergando apenas um fragmento. Significa ampliar o panorama, praticar metacognição e olhar a estrutura.
+## Pragas
+Mecanismos internos ou externos que sugam seiva, deformam percepção ou comprometem qualquer camada da Árvore.
 
-### Deixe na árvore
-Uso: quando culpa, opinião, rótulo, acusação ou interpretação ainda não foram examinados. A pessoa não incorpora nem rejeita imediatamente; deixa sob observação.
+**Pergunta:** o que está drenando energia, distorcendo leitura ou impedindo crescimento?
 
-### Volte para a raiz
-Uso: quando um fruto ou padrão se repete. Busca origem sem transformar origem em desculpa.
+## Poda
+Interrupção consciente de hábitos, permissões, narrativas, ambientes, vínculos ou respostas que continuam produzindo frutos incompatíveis.
 
-### Passe pelo Filtro da Sensatez
-Uso: antes de aceitar uma narrativa, reagir ou tomar decisão com custo real.
+**Pergunta:** o que precisa deixar de ser alimentado?
 
-### Desça da árvore
-Uso: quando já existe discernimento suficiente. Encerra a análise e convoca ação, limite, conversa ou decisão concreta.
+## Nova Semente
+Decisão, prática, limite, resposta ou configuração que será cultivada com repetição.
 
-## Sequência operacional
-1. Observe os frutos.
-2. Suba na árvore.
-3. Deixe julgamentos e narrativas na árvore.
-4. Localize solo, raízes, tronco, galhos e pragas.
+**Pergunta:** o que começo a sustentar agora?
+
+A semente não produz fruto por desejo. Precisa de solo, tempo, cuidado, repetição e posicionamento.
+
+# 3. Ponto de observação
+
+## Mirante do Discernimento
+Não é uma parte anatômica da Árvore. É o lugar metacognitivo de onde o leitor observa a estrutura.
+
+**Pergunta:** de onde estou pensando, sentindo, interpretando e decidindo — da dor, do medo, do grupo, da culpa, da pressa ou do discernimento?
+
+O Cajueiro de Pirangi inaugura esse ponto de vista.
+
+# 4. Duas ordens de leitura
+
+## Ordem estrutural
+Solo → Raízes → Tronco → Galhos → Frutos.
+
+Pragas podem atingir qualquer camada. Poda intervém. Nova Semente reinicia o cultivo. O Mirante oferece perspectiva.
+
+## Ordem de investigação
+1. Olhe os Frutos.
+2. Localize o Galho.
+3. Verifique o Tronco.
+4. Volte para a Raiz.
+5. Examine o Solo.
+6. Identifique Pragas.
+7. Passe pelo Filtro da Sensatez.
+8. Defina Poda e Nova Semente.
+9. Desça da Árvore e sustente o posicionamento.
+
+# 5. Comandos oficiais
+
+## Olhe os Frutos
+**Uso:** início de uma investigação. Suspende a defesa da intenção e começa pela evidência.
+
+“Observe os frutos” pode aparecer como explicação, mas o comando editorial e visual será **Olhe os Frutos**.
+
+## Suba na Árvore
+**Uso:** quando a pessoa está reagindo, julgando rapidamente, emocionalmente inundada ou enxergando apenas um fragmento.
+
+Significa sair por alguns instantes de dentro da reação, ir ao Mirante e observar o panorama, a estrutura e os possíveis nexos.
+
+Subir não é negar emoção. É impedir que a emoção seja a única intérprete.
+
+## Deixe na Árvore
+**Uso:** quando julgamento, culpa, opinião, rótulo, acusação ou interpretação ainda não foram examinados.
+
+A pessoa não incorpora nem rejeita imediatamente. Coloca sob observação, sobe, examina e só depois decide se recolhe, corrige ou descarta.
+
+Nas falas mais coloquiais da autora pode aparecer “deixa na árvore”. Em títulos, comandos, boxes e artes, padronizar **Deixe na Árvore**.
+
+## Volte para a Raiz
+**Uso:** quando um fruto ou padrão se repete e precisa ter sua fonte de alimentação investigada.
+
+Buscar origem nunca significa transformar origem em desculpa nem presumir que todo problema esteja necessariamente na raiz.
+
+## Passe pelo Filtro da Sensatez
+**Uso:** antes de aceitar uma narrativa, aderir a uma influência, reagir, podar ou tomar decisão com custo real.
+
+## Desça da Árvore
+**Uso:** quando já existe discernimento suficiente para uma ação responsável.
+
+Encerra a análise e convoca limite, conversa, reparação, pedido de ajuda, mudança de rota, prática ou decisão concreta.
+
+Metacognição sem descida pode virar ruminação. O método não autoriza morar na análise.
+
+# 6. Comandos do pensamento
+
+## Pense comigo
+Acompanhe o raciocínio até o fim antes de concordar ou discordar.
+
+## Pense nisso
+Pare. Nomeie. Traga à consciência antes de responder.
+
+## Repense isso
+Revise uma interpretação, crença ou configuração à luz de evidências, lógica, coerência e frutos.
+
+# 7. Sequência operacional resumida
+1. Olhe os Frutos.
+2. Deixe o julgamento na Árvore.
+3. Suba na Árvore.
+4. Localize Galho, Tronco, Raiz, Solo e possíveis Pragas.
 5. Passe pelo Filtro da Sensatez.
-6. Decida a poda ou a nova semente.
-7. Desça da árvore e sustente o posicionamento.
+6. Escolha a Poda e a Nova Semente.
+7. Desça da Árvore.
+8. Sustente o posicionamento e volte aos frutos para verificar o resultado.
 
-## Cajueiro do Pirangi
-O storytelling inaugura o comando Suba na árvore. De baixo, o leitor vê confusão de galhos; de cima, percebe estrutura, expansão, conexões e direção. A história não é ornamento: é treinamento de perspectiva.
+# Cajueiro de Pirangi
+O storytelling inaugura o comando **Suba na Árvore**. Debaixo da experiência, o leitor sente peso, sombra, beleza, urgência ou confusão. No Mirante, percebe estrutura, expansão, apoios, conexões e direção.
+
+A história não é ornamento. É treinamento de perspectiva.
