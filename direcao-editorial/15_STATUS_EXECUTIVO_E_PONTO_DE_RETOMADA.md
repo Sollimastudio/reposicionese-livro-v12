@@ -1,6 +1,6 @@
 # Status Executivo e Ponto de Retomada — Reposicione-se™
 
-**Versão:** 2.0  
+**Versão:** 3.0  
 **Data do marco:** 2026-07-20  
 **Branch:** `direcao-editorial-executiva-2026-07-20`  
 **Função:** registrar o estágio operacional mais recente sem substituir as definições conceituais do Registro Mestre.
@@ -25,13 +25,15 @@ Essa versão permanece preservada como base de comparação.
 
 ## Revisão Integral A
 
-Já passaram pela primeira auditoria de progressão, repetição e coerência:
+Já passaram pela primeira auditoria de progressão, repetição, coerência, função conceitual e proteção ética:
 
 - Pré-livro;
 - Parte I — Olhe os Frutos;
 - Parte II — Semente, Solo e Configuração;
 - Parte III — Raízes e Heranças;
-- Parte IV — O Tronco.
+- Parte IV — O Tronco;
+- Parte V — Os Galhos;
+- Parte VI — Pragas, Jaulas e Fugas.
 
 Arquivos revisados:
 
@@ -39,7 +41,9 @@ Arquivos revisados:
 - `revisao-integral/01_PARTE_I_REV_A.md`;
 - `revisao-integral/02_PARTE_II_REV_A.md`;
 - `revisao-integral/03_PARTE_III_REV_A.md`;
-- `revisao-integral/04_PARTE_IV_REV_A.md`.
+- `revisao-integral/04_PARTE_IV_REV_A.md`;
+- `revisao-integral/05_PARTE_V_REV_A.md`;
+- `revisao-integral/06_PARTE_VI_REV_A.md`.
 
 O manuscrito ainda não é final, certificado, diagramado ou aprovado pela autora.
 
@@ -58,9 +62,8 @@ Corrigiu ou encaminhou:
 - Letreiro x Vitrine;
 - Vitrine x 14 Tipos;
 - polarização repetida cedo demais;
-- ponte insuficiente com *Morte em Vida*;
-- padronização de comandos e terminologia;
-- duplicidade inicial de numeração.
+- ponte com *Morte em Vida*;
+- terminologia e numeração inicial.
 
 ## Auditoria Integral 02
 
@@ -72,7 +75,6 @@ Corrigiu ou encaminhou:
 - Raiz x Corrente;
 - lealdades invisíveis;
 - Mapas Herdados;
-- repetição da polarização;
 - identidade x Fuga Identitária;
 - família, fé e autoridade;
 - Tronco x Soberania Interna;
@@ -81,6 +83,30 @@ Corrigiu ou encaminhou:
 - Acordos Conscientes;
 - transições Raízes → Tronco → Galhos;
 - numeração dos Capítulos 7–14.
+
+## Auditoria Integral 03
+
+`direcao-editorial/18_AUDITORIA_INTEGRAL_03_PARTES_V_VI.md`
+
+Corrigiu ou encaminhou:
+
+- Galhos como aplicação, não novos métodos;
+- repetição de Limite, Acordo e Identidade;
+- Relacionamentos;
+- Família como Galho atual;
+- proteção versus controle;
+- trabalho, dinheiro e propósito;
+- fé, comunidade, política e pertencimento;
+- corpo, sexualidade, cuidado e outros Galhos;
+- Praga como mecanismo;
+- Sono da Negligência;
+- Sofá Quente da Mentira;
+- Autopiedade e Autocompaixão;
+- `praga-mãe` como linguagem pedagógica, não diagnóstico;
+- comparação, validação, ressentimento, pensamento binário e influência;
+- Jaula subordinada à Árvore;
+- transição para Filtro e Poda;
+- numeração dos Capítulos 15–26.
 
 ---
 
@@ -112,35 +138,83 @@ Corrigiu ou encaminhou:
 13. O Limite Sagrado.  
 14. Acordos Conscientes.
 
-A duplicidade do Capítulo 6 não existe na linha revisada.
+## Parte V
+
+15. Os Galhos.  
+16. Relacionamentos.  
+17. Família, Proteção e Modelos.  
+18. Trabalho, Dinheiro e Propósito.  
+19. Fé, Comunidade, Política e Pertencimento.  
+20. Corpo, Sexualidade, Cuidado e Outros Galhos.
+
+## Parte VI
+
+21. O que é uma Praga.  
+22. O Sono da Negligência.  
+23. O Sofá Quente da Mentira.  
+24. Autopiedade e Autocompaixão.  
+25. Pragas de Atenção, Pertencimento e Imagem.  
+26. A Jaula e a Porta Possível.
+
+A linha revisada está contínua até o Capítulo 26.
 
 ---
 
 # 4. CORREÇÕES ESTRUTURAIS APLICADAS ATÉ AQUI
+
+## Método
 
 - fruto é evidência, não sentença ou diagnóstico final;
 - ordem estrutural e ordem de investigação foram separadas;
 - Semente inicial foi ensinada;
 - Mirante permanece ponto de observação;
 - Jaula não compete com a Árvore;
-- celular é metáfora pedagógica, sem “nascer zerado” literal;
-- Parábola do Semeador permanece no Solo;
 - Filtro da Influência é aplicação do Filtro da Sensatez;
-- polarização cumpre funções diferentes em Solo, Raízes e Tronco;
+- polarização cumpre funções diferentes em Solo, Raízes, Tronco, Galhos e Pragas.
+
+## Raízes e Tronco
+
 - Raiz foi definida pelo alimento atual, não apenas pela origem;
-- Corrente foi separada de Raiz, dever e compromisso legítimo;
+- Corrente foi separada de dever e compromisso legítimo;
 - Mapas Herdados deixaram de repetir toda a Parte II;
 - Fuga Identitária permanece fio, não tema central;
 - família e fé foram tratadas sem romantização, demonização ou determinismo;
-- honra foi separada de mentira e apagamento;
-- perdão, reconciliação, confiança e acesso foram diferenciados;
+- honra, perdão, reconciliação, confiança e acesso foram diferenciados;
 - Tronco foi separado de Soberania Interna;
 - autoria emocional foi definida sem negar influência, trauma ou contexto;
-- limite foi separado de muro, controle e ameaça;
-- poder, risco e segurança foram integrados aos limites;
-- pedido, limite, acordo e exigência foram diferenciados;
-- contratos invisíveis foram concentrados em Acordos Conscientes;
-- transições Raízes → Tronco e Tronco → Galhos foram fortalecidas.
+- limite foi separado de muro, controle, ameaça e consequência;
+- pedido, limite, acordo e exigência foram diferenciados.
+
+## Galhos
+
+- Galhos foram organizados por localizar, comparar, conectar e transferir recurso;
+- um Galho adoecido não condena a Árvore inteira;
+- um Galho saudável não absolve outro;
+- Relacionamentos aplicam Limites e Acordos sem repetir a Parte IV;
+- família foi tratada como origem e área atual de convivência;
+- `pai presente que não protegeu` permanece pendente de validação;
+- trabalho foi separado de identidade total;
+- dever foi separado de exploração;
+- dinheiro foi tratado com contexto e responsabilidade;
+- afirmações absolutas sobre extrato, dívida, autoestima e precificação foram impedidas;
+- posição cristã e conservadora foi mantida sem imunidade;
+- política foi tratada como convivência, não eixo central;
+- corpo e sexualidade receberam marcadores de revisão especializada.
+
+## Pragas
+
+- Praga foi definida por repetição, drenagem, distorção, resistência à revisão e fruto;
+- emoção difícil foi separada de Praga;
+- interno não significa culpa;
+- Sono da Negligência foi separado de sobrecarga, luto e preparação;
+- Sofá Quente foi separado de descanso, cautela e segurança;
+- resistência do leitor não prova acerto da autora;
+- Autopiedade foi separada de dor, trauma, denúncia, ajuda e Autocompaixão;
+- `praga-mãe` foi mantida como linguagem pedagógica, não diagnóstico clínico;
+- pensamento binário não foi usado para relativizar violência ou mentira;
+- Fuga Identitária permaneceu fio;
+- Jaula foi reafirmada como intervenção, não taxonomia concorrente;
+- porta possível considera segurança, tempo, poder e recursos.
 
 ---
 
@@ -170,10 +244,11 @@ Nenhum corte ou fusão deverá ocorrer sem destino registrado.
 
 - governança editorial;
 - primeira versão estrutural integral;
-- Revisão A do Pré-livro e Partes I–IV;
-- auditorias 01 e 02;
-- numeração revisada até o Capítulo 14;
-- relatórios comparativos do início e das Partes III–IV.
+- Revisão A do Pré-livro e Partes I–VI;
+- auditorias 01, 02 e 03;
+- numeração revisada até o Capítulo 26;
+- relatórios comparativos do início, Partes III–IV e Partes V–VI;
+- painel de leitura atualizado.
 
 ## Em andamento
 
@@ -184,7 +259,7 @@ Nenhum corte ou fusão deverá ocorrer sem destino registrado.
 
 ## Ainda não concluído
 
-- Revisão A das Partes V–VIII;
+- Revisão A das Partes VII–VIII;
 - manuscrito canônico consolidado;
 - confronto integral com DOCX/PDF anteriores;
 - verificação factual completa;
@@ -205,17 +280,28 @@ Nenhum corte ou fusão deverá ocorrer sem destino registrado.
 
 # 7. PENDÊNCIAS AUTORAIS E ESPECIALIZADAS ABERTAS
 
+## Autorais
+
 - validar a cena do batom vermelho;
 - definir histórias pessoais publicáveis;
-- decidir o uso de “feminicídio emocional”;
+- decidir o uso de `feminicídio emocional`;
 - confirmar `Deixe na Árvore` como forma principal;
 - confirmar `Volte para a Raiz` como comando visual ou orientação;
-- validar o termo `autoria emocional`;
+- validar `autoria emocional`;
 - decidir se o roteiro de cinco movimentos do limite terá nome próprio;
-- definir política de referências bíblicas;
-- revisar honra, submissão, autoridade e perdão;
-- revisar juridicamente coerção, risco e casos identificáveis;
-- recuperar arquivos binários canônicos.
+- validar o conteúdo `pai presente que não protegeu`;
+- validar histórias ligadas a trabalho, dinheiro e família;
+- confirmar destaque definitivo de `praga-mãe`.
+
+## Especializadas
+
+- política de referências bíblicas;
+- honra, submissão, autoridade, perdão, cruz e espera em Deus;
+- coerção, risco, consentimento e histórias identificáveis;
+- linguagem de trauma e sistema nervoso;
+- corpo e sintomas;
+- relações de trabalho e orientação financeira;
+- recuperação dos arquivos binários canônicos.
 
 Nenhuma pendência autoriza improvisação silenciosa.
 
@@ -245,49 +331,42 @@ A autora ainda precisa validar cortes, intensidade, histórias, títulos e termo
 
 # 9. PRÓXIMO PONTO DE RETOMADA
 
-**Tarefa:** Auditoria Integral 03 e Revisão Integral A das Partes V e VI.
+**Tarefa:** Auditoria Integral 04 e Revisão Integral A das Partes VII e VIII.
 
-## Parte V — Galhos
-
-Revisar:
-
-- Relacionamentos;
-- Família como Galho;
-- Trabalho;
-- dinheiro e responsabilidade;
-- fé e comunidade;
-- política e convivência;
-- comunicação;
-- pertencimento;
-- propósito;
-- repetição de limites e acordos já ensinados no Tronco.
-
-## Parte VI — Pragas, Jaulas e Fugas
+## Parte VII — Filtro, Poda e Posicionamento
 
 Revisar:
 
-- definição de Praga como mecanismo;
-- Autopiedade como praga-mãe;
-- Sono da Negligência;
-- Sofá Quente da Mentira;
-- ressentimento;
-- comparação;
-- validação externa;
-- culpa paralisante;
-- pensamento binário;
-- polarização rígida;
-- influência digital;
-- Fuga Identitária como fio;
-- uso ético da Jaula;
-- transição para Filtro, Poda e Posicionamento.
+- 12 perguntas oficiais do Filtro da Sensatez;
+- Arte de Ouvir Verdades;
+- diferença entre avaliar e condenar;
+- Poda sem impulso, vingança ou abandono de dever;
+- posicionamento saudável, tóxico e morno;
+- 14 Tipos de Posicionamento;
+- distribuição das 14 Leis;
+- transição da análise para decisão.
+
+## Parte VIII — Nova Semente e Novos Frutos
+
+Revisar:
+
+- Nova Semente;
+- cultivo, repetição e revisão;
+- acompanhamento de evidências;
+- sete frutos do posicionamento;
+- retorno ao diagnóstico inicial;
+- encerramento;
+- Epílogo;
+- numeração final.
 
 ## Entregáveis
 
-1. `direcao-editorial/18_AUDITORIA_INTEGRAL_03_PARTES_V_VI.md`;
-2. `revisao-integral/05_PARTE_V_REV_A.md`;
-3. `revisao-integral/06_PARTE_VI_REV_A.md`;
+1. `direcao-editorial/19_AUDITORIA_INTEGRAL_04_PARTES_VII_VIII.md`;
+2. `revisao-integral/07_PARTE_VII_REV_A.md`;
+3. `revisao-integral/08_PARTE_VIII_REV_A.md`;
 4. relatório comparativo;
-5. painel e status atualizados.
+5. painel e status atualizados;
+6. proposta de numeração final completa.
 
 ---
 
@@ -299,8 +378,8 @@ Antes da próxima rodada, ler:
 2. Registro Mestre de Contexto;
 3. Matriz de Não Perda;
 4. Protocolo de Continuidade sem Fadiga;
-5. Auditoria Integral 03 quando criada;
-6. arquivos estruturais das Partes V e VI;
-7. Revisão A das Partes III e IV para preservar transições.
+5. Auditoria Integral 04 quando criada;
+6. arquivos estruturais das Partes VII e VIII;
+7. Revisão A das Partes V e VI para preservar a transição.
 
-> O manuscrito estrutural está inteiro. A Revisão A agora alcança o Tronco. O próximo passo é levar a mesma precisão aos Galhos e às Pragas sem permitir que aplicações ou confrontos sequestrarem a Árvore.
+> O manuscrito estrutural está inteiro. A Revisão A alcança agora os Galhos e as Pragas. O próximo passo é concluir Filtro, Poda, Posicionamento, Nova Semente e Novos Frutos sem transformar o encerramento em repetição ou motivação vaga.
