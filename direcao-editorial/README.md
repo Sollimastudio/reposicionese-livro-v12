@@ -14,12 +14,15 @@ Este diretório registra a governança editorial canônica da obra e as decisõe
 - `08_PLANO_DE_REESTRUTURACAO_E_PUBLICACAO.md` — fases, base de trabalho e entregáveis.
 - `09_AUDITORIA_DE_COERENCIA_E_RISCOS.md` — contradições, riscos e correções obrigatórias.
 - `10_MATRIZ_CAPITULO_A_CAPITULO.md` — decisão editorial para o pré-livro, 25 capítulos e apêndices.
+- `11_INVENTARIO_DE_AFIRMACOES_FACTUAIS.md` — ciência, psicologia, violência, Bíblia, direito, ambiente digital e histórias reais a verificar.
 
 ## Manuscrito V13
 A reconstrução textual foi iniciada sem apagar a extração anterior:
 - `manuscrito-v13/00_PRE_LIVRO_MAPA_DE_NAVEGACAO.md` — pacto de leitura, posição autoral, frutos, Cajueiro, Árvore, comandos e Filtro.
 - `manuscrito-v13/01_PARTE_I_OLHE_OS_FRUTOS.md` — capítulos reestruturados “A Vitrine da Vida” e “A Morte em Vida”.
-- `manuscrito-v13/_RASTREABILIDADE_LOTE_01_PARTE_I.md` — origens, movimentos, cortes, riscos e pendências do primeiro lote.
+- `manuscrito-v13/02_PARTE_II_SOLO_SEMENTES_E_CONFIGURACAO.md` — Solo, Parábola do Semeador, celular, ambiente digital, crenças, valores e modo operante.
+- `manuscrito-v13/_RASTREABILIDADE_LOTE_01_PARTE_I.md` — origens, movimentos, cortes, riscos e pendências da Parte I.
+- `manuscrito-v13/_RASTREABILIDADE_LOTE_02_PARTE_II.md` — rastreabilidade da Parte II.
 
 ## Correções já executadas
 - separação entre ordem estrutural e ordem de investigação da Árvore;
@@ -34,25 +37,29 @@ A reconstrução textual foi iniciada sem apagar a extração anterior:
 - riscos de culpabilização, absolutos e contradições registrados;
 - pré-livro V13 criado;
 - Parte I V13 criada;
-- Parábola do Semeador e Sistema Operacional movidos para a Parte II;
-- conteúdo técnico não verificado colocado em auditoria factual;
-- trechos sobre violência e controle reescritos com proteção ética.
+- Parte II V13 criada;
+- Parábola do Semeador colocada no Solo;
+- celular reformulado sem “nascer zerado” literal;
+- conteúdo técnico não verificado separado em inventário factual;
+- trechos sobre violência e controle reescritos com proteção ética;
+- alegações retóricas, científicas e jurídicas classificadas por risco.
 
 ## Estado atual
 - **Fase 1 — governança:** concluída e revisada.
-- **Fase 2 — auditoria:** matriz inicial concluída; auditoria linha a linha em andamento.
-- **Fase 3 — reestruturação textual:** pré-livro e Parte I concluídos em primeira versão editorial.
+- **Fase 2 — auditoria:** matriz e inventário factual criados; auditoria linha a linha em andamento.
+- **Fase 3 — reestruturação textual:** pré-livro, Parte I e Parte II concluídos em primeira versão editorial.
 - **Banco visual:** mapa editorial concluído; inventário técnico aguarda os originais aprovados.
 - **DOCX canônico:** aguarda recuperação e confronto das versões binárias concorrentes.
 
 ## Próximo marco
-Construir a Parte II — **Solo, Sementes e Configuração**, reunindo e reescrevendo:
-- Parábola do Semeador;
-- metáfora do celular e Sistema Operacional Interno;
-- crenças, valores e permissões;
-- algoritmo, telas e economia da atenção;
-- polarização como ambiente interpretativo;
-- Filtro da Influência;
-- Leis 3, 4, 5 e 6.
+Construir a Parte III — **Raízes e Heranças**, reunindo e reescrevendo:
+- A Corrente;
+- mapas herdados;
+- crenças profundas e lealdades invisíveis;
+- modelos de amor, autoridade, família e fé;
+- papel de pais e cuidadores sem generalização nem causalidade automática;
+- arquétipos somente se forem sustentados e não criarem método paralelo;
+- Leis 2, 7 e 8;
+- Jaula da repetição e das lealdades invisíveis.
 
-Em paralelo, abrir o inventário de afirmações factuais que precisam de fonte ou reformulação.
+Em paralelo, iniciar a verificação por fontes primárias do inventário factual.
