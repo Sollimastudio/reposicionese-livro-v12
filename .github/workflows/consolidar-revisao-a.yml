@@ -1,0 +1,51 @@
+name: Consolidar Revisão A
+
+on:
+  push:
+    branches:
+      - direcao-editorial-executiva-2026-07-20
+    paths:
+      - "revisao-integral/**"
+      - "scripts/consolidar_revisao_a.py"
+      - "manuscrito-canonico-rev-a/SUMARIO_REV_A.md"
+      - ".github/workflows/consolidar-revisao-a.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: consolidar-revisao-a-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  consolidar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Obter repositório
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 0
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Gerar e validar manuscrito
+        run: python scripts/consolidar_revisao_a.py
+
+      - name: Versionar resultado quando houver mudança
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add manuscrito-canonico-rev-a/REPOSICIONESE_REV_A_CONSOLIDADO.md
+          if git diff --cached --quiet; then
+            echo "O consolidado já está atualizado."
+          else
+            git commit -m "Gera manuscrito canônico consolidado da Revisão A"
+            git push
+          fi

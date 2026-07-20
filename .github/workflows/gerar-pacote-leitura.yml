@@ -1,0 +1,96 @@
+name: Gerar pacote de leitura do manuscrito
+
+on:
+  push:
+    branches:
+      - direcao-editorial-executiva-2026-07-20
+    paths:
+      - "scripts/preparar_manuscrito_leitura.py"
+      - ".github/workflows/gerar-pacote-leitura.yml"
+      - "manuscrito-canonico-rev-a/REPOSICIONESE_REV_A_CONSOLIDADO.md"
+      - "revisao-integral/**"
+  pull_request:
+    branches:
+      - main
+    paths:
+      - "scripts/preparar_manuscrito_leitura.py"
+      - ".github/workflows/gerar-pacote-leitura.yml"
+      - "manuscrito-canonico-rev-a/REPOSICIONESE_REV_A_CONSOLIDADO.md"
+      - "revisao-integral/**"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Obter repositório
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha || github.sha }}
+          fetch-depth: 0
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar ferramentas editoriais
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc libreoffice-writer fonts-liberation
+
+      - name: Preparar manuscrito limpo
+        run: python scripts/preparar_manuscrito_leitura.py
+
+      - name: Gerar DOCX com sumário
+        run: |
+          pandoc dist-leitura/REPOSICIONESE_MANUSCRITO_COMPLETO_REV_A.md \
+            --from=markdown+yaml_metadata_block \
+            --to=docx \
+            --toc \
+            --toc-depth=2 \
+            --metadata title="REPOSICIONE-SE™" \
+            --metadata subtitle="Método da Árvore do Discernimento" \
+            --metadata author="Sol Lima" \
+            -o dist-leitura/REPOSICIONESE_MANUSCRITO_COMPLETO_REV_A.docx
+
+      - name: Gerar PDF para leitura
+        run: |
+          mkdir -p dist-leitura/pdf
+          libreoffice --headless --convert-to pdf \
+            --outdir dist-leitura/pdf \
+            dist-leitura/REPOSICIONESE_MANUSCRITO_COMPLETO_REV_A.docx
+          mv dist-leitura/pdf/REPOSICIONESE_MANUSCRITO_COMPLETO_REV_A.pdf \
+             dist-leitura/REPOSICIONESE_MANUSCRITO_COMPLETO_REV_A.pdf
+          rmdir dist-leitura/pdf
+
+      - name: Validar arquivos
+        shell: bash
+        run: |
+          test -s dist-leitura/REPOSICIONESE_MANUSCRITO_COMPLETO_REV_A.md
+          test -s dist-leitura/REPOSICIONESE_MANUSCRITO_COMPLETO_REV_A.docx
+          test -s dist-leitura/REPOSICIONESE_MANUSCRITO_COMPLETO_REV_A.pdf
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          text = Path('dist-leitura/REPOSICIONESE_MANUSCRITO_COMPLETO_REV_A.md').read_text(encoding='utf-8')
+          chapters = [int(x) for x in re.findall(r'^# CAP[IÍ]TULO\s+(\d+)\b', text, flags=re.M|re.I)]
+          assert chapters == list(range(1, 39)), chapters
+          assert re.search(r'^# EP[IÍ]LOGO\b', text, flags=re.M|re.I)
+          print('Validação concluída: 38 capítulos e Epílogo.')
+          PY
+
+      - name: Publicar pacote de leitura
+        uses: actions/upload-artifact@v4
+        with:
+          name: reposicionese-manuscrito-completo-rev-a
+          path: |
+            dist-leitura/REPOSICIONESE_MANUSCRITO_COMPLETO_REV_A.md
+            dist-leitura/REPOSICIONESE_MANUSCRITO_COMPLETO_REV_A.docx
+            dist-leitura/REPOSICIONESE_MANUSCRITO_COMPLETO_REV_A.pdf
+          if-no-files-found: error
+          retention-days: 30
