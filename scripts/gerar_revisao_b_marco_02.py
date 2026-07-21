@@ -3,7 +3,8 @@
 
 O Marco 02 reúne Pré-livro e Partes I–III na Revisão B. As Partes IV–VIII
 permanecem herdadas da Revisão A no manuscrito contínuo. Nenhum marco anterior
-ou arquivo da Revisão A é alterado.
+ou arquivo da Revisão A é alterado. A saída contínua também alimenta a medição
+editorial da amostra Kindle.
 """
 
 from __future__ import annotations
@@ -70,7 +71,7 @@ toc-title: "SUMÁRIO"
 > **{note}**  
 > Gerado em {generated}. A Revisão A e o Marco 01 permanecem preservados.
 
-\\newpage
+\newpage
 '''
 
 
