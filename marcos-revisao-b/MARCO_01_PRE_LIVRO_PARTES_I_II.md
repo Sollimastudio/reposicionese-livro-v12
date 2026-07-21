@@ -8,7 +8,7 @@ toc-title: "SUMÁRIO"
 ---
 
 > **MARCO 01 DA REVISÃO B — Pré-livro, Parte I e Parte II revisados.**  
-> Gerado em 2026-07-21T22:41:58+00:00. A Revisão A permanece preservada como referência histórica.
+> Gerado em 2026-07-21T22:44:47+00:00. A Revisão A permanece preservada como referência histórica.
 
 \newpage
 <!-- FONTE: revisao-b-global/03_ONDA_1_PRE_LIVRO_REV_B.md | STATUS: REVISÃO B -->
@@ -50,7 +50,7 @@ A questão não é se você está posicionada.
 
 A questão é:
 
-> A posição que você ocupa está produzindo os frutos que deseja continuar colhendo?
+> **A posição que você ocupa está produzindo os frutos que deseja continuar colhendo?**
 
 Você pode dizer que quer paz e alimentar toda guerra que encontra.
 
@@ -59,6 +59,23 @@ Pode desejar respeito e negociar o próprio limite antes que alguém precise pre
 Pode defender liberdade e entregar a consciência ao grupo que oferece pertencimento.
 
 Pode afirmar que pensa por si e consumir apenas aquilo que confirma o que já acredita.
+
+Também pode estar fazendo coisas que funcionam.
+
+Pode ter aprendido a pedir tempo antes de responder.
+
+Pode ter construído uma amizade em que verdade não ameaça pertencimento.
+
+Pode sustentar um valor num Galho da vida e ainda não perceber que esse recurso pode fortalecer outro.
+
+Este livro não foi escrito apenas para encontrar o que está errado.
+
+Foi escrito para ajudar você a reconhecer:
+
+- o que produz dano e precisa ser investigado;
+- o que produz vida e merece ser nutrido;
+- o que foi repetido sem exame;
+- o que funciona e precisa ser repetido com consciência.
 
 Isso não significa que todo fruto foi causado por você.
 
@@ -89,6 +106,8 @@ Por enquanto, observe:
 - Seus limites existem na realidade ou apenas dentro da sua cabeça?
 - Sua fé produz vida, responsabilidade e coragem — ou culpa, dependência e apagamento?
 - Você sabe o que pensa antes de abrir a rede para descobrir o que deveria pensar?
+- Que escolha recente produziu um fruto que você deseja repetir?
+- Que ambiente ajuda você a pensar com mais clareza?
 
 Não responda bonito.
 
@@ -96,7 +115,105 @@ Responda verdadeiro.
 
 Você não é o fruto estragado.
 
-É a pessoa que pode investigar o cultivo.
+Também não precisa desprezar os frutos bons como se fossem acaso.
+
+Você é a pessoa que pode investigar o cultivo.
+
+> **Pelos frutos ruins, reconheça o que pede atenção.**
+>
+> **Pelos bons frutos, reconheça o que merece cuidado, proteção e repetição.**
+
+---
+
+# O QUE ESTE LIVRO VAI TREINAR EM VOCÊ
+
+Este livro não foi escrito para dizer o que você deve pensar.
+
+Foi escrito para ensinar você a perceber **como está pensando** antes de acreditar, repetir, reagir ou decidir.
+
+Essa capacidade tem um nome: **metacognição**.
+
+Metacognição é perceber o próprio pensamento enquanto ele está se formando.
+
+É conseguir perguntar:
+
+- o que aconteceu de fato?
+- o que interpretei?
+- o que senti?
+- que voz participou dessa interpretação?
+- que medo, desejo ou pertencimento está pressionando minha conclusão?
+- que fruto minha resposta tende a produzir?
+
+Não é pensar sem parar.
+
+Não é desconfiar de tudo até ficar paralisada.
+
+Não é transformar a vida numa análise interminável.
+
+Metacognição cria um intervalo.
+
+Um espaço entre o estímulo e a resposta.
+
+Entre a influência e a adesão.
+
+Entre a emoção e a decisão.
+
+Entre aquilo que chegou até você e o lugar que receberá dentro da sua consciência.
+
+Ao terminar esta jornada, você deverá conseguir:
+
+1. observar um fruto sem transformá-lo em identidade;
+2. distinguir fato, interpretação, emoção, narrativa e influência;
+3. reconhecer quando está reagindo no automático;
+4. identificar quando um grupo, líder, algoritmo, papel ou medo está pensando em seu lugar;
+5. aprender com outras pessoas sem entregar a elas o governo da sua consciência;
+6. reconhecer o que funciona e fortalecer esse cultivo;
+7. assumir a responsabilidade que realmente lhe pertence;
+8. passar decisões pelo Filtro da Sensatez;
+9. interromper o que precisa perder acesso;
+10. plantar e repetir uma prática diferente;
+11. descer da Árvore e tornar o discernimento visível na vida real.
+
+Você não terminará este livro sabendo tudo.
+
+Terminará sabendo **examinar melhor antes de acreditar, repetir, reagir ou decidir**.
+
+---
+
+# SUA PRIMEIRA SUBIDA
+## Um exercício de noventa segundos
+
+Antes de conhecer toda a Árvore, experimente o movimento.
+
+Escolha uma frase, notícia, comentário ou situação recente que tenha irritado, agradado, assustado ou empolgado você.
+
+Não escolha o maior problema da sua vida.
+
+Escolha algo que consiga observar agora.
+
+Pergunte:
+
+1. O que aconteceu de fato?
+2. O que acrescentei ao fato por interpretação?
+3. O que senti?
+4. O que tive vontade de fazer imediatamente?
+5. Quem ou o que ensinou essa forma de interpretar?
+6. Que fruto minha resposta automática provavelmente produziria?
+7. O que ainda preciso verificar?
+
+Talvez sua primeira conclusão permaneça correta.
+
+Talvez precise ser ampliada.
+
+Talvez descubra que a emoção trouxe informação, mas tentou também entregar um veredito.
+
+Talvez perceba que uma voz externa já estava respondendo dentro de você.
+
+Esse pequeno intervalo é o início da metacognição.
+
+> **SUBA NA ÁRVORE.**
+>
+> Não para fugir do que sente. Para enxergar antes de entregar o governo à primeira resposta.
 
 ---
 
@@ -126,7 +243,7 @@ A responsabilidade pelo dano pertence a quem o praticou.
 
 Mas havia uma pergunta que eu já não podia evitar:
 
-> O que minhas permanências estavam comunicando sobre o acesso que eu continuava permitindo?
+> **O que minhas permanências estavam comunicando sobre o acesso que eu continuava permitindo?**
 
 Foi aí que o posicionamento deixou de parecer apenas uma fala firme.
 
@@ -178,6 +295,7 @@ Da Árvore, pode perguntar:
 - que Solo tornou aquela resposta fértil?
 - que Praga drenou o cultivo?
 - que Poda precisa ser considerada?
+- que parte saudável da Árvore já oferece recurso?
 
 A Árvore do Discernimento nasceu para organizar essa investigação.
 
@@ -199,17 +317,7 @@ A estrutura da Árvore é:
 
 Aquilo que entra no cultivo.
 
-Uma frase.
-
-Uma experiência.
-
-Uma interpretação.
-
-Uma promessa.
-
-Uma informação.
-
-Uma crença.
+Uma frase, experiência, interpretação, promessa, informação, crença ou possibilidade.
 
 ## Solo
 
@@ -219,11 +327,11 @@ Família, cultura, fé, escola, território, redes, comunidade e época particip
 
 ## Raízes
 
-Aquilo que continua alimentando um padrão hoje.
+Aquilo de onde um padrão continua retirando força hoje.
 
 A origem importa.
 
-O alimento atual decide se o padrão permanece vivo.
+O alimento atual ajuda a decidir se o padrão permanece vivo.
 
 ## Tronco
 
@@ -263,17 +371,25 @@ A prática que ocupará o espaço aberto.
 
 Porque parar um padrão não ensina, sozinho, um novo modo de viver.
 
+## Mirante do Discernimento
+
+O Mirante não é outra parte da Árvore.
+
+É o ponto de observação metacognitivo.
+
+É de onde você olha para o fruto sem se reduzir a ele, examina a estrutura e decide quando precisa descer para agir.
+
 ---
 
 # DUAS ORDENS
 
 A Árvore possui uma ordem estrutural:
 
-> Semente → Solo → Raízes → Tronco → Galhos → Frutos.
+> **Semente → Solo → Raízes → Tronco → Galhos → Frutos.**
 
 Mas a investigação começa pelo que já pode ser visto:
 
-> Frutos → Galhos → Tronco → Raízes → Solo → Sementes → Pragas → Poda → Nova Semente.
+> **Frutos → Galhos → Tronco → Raízes → Solo → Sementes → Pragas → Filtro → Poda → Nova Semente → ação.**
 
 Você não precisa descobrir toda a infância para começar a observar um fruto.
 
@@ -284,6 +400,8 @@ O método se move entre evidência e estrutura.
 Entre presente e origem.
 
 Entre compreensão e decisão.
+
+Entre reconhecer o que precisa mudar e proteger o que já produz vida.
 
 ---
 
@@ -297,9 +415,13 @@ Sem sentença.
 
 Sem maquiagem.
 
+Observe também o que funciona.
+
 ## Suba na Árvore
 
 Amplie o panorama antes de reagir.
+
+Perceba como está pensando enquanto pensa.
 
 ## Deixe na Árvore
 
@@ -354,6 +476,42 @@ Em decisões de alto custo, use-o por inteiro.
 
 Em situações simples, permita que as perguntas já incorporadas façam seu trabalho.
 
+O objetivo não é desconfiar de todas as pessoas.
+
+É impedir que qualquer voz receba governo automático.
+
+> **Pensar por si é aprender com muitas vozes sem entregar a nenhuma delas o governo da sua consciência.**
+
+---
+
+# POLARIZAÇÃO, INFLUÊNCIA E FUGA IDENTITÁRIA
+
+Esses temas aparecerão em diferentes partes do livro porque parecem assuntos diferentes, mas podem compartilhar o mesmo mecanismo:
+
+> **a terceirização da consciência.**
+
+Na polarização, o grupo oferece respostas prontas e pune perguntas.
+
+Na influência contínua, uma voz ganha acesso antes que você perceba que está sendo conduzida.
+
+Na Fuga Identitária, um papel, causa, dor, rótulo ou pertencimento começa a responder pela pessoa inteira.
+
+O problema não é pertencer.
+
+O problema não é aprender.
+
+O problema não é receber influência.
+
+O problema começa quando você deixa de perceber quem participa das suas conclusões.
+
+Ao longo da leitura, volte a três perguntas:
+
+> **Estou aprendendo com esta voz ou entregando a ela o trabalho que pertence à minha consciência?**
+
+> **Consigo pertencer sem desaparecer?**
+
+> **Esta identificação amplia minha consciência ou está substituindo quem sou?**
+
 ---
 
 # DE ONDE EU ESCREVO
@@ -390,7 +548,7 @@ Eu vou me posicionar neste livro.
 
 E vou exigir de mim a mesma pergunta que farei a você:
 
-> Que fruto esta forma de pensar está produzindo?
+> **Que fruto esta forma de pensar está produzindo?**
 
 Você poderá concordar comigo.
 
@@ -423,9 +581,9 @@ Este livro não autoriza você a:
 - culpabilizar quem sofreu violência;
 - usar limite para punir;
 - usar verdade para humilhar;
-- usar fé para impedir uma investigação responsável.
-
-Você não é responsável pela decisão de quem agrediu, manipulou, traiu, perseguiu ou abandonou você.
+- usar fé para impedir uma investigação responsável;
+- usar “pensar por si” como desculpa para rejeitar toda aprendizagem;
+- usar metacognição para ruminar sem agir.
 
 Quem praticou o dano responde pelo que fez.
 
@@ -435,7 +593,7 @@ Autoresponsabilidade não apaga essas realidades.
 
 Ela pergunta:
 
-> Diante do que aconteceu e das condições reais de hoje, qual é o próximo movimento possível dentro da minha esfera?
+> **Diante do que aconteceu e das condições reais de hoje, qual é o próximo movimento possível dentro da minha esfera?**
 
 Às vezes, esse movimento é falar.
 
@@ -471,7 +629,7 @@ O livro anterior perguntou:
 
 Este livro pergunta:
 
-> Como eu paro de desaparecer, recupero discernimento e sustento uma posição na vida real?
+> **Como eu paro de desaparecer, recupero discernimento e sustento uma posição na vida real?**
 
 A resposta não será uma frase de motivação.
 
@@ -479,13 +637,18 @@ Será uma Árvore.
 
 ---
 
-# COMO LER ESTE LIVRO
+# COMO USAR ESTE LIVRO
+## Um contrato de transformação, não apenas uma orientação de leitura
 
 Não tente consertar sua vida inteira de uma vez.
 
 Escolha um fruto real.
 
-Acompanhe a investigação.
+Pode ser um fruto que incomoda.
+
+Pode ser também um fruto bom que você deseja compreender, proteger e repetir.
+
+Acompanhe a mesma investigação ao longo das Partes sempre que for possível.
 
 Faça anotações.
 
@@ -493,19 +656,41 @@ Marque aquilo que incomoda, mas não use o incômodo como prova automática de v
 
 Quando uma frase tocar identidade, deixe-a na Árvore antes de obedecer à primeira reação.
 
+Quando uma influência pedir urgência, verifique o acesso que ela deseja receber.
+
+Quando reconhecer um bom fruto, investigue que valor, ambiente, vínculo ou prática o sustentou.
+
 Quando compreender, procure a ação possível.
+
+Use este livro em cinco movimentos:
+
+1. **Observe:** o que aconteceu e que fruto apareceu?
+2. **Suba:** como estou pensando, sentindo e interpretando?
+3. **Investigue:** que parte da Árvore participa disso?
+4. **Filtre:** o que é fato, narrativa, influência e responsabilidade?
+5. **Desça:** que ação, Poda ou Nova Semente tornará o discernimento visível?
+
+Ao final, você não precisará depender da autora para repetir o método.
+
+Você deverá conseguir usá-lo diante de um novo fruto.
 
 Este livro não termina na consciência.
 
-Ele termina quando você desce da Árvore e sustenta uma escolha.
+Também não termina na última página.
 
-> **Observe os Frutos.**
+Ele continua cada vez que você percebe uma reação, verifica uma influência, reconhece um bom fruto, revisa uma conclusão e sustenta uma escolha.
+
+> **OBSERVE OS FRUTOS.**
 >
-> **Suba na Árvore.**
+> **SUBA NA ÁRVORE.**
 >
-> **Passe pelo Filtro.**
+> **PASSE PELO FILTRO.**
 >
-> **Depois, desça.**
+> **DEPOIS, DESÇA.**
+
+A Parte I começa naquilo que sua vida já mostra antes de qualquer explicação:
+
+> **a Vitrine e os frutos visíveis do posicionamento que você já ocupa.**
 
 <!-- FIM DA FONTE: revisao-b-global/03_ONDA_1_PRE_LIVRO_REV_B.md -->
 
