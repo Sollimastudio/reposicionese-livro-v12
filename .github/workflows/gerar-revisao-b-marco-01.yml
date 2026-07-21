@@ -34,7 +34,7 @@ jobs:
       - name: Obter repositório
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.event.pull_request.head.sha || github.sha }}
+          ref: revisao-b-global-2026-07-20
           fetch-depth: 0
 
       - name: Proteger Revisão A
@@ -107,7 +107,6 @@ jobs:
           PY
 
       - name: Versionar os Markdown gerados
-        if: github.event_name == 'push'
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
@@ -118,7 +117,7 @@ jobs:
             echo "Os manuscritos Markdown já estão atualizados."
           else
             git commit -m "Atualiza manuscrito contínuo B e Marco 01"
-            git push
+            git push origin HEAD:revisao-b-global-2026-07-20
           fi
 
       - name: Publicar pacote de leitura do Marco 01
@@ -126,6 +125,7 @@ jobs:
         with:
           name: reposicionese-revisao-b-marco-01
           path: |
+            manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md
             marcos-revisao-b/MARCO_01_PRE_LIVRO_PARTES_I_II.md
             dist-revisao-b/REPOSICIONESE_REV_B_MARCO_01_PRE_LIVRO_PARTES_I_II.docx
             dist-revisao-b/REPOSICIONESE_REV_B_MARCO_01_PRE_LIVRO_PARTES_I_II.pdf
