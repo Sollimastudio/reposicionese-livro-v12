@@ -69,6 +69,7 @@ jobs:
             --to=docx \
             --toc \
             --toc-depth=2 \
+            --metadata toc-title="SUMÁRIO" \
             --metadata title="REPOSICIONE-SE™" \
             --metadata subtitle="Método da Árvore do Discernimento — Revisão B — Marco 01" \
             --metadata author="Sol Lima" \
@@ -101,6 +102,7 @@ jobs:
           assert full_chapters == list(range(1, 39)), full_chapters
           assert mark_chapters == list(range(1, 7)), mark_chapters
           assert re.search(r'^# EP[IÍ]LOGO\b', full, flags=re.M|re.I)
+          assert 'toc-title: "SUMÁRIO"' in mark
           print('Validação concluída: contínuo 1–38 + Epílogo; Marco 01 capítulos 1–6.')
           PY
 
