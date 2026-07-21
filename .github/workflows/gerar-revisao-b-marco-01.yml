@@ -1,0 +1,131 @@
+name: Gerar Revisão B — Marco 01
+
+on:
+  push:
+    branches:
+      - revisao-b-global-2026-07-20
+    paths:
+      - "revisao-b-global/03_ONDA_1_PRE_LIVRO_REV_B.md"
+      - "revisao-b-global/04_ONDA_1_PARTE_I_REV_B.md"
+      - "revisao-b-global/05_ONDA_2_PARTE_II_REV_B.md"
+      - "scripts/gerar_revisao_b_continua.py"
+      - ".github/workflows/gerar-revisao-b-marco-01.yml"
+  pull_request:
+    branches:
+      - direcao-editorial-executiva-2026-07-20
+    paths:
+      - "revisao-b-global/**"
+      - "scripts/gerar_revisao_b_continua.py"
+      - ".github/workflows/gerar-revisao-b-marco-01.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: revisao-b-marco-01-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Obter repositório
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha || github.sha }}
+          fetch-depth: 0
+
+      - name: Proteger Revisão A
+        shell: bash
+        run: |
+          git diff --exit-code 3c0338bdb13d6c2c66216a3bd18b3f3603a5faa2 -- \
+            revisao-integral \
+            manuscrito-canonico-rev-a \
+            manuscrito-v13 \
+            revisao-autoral \
+            LER_AGORA_REPOSICIONESE_REV_A.md \
+            VISUALIZAR_REVISAO_INTEGRAL_A.md
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar ferramentas editoriais
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc libreoffice-writer fonts-liberation
+
+      - name: Gerar manuscrito contínuo e Marco 01
+        run: python scripts/gerar_revisao_b_continua.py
+
+      - name: Gerar DOCX do Marco 01
+        run: |
+          mkdir -p dist-revisao-b
+          pandoc marcos-revisao-b/MARCO_01_PRE_LIVRO_PARTES_I_II.md \
+            --from=markdown+yaml_metadata_block \
+            --to=docx \
+            --toc \
+            --toc-depth=2 \
+            --metadata title="REPOSICIONE-SE™" \
+            --metadata subtitle="Método da Árvore do Discernimento — Revisão B — Marco 01" \
+            --metadata author="Sol Lima" \
+            -o dist-revisao-b/REPOSICIONESE_REV_B_MARCO_01_PRE_LIVRO_PARTES_I_II.docx
+
+      - name: Gerar PDF do Marco 01
+        run: |
+          mkdir -p dist-revisao-b/pdf
+          libreoffice --headless --convert-to pdf \
+            --outdir dist-revisao-b/pdf \
+            dist-revisao-b/REPOSICIONESE_REV_B_MARCO_01_PRE_LIVRO_PARTES_I_II.docx
+          mv dist-revisao-b/pdf/REPOSICIONESE_REV_B_MARCO_01_PRE_LIVRO_PARTES_I_II.pdf \
+             dist-revisao-b/REPOSICIONESE_REV_B_MARCO_01_PRE_LIVRO_PARTES_I_II.pdf
+          rmdir dist-revisao-b/pdf
+
+      - name: Validar manuscritos e arquivos
+        shell: bash
+        run: |
+          test -s manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md
+          test -s marcos-revisao-b/MARCO_01_PRE_LIVRO_PARTES_I_II.md
+          test -s dist-revisao-b/REPOSICIONESE_REV_B_MARCO_01_PRE_LIVRO_PARTES_I_II.docx
+          test -s dist-revisao-b/REPOSICIONESE_REV_B_MARCO_01_PRE_LIVRO_PARTES_I_II.pdf
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          full = Path('manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md').read_text(encoding='utf-8')
+          mark = Path('marcos-revisao-b/MARCO_01_PRE_LIVRO_PARTES_I_II.md').read_text(encoding='utf-8')
+          full_chapters = [int(x) for x in re.findall(r'^# CAP[IÍ]TULO\s+(\d+)\b', full, flags=re.M|re.I)]
+          mark_chapters = [int(x) for x in re.findall(r'^# CAP[IÍ]TULO\s+(\d+)\b', mark, flags=re.M|re.I)]
+          assert full_chapters == list(range(1, 39)), full_chapters
+          assert mark_chapters == list(range(1, 7)), mark_chapters
+          assert re.search(r'^# EP[IÍ]LOGO\b', full, flags=re.M|re.I)
+          print('Validação concluída: contínuo 1–38 + Epílogo; Marco 01 capítulos 1–6.')
+          PY
+
+      - name: Versionar os Markdown gerados
+        if: github.event_name == 'push'
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md \
+                  marcos-revisao-b/MARCO_01_PRE_LIVRO_PARTES_I_II.md
+          if git diff --cached --quiet; then
+            echo "Os manuscritos Markdown já estão atualizados."
+          else
+            git commit -m "Atualiza manuscrito contínuo B e Marco 01"
+            git push
+          fi
+
+      - name: Publicar pacote de leitura do Marco 01
+        uses: actions/upload-artifact@v4
+        with:
+          name: reposicionese-revisao-b-marco-01
+          path: |
+            marcos-revisao-b/MARCO_01_PRE_LIVRO_PARTES_I_II.md
+            dist-revisao-b/REPOSICIONESE_REV_B_MARCO_01_PRE_LIVRO_PARTES_I_II.docx
+            dist-revisao-b/REPOSICIONESE_REV_B_MARCO_01_PRE_LIVRO_PARTES_I_II.pdf
+          if-no-files-found: error
+          retention-days: 30
