@@ -10,6 +10,7 @@ on:
       - "revisao-b-global/05_ONDA_2_PARTE_II_REV_B.md"
       - "revisao-b-global/07_ONDA_3_PARTE_III_REV_B.md"
       - "scripts/gerar_revisao_b_marco_02.py"
+      - "scripts/medir_amostra_kindle.py"
       - ".github/workflows/gerar-revisao-b-marco-02.yml"
   pull_request:
     branches:
@@ -17,6 +18,7 @@ on:
     paths:
       - "revisao-b-global/**"
       - "scripts/gerar_revisao_b_marco_02.py"
+      - "scripts/medir_amostra_kindle.py"
       - ".github/workflows/gerar-revisao-b-marco-02.yml"
   workflow_dispatch:
 
@@ -63,6 +65,9 @@ jobs:
       - name: Gerar manuscrito contínuo e Marco 02
         run: python scripts/gerar_revisao_b_marco_02.py
 
+      - name: Medir amostra editorial Kindle
+        run: python scripts/medir_amostra_kindle.py
+
       - name: Gerar DOCX do Marco 02
         run: |
           mkdir -p dist-revisao-b
@@ -93,6 +98,7 @@ jobs:
           test -s manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md
           test -s marcos-revisao-b/MARCO_01_PRE_LIVRO_PARTES_I_II.md
           test -s marcos-revisao-b/MARCO_02_PRE_LIVRO_PARTES_I_II_III.md
+          test -s revisao-b-global/16_MEDICAO_EDITORIAL_10_PORCENTO_KINDLE.md
           test -s dist-revisao-b/REPOSICIONESE_REV_B_MARCO_02_PRE_LIVRO_PARTES_I_II_III.docx
           test -s dist-revisao-b/REPOSICIONESE_REV_B_MARCO_02_PRE_LIVRO_PARTES_I_II_III.pdf
           python - <<'PY'
@@ -101,6 +107,7 @@ jobs:
           full = Path('manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md').read_text(encoding='utf-8')
           mark1 = Path('marcos-revisao-b/MARCO_01_PRE_LIVRO_PARTES_I_II.md').read_text(encoding='utf-8')
           mark2 = Path('marcos-revisao-b/MARCO_02_PRE_LIVRO_PARTES_I_II_III.md').read_text(encoding='utf-8')
+          kindle = Path('revisao-b-global/16_MEDICAO_EDITORIAL_10_PORCENTO_KINDLE.md').read_text(encoding='utf-8')
           full_chapters = [int(x) for x in re.findall(r'^# CAP[IÍ]TULO\s+(\d+)\b', full, flags=re.M|re.I)]
           mark1_chapters = [int(x) for x in re.findall(r'^# CAP[IÍ]TULO\s+(\d+)\b', mark1, flags=re.M|re.I)]
           mark2_chapters = [int(x) for x in re.findall(r'^# CAP[IÍ]TULO\s+(\d+)\b', mark2, flags=re.M|re.I)]
@@ -110,21 +117,23 @@ jobs:
           assert re.search(r'^# EP[IÍ]LOGO\b', full, flags=re.M|re.I)
           assert 'Partes I–III revisados' in full
           assert 'toc-title: "SUMÁRIO"' in mark2
-          print('Validação concluída: contínuo 1–38 + Epílogo; Marco 01 1–6; Marco 02 1–10.')
+          assert 'MEDIÇÃO EDITORIAL DOS 10% KINDLE' in kindle
+          print('Validação concluída: contínuo 1–38 + Epílogo; Marco 01 1–6; Marco 02 1–10; medição Kindle gerada.')
           PY
 
-      - name: Versionar manuscrito contínuo e Marco 02
+      - name: Versionar manuscrito, Marco 02 e medição Kindle
         if: github.event_name == 'push'
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md \
-                  marcos-revisao-b/MARCO_02_PRE_LIVRO_PARTES_I_II_III.md
+                  marcos-revisao-b/MARCO_02_PRE_LIVRO_PARTES_I_II_III.md \
+                  revisao-b-global/16_MEDICAO_EDITORIAL_10_PORCENTO_KINDLE.md
           if git diff --cached --quiet; then
-            echo "Os manuscritos Markdown já estão atualizados."
+            echo "Os manuscritos e a medição Kindle já estão atualizados."
           else
-            git commit -m "Atualiza manuscrito contínuo B e Marco 02"
+            git commit -m "Atualiza manuscrito contínuo B, Marco 02 e medição Kindle"
             git push
           fi
 
@@ -135,6 +144,7 @@ jobs:
           path: |
             manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md
             marcos-revisao-b/MARCO_02_PRE_LIVRO_PARTES_I_II_III.md
+            revisao-b-global/16_MEDICAO_EDITORIAL_10_PORCENTO_KINDLE.md
             dist-revisao-b/REPOSICIONESE_REV_B_MARCO_02_PRE_LIVRO_PARTES_I_II_III.docx
             dist-revisao-b/REPOSICIONESE_REV_B_MARCO_02_PRE_LIVRO_PARTES_I_II_III.pdf
           if-no-files-found: error
