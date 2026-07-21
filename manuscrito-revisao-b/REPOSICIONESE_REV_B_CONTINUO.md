@@ -8,7 +8,7 @@ toc-title: "SUMÁRIO"
 ---
 
 > **MANUSCRITO DE TRABALHO — REVISÃO B. Pré-livro e Partes I–II já revisados; Partes III–VIII ainda herdadas da Revisão A.**  
-> Gerado em 2026-07-21T22:52:50+00:00. A Revisão A permanece preservada como referência histórica.
+> Gerado em 2026-07-21T23:10:15+00:00. A Revisão A permanece preservada como referência histórica.
 
 \newpage
 <!-- FONTE: revisao-b-global/03_ONDA_1_PRE_LIVRO_REV_B.md | STATUS: REVISÃO B -->
@@ -1345,16 +1345,31 @@ Subirá na estrutura para compreender como uma mensagem, um ambiente e uma permi
 
 Na Parte I, você observou a Vitrine e reconheceu frutos de presença, apagamento, coerência e contradição.
 
+Também começou a perceber que um fruto não chega sozinho.
+
+Antes dele, alguma coisa aconteceu.
+
+Alguma interpretação entrou.
+
+Algum ambiente tornou essa interpretação mais ou menos convincente.
+
+Alguma permissão foi concedida.
+
+Alguma resposta se repetiu até parecer natural.
+
 Agora a pergunta muda.
 
 Não basta saber **o que apareceu**.
 
 Precisamos investigar:
 
-- o que entrou no cultivo;
+- o que aconteceu de fato;
+- o que entrou no cultivo como mensagem, experiência ou interpretação;
 - que ambiente recebeu aquilo;
 - que permissões foram concedidas;
-- como uma interpretação virou modo de funcionar.
+- como uma interpretação virou modo de funcionar;
+- o que nesse processo produziu vida e merece continuidade;
+- o que continua produzindo frutos incompatíveis e precisa ser revisto.
 
 A investigação começa sem tribunal.
 
@@ -1364,7 +1379,17 @@ Solo não é sentença.
 
 Configuração não é identidade.
 
-Mas aquilo que não é examinado pode continuar governando como se fosse natureza.
+Influência não é automaticamente manipulação.
+
+Aquilo que veio de fora não é necessariamente falso.
+
+Aquilo que nasceu dentro de você não é automaticamente verdadeiro.
+
+Mas o que não é examinado pode continuar governando como se fosse natureza.
+
+Guarde a sequência desta Parte:
+
+> **Fato não é interpretação. Interpretação não é Semente aceita. Semente não é Raiz. Solo influencia sem decidir mecanicamente. Configuração orienta sem definir quem você é.**
 
 ---
 
@@ -1399,9 +1424,22 @@ Uma imagem repetida.
 
 Uma crença oferecida por um grupo.
 
+Uma experiência de cuidado.
+
+Um exemplo de coragem.
+
 No Método da Árvore do Discernimento, chamamos isso de **Semente**.
 
 Semente é aquilo que entra no campo da experiência e começa a disputar significado.
+
+Ela pode ser:
+
+- uma mensagem recebida;
+- uma interpretação produzida;
+- uma experiência vivida;
+- uma possibilidade percebida;
+- uma decisão escolhida;
+- uma prática iniciada.
 
 Ela pode ser aceita, rejeitada, esquecida, transformada ou cultivada.
 
@@ -1411,13 +1449,61 @@ Algumas passam por você sem receber autoridade.
 
 Outras encontram medo, desejo, repetição, carência ou pertencimento suficientes para parecer inevitáveis.
 
+Outras encontram curiosidade, verdade, segurança e prática suficientes para produzir vida.
+
 A pergunta não é apenas:
 
 > O que me disseram?
 
 É:
 
-> O que essa mensagem encontrou quando chegou — e o que aconteceu depois?
+> O que essa mensagem encontrou quando chegou — que significado recebeu, que permissão ganhou e que fruto começou a produzir?
+
+## Quatro camadas que não devem ser confundidas
+
+Imagine que uma pessoa não respondeu sua mensagem.
+
+### 1. Fato disponível
+
+A mensagem foi enviada e ainda não recebeu resposta.
+
+### 2. Interpretação
+
+“Ela não se importa comigo.”
+
+“Está zangada.”
+
+“Algo aconteceu.”
+
+“Está ocupada.”
+
+A interpretação tenta explicar o fato.
+
+### 3. Semente
+
+Quando uma interpretação recebe atenção, repetição ou autoridade, ela pode entrar no cultivo como Semente:
+
+> “Quando alguém demora, significa que estou sendo rejeitada.”
+
+### 4. Fruto provável
+
+Cobrança.
+
+Ansiedade.
+
+Mensagem agressiva.
+
+Silêncio punitivo.
+
+Ou pausa, verificação e conversa.
+
+Separar as camadas não elimina emoção.
+
+Impede apenas que uma explicação ocupe o lugar do fato sem ser percebida.
+
+> **PENSE ANTES DE REAGIR.**
+>
+> **O que aconteceu, o que interpretei, o que comecei a cultivar e que fruto minha resposta tende a produzir?**
 
 ## O Solo não é cenário
 
@@ -1431,9 +1517,13 @@ Fé, escola, território, linguagem, dinheiro, perdas, elogios, punições e sil
 
 Telas, músicas, grupos e algoritmos também.
 
+Estado físico participa.
+
+Cansaço, fome, medo, solidão e sensação de segurança podem alterar a maneira como uma mensagem é recebida.
+
 O Solo não é apenas o lugar onde você nasceu.
 
-É o conjunto de condições que ensinou sua consciência a interpretar o que acontecia.
+É o conjunto de condições que ensinou sua consciência a interpretar o que acontecia e que continua oferecendo recompensa, ameaça, linguagem ou repetição no presente.
 
 Duas pessoas podem ouvir a mesma frase e não receber a mesma Semente.
 
@@ -1449,9 +1539,13 @@ Uma comunidade ensina fé e oferece direção.
 
 Outra usa a mesma linguagem para impedir perguntas.
 
+Um professor corrige e amplia capacidade.
+
+Outro humilha e ensina que erro ameaça dignidade.
+
 O valor declarado pode ser semelhante.
 
-O Solo muda a interpretação.
+O Solo muda a interpretação, a intensidade e a possibilidade de revisão.
 
 ## Fato, narrativa e cultivo
 
@@ -1489,9 +1583,11 @@ Sentir não obriga concluir.
 
 A primeira interpretação não recebe automaticamente o nome de realidade.
 
+Metacognição acontece aqui: você percebe o significado sendo produzido antes de confundi-lo com o fato.
+
 > **LEI 1 — PENSE ANTES DE REAGIR.**
 >
-> O que aconteceu — e o que seu Solo acrescentou ao que aconteceu?
+> **O que aconteceu — e o que seu Solo acrescentou ao que aconteceu?**
 
 ## Solo fértil para quê?
 
@@ -1510,6 +1606,45 @@ Uma cultura que valoriza autonomia pode formar responsabilidade e transformar ne
 Por isso, a pergunta não é apenas se um valor parece bom.
 
 É como foi interpretado, aplicado e medido pelos frutos.
+
+## Solo saudável também deixa evidências
+
+Um Solo saudável não é um ambiente sem conflito, correção ou desconforto.
+
+Pode ser um ambiente em que:
+
+- perguntas não ameaçam pertencimento;
+- erro pode ser reconhecido sem destruição da dignidade;
+- autoridade presta contas;
+- conselho amplia a capacidade de pensar;
+- verdade não depende de quem falou;
+- limites podem ser conversados;
+- mudança de opinião não é automaticamente tratada como traição;
+- bons frutos são reconhecidos sem transformar a pessoa em personagem perfeita.
+
+Talvez você já tenha encontrado um ambiente assim.
+
+Uma amizade.
+
+Uma sala de aula.
+
+Uma igreja.
+
+Uma equipe.
+
+Uma terapia.
+
+Uma conversa familiar.
+
+Um livro.
+
+Pergunte:
+
+> O que nesse Solo me ajudou a ficar mais consciente, responsável e capaz de pensar?
+
+Não investigue apenas o que precisa perder força.
+
+Investigue também as condições que ajudam a verdade a crescer.
 
 ## A Parábola do Semeador
 
@@ -1536,6 +1671,8 @@ Uma relação estável chega a quem foi treinada no caos e parece sem intensidad
 Uma oportunidade encontra uma pessoa que associa crescimento a culpa.
 
 Uma correção encontra alguém que aprendeu que toda correção é humilhação.
+
+Uma palavra de encorajamento encontra alguém que nunca recebeu permissão para reconhecer capacidade.
 
 A Semente importa.
 
@@ -1565,9 +1702,26 @@ O método não pergunta apenas de onde algo veio.
 
 Pergunta como foi interpretado, reforçado e transformado em resposta atual.
 
+## Prática — separar as camadas
+
+Retome o fruto que escolheu na Parte I.
+
+Registre:
+
+1. O que aconteceu de modo observável?
+2. O que interpretei?
+3. O que senti?
+4. Que mensagem, experiência ou possibilidade entrou como Semente?
+5. Que parte dessa Semente aceitei como verdade?
+6. Que Solo tornou essa interpretação convincente?
+7. Que repetição, recompensa, medo ou pertencimento ajudou a mantê-la?
+8. Existe outra interpretação possível que ainda precisa ser verificada?
+9. Há uma Semente saudável misturada ao padrão?
+10. Que condição saudável já me ajuda a responder melhor em outro contexto?
+
 > **SUBA NA ÁRVORE.**
 >
-> Escolha um fruto observado na Parte I. Que Semente entrou nesse cultivo? Que Solo ajudou a torná-la convincente?
+> **Não procure uma explicação brilhante. Separe o fato, a interpretação, a Semente e o Solo com honestidade suficiente para continuar investigando.**
 
 O próximo capítulo entra nas configurações que aprendemos antes de possuir linguagem suficiente para examiná-las.
 
@@ -1629,7 +1783,29 @@ Outras nunca foram saudáveis, mas pareciam naturais porque sempre estiveram ali
 
 Reposicionar-se não é voltar a um vazio impossível.
 
-É aprender a revisar permissões.
+É aprender a revisar permissões, preservar recursos e atualizar respostas.
+
+## Configuração não é identidade
+
+Uma configuração responde:
+
+“Foi assim que aprendi a funcionar.”
+
+Identidade responde:
+
+“É isso que sou por inteiro.”
+
+As duas frases não são iguais.
+
+Você pode ter sido configurada para agradar sem ser “uma pessoa sem identidade”.
+
+Pode ter aprendido vigilância sem ser incapaz de confiar para sempre.
+
+Pode ter recebido disciplina rígida e ainda preservar dedicação sem repetir crueldade.
+
+Pode ter aprendido a calar diante de autoridade e desenvolver uma voz responsável depois.
+
+Nomear configuração devolve possibilidade porque aquilo que foi aprendido pode ser examinado, praticado de outra maneira e, quando necessário, acompanhado por ajuda adequada.
 
 ## Aplicativos em segundo plano
 
@@ -1665,6 +1841,33 @@ Seu discurso declara valores.
 
 Seu Modo Operante mostra o que consegue governar quando existe custo.
 
+## Configurações que funcionam
+
+Nem tudo o que opera em segundo plano precisa ser removido.
+
+Talvez você tenha aprendido:
+
+- cumprir a palavra;
+- chegar preparada;
+- pedir perdão;
+- cuidar de recursos;
+- estudar antes de opinar;
+- proteger pessoas vulneráveis;
+- não compartilhar informação sem verificar;
+- terminar aquilo que começou;
+- pedir conselho sem entregar a decisão;
+- sustentar fé sem impedir pergunta.
+
+Uma configuração saudável também precisa ser observada.
+
+Pergunte:
+
+> Em que situação respondi com mais verdade, responsabilidade e liberdade? O que já estava configurado em mim para tornar isso possível?
+
+Repetir o que funciona com consciência não é permanecer no automático.
+
+É transformar recurso herdado ou aprendido em escolha assumida.
+
 ## Quem recebeu permissão?
 
 Todo aplicativo pede acesso.
@@ -1693,6 +1896,8 @@ Escolher quem merece ser ouvido.
 
 Dizer que identidade você precisa adotar para ser reconhecida.
 
+Definir o que sucesso, beleza, coragem, masculinidade, feminilidade, liberdade ou fidelidade devem significar.
+
 A permissão raramente chega com esse nome.
 
 Pode vir como urgência:
@@ -1707,6 +1912,14 @@ Pode vir como urgência:
 
 “Se fosse realmente livre, não teria limite.”
 
+Também pode vir como admiração:
+
+“Ela sabe tanto que não preciso verificar.”
+
+“Ele representa meus valores, então deve estar certo.”
+
+“Essa pessoa me ajudou antes; logo, sua opinião vale em qualquer área.”
+
 Antes de responder ao conteúdo, observe o acesso solicitado.
 
 > Que lugar esta voz deseja ocupar dentro da minha consciência?
@@ -1714,6 +1927,53 @@ Antes de responder ao conteúdo, observe o acesso solicitado.
 Você não precisa rejeitar toda influência.
 
 Precisa perceber a permissão antes de concedê-la.
+
+## Influência saudável também pede acesso — mas não exige governo
+
+Uma influência saudável pode:
+
+- oferecer conhecimento que você não possuía;
+- corrigir uma conclusão;
+- ampliar contexto;
+- apresentar evidência;
+- nomear um risco;
+- confrontar incoerência;
+- ensinar uma prática;
+- lembrar um valor;
+- ajudar você a reconhecer um fruto.
+
+Ela não precisa concordar com você para ser saudável.
+
+Mas permite pergunta, limite, contraditório e responsabilidade.
+
+Ela não precisa que você permaneça intelectualmente dependente para conservar o vínculo.
+
+O melhor conselho não substitui sua consciência.
+
+Ajuda você a exercê-la com mais informação e sensatez.
+
+## Auditoria de permissões
+
+Escolha uma voz importante na sua vida.
+
+Pode ser familiar, líder, influenciador, professor, terapeuta, pastor, autora, especialista, grupo político ou comunidade.
+
+Pergunte:
+
+1. Em que área essa voz possui conhecimento real?
+2. Em que área estou presumindo autoridade que ela não demonstrou?
+3. Consigo discordar sem perder toda dignidade ou pertencimento?
+4. A voz distingue fato, opinião, experiência e interpretação?
+5. Ela mostra evidências ou depende apenas de confiança pessoal?
+6. O que acontece quando erra?
+7. Essa influência amplia minha capacidade de pensar ou oferece conclusões para que eu não precise pensar?
+8. Que fruto produz em mim?
+9. Que permissão merece manter?
+10. Que permissão precisa ser limitada, revisada ou retirada?
+
+A auditoria não transforma toda relação em suspeita.
+
+Transforma acesso invisível em acesso consciente.
 
 ## Atualizar não é destruir
 
@@ -1733,13 +1993,15 @@ Pode amar a família e interromper uma lealdade destrutiva.
 
 Pode agradecer a uma estratégia que ajudou você a sobreviver e decidir que ela não governará a próxima fase.
 
+Pode preservar disciplina, fé, coragem ou compromisso recebidos sem preservar todas as formas pelas quais foram ensinados.
+
 Revisar não é trair a história.
 
 É assumir responsabilidade pelo que continuará funcionando.
 
 > **REPENSE ISSO.**
 >
-> Que configuração você protege apenas porque é antiga, familiar ou compartilhada por quem ama?
+> **Que configuração você protege apenas porque é antiga, familiar ou compartilhada por quem ama — e que configuração saudável você precisa parar de tratar como acaso?**
 
 O celular configurado prepara a próxima investigação: o ambiente que atualiza notificações, urgências e pertencimentos durante o dia inteiro.
 
@@ -1770,6 +2032,35 @@ Medo, raiva, desejo, escândalo, pertencimento e conflito costumam prender com f
 
 O fruto pode ser uma mente permanentemente ativada e raramente examinada.
 
+## O influenciador não oferece apenas um produto
+
+Uma pessoa que influencia pode recomendar roupa, livro, curso, igreja, candidato, dieta, comportamento ou estilo de vida.
+
+Mas também pode oferecer:
+
+- uma interpretação da realidade;
+- uma definição de sucesso;
+- uma linguagem para nomear dor;
+- um inimigo;
+- uma urgência;
+- um modelo de identidade;
+- uma forma de pertencer;
+- uma ideia sobre quem merece confiança.
+
+Isso não torna influenciadores automaticamente manipuladores.
+
+Existem pessoas que educam, ampliam repertório, compartilham experiência com honestidade e reconhecem limites.
+
+O risco começa quando familiaridade vira prova, admiração vira autoridade total e repetição vira substituta de evidência.
+
+Você pode sentir que conhece alguém porque acompanha sua rotina há anos.
+
+Essa sensação não oferece acesso completo à competência, aos interesses, às fontes ou à vida real dessa pessoa.
+
+Pergunte:
+
+> Estou recebendo uma contribuição — ou concedendo a essa voz autoridade para interpretar áreas que ela nunca demonstrou compreender?
+
 ## Anestesia não tem idade
 
 É tentador culpar uma geração.
@@ -1796,7 +2087,24 @@ A reação chega antes do discernimento.
 
 > **LEI 4 — CULTIVE O SILÊNCIO MENTAL.**
 >
-> Uma mente sem intervalo não necessariamente pensa mais. Às vezes, apenas repete mais depressa.
+> **Uma mente sem intervalo não necessariamente pensa mais. Às vezes, apenas repete mais depressa.**
+
+## Silêncio mental não é isolamento informacional
+
+Cultivar silêncio não significa abandonar notícias, conhecimento, comunidade ou debate.
+
+Significa criar intervalos em que você consegue perceber:
+
+- o que consumiu;
+- o que sentiu;
+- que conclusão apareceu;
+- o que ainda não verificou;
+- que voz está sendo repetida por dentro;
+- que fruto o consumo produz.
+
+O objetivo não é construir uma consciência sem influência.
+
+É construir uma consciência capaz de perceber a influência enquanto ela acontece.
 
 ## Sua atenção está formando familiaridade
 
@@ -1828,7 +2136,7 @@ Discordância não é polarização.
 
 Existem ideias incompatíveis e decisões que exigem posição clara.
 
-A polarização se torna prisioneira quando a discordância elimina curiosidade, justiça e humanidade.
+A polarização se torna prisioneira quando a discordância elimina curiosidade, justiça, humanidade e revisão.
 
 Esquerda, direita e centro podem funcionar como lentes.
 
@@ -1874,7 +2182,7 @@ Significa que o nome de quem praticou um ato não muda automaticamente a verdade
 
 > **LEI 5 — RESISTA À MANADA.**
 >
-> Resistir à manada não é discordar de todos. É recusar a entrega automática do julgamento, inclusive ao grupo que você ama.
+> **Resistir à manada não é discordar de todos. É recusar a entrega automática do julgamento, inclusive ao grupo que você ama.**
 
 ## Quando identificação começa a apagar investigação
 
@@ -1898,9 +2206,11 @@ A Fuga Identitária aparece quando alguém se identifica cada vez mais com categ
 
 O aprofundamento pertence à obra *Fuga Identitária: O Apagamento do Eu*.
 
-Aqui, mantenha uma pergunta:
+Aqui, mantenha duas perguntas:
 
 > Se este grupo, rótulo, líder ou ambiente deixasse de me validar amanhã, o que eu ainda saberia sobre mim?
+
+> Esta identificação amplia minha consciência — ou está substituindo quem sou?
 
 ## O Filtro da Influência
 
@@ -1911,13 +2221,17 @@ O Filtro da Influência não é outro método.
 Pergunte:
 
 1. Percebi que estava sendo influenciada?
-2. A fonte distingue fato, opinião e interpretação?
-3. Posso discordar sem perder meu lugar?
-4. Existe pressão de medo, vergonha, urgência ou pertencimento?
-5. Aplico o mesmo rigor ao meu grupo e ao grupo oposto?
-6. Esta influência amplia minha capacidade de pensar ou oferece respostas para que eu não precise pensar?
-7. Que fruto já produz em mim?
-8. Ainda consigo dizer “não sei”?
+2. A fonte distingue fato, opinião, experiência e interpretação?
+3. A pessoa possui competência para esta afirmação específica?
+4. Posso discordar sem perder meu lugar?
+5. Existe pressão de medo, vergonha, urgência ou pertencimento?
+6. Aplico o mesmo rigor ao meu grupo e ao grupo oposto?
+7. Esta influência amplia minha capacidade de pensar ou oferece respostas para que eu não precise pensar?
+8. Que fruto já produz em mim?
+9. O que ela me ajudou a compreender com mais clareza?
+10. Ainda consigo dizer “não sei”?
+11. O que preciso verificar fora desta fonte?
+12. Que nível de acesso esta voz realmente merece?
 
 Influência saudável pode confrontar e mudar uma opinião.
 
@@ -1927,7 +2241,28 @@ Influência adoecida precisa que você permaneça dependente da voz que interpre
 
 > **LEI 6 — FILTRE SUAS INFLUÊNCIAS.**
 >
-> O problema não é alguém participar do seu pensamento. É você não perceber quando alguém tomou o lugar dele.
+> **O problema não é alguém participar do seu pensamento. É você não perceber quando alguém tomou o lugar dele.**
+
+## Prática — uma influência sob observação
+
+Escolha um conteúdo recente que você compartilhou, rejeitou ou aceitou rapidamente.
+
+Pergunte:
+
+1. Qual foi a afirmação principal?
+2. O que era fato verificável?
+3. O que era interpretação?
+4. Que emoção o conteúdo ativou?
+5. Que identidade ou pertencimento ele convocou?
+6. Que urgência tentou criar?
+7. Eu verificaria com o mesmo rigor se favorecesse o lado oposto?
+8. A fonte demonstrou competência?
+9. Que fruto o conteúdo produziu em mim?
+10. Depois de examinar, o que permanece verdadeiro?
+
+Não procure provar que toda influência é falsa.
+
+Procure recuperar o direito de perceber antes de conceder governo.
 
 O Solo Digital não termina na tela.
 
@@ -1962,6 +2297,20 @@ Outras foram repetidas até parecerem óbvias.
 
 “Se eu precisar de ajuda, fracassei.”
 
+Também existem crenças que sustentam vida:
+
+“Posso aprender sem desaparecer.”
+
+“Um erro precisa de reparação, não de condenação eterna.”
+
+“Perguntar não destrói automaticamente a fé.”
+
+“Limite e amor podem existir na mesma relação.”
+
+“Posso mudar de opinião diante de evidência.”
+
+“Pedir ajuda não transfere toda a minha responsabilidade.”
+
 A crença não aparece apenas na frase.
 
 Aparece no fruto que ajuda a produzir.
@@ -1982,11 +2331,27 @@ Valorizar liberdade e punir toda discordância.
 
 Falar de Deus e usar Deus para evitar responsabilidade.
 
+Também pode sustentar um valor de modo silencioso:
+
+Dizer a verdade quando a mentira seria mais conveniente.
+
+Cumprir um dever sem precisar de aplauso.
+
+Reconhecer erro no próprio grupo.
+
+Manter um limite sem humilhar.
+
+Procurar ajuda antes de uma crise maior.
+
 A distância entre valor declarado e prática não transforma você em fraude completa.
 
 Mostra um ponto em que o Tronco ainda não sustenta o que o discurso anuncia.
 
-Essa distância pede investigação e posicionamento.
+A aproximação entre valor e prática também não transforma você em pessoa concluída.
+
+Mostra um recurso real que merece ser reconhecido, protegido e transferido para outros Galhos.
+
+Essa distância — ou essa coerência — pede investigação.
 
 ## Decisões são crenças em movimento
 
@@ -2014,6 +2379,8 @@ Ele pergunta:
 - que valor tentei proteger?
 - que medo tentei evitar?
 - que voz recebeu mais autoridade?
+- que fato considerei?
+- o que deixei de verificar?
 - que fruto a decisão produziu?
 
 Modo Operante é a forma como você funciona quando a vida deixa de ser ensaio.
@@ -2022,13 +2389,39 @@ Não é a intenção que gostaria de ter.
 
 É o padrão que aparece sob pressão.
 
+## Quando o Modo Operante funciona
+
+O Modo Operante não aparece apenas nos erros.
+
+Talvez, sob pressão, você já consiga:
+
+- pedir tempo antes de responder;
+- conferir uma informação;
+- proteger alguém vulnerável;
+- cumprir uma responsabilidade;
+- reconhecer que não sabe;
+- separar culpa legítima de culpa imposta;
+- procurar apoio;
+- manter respeito sem concordar;
+- reparar depois de errar.
+
+Essas respostas também revelam configuração, crença, valor e prática.
+
+Pergunte:
+
+> O que tornou essa resposta possível — e como posso repetir esse recurso sem transformá-lo em fórmula rígida?
+
+A Árvore não serve apenas para descobrir por que você falha.
+
+Serve para descobrir de onde já vem a seiva que sustenta o que funciona.
+
 ## Reconfigurar não é apagar
 
 Reposicionar-se não é declarar guerra a tudo o que você recebeu.
 
 É examinar.
 
-Algumas configurações merecem gratidão.
+Algumas configurações merecem gratidão e continuidade consciente.
 
 Outras precisam de atualização.
 
@@ -2036,7 +2429,7 @@ Outras exigirão Poda.
 
 Algumas ainda não podem ser alteradas sem apoio, tempo e segurança.
 
-Reconfigurar significa deixar de obedecer automaticamente àquilo que nunca foi escolhido com consciência suficiente.
+Reconfigurar significa deixar de obedecer automaticamente àquilo que nunca foi escolhido com consciência suficiente — e passar a assumir conscientemente aquilo que continua produzindo vida.
 
 A mudança não acontece porque uma metáfora parece bonita.
 
@@ -2062,26 +2455,52 @@ Também não significa automaticamente saudável.
 
 A nova resposta continua passando pelo Filtro e pelos frutos.
 
+## Prática — crença em movimento
+
+Escolha uma decisão recente.
+
+Pergunte:
+
+1. Qual foi o fato ou necessidade que exigiu decisão?
+2. Que interpretação organizei?
+3. Que crença apareceu?
+4. Que valor declarei proteger?
+5. Que valor minha conduta realmente protegeu?
+6. Que voz ou grupo recebeu autoridade?
+7. Que configuração entrou em funcionamento?
+8. Que fruto apareceu?
+9. Existe um recurso saudável que preciso repetir?
+10. O que precisa ser reconfigurado?
+11. Que apoio ou segurança pode ser necessário?
+12. Qual resposta pequena posso praticar da próxima vez?
+
+Não tente inventar uma nova personalidade.
+
+Procure uma resposta observável que possa ser praticada, filtrada e revisada.
+
 ## Antes de descer às Raízes
 
 Agora você já consegue distinguir:
 
+- o fato disponível;
+- a interpretação produzida;
 - a Semente que entrou;
 - o Solo que tornou uma interpretação fértil;
 - a configuração que recebeu permissão;
 - a crença que organizou significado;
 - o valor declarado;
-- o Modo Operante que apareceu na pressão.
+- o Modo Operante que apareceu na pressão;
+- o recurso saudável que já merece repetição.
 
 A próxima Parte desce mais fundo.
 
 Não para procurar culpados.
 
-Para descobrir de onde o padrão continua retirando seiva hoje.
+Para descobrir de onde o padrão continua retirando seiva hoje — e de onde os recursos saudáveis também recebem força.
 
 > **VOLTE ÀS RAÍZES.**
 >
-> Que crença continua alimentando o fruto escolhido — e que experiência, lealdade ou promessa lhe dá força no presente?
+> **Que crença continua alimentando o fruto escolhido — e que experiência, lealdade, recompensa ou promessa lhe dá força no presente?**
 
 ---
 
@@ -2089,18 +2508,36 @@ Para descobrir de onde o padrão continua retirando seiva hoje.
 
 Antes de seguir, confirme:
 
-- consigo separar fato, interpretação e Semente?
+- consigo separar fato, interpretação, Semente e fruto provável?
 - reconheço que o Solo influencia sem decidir mecanicamente?
 - identifico ao menos uma configuração recebida antes de poder examiná-la?
-- percebo que permissões também são emocionais, religiosas, políticas e relacionais?
+- reconheço ao menos uma configuração saudável que merece continuidade consciente?
+- percebo que permissões também são emocionais, religiosas, políticas, digitais e relacionais?
+- consigo avaliar a competência e o acesso de uma influência sem rejeitar todo aprendizado?
 - consigo examinar meu próprio grupo com o mesmo critério?
+- reconheço quando familiaridade, admiração ou repetição estão tentando substituir evidência?
+- percebo quando uma identificação amplia minha consciência e quando começa a substituí-la?
 - reconheço uma crença que aparece em decisões, não apenas em palavras?
-- consigo nomear a distância entre um valor declarado e meu Modo Operante?
+- consigo nomear a distância — ou a coerência — entre um valor declarado e meu Modo Operante?
+- consigo dizer “não sei” antes de preencher a lacuna com a voz mais familiar?
 - entendo que reconfigurar não é apagar a história?
+- consigo reconhecer o que precisa perder força e o que merece ser repetido?
 
 Você observou o fruto.
 
+Separou o fato da primeira interpretação.
+
+Percebeu que mensagens encontram ambientes diferentes.
+
+Reconheceu que influências podem ensinar, ampliar e proteger — ou ocupar o lugar da consciência quando recebem acesso sem exame.
+
 Agora começa a investigar o alimento que mantém o padrão vivo.
+
+> **O que entrou não precisa governar para sempre.**
+>
+> **O que produz vida não precisa ser desprezado como acaso.**
+>
+> **A próxima Parte volta às Raízes para descobrir de onde cada cultivo ainda retira força.**
 
 <!-- FIM DA FONTE: revisao-b-global/05_ONDA_2_PARTE_II_REV_B.md -->
 
