@@ -8,7 +8,7 @@ toc-title: "SUMÁRIO"
 ---
 
 > **MARCO 01 DA REVISÃO B — Pré-livro, Parte I e Parte II revisados.**  
-> Gerado em 2026-07-21T00:51:52+00:00. A Revisão A permanece preservada como referência histórica.
+> Gerado em 2026-07-21T00:53:41+00:00. A Revisão A permanece preservada como referência histórica.
 
 \newpage
 <!-- FONTE: revisao-b-global/03_ONDA_1_PRE_LIVRO_REV_B.md | STATUS: REVISÃO B -->
