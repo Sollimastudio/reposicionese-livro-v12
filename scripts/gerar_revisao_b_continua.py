@@ -34,6 +34,7 @@ MILESTONE = ROOT / "marcos-revisao-b" / "MARCO_01_PRE_LIVRO_PARTES_I_II.md"
 
 CHAPTER_RE = re.compile(r"^# CAP[IÍ]TULO\s+(\d+)\b", re.MULTILINE | re.IGNORECASE)
 EPILOGUE_RE = re.compile(r"^# EP[IÍ]LOGO\b", re.MULTILINE | re.IGNORECASE)
+TRAILING_RULE_RE = re.compile(r"(?:\n\s*---\s*)+$")
 
 
 def read(path: Path) -> str:
@@ -41,6 +42,7 @@ def read(path: Path) -> str:
     if not full.is_file():
         raise FileNotFoundError(f"Fonte ausente: {path}")
     text = full.read_text(encoding="utf-8").replace("\r\n", "\n").strip()
+    text = TRAILING_RULE_RE.sub("", text).rstrip()
     if not text:
         raise ValueError(f"Fonte vazia: {path}")
     return text
@@ -68,6 +70,7 @@ subtitle: "Método da Árvore do Discernimento"
 author: "Sol Lima"
 lang: pt-BR
 subject: "{subject}"
+toc-title: "SUMÁRIO"
 ---
 
 > **{note}**  
@@ -78,12 +81,17 @@ subject: "{subject}"
 
 
 def assemble(sources: list[tuple[Path, str]]) -> str:
-    pieces: list[str] = []
+    blocks: list[str] = []
     for path, status in sources:
-        pieces.append(marker(path, status))
-        pieces.append(read(path))
-        pieces.append(f"<!-- FIM DA FONTE: {path.as_posix()} -->")
-    return "\n\n---\n\n".join(pieces).strip() + "\n"
+        block = "\n\n".join(
+            [
+                marker(path, status),
+                read(path),
+                f"<!-- FIM DA FONTE: {path.as_posix()} -->",
+            ]
+        )
+        blocks.append(block)
+    return "\n\n\\newpage\n\n".join(blocks).strip() + "\n"
 
 
 def main() -> None:
