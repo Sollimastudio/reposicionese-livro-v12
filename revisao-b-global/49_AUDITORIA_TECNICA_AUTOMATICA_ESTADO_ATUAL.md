@@ -26,7 +26,7 @@
 | Parte VII | 5.609 | 27–32 | 299 | 30 | 4 | 171 | OK |
 | Parte VIII + Epílogo | 4.113 | 33–38 | 135 | 23 | 13 | 88 | OK |
 
-As Partes V–VIII e o Epílogo concentram **19.880 palavras**. equivalentes a **53.1%** das fontes vivas. Essas unidades ainda não receberam a passagem completa de voz e ritmo dos Lotes 03–04.
+As Partes V–VIII e o Epílogo concentram **19.880 palavras**, equivalentes a **53,1%** das fontes vivas. Essas unidades ainda não receberam a passagem completa de voz e ritmo dos Lotes 03–04.
 
 ---
 
@@ -39,7 +39,7 @@ As Partes V–VIII e o Epílogo concentram **19.880 palavras**. equivalentes a *
 - ✅ um Epílogo no manuscrito.
 - ✅ Filtro único declarado.
 - ✅ frase de fechamento contemporâneo.
-- ❌ Praga nunca pessoa.
+- ✅ Praga nunca pessoa.
 - ✅ Jaula não culpabiliza.
 - ✅ Revisão A declarada preservada.
 - ✅ sem comandos antigos nas fontes vivas.
@@ -117,9 +117,7 @@ A ausência no repositório não prova que nunca foram gerados como artefatos te
 
 # 7. VEREDITO TÉCNICO
 
-**FALHA TÉCNICA:** existem checagens canônicas ou estruturais não aprovadas.
-
-- Praga nunca pessoa
+**APROVADO ESTRUTURALMENTE:** capítulos, Epílogo, comandos vigentes e travas metodológicas essenciais estão íntegros.
 
 O manuscrito ainda não está pronto para publicação porque permanecem:
 
