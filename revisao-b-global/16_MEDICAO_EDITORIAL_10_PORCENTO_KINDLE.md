@@ -10,12 +10,12 @@
 
 # 1. RESULTADO
 
-- Total editorial estimado: **35,036 palavras**;
-- alvo de 10%: **3,504 palavras**;
-- linha aproximada da fronteira: **798**;
+- Total editorial estimado: **36,266 palavras**;
+- alvo de 10%: **3,627 palavras**;
+- linha aproximada da fronteira: **822**;
 - seção em que a fronteira cai: **Quando adaptação vira identidade**;
 - próxima seção identificada: **O primeiro sinal de retorno**;
-- texto na linha de fronteira: `O problema aparece quando a adaptação deixa de ser escolha e vira condição de pertencimento.`.
+- texto na linha de fronteira: `> Esta adaptação me ajuda a viver uma realidade — ou está me impedindo de perceber o que penso, sinto e sustento?`.
 
 ---
 
@@ -23,19 +23,19 @@
 
 | Marco editorial | Posição | Percentual aproximado de entrada |
 |---|---:|---:|
-| VOCÊ JÁ ESTÁ POSICIONADA | dentro | 0.16% |
-| OBSERVE OS FRUTOS | dentro | 0.73% |
-| O QUE ESTE LIVRO VAI TREINAR EM VOCÊ | dentro | 1.16% |
-| SUA PRIMEIRA SUBIDA | dentro | 1.58% |
-| COMO USAR ESTE LIVRO | dentro | 1.97% |
-| PARTE I — OBSERVE OS FRUTOS | dentro | 5.64% |
-| CAPÍTULO 1 — A VITRINE DA VIDA | dentro | 6.05% |
-| CAPÍTULO 2 — A MORTE EM VIDA | dentro | 9.00% |
-| PARTE II — SEMENTE, SOLO E CONFIGURAÇÃO | depois | 12.67% |
-| CAPÍTULO 3 — A SEMENTE E O SOLO | depois | 13.29% |
-| CAPÍTULO 4 — O CELULAR CONFIGURADO | depois | 16.63% |
-| CAPÍTULO 5 — O SOLO DIGITAL | depois | 19.65% |
-| CAPÍTULO 6 — CRENÇAS, VALORES E MODO OPERANTE | depois | 23.13% |
+| VOCÊ JÁ ESTÁ POSICIONADA | dentro | 0.15% |
+| OBSERVE OS FRUTOS | dentro | 0.71% |
+| O QUE ESTE LIVRO VAI TREINAR EM VOCÊ | dentro | 1.12% |
+| SUA PRIMEIRA SUBIDA | dentro | 1.53% |
+| COMO USAR ESTE LIVRO | dentro | 1.90% |
+| PARTE I — OBSERVE OS FRUTOS | dentro | 5.45% |
+| CAPÍTULO 1 — A VITRINE DA VIDA | dentro | 5.84% |
+| CAPÍTULO 2 — A MORTE EM VIDA | dentro | 8.69% |
+| PARTE II — SEMENTE, SOLO E CONFIGURAÇÃO | depois | 12.24% |
+| CAPÍTULO 3 — A SEMENTE E O SOLO | depois | 12.83% |
+| CAPÍTULO 4 — O CELULAR CONFIGURADO | depois | 16.07% |
+| CAPÍTULO 5 — O SOLO DIGITAL | depois | 18.98% |
+| CAPÍTULO 6 — CRENÇAS, VALORES E MODO OPERANTE | depois | 22.34% |
 
 ---
 
@@ -58,19 +58,19 @@ A decisão de fazer novos cortes, deslocamentos ou acréscimos deverá considera
 # 4. CONTEXTO DA FRONTEIRA
 
 ```text
-792: Adaptar-se é parte da vida.
-793: 
-794: Falamos de maneira diferente com uma criança, um cliente, um amigo e uma autoridade.
-795: 
-796: Isso não é falsidade.
-797: 
-798: O problema aparece quando a adaptação deixa de ser escolha e vira condição de pertencimento.
-799: 
-800: Você muda de opinião conforme a sala.
-801: 
-802: Esconde valores para não perder acesso.
-803: 
-804: Aceita aquilo que condena em silêncio.
+816: Começa a substituir quem você é.
+817: 
+818: Esse é um dos movimentos da Fuga Identitária que atravessará o livro.
+819: 
+820: Aqui, basta guardar uma pergunta:
+821: 
+822: > Esta adaptação me ajuda a viver uma realidade — ou está me impedindo de perceber o que penso, sinto e sustento?
+823: 
+824: ## O primeiro sinal de retorno
+825: 
+826: Voltar a participar da própria existência nem sempre começa com uma grande decisão.
+827: 
+828: Às vezes, começa quando você percebe:
 ```
 
 ---
