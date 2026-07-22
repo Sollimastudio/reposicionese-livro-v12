@@ -1,7 +1,7 @@
 # Matriz de Não Perda — Reposicione-se™
 
-**Versão:** 2.1 — Pós-coerência e voz, Lote 01  
-**Estado:** manuscrito completo em Revisão B; coerência metodológica reconciliada; voz e ritmo concluídos no Lote 01; validações especializadas e produção pendentes
+**Versão:** 2.2 — Pós-coerência e voz, Lotes 01–02  
+**Estado:** manuscrito completo em Revisão B; coerência metodológica reconciliada; voz e ritmo concluídos no Pré-livro e Partes I–IV; validações especializadas e produção pendentes
 
 ## Objetivo
 
