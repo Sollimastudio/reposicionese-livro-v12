@@ -10,12 +10,12 @@
 
 # 1. RESULTADO
 
-- Total editorial estimado: **34,334 palavras**;
-- alvo de 10%: **3,434 palavras**;
-- linha aproximada da fronteira: **782**;
-- seção em que a fronteira cai: **O apagamento pode receber elogios**;
-- próxima seção identificada: **Quando adaptação vira identidade**;
-- texto na linha de fronteira: `E existe uma segunda pergunta:`.
+- Total editorial estimado: **35,036 palavras**;
+- alvo de 10%: **3,504 palavras**;
+- linha aproximada da fronteira: **798**;
+- seção em que a fronteira cai: **Quando adaptação vira identidade**;
+- próxima seção identificada: **O primeiro sinal de retorno**;
+- texto na linha de fronteira: `O problema aparece quando a adaptação deixa de ser escolha e vira condição de pertencimento.`.
 
 ---
 
@@ -24,18 +24,18 @@
 | Marco editorial | Posição | Percentual aproximado de entrada |
 |---|---:|---:|
 | VOCÊ JÁ ESTÁ POSICIONADA | dentro | 0.16% |
-| OBSERVE OS FRUTOS | dentro | 0.75% |
-| O QUE ESTE LIVRO VAI TREINAR EM VOCÊ | dentro | 1.18% |
-| SUA PRIMEIRA SUBIDA | dentro | 1.62% |
-| COMO USAR ESTE LIVRO | dentro | 2.01% |
-| PARTE I — OBSERVE OS FRUTOS | dentro | 5.76% |
-| CAPÍTULO 1 — A VITRINE DA VIDA | dentro | 6.17% |
-| CAPÍTULO 2 — A MORTE EM VIDA | dentro | 9.18% |
-| PARTE II — SEMENTE, SOLO E CONFIGURAÇÃO | depois | 12.93% |
-| CAPÍTULO 3 — A SEMENTE E O SOLO | depois | 13.56% |
-| CAPÍTULO 4 — O CELULAR CONFIGURADO | depois | 16.97% |
-| CAPÍTULO 5 — O SOLO DIGITAL | depois | 20.05% |
-| CAPÍTULO 6 — CRENÇAS, VALORES E MODO OPERANTE | depois | 23.60% |
+| OBSERVE OS FRUTOS | dentro | 0.73% |
+| O QUE ESTE LIVRO VAI TREINAR EM VOCÊ | dentro | 1.16% |
+| SUA PRIMEIRA SUBIDA | dentro | 1.58% |
+| COMO USAR ESTE LIVRO | dentro | 1.97% |
+| PARTE I — OBSERVE OS FRUTOS | dentro | 5.64% |
+| CAPÍTULO 1 — A VITRINE DA VIDA | dentro | 6.05% |
+| CAPÍTULO 2 — A MORTE EM VIDA | dentro | 9.00% |
+| PARTE II — SEMENTE, SOLO E CONFIGURAÇÃO | depois | 12.67% |
+| CAPÍTULO 3 — A SEMENTE E O SOLO | depois | 13.29% |
+| CAPÍTULO 4 — O CELULAR CONFIGURADO | depois | 16.63% |
+| CAPÍTULO 5 — O SOLO DIGITAL | depois | 19.65% |
+| CAPÍTULO 6 — CRENÇAS, VALORES E MODO OPERANTE | depois | 23.13% |
 
 ---
 
@@ -58,19 +58,19 @@ A decisão de fazer novos cortes, deslocamentos ou acréscimos deverá considera
 # 4. CONTEXTO DA FRONTEIRA
 
 ```text
-776: Amar não exige abandonar discernimento.
-777: 
-778: A pergunta é simples e desconfortável:
-779: 
-780: > O que precisa deixar de existir em você para que determinada relação, ambiente ou imagem continue funcionando?
-781: 
-782: E existe uma segunda pergunta:
-783: 
-784: > Que fruto saudável aparece quando você participa sem abandonar responsabilidade, vínculo e realidade?
-785: 
-786: O objetivo não é trocar entrega por egoísmo.
-787: 
-788: É impedir que o amor precise da sua ausência para continuar recebendo esse nome.
+792: Adaptar-se é parte da vida.
+793: 
+794: Falamos de maneira diferente com uma criança, um cliente, um amigo e uma autoridade.
+795: 
+796: Isso não é falsidade.
+797: 
+798: O problema aparece quando a adaptação deixa de ser escolha e vira condição de pertencimento.
+799: 
+800: Você muda de opinião conforme a sala.
+801: 
+802: Esconde valores para não perder acesso.
+803: 
+804: Aceita aquilo que condena em silêncio.
 ```
 
 ---
