@@ -1,7 +1,7 @@
 # Matriz de Não Perda — Reposicione-se™
 
-**Versão:** 2.0 — Marco 07  
-**Estado:** manuscrito completo em Revisão B; validações especializadas e produção pendentes
+**Versão:** 2.1 — Pós-coerência e voz, Lote 01  
+**Estado:** manuscrito completo em Revisão B; coerência metodológica reconciliada; voz e ritmo concluídos no Lote 01; validações especializadas e produção pendentes
 
 ## Objetivo
 
@@ -45,7 +45,7 @@ Rastrear conceitos, histórias, ferramentas, riscos, imagens e decisões que nã
 | 21 | Autopiedade | Mecanismo que pode capturar a dor | Parte VI | CANÔNICO COM VALIDAÇÃO | acusar pessoa ferida | revisão psicológica, clínica, teológica e de sensibilidade |
 | 22 | Poda | Interrupção consciente | Parte VII | CANÔNICO | romantizar ruptura | Filtro, segurança, preservação e Nova Semente |
 | 23 | Nova Semente | Prática repetida | Parte VIII | CANÔNICO | mudança instantânea | observabilidade, repetição e revisão |
-| 24 | Mirante do Discernimento | Ponto metacognitivo | Pré-livro e Suba | CORREÇÃO LOCALIZADA | parecer sistema extra | definir uso visual e checkpoints estratégicos |
+| 24 | Mirante do Discernimento | Ponto metacognitivo | Pré-livro e Suba | CANÔNICO | parecer sistema extra | integrado ao comando Suba e à descida; uso visual ainda pendente |
 | 25 | Observe os Frutos | Comando inicial | Livro inteiro | CANÔNICO | conflito com “Olhe” | forma editorial oficial única |
 | 26 | Suba na Árvore | Ampliar panorama | Livro inteiro | CANÔNICO | distanciamento frio | não negar emoção; sempre descer |
 | 27 | Deixe na Árvore | Suspender conclusão | Livro inteiro | CANÔNICO | obrigar concordância | permitir rejeição após exame |
@@ -56,7 +56,7 @@ Rastrear conceitos, histórias, ferramentas, riscos, imagens e decisões que nã
 | 32 | Pense nisso | Pausa consciente | Livro inteiro | CANÔNICO | frase decorativa | pergunta concreta |
 | 33 | Repense isso | Revisar configuração | Livro inteiro | CANÔNICO | desprezar tradição | revisar sem obrigar abandono |
 | 34 | Filtro da Sensatez | Protocolo oficial | Livro inteiro | CANÔNICO | versões divergentes | 12 perguntas exatas |
-| 35 | Filtro da Influência | Aplicação temática | Parte II/Workbook | CORREÇÃO LOCALIZADA | competir com Filtro oficial | mapear ao oficial, reduzir ou mover instrumento extenso |
+| 35 | Filtro da Influência | Aplicação temática | Parte II/Workbook | CANÔNICO | competir com Filtro oficial | aplicação mapeada ao Filtro oficial; sem lista paralela |
 | 36 | Buscar a Lógica | Camada operacional | Visual/Workbook | VISUAL | fórmula causal universal | mapa de investigação, não segundo protocolo |
 | 37 | 14 Leis | Critérios recorrentes | Distribuídas/guia | CANÔNICO | competir com Árvore | não reestruturar livro pelas Leis |
 | 38 | 14 Tipos | Espelhos pedagógicos | Parte VII | CANÔNICO COM VALIDAÇÃO | diagnóstico e rótulo | validar nomes, gêneros e diferenças |

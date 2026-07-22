@@ -3,7 +3,7 @@
 
 **Autora:** Sol Lima  
 **Método:** Árvore do Discernimento  
-**Estado:** manuscrito textual completo; governança e coerência metodológica reconciliadas; voz e revisões especializadas pendentes  
+**Estado:** manuscrito textual completo; governança e coerência metodológica reconciliadas; voz e ritmo concluídos no Lote 01; especialistas e produção pendentes  
 **PR:** #2 — rascunho, sem merge
 
 ---
@@ -20,7 +20,7 @@ Estado confirmado:
 - Partes I–VIII — Revisão B;
 - capítulos 1–38 validados;
 - um Epílogo;
-- aproximadamente 37.062 palavras editoriais;
+- aproximadamente 37.084 palavras editoriais;
 - Revisão A preservada;
 - Marcos 01–06 preservados;
 - Marco 07 vigente;
@@ -113,6 +113,11 @@ O Capítulo 38 preserva dez movimentos de aplicação completa. A rota curta e o
 - [Rastreabilidade da coerência metodológica](revisao-b-global/40_RASTREABILIDADE_COERENCIA_METODOLOGICA_LOCALIZADA.md)
 - [Ponto de retomada após a coerência metodológica](revisao-b-global/41_PONTO_DE_RETOMADA_POS_COERENCIA_METODOLOGICA.md)
 
+## Voz, ritmo e repetição
+
+- [Rastreabilidade — Lote 01](revisao-b-global/42_RASTREABILIDADE_VOZ_RITMO_REPETICAO_LOTE_01.md)
+- [Ponto de retomada — Lote 01](revisao-b-global/43_PONTO_DE_RETOMADA_VOZ_RITMO_LOTE_01.md)
+
 ## Fechamento textual
 
 - [Parte VIII e Epílogo — Revisão B](revisao-b-global/32_ONDA_8_PARTE_VIII_EPILOGO_REV_B.md)
@@ -149,7 +154,7 @@ Nenhum Marco anterior deve ser sobrescrito.
 
 A Revisão B textual está completa, mas a publicação ainda depende de:
 
-- passagem global de voz, ritmo e repetição;
+- passagem global de voz, ritmo e repetição nos Lotes 2–4;
 - revisão psicológica e clínica;
 - revisão teológica;
 - revisão jurídica;
@@ -167,4 +172,4 @@ A Revisão B textual está completa, mas a publicação ainda depende de:
 
 A **Rodada de Coerência Metodológica Localizada está concluída**.
 
-A próxima passagem autorizável é a **Rodada Global de Voz, Ritmo e Repetição**, aplicada em lotes controlados e sem reabrir arquitetura, método ou Partes.
+A passagem global de voz, ritmo e repetição começou em lotes controlados. O **Lote 01 — Pré-livro e Partes I–II** está concluído. A próxima unidade autorizável é o **Lote 02 — Partes III–IV**.
