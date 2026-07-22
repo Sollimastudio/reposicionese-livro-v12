@@ -30,28 +30,28 @@ def main() -> None:
         [
             (
                 "estado da porta principal",
-                "**Estado:** manuscrito textual completo; governança reconciliada; auditorias localizadas e especializadas pendentes",
+                "**Estado:** manuscrito textual completo; governança e coerência metodológica reconciliadas; voz e revisões especializadas pendentes",
                 "**Estado:** manuscrito textual completo; governança e coerência metodológica reconciliadas; voz e ritmo concluídos no Lote 01; especialistas e produção pendentes",
             ),
             (
                 "contagem da porta principal",
-                "- aproximadamente 36.859 palavras editoriais;",
+                "- aproximadamente 37.062 palavras editoriais;",
                 "- aproximadamente 37.084 palavras editoriais;",
             ),
             (
-                "arquivos de estado da porta principal",
-                "- [Validação da reconciliação](revisao-b-global/39_VALIDACAO_RECONCILIACAO_GOVERNANCA.md)",
-                "- [Validação da reconciliação](revisao-b-global/39_VALIDACAO_RECONCILIACAO_GOVERNANCA.md)\n- [Rastreabilidade da coerência metodológica](revisao-b-global/40_RASTREABILIDADE_COERENCIA_METODOLOGICA_LOCALIZADA.md)\n- [Rastreabilidade de voz e ritmo — Lote 01](revisao-b-global/42_RASTREABILIDADE_VOZ_RITMO_REPETICAO_LOTE_01.md)\n- [Ponto de retomada — Lote 01](revisao-b-global/43_PONTO_DE_RETOMADA_VOZ_RITMO_LOTE_01.md)",
+                "arquivos de voz e ritmo na porta principal",
+                "- [Ponto de retomada após a coerência metodológica](revisao-b-global/41_PONTO_DE_RETOMADA_POS_COERENCIA_METODOLOGICA.md)",
+                "- [Ponto de retomada após a coerência metodológica](revisao-b-global/41_PONTO_DE_RETOMADA_POS_COERENCIA_METODOLOGICA.md)\n\n## Voz, ritmo e repetição\n\n- [Rastreabilidade — Lote 01](revisao-b-global/42_RASTREABILIDADE_VOZ_RITMO_REPETICAO_LOTE_01.md)\n- [Ponto de retomada — Lote 01](revisao-b-global/43_PONTO_DE_RETOMADA_VOZ_RITMO_LOTE_01.md)",
             ),
             (
                 "pendências da porta principal",
-                "- coerência metodológica localizada;\n- passagem global de voz, ritmo e repetição;",
+                "- passagem global de voz, ritmo e repetição;",
                 "- passagem global de voz, ritmo e repetição nos Lotes 2–4;",
             ),
             (
                 "próxima etapa da porta principal",
-                "A **Reconciliação de Governança está concluída**.\n\nA próxima passagem textual autorizável é a **Rodada de Coerência Metodológica Localizada**, limitada aos pontos já auditados e sem reabrir a arquitetura ou as Partes.",
-                "A **Reconciliação de Governança** e a **Coerência Metodológica Localizada** estão concluídas.\n\nA passagem global de voz, ritmo e repetição começou em lotes controlados. O **Lote 01 — Pré-livro e Partes I–II** está concluído. A próxima unidade autorizável é o **Lote 02 — Partes III–IV**.",
+                "A **Rodada de Coerência Metodológica Localizada está concluída**.\n\nA próxima passagem autorizável é a **Rodada Global de Voz, Ritmo e Repetição**, aplicada em lotes controlados e sem reabrir arquitetura, método ou Partes.",
+                "A **Rodada de Coerência Metodológica Localizada está concluída**.\n\nA passagem global de voz, ritmo e repetição começou em lotes controlados. O **Lote 01 — Pré-livro e Partes I–II** está concluído. A próxima unidade autorizável é o **Lote 02 — Partes III–IV**.",
             ),
         ],
     )
