@@ -1,3 +1,4 @@
+# Execução autorizada da coerência metodológica localizada
 name: Aplicar Coerência Metodológica Localizada
 
 on:
@@ -80,7 +81,7 @@ jobs:
           assert 'O Mirante não é uma nova camada da Árvore' in part7
           assert official in part7
           assert 'Nenhum grupo pensará automaticamente por mim' in part8
-          assert 'quando a polarização tentar entregar uma sentença antes do exame' in part8
+          assert 'Quando a polarização tentar entregar uma sentença antes do exame' in part8
           assert 'quando a Fuga Identitária oferecer um rótulo' in part8
           assert 'influenciadores e algoritmos repetirem uma voz' in part8
 
