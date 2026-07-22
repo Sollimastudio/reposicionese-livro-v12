@@ -10,12 +10,12 @@
 
 # 1. RESULTADO
 
-- Total editorial estimado: **34,747 palavras**;
-- alvo de 10%: **3,475 palavras**;
-- linha aproximada da fronteira: **912**;
-- seção em que a fronteira cai: **O que você tenta provar**;
-- próxima seção identificada: **A Vitrine também pode esconder desaparecimento**;
-- texto na linha de fronteira: `> Quem governa quando o reconhecimento vem e começa a recompensar uma personagem?`.
+- Total editorial estimado: **33,209 palavras**;
+- alvo de 10%: **3,321 palavras**;
+- linha aproximada da fronteira: **749**;
+- seção em que a fronteira cai: **Desaparecer não é apenas ficar em silêncio**;
+- próxima seção identificada: **O apagamento pode receber elogios**;
+- texto na linha de fronteira: `Ela não apenas escuta influências.`.
 
 ---
 
@@ -23,19 +23,19 @@
 
 | Marco editorial | Posição | Percentual aproximado de entrada |
 |---|---:|---:|
-| VOCÊ JÁ ESTÁ POSICIONADA | dentro | 0.16% |
-| OBSERVE OS FRUTOS | dentro | 0.93% |
-| O QUE ESTE LIVRO VAI TREINAR EM VOCÊ | dentro | 1.46% |
-| SUA PRIMEIRA SUBIDA | dentro | 2.22% |
-| COMO USAR ESTE LIVRO | dentro | 7.18% |
-| PARTE I — OBSERVE OS FRUTOS | dentro | 7.94% |
-| CAPÍTULO 1 — A VITRINE DA VIDA | dentro | 8.35% |
-| CAPÍTULO 2 — A MORTE EM VIDA | depois | 11.32% |
-| PARTE II — SEMENTE, SOLO E CONFIGURAÇÃO | depois | 15.03% |
-| CAPÍTULO 3 — A SEMENTE E O SOLO | depois | 15.65% |
-| CAPÍTULO 4 — O CELULAR CONFIGURADO | depois | 19.03% |
-| CAPÍTULO 5 — O SOLO DIGITAL | depois | 22.06% |
-| CAPÍTULO 6 — CRENÇAS, VALORES E MODO OPERANTE | depois | 25.57% |
+| VOCÊ JÁ ESTÁ POSICIONADA | dentro | 0.17% |
+| OBSERVE OS FRUTOS | dentro | 0.77% |
+| O QUE ESTE LIVRO VAI TREINAR EM VOCÊ | dentro | 1.22% |
+| SUA PRIMEIRA SUBIDA | dentro | 1.67% |
+| COMO USAR ESTE LIVRO | dentro | 2.07% |
+| PARTE I — OBSERVE OS FRUTOS | dentro | 5.95% |
+| CAPÍTULO 1 — A VITRINE DA VIDA | dentro | 6.38% |
+| CAPÍTULO 2 — A MORTE EM VIDA | dentro | 9.49% |
+| PARTE II — SEMENTE, SOLO E CONFIGURAÇÃO | depois | 13.36% |
+| CAPÍTULO 3 — A SEMENTE E O SOLO | depois | 14.01% |
+| CAPÍTULO 4 — O CELULAR CONFIGURADO | depois | 17.55% |
+| CAPÍTULO 5 — O SOLO DIGITAL | depois | 20.72% |
+| CAPÍTULO 6 — CRENÇAS, VALORES E MODO OPERANTE | depois | 24.40% |
 
 ---
 
@@ -58,19 +58,19 @@ A decisão de fazer novos cortes, deslocamentos ou acréscimos deverá considera
 # 4. CONTEXTO DA FRONTEIRA
 
 ```text
-906: A pergunta é:
-907: 
-908: > Quem governa quando o reconhecimento não vem?
-909: 
-910: E outra pergunta precisa entrar:
-911: 
-912: > Quem governa quando o reconhecimento vem e começa a recompensar uma personagem?
-913: 
-914: A plateia pode pressionar pela rejeição.
-915: 
-916: Também pode aprisionar pelo aplauso.
-917: 
-918: ## A Vitrine também pode esconder desaparecimento
+743: O que deve desejar.
+744: 
+745: O que pode recusar.
+746: 
+747: A quem precisa agradar para continuar pertencendo.
+748: 
+749: Ela não apenas escuta influências.
+750: 
+751: Entrega a elas a função de dizer quem é.
+752: 
+753: Pode continuar pronunciando opiniões.
+754: 
+755: Mas já não sabe quais examinou, quais herdou e quais repete para não perder lugar.
 ```
 
 ---

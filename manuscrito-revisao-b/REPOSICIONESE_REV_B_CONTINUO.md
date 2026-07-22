@@ -3,14 +3,15 @@ title: "REPOSICIONE-SE™"
 subtitle: "Método da Árvore do Discernimento"
 author: "Sol Lima"
 lang: pt-BR
-subject: "Manuscrito contínuo vivo — Revisão B"
+subject: "Manuscrito contínuo vivo — Revisão B — Marco 02"
 toc-title: "SUMÁRIO"
 ---
 
-> **MANUSCRITO DE TRABALHO — REVISÃO B. Pré-livro e Partes I–II já revisados; Partes III–VIII ainda herdadas da Revisão A.**  
-> Gerado em 2026-07-21T23:12:22+00:00. A Revisão A permanece preservada como referência histórica.
+> **MANUSCRITO DE TRABALHO — REVISÃO B. Pré-livro e Partes I–III revisados; Partes IV–VIII ainda herdadas da Revisão A.**  
+> Gerado em 2026-07-22T00:36:01+00:00. A Revisão A e o Marco 01 permanecem preservados.
 
-\newpage
+
+ewpage
 <!-- FONTE: revisao-b-global/03_ONDA_1_PRE_LIVRO_REV_B.md | STATUS: REVISÃO B -->
 
 # REPOSICIONE-SE™
@@ -30,21 +31,12 @@ Eu começo por outro lugar:
 
 > **Você já está posicionada.**
 
-Seu silêncio ocupa uma posição.
-
-Sua permanência ocupa uma posição.
-
-Seu sim ocupa uma posição.
-
+Seu silêncio ocupa uma posição.  
+Sua permanência ocupa uma posição.  
+Seu sim ocupa uma posição.  
 Seu não também.
 
-Adiar é uma posição.
-
-Entregar a decisão a outra pessoa é uma posição.
-
-Reagir a tudo é uma posição.
-
-Evitar conflito a qualquer preço também.
+Adiar é uma posição. Entregar a decisão a outra pessoa é uma posição. Reagir a tudo é uma posição. Evitar conflito a qualquer preço também.
 
 A questão não é se você está posicionada.
 
@@ -52,30 +44,11 @@ A questão é:
 
 > **A posição que você ocupa está produzindo os frutos que deseja continuar colhendo?**
 
-Você pode dizer que quer paz e alimentar toda guerra que encontra.
+Você pode dizer que quer paz e alimentar guerras; desejar respeito e negociar o próprio limite; defender liberdade e entregar a consciência ao grupo; afirmar que pensa por si e consumir apenas confirmações.
 
-Pode desejar respeito e negociar o próprio limite antes que alguém precise pressionar.
+Também pode ter aprendido a pausar, construído vínculos em que verdade não ameaça pertencimento e sustentado valores que podem fortalecer outros Galhos.
 
-Pode defender liberdade e entregar a consciência ao grupo que oferece pertencimento.
-
-Pode afirmar que pensa por si e consumir apenas aquilo que confirma o que já acredita.
-
-Também pode estar fazendo coisas que funcionam.
-
-Pode ter aprendido a pedir tempo antes de responder.
-
-Pode ter construído uma amizade em que verdade não ameaça pertencimento.
-
-Pode sustentar um valor num Galho da vida e ainda não perceber que esse recurso pode fortalecer outro.
-
-Este livro não foi escrito apenas para encontrar o que está errado.
-
-Foi escrito para ajudar você a reconhecer:
-
-- o que produz dano e precisa ser investigado;
-- o que produz vida e merece ser nutrido;
-- o que foi repetido sem exame;
-- o que funciona e precisa ser repetido com consciência.
+Este livro ajudará você a reconhecer o que produz dano, o que produz vida, o que foi repetido sem exame e o que merece repetição consciente.
 
 Isso não significa que todo fruto foi causado por você.
 
@@ -87,37 +60,25 @@ Significa que o fruto é o primeiro lugar em que a investigação se torna visí
 
 Pelos frutos se conhece a árvore.
 
-Mas o fruto não é uma sentença sobre quem você é.
-
-Também não é explicação completa do que aconteceu.
+Mas o fruto não é uma sentença sobre quem você é nem uma explicação completa do que aconteceu.
 
 > **Fruto é evidência, não diagnóstico final.**
 
-Ele mostra o que apareceu.
-
-O que uma relação, uma crença, uma rotina, uma influência ou uma permanência estão produzindo.
-
-Depois será necessário investigar a estrutura.
+Ele mostra o que uma relação, crença, rotina, influência ou permanência está produzindo.
 
 Por enquanto, observe:
 
 - Como está sua paz quando ninguém está vendo?
 - Seus relacionamentos produzem verdade ou medo?
-- Seus limites existem na realidade ou apenas dentro da sua cabeça?
 - Sua fé produz vida, responsabilidade e coragem — ou culpa, dependência e apagamento?
 - Você sabe o que pensa antes de abrir a rede para descobrir o que deveria pensar?
-- Que escolha recente produziu um fruto que você deseja repetir?
-- Que ambiente ajuda você a pensar com mais clareza?
+- Que escolha produziu um fruto que deseja repetir?
 
 Não responda bonito.
 
 Responda verdadeiro.
 
-Você não é o fruto estragado.
-
-Também não precisa desprezar os frutos bons como se fossem acaso.
-
-Você é a pessoa que pode investigar o cultivo.
+Você não é o fruto estragado. Também não precisa desprezar os frutos bons como se fossem acaso. Você é a pessoa que pode investigar o cultivo.
 
 > **Pelos frutos ruins, reconheça o que pede atenção.**
 >
@@ -133,46 +94,11 @@ Foi escrito para ensinar você a perceber **como está pensando** antes de acred
 
 Essa capacidade tem um nome: **metacognição**.
 
-Metacognição é perceber o próprio pensamento enquanto ele está se formando.
+Metacognição é perceber o pensamento enquanto ele se forma: separar fato e interpretação, reconhecer emoção, influência e impulso, e perguntar que fruto a resposta tende a produzir.
 
-É conseguir perguntar:
+Não é pensar sem parar nem desconfiar de tudo. É criar um intervalo entre estímulo e resposta, influência e adesão, emoção e decisão.
 
-- o que aconteceu de fato?
-- o que interpretei?
-- o que senti?
-- que voz participou dessa interpretação?
-- que medo, desejo ou pertencimento está pressionando minha conclusão?
-- que fruto minha resposta tende a produzir?
-
-Não é pensar sem parar.
-
-Não é desconfiar de tudo até ficar paralisada.
-
-Não é transformar a vida numa análise interminável.
-
-Metacognição cria um intervalo.
-
-Um espaço entre o estímulo e a resposta.
-
-Entre a influência e a adesão.
-
-Entre a emoção e a decisão.
-
-Entre aquilo que chegou até você e o lugar que receberá dentro da sua consciência.
-
-Ao terminar esta jornada, você deverá conseguir:
-
-1. observar um fruto sem transformá-lo em identidade;
-2. distinguir fato, interpretação, emoção, narrativa e influência;
-3. reconhecer quando está reagindo no automático;
-4. identificar quando um grupo, líder, algoritmo, papel ou medo está pensando em seu lugar;
-5. aprender com outras pessoas sem entregar a elas o governo da sua consciência;
-6. reconhecer o que funciona e fortalecer esse cultivo;
-7. assumir a responsabilidade que realmente lhe pertence;
-8. passar decisões pelo Filtro da Sensatez;
-9. interromper o que precisa perder acesso;
-10. plantar e repetir uma prática diferente;
-11. descer da Árvore e tornar o discernimento visível na vida real.
+Ao final, você deverá observar sem transformar fruto em identidade; distinguir fato, interpretação e influência; reconhecer o automático; aprender sem terceirizar a consciência; fortalecer o que funciona; assumir sua responsabilidade real; filtrar, interromper, plantar outra prática e agir.
 
 Você não terminará este livro sabendo tudo.
 
@@ -185,11 +111,7 @@ Terminará sabendo **examinar melhor antes de acreditar, repetir, reagir ou deci
 
 Antes de conhecer toda a Árvore, experimente o movimento.
 
-Escolha uma frase, notícia, comentário ou situação recente que tenha irritado, agradado, assustado ou empolgado você.
-
-Não escolha o maior problema da sua vida.
-
-Escolha algo que consiga observar agora.
+Escolha uma frase, notícia, comentário ou situação recente que tenha irritado, agradado, assustado ou empolgado você. Não escolha o maior problema da sua vida. Escolha algo que consiga observar agora.
 
 Pergunte:
 
@@ -201,15 +123,9 @@ Pergunte:
 6. Que fruto minha resposta automática provavelmente produziria?
 7. O que ainda preciso verificar?
 
-Talvez sua primeira conclusão permaneça correta.
+Sua conclusão pode permanecer, precisar de ampliação ou revelar que uma emoção — ou uma voz externa — tentou entregar um veredito.
 
-Talvez precise ser ampliada.
-
-Talvez descubra que a emoção trouxe informação, mas tentou também entregar um veredito.
-
-Talvez perceba que uma voz externa já estava respondendo dentro de você.
-
-Esse pequeno intervalo é o início da metacognição.
+Esse intervalo inicia a metacognição.
 
 > **SUBA NA ÁRVORE.**
 >
@@ -217,51 +133,45 @@ Esse pequeno intervalo é o início da metacognição.
 
 ---
 
+# COMO USAR ESTE LIVRO
+
+Não tente consertar sua vida inteira de uma vez.
+
+Escolha um fruto real — incômodo ou bom — e acompanhe a mesma investigação ao longo das Partes.
+
+Use o livro em cinco movimentos:
+
+1. **Observe:** o que aconteceu e que fruto apareceu?
+2. **Suba:** como estou pensando, sentindo e interpretando?
+3. **Investigue:** que parte da Árvore participa disso?
+4. **Filtre:** o que é fato, narrativa, influência e responsabilidade?
+5. **Desça:** que ação, Poda ou Nova Semente tornará o discernimento visível?
+
+Anote. Não use incômodo como prova. Deixe na Árvore frases que tocam identidade, examine influências urgentes e investigue o que sustentou um bom fruto.
+
+Ao final, você deverá repetir o método sem depender da autora: perceber, verificar, reconhecer, revisar e sustentar uma escolha.
+
+---
+
 # O LETREIRO DE NEON
 
 Durante muito tempo, senti que carregava um letreiro de neon.
 
-Eu não dizia com a boca que aceitava migalhas.
+Eu não dizia que aceitava migalhas. Algumas permanências diziam. Não anunciava medo de perder amor. Alguns silêncios anunciavam.
 
-Algumas permanências diziam.
+Eu sabia que possuía valor, mas nem sempre o sustentava quando havia custo. Era como andar com uma mensagem acesa que eu mesma não conseguia ler.
 
-Eu não anunciava que tinha medo de perder amor.
-
-Alguns silêncios anunciavam.
-
-Eu sabia que possuía valor.
-
-Mas nem sempre sustentava esse valor quando havia custo.
-
-Era como andar com uma mensagem acesa que eu mesma não conseguia ler.
-
-O letreiro não criou a escolha de quem me feriu.
-
-Não absolveu quem manipulou, abandonou ou ultrapassou limites.
-
-A responsabilidade pelo dano pertence a quem o praticou.
+O letreiro não criou a escolha de quem me feriu nem absolveu quem manipulou, abandonou ou ultrapassou limites. A responsabilidade pelo dano pertence a quem o praticou.
 
 Mas havia uma pergunta que eu já não podia evitar:
 
 > **O que minhas permanências estavam comunicando sobre o acesso que eu continuava permitindo?**
 
-Foi aí que o posicionamento deixou de parecer apenas uma fala firme.
-
-Posicionamento era aquilo que eu sustentava depois da fala.
-
-Era o fruto repetido.
-
-Era o sim que continuava valendo.
-
-Era o não que não sobrevivia à culpa.
-
-Era a convicção que desaparecia diante do pertencimento.
-
-Era a diferença entre saber meu valor e organizar a vida a partir dele.
+Posicionamento deixou de parecer fala firme. Era o que eu sustentava depois dela: o fruto repetido, o sim mantido, o não vencido pela culpa, a convicção diante do pertencimento.
 
 O Letreiro tornou visível a mensagem.
 
-Mas eu ainda precisava compreender a estrutura que a mantinha acesa.
+Eu ainda precisava compreender a estrutura que a mantinha acesa.
 
 ---
 
@@ -269,181 +179,57 @@ Mas eu ainda precisava compreender a estrutura que a mantinha acesa.
 
 No Rio Grande do Norte existe um cajueiro que ocupa uma área imensa.
 
-À primeira vista, ele parece muitas árvores.
-
-Galhos longos tocam o chão, criam novas sustentações e continuam se espalhando. Quem olha apenas de fora pode enxergar um emaranhado.
-
-Quem aprende a observar a estrutura descobre outra coisa:
-
-há uma origem, conexões, apoios, caminhos e frutos participando da mesma vida.
+À primeira vista, parece muitas árvores. Galhos tocam o chão, criam sustentações e se espalham. De fora, há um emaranhado; na estrutura, origem, conexões, apoios, caminhos e frutos da mesma vida.
 
 Foi diante dessa imagem que uma frase ganhou forma dentro de mim:
 
 > **Suba na Árvore.**
 
-Subir não significa fugir da realidade.
-
-Significa sair, por alguns instantes, de dentro da reação para enxergar o conjunto.
+Subir não é fugir da realidade. É sair, por alguns instantes, de dentro da reação para enxergar o conjunto.
 
 Do chão, você vê o fruto que caiu.
 
-Da Árvore, pode perguntar:
+Da Árvore, pergunta pelo Galho, Tronco, Raiz, Solo, Praga, Poda e pelos recursos saudáveis já disponíveis.
 
-- em que Galho ele nasceu?
-- o que o Tronco conseguiu ou não sustentar?
-- que Raiz alimentou o padrão?
-- que Solo tornou aquela resposta fértil?
-- que Praga drenou o cultivo?
-- que Poda precisa ser considerada?
-- que parte saudável da Árvore já oferece recurso?
+A Árvore organiza a investigação sem causa única, diagnóstico de pessoas ou poder da autora sobre seu pensamento.
 
-A Árvore do Discernimento nasceu para organizar essa investigação.
-
-Não para explicar tudo por uma causa única.
-
-Não para diagnosticar pessoas.
-
-Não para dar à autora o poder de pensar por você.
-
-Ela existe para devolver visão, autoria e decisão.
+Existe para devolver visão, autoria e decisão.
 
 ---
 
-# A ÁRVORE DO DISCERNIMENTO
+# O MAPA DA ÁRVORE
 
-A estrutura da Árvore é:
+- **Semente:** o que entra no cultivo — mensagem, experiência, interpretação, informação, crença ou possibilidade.
+- **Solo:** o ambiente que torna certas Sementes mais férteis.
+- **Raízes:** aquilo de onde um padrão continua retirando força hoje.
+- **Tronco:** o que você consegue sustentar quando existe custo.
+- **Galhos:** as áreas concretas da vida.
+- **Frutos:** os resultados observáveis; evidência, não identidade.
+- **Pragas:** mecanismos que drenam, distorcem ou sabotam; nunca pessoas, grupos, diagnósticos ou emoções difíceis.
+- **Poda:** a interrupção consciente do que produz frutos incompatíveis; não vingança.
+- **Nova Semente:** a prática que ocupará o espaço aberto.
+- **Mirante do Discernimento:** o ponto metacognitivo de onde você observa sem se reduzir ao fruto e decide quando descer para agir.
 
-## Semente
-
-Aquilo que entra no cultivo.
-
-Uma frase, experiência, interpretação, promessa, informação, crença ou possibilidade.
-
-## Solo
-
-O ambiente que torna certas Sementes mais férteis.
-
-Família, cultura, fé, escola, território, redes, comunidade e época participam desse Solo.
-
-## Raízes
-
-Aquilo de onde um padrão continua retirando força hoje.
-
-A origem importa.
-
-O alimento atual ajuda a decidir se o padrão permanece vivo.
-
-## Tronco
-
-Aquilo que você consegue sustentar quando existe custo.
-
-Valor declarado não é Tronco enquanto desaparece na primeira pressão.
-
-## Galhos
-
-As áreas concretas da vida:
-
-relacionamentos, família, trabalho, dinheiro, fé, política, corpo, sexualidade, amizade, cuidado, descanso e propósito.
-
-## Frutos
-
-Os resultados observáveis.
-
-Eles não definem sua identidade.
-
-Mostram o que o cultivo está produzindo.
-
-## Pragas
-
-Mecanismos que drenam, distorcem ou sabotam o cultivo.
-
-Praga não é pessoa, grupo, diagnóstico ou emoção difícil.
-
-## Poda
-
-A interrupção consciente do que continua produzindo frutos incompatíveis.
-
-Poda não é vingança.
-
-## Nova Semente
-
-A prática que ocupará o espaço aberto.
-
-Porque parar um padrão não ensina, sozinho, um novo modo de viver.
-
-## Mirante do Discernimento
-
-O Mirante não é outra parte da Árvore.
-
-É o ponto de observação metacognitivo.
-
-É de onde você olha para o fruto sem se reduzir a ele, examina a estrutura e decide quando precisa descer para agir.
-
----
-
-# DUAS ORDENS
-
-A Árvore possui uma ordem estrutural:
+A ordem estrutural é:
 
 > **Semente → Solo → Raízes → Tronco → Galhos → Frutos.**
 
-Mas a investigação começa pelo que já pode ser visto:
+A investigação começa pelo visível:
 
 > **Frutos → Galhos → Tronco → Raízes → Solo → Sementes → Pragas → Filtro → Poda → Nova Semente → ação.**
 
-Você não precisa descobrir toda a infância para começar a observar um fruto.
-
-Também não deve concluir que um fruto explica a Árvore inteira.
-
-O método se move entre evidência e estrutura.
-
-Entre presente e origem.
-
-Entre compreensão e decisão.
-
-Entre reconhecer o que precisa mudar e proteger o que já produz vida.
+Você não precisa descobrir toda a infância para observar um fruto nem fazer dele explicação da Árvore inteira. O método liga evidência, estrutura, origem, decisão e preservação do que produz vida.
 
 ---
 
 # OS COMANDOS DA ÁRVORE
 
-## Observe os Frutos
-
-Comece pelo que está acontecendo.
-
-Sem sentença.
-
-Sem maquiagem.
-
-Observe também o que funciona.
-
-## Suba na Árvore
-
-Amplie o panorama antes de reagir.
-
-Perceba como está pensando enquanto pensa.
-
-## Deixe na Árvore
-
-Suspenda a conclusão que ainda não passou por exame.
-
-Deixar na Árvore não é concordar.
-
-É não transformar a primeira interpretação em governo.
-
-## Volte às Raízes
-
-Use quando o padrão se repetir e o presente, sozinho, não explicar a força da resposta.
-
-Não presuma que toda causa está na origem.
-
-## Passe pelo Filtro da Sensatez
-
-Examine verdade, lógica, evidência, justiça, vínculo, consequência e autoria.
-
-## Desça da Árvore
-
-Transforme compreensão em conduta.
+- **Observe os Frutos:** comece pelo que acontece, sem sentença; observe também o que funciona.
+- **Suba na Árvore:** amplie o panorama e perceba como está pensando enquanto pensa.
+- **Deixe na Árvore:** suspenda a conclusão ainda não examinada; isso não é concordar.
+- **Volte às Raízes:** use quando o padrão se repete e o presente não explica a força da resposta.
+- **Passe pelo Filtro da Sensatez:** examine verdade, lógica, evidência, justiça, vínculo, consequência e autoria.
+- **Desça da Árvore:** transforme compreensão em conduta.
 
 A Árvore não foi criada para virar moradia de análise.
 
@@ -468,17 +254,9 @@ Ao longo do livro, você aprenderá doze perguntas oficiais:
 11. Qual parte da Árvore está falando?
 12. O que uma pessoa posicionada faria com essa informação?
 
-Você não precisará transformar toda escolha cotidiana numa audiência de doze etapas.
+Nem toda escolha exige doze etapas. Em decisões de alto custo, use o Filtro inteiro; com a prática, ele se torna forma de pensar.
 
-O Filtro precisa se tornar forma de pensar, não ritual mecânico.
-
-Em decisões de alto custo, use-o por inteiro.
-
-Em situações simples, permita que as perguntas já incorporadas façam seu trabalho.
-
-O objetivo não é desconfiar de todas as pessoas.
-
-É impedir que qualquer voz receba governo automático.
+O objetivo não é desconfiar de todos, mas impedir governo automático.
 
 > **Pensar por si é aprender com muitas vozes sem entregar a nenhuma delas o governo da sua consciência.**
 
@@ -486,134 +264,62 @@ O objetivo não é desconfiar de todas as pessoas.
 
 # POLARIZAÇÃO, INFLUÊNCIA E FUGA IDENTITÁRIA
 
-Esses temas aparecerão em diferentes partes do livro porque parecem assuntos diferentes, mas podem compartilhar o mesmo mecanismo:
+Esses temas parecem diferentes, mas podem compartilhar um mecanismo:
 
 > **a terceirização da consciência.**
 
-Na polarização, o grupo oferece respostas prontas e pune perguntas.
+Na polarização, o grupo responde e pune perguntas. Na influência contínua, uma voz ganha acesso sem ser percebida. Na Fuga Identitária, papel, causa, dor, rótulo ou pertencimento responde pela pessoa inteira.
 
-Na influência contínua, uma voz ganha acesso antes que você perceba que está sendo conduzida.
+O problema não é pertencer ou aprender, mas deixar de perceber quem participa das conclusões.
 
-Na Fuga Identitária, um papel, causa, dor, rótulo ou pertencimento começa a responder pela pessoa inteira.
-
-O problema não é pertencer.
-
-O problema não é aprender.
-
-O problema não é receber influência.
-
-O problema começa quando você deixa de perceber quem participa das suas conclusões.
-
-Ao longo da leitura, volte a três perguntas:
+Volte a três perguntas:
 
 > **Estou aprendendo com esta voz ou entregando a ela o trabalho que pertence à minha consciência?**
-
+>
 > **Consigo pertencer sem desaparecer?**
-
+>
 > **Esta identificação amplia minha consciência ou está substituindo quem sou?**
 
 ---
 
 # DE ONDE EU ESCREVO
 
-Eu escrevo a partir de uma lente cristã, conservadora, pedagógica e experiencial.
+Escrevo de uma lente cristã, conservadora, pedagógica e experiencial. Escondê-la seria começar um livro sobre posicionamento me escondendo. Mas minha posição não me dá o direito de pensar por você.
 
-Não escrevo de um lugar neutro.
+Ser conservadora não torna a direita sempre verdadeira, a esquerda sempre errada nem o centro sempre sensato. Toda lente é perigosa quando deixa de ser examinável.
 
-Esconder isso para parecer aceitável seria começar um livro sobre posicionamento me escondendo.
+Convicção não é cegueira. Pertencimento não é desaparecimento. Fé não é terceirização da consciência. Posicionamento não autoriza desumanizar quem pensa diferente.
 
-Mas declarar minha posição não me dá o direito de pensar por você.
-
-Este livro não foi escrito para fabricar concordância.
-
-Foi escrito para provocar consciência.
-
-Eu sou conservadora.
-
-Isso não transforma tudo o que vem da direita em verdade, tudo o que vem da esquerda em erro nem tudo o que vem do centro em sensatez.
-
-Esquerda, direita e centro podem funcionar como lentes.
-
-Tornam-se perigosas quando deixam de ser examináveis e ocupam o lugar da consciência.
-
-Convicção não é cegueira.
-
-Pertencimento não é desaparecimento.
-
-Fé não é terceirização da consciência.
-
-Posicionamento não é licença para desumanizar quem pensa diferente.
-
-Eu vou me posicionar neste livro.
-
-E vou exigir de mim a mesma pergunta que farei a você:
+Aplicarei a mim a mesma pergunta que farei a você:
 
 > **Que fruto esta forma de pensar está produzindo?**
 
-Você poderá concordar comigo.
+Você poderá concordar, discordar ou deixar uma frase minha na Árvore.
 
-Poderá discordar.
-
-Poderá deixar uma frase minha na Árvore.
-
-Se este livro exigir obediência sem exame, ele terá contradito o próprio método.
+Se este livro exigir obediência sem exame, terá contradito o próprio método.
 
 ---
 
 # O QUE ESTE MÉTODO NÃO AUTORIZA
 
-O Método da Árvore do Discernimento existe para construir consciência, não para fabricar pessoas duras, arrogantes ou violentas.
+O Método da Árvore do Discernimento existe para construir consciência, não pessoas duras, arrogantes ou violentas.
 
-> Posicionamento sem empatia é violência com vocabulário de método.
->
-> Limite sem consciência vira muro.
->
-> Verdade sem sensatez vira agressão.
->
+> Posicionamento sem empatia é violência com vocabulário de método.  
+> Limite sem consciência vira muro.  
+> Verdade sem sensatez vira agressão.  
 > Força sem discernimento vira controle.
 
-Este livro não autoriza você a:
-
-- usar a Árvore para diagnosticar pessoas;
-- transformar a Jaula em acusação;
-- chamar todo sofrimento de Autopiedade;
-- chamar toda discordância de cegueira;
-- culpabilizar quem sofreu violência;
-- usar limite para punir;
-- usar verdade para humilhar;
-- usar fé para impedir uma investigação responsável;
-- usar “pensar por si” como desculpa para rejeitar toda aprendizagem;
-- usar metacognição para ruminar sem agir.
+Este livro não autoriza diagnosticar pessoas, acusar com a Jaula, chamar todo sofrimento de Autopiedade, culpabilizar vítimas, punir com limites, humilhar com a verdade, impedir investigação pela fé, rejeitar aprendizagem ou ruminar em nome da metacognição.
 
 Quem praticou o dano responde pelo que fez.
 
-Contexto, trauma, dependência financeira, risco, coerção e falta de rede importam.
-
-Autoresponsabilidade não apaga essas realidades.
-
-Ela pergunta:
+Contexto, trauma, dependência financeira, risco, coerção e falta de rede importam. Autoresponsabilidade não apaga essas realidades. Pergunta:
 
 > **Diante do que aconteceu e das condições reais de hoje, qual é o próximo movimento possível dentro da minha esfera?**
 
-Às vezes, esse movimento é falar.
+Pode ser falar, silenciar por segurança, pedir ajuda, reunir documentos, buscar orientação, construir recursos ou sair. Quando sair ainda não é possível, a Nova Semente pode ser construir condições seguras.
 
-Às vezes, fazer silêncio por segurança.
-
-Pedir ajuda.
-
-Reunir documentos.
-
-Buscar orientação.
-
-Construir recursos.
-
-Sair.
-
-Às vezes, ainda não é possível sair, e a primeira Nova Semente será construir condições para uma saída segura.
-
-Os exercícios deste livro não substituem atendimento psicológico, psiquiátrico, médico, jurídico, pastoral, policial ou uma rede de proteção adequada.
-
-Se você estiver em risco, proteger a vida vem antes de produzir uma resposta bonita para qualquer exercício.
+Os exercícios não substituem atendimento psicológico, psiquiátrico, médico, jurídico, pastoral, policial ou rede de proteção. Se você estiver em risco, proteger a vida vem antes de responder a qualquer exercício.
 
 ---
 
@@ -627,7 +333,7 @@ O livro anterior perguntou:
 
 > Como eu desapareci?
 
-Este livro pergunta:
+Este pergunta:
 
 > **Como eu paro de desaparecer, recupero discernimento e sustento uma posição na vida real?**
 
@@ -636,49 +342,6 @@ A resposta não será uma frase de motivação.
 Será uma Árvore.
 
 ---
-
-# COMO USAR ESTE LIVRO
-## Um contrato de transformação, não apenas uma orientação de leitura
-
-Não tente consertar sua vida inteira de uma vez.
-
-Escolha um fruto real.
-
-Pode ser um fruto que incomoda.
-
-Pode ser também um fruto bom que você deseja compreender, proteger e repetir.
-
-Acompanhe a mesma investigação ao longo das Partes sempre que for possível.
-
-Faça anotações.
-
-Marque aquilo que incomoda, mas não use o incômodo como prova automática de verdade ou erro.
-
-Quando uma frase tocar identidade, deixe-a na Árvore antes de obedecer à primeira reação.
-
-Quando uma influência pedir urgência, verifique o acesso que ela deseja receber.
-
-Quando reconhecer um bom fruto, investigue que valor, ambiente, vínculo ou prática o sustentou.
-
-Quando compreender, procure a ação possível.
-
-Use este livro em cinco movimentos:
-
-1. **Observe:** o que aconteceu e que fruto apareceu?
-2. **Suba:** como estou pensando, sentindo e interpretando?
-3. **Investigue:** que parte da Árvore participa disso?
-4. **Filtre:** o que é fato, narrativa, influência e responsabilidade?
-5. **Desça:** que ação, Poda ou Nova Semente tornará o discernimento visível?
-
-Ao final, você não precisará depender da autora para repetir o método.
-
-Você deverá conseguir usá-lo diante de um novo fruto.
-
-Este livro não termina na consciência.
-
-Também não termina na última página.
-
-Ele continua cada vez que você percebe uma reação, verifica uma influência, reconhece um bom fruto, revisa uma conclusão e sustenta uma escolha.
 
 > **OBSERVE OS FRUTOS.**
 >
@@ -694,7 +357,8 @@ A Parte I começa naquilo que sua vida já mostra antes de qualquer explicação
 
 <!-- FIM DA FONTE: revisao-b-global/03_ONDA_1_PRE_LIVRO_REV_B.md -->
 
-\newpage
+
+
 
 <!-- FONTE: revisao-b-global/04_ONDA_1_PARTE_I_REV_B.md | STATUS: REVISÃO B -->
 
@@ -1336,7 +1000,8 @@ Subirá na estrutura para compreender como uma mensagem, um ambiente e uma permi
 
 <!-- FIM DA FONTE: revisao-b-global/04_ONDA_1_PARTE_I_REV_B.md -->
 
-\newpage
+
+
 
 <!-- FONTE: revisao-b-global/05_ONDA_2_PARTE_II_REV_B.md | STATUS: REVISÃO B -->
 
@@ -2541,59 +2206,50 @@ Agora começa a investigar o alimento que mantém o padrão vivo.
 
 <!-- FIM DA FONTE: revisao-b-global/05_ONDA_2_PARTE_II_REV_B.md -->
 
-\newpage
 
-<!-- FONTE: revisao-integral/03_PARTE_III_REV_A.md | STATUS: HERDADO TEMPORARIAMENTE DA REVISÃO A -->
+
+
+<!-- FONTE: revisao-b-global/07_ONDA_3_PARTE_III_REV_B.md | STATUS: REVISÃO B -->
 
 # PARTE III — RAÍZES E HERANÇAS
 ## O que continua alimentando suas respostas
 
-> O Solo mostra onde algo encontrou condições para crescer. A Raiz mostra de onde aquilo ainda retira força.
+> O Solo mostra onde algo encontrou condições para crescer. A Raiz revela de onde o padrão ainda retira força.
+
+Você já observou frutos.
+
+Separou fato de interpretação.
+
+Percebeu que mensagens encontram ambientes diferentes e que algumas configurações tentam decidir antes de você.
+
+Agora a investigação desce.
+
+Não para encontrar um culpado original.
+
+Não para fabricar uma explicação capaz de justificar tudo.
+
+Desce para descobrir o que ainda recebe alimento — e o que merece continuar vivo.
 
 ---
 
 # CAPÍTULO 7 — AS RAÍZES
-## O que continua alimentando suas respostas
+## A origem explica o começo; a Raiz explica a permanência
 
-Você já observou um fruto.
-
-Já separou fato de interpretação.
-
-Já reconheceu que mensagens, experiências e influências encontram Solos diferentes.
-
-Já percebeu algumas configurações que tentam decidir antes de você.
-
-Agora a investigação desce.
-
-Não para descobrir uma causa mágica capaz de explicar a vida inteira.
-
-Não para escolher um culpado original.
-
-Não para construir uma narrativa tão elegante que você nunca mais precise olhar para os frutos.
-
-A investigação desce para encontrar alimento.
-
-No Método da Árvore do Discernimento, **Raiz é aquilo de onde um padrão continua retirando seiva**.
+No Método da Árvore do Discernimento, Raiz é aquilo de onde um padrão continua retirando seiva.
 
 Pode ser uma crença ainda aceita.
 
 Uma memória que continua definindo perigo.
 
-Uma recompensa.
-
-Uma lealdade.
-
 Uma culpa.
 
-Um medo de perder pertencimento.
+Uma recompensa.
 
-Uma relação que reforça a mesma interpretação.
-
-Uma vantagem que você não gosta de admitir.
-
-Uma promessa silenciosa.
+Uma relação que confirma a mesma interpretação.
 
 Uma visão sobre Deus.
+
+Uma vantagem difícil de admitir.
 
 Uma conclusão antiga que o presente já contrariou, mas que você ainda protege porque não sabe quem será sem ela.
 
@@ -2605,38 +2261,33 @@ A pergunta da Raiz não é apenas:
 
 > **De onde isso ainda retira força?**
 
-## Origem e Raiz não são a mesma pergunta
+## Origem e alimento atual
 
-Uma experiência pode explicar onde um padrão começou.
-
-Mas não explica sozinha por que ele continua.
-
-Talvez você tenha aprendido na infância que discordar ameaça amor.
+Talvez você tenha aprendido cedo que discordar ameaça amor.
 
 Essa pode ser a origem.
 
-Mas a Raiz atual pode incluir:
+Mas a permanência do padrão talvez seja alimentada hoje por:
 
-- pessoas que punem toda diferença;
-- ambientes em que concordar oferece vantagens;
-- medo de descobrir que uma relação não suporta verdade;
-- hábito de evitar desconforto;
-- ausência de prática de conversa;
-- crença espiritual de que limite é desonra;
+- pessoas que punem diferença;
+- ambientes em que concordar oferece vantagem;
+- falta de prática de conversa;
+- medo de descobrir que um vínculo não suporta verdade;
+- crença de que limite é desonra;
 - conveniência de deixar outra pessoa decidir;
-- falta de recursos para sustentar uma consequência.
+- ausência de recursos para sustentar uma consequência.
 
 A origem participa.
 
 O presente alimenta.
 
-Isso muda a investigação.
+Essa diferença devolve movimento.
 
-Se você procura apenas o começo, pode encontrar uma explicação e continuar sem movimento.
+Se você procura apenas o começo, pode encontrar uma explicação e continuar sem escolha.
 
-Quando procura a Raiz, começa a perceber o que precisa deixar de receber alimento — e o que precisa ser preservado.
+Quando encontra o alimento atual, começa a perceber o que precisa perder força.
 
-## Raiz não é culpado
+## Raiz não é réu
 
 Há danos reais.
 
@@ -2644,31 +2295,23 @@ Omissões reais.
 
 Abusos reais.
 
-Proteções que deveriam ter existido.
+Pessoas respondem pelo que fizeram.
 
-Palavras que não deveriam ter sido ditas.
-
-Pessoas que respondem pelo que fizeram.
-
-Investigar sem culpabilização não significa apagar responsabilidade.
-
-Significa recusar uma troca de automatismos.
-
-A Árvore não sai de:
+Investigar sem transformar a Raiz em réu não apaga responsabilidade. Impede apenas que você troque um automatismo por outro:
 
 “Tudo foi culpa minha.”
 
-para instalar:
+por:
 
 “Tudo é culpa deles.”
 
-Ela pergunta:
+A Árvore sustenta perguntas mais honestas:
 
 - o que aconteceu?
 - quem responde pelo que fez?
 - o que se formou em mim?
 - o que reforçou isso depois?
-- o que ainda está sendo alimentado?
+- o que continua sendo alimentado?
 - o que está na minha esfera agora?
 
 Discernimento consegue manter mais de uma verdade na mesma sala.
@@ -2677,53 +2320,28 @@ Alguém pode ter amado você e falhado gravemente.
 
 Pode ter tido boa intenção e produzido dano.
 
-Pode ter transmitido um valor e uma culpa na mesma frase.
-
 Pode ter protegido em uma área e abandonado em outra.
-
-Pode ter feito o melhor que sabia e, ainda assim, esse melhor não ter sido suficiente.
 
 Humanizar não é absolver.
 
-Responsabilizar não é transformar uma pessoa inteira no pior ato que praticou.
-
-> **SUBA NA ÁRVORE.**
->
-> Você está procurando uma Raiz para compreender o cultivo — ou um réu que permita adiar a pergunta sobre o que fará agora?
+Responsabilizar não exige transformar uma pessoa inteira no pior ato que praticou.
 
 ## Raízes que sustentam
 
-Um livro sobre padrões corre o risco de ensinar o leitor a desconfiar de toda origem.
+Nem toda origem precisa ser desconstruída.
 
-Esse não é o propósito.
+Existem Raízes que oferecem vida:
 
-Existem Raízes que oferecem vida.
+- a fé que deu sentido sem sequestrar consciência;
+- a disciplina que ensinou você a concluir;
+- a memória de quem enxergou capacidade quando você só via medo;
+- a cultura familiar que honrou palavra, trabalho ou hospitalidade;
+- a experiência de conflito que não terminou em abandono;
+- a tradição que entregou linguagem e ainda permitiu pergunta.
 
-A fé que deu sentido sem sequestrar consciência.
+Reposicionar-se não é arrancar tudo o que veio antes.
 
-A disciplina que ensinou você a concluir.
-
-A memória de alguém que enxergou capacidade quando você só via medo.
-
-A cultura familiar que honrou palavra, trabalho, cuidado ou hospitalidade.
-
-O exemplo de quem pediu perdão sem transformar culpa em espetáculo.
-
-A experiência de conflito que não terminou em abandono.
-
-A tradição que entregou linguagem e ainda permitiu pergunta.
-
-O limite que você odiou no momento e reconheceu depois como proteção.
-
-Reposicionar-se não significa arrancar tudo o que veio antes.
-
-Significa discernir.
-
-Algumas Raízes precisam de cuidado.
-
-Outras precisam de poda ao redor.
-
-Outras estão misturadas.
+É discernir o que sustenta vida, o que mistura vida e dano e o que continua drenando o cultivo.
 
 Uma mesma Raiz pode carregar:
 
@@ -2731,10 +2349,9 @@ Uma mesma Raiz pode carregar:
 - fé e controle;
 - disciplina e crueldade;
 - lealdade e desaparecimento;
-- generosidade e culpa;
-- proteção e vigilância.
+- generosidade e culpa.
 
-A maturidade não precisa transformar toda história em paraíso ou inferno.
+Maturidade não precisa transformar a história em paraíso ou inferno.
 
 Pode dizer:
 
@@ -2746,17 +2363,15 @@ Pode dizer:
 
 “Há algo que não continuará governando.”
 
-## A Raiz e o fruto atual
+## O que protegeu ontem
 
 Uma resposta antiga pode ter sido sensata num ambiente anterior.
 
 O silêncio pode ter reduzido risco.
 
-A adaptação pode ter preservado uma criança.
+A adaptação pode ter protegido uma criança.
 
 A vigilância pode ter ajudado a antecipar perigo.
-
-A obediência pode ter evitado punição.
 
 A performance pode ter garantido algum acolhimento.
 
@@ -2770,11 +2385,9 @@ O que preservou pertencimento pode impedir intimidade.
 
 O que ajudou a sobreviver pode impedir a vida de avançar.
 
-Pergunte:
-
 > Que fruto esta Raiz produz no território em que vivo hoje?
 
-## A explicação que virou destino
+## Quando a explicação vira destino
 
 Descobrir uma origem pode trazer alívio.
 
@@ -2782,21 +2395,19 @@ Descobrir uma origem pode trazer alívio.
 
 Esse alívio é legítimo.
 
-Mas compreensão pode virar nova Jaula quando passa a significar:
+Mas compreensão vira nova Jaula quando passa a significar:
 
 “Então não posso.”
 
 “Então sempre serei.”
 
-“Então ninguém pode me pedir responsabilidade.”
+“Então qualquer reação está justificada.”
 
-“Então qualquer reação minha está explicada.”
+A história explica força, frequência e dificuldade.
 
-A história pode explicar força, frequência e dificuldade.
+Não recebe automaticamente o governo do futuro.
 
-Não precisa receber o governo do futuro.
-
-> **LEI 2 — QUESTIONE A NARRATIVA.**
+> **QUESTIONE A NARRATIVA.**
 >
 > Minha história ajuda a compreender este padrão. Ela prova que o padrão precisa continuar?
 
@@ -2804,30 +2415,28 @@ Não precisa receber o governo do futuro.
 
 Retome o fruto que acompanha você desde a Parte I.
 
-Responda:
+Pergunte:
 
-1. Que situação costuma anteceder esse fruto?
+1. Que situação costuma antecedê-lo?
 2. Que interpretação aparece com rapidez?
 3. Que medo tenta evitar?
-4. Que valor acredita proteger?
-5. O que continua confirmando essa interpretação hoje?
-6. Que relação, grupo, hábito ou ambiente fornece alimento?
-7. Existe recompensa em manter o padrão?
-8. Que evidência contrária você costuma minimizar?
-9. Essa resposta já teve função protetiva?
-10. Que custo cobra agora?
-11. Há uma Raiz saudável misturada à repetição?
-12. O que ainda não sabe?
+4. O que continua confirmando essa interpretação hoje?
+5. Que relação, hábito, grupo ou ambiente fornece alimento?
+6. Existe alguma recompensa em manter o padrão?
+7. Essa resposta já teve função protetiva?
+8. Que custo cobra agora?
+9. Há uma Raiz saudável misturada à repetição?
+10. O que ainda não sei?
 
 Não force uma memória.
 
 Não invente uma origem porque ela parece inteligente.
 
-Não atribua tudo à infância porque a linguagem psicológica disponível aponta nessa direção.
+“Não sei” é mais digno do que uma explicação fabricada.
 
-“Não sei” é uma resposta digna.
+A Raiz alimenta.
 
-Mais digna do que uma explicação fabricada para encerrar depressa o que ainda precisa de observação.
+O próximo capítulo examina aquilo que não apenas alimenta — restringe.
 
 ---
 
@@ -2840,13 +2449,15 @@ A Raiz alimenta.
 
 A Corrente restringe.
 
-Uma tradição pode ser Raiz quando oferece memória, direção, pertencimento e valor sem impedir consciência.
+Uma tradição pode ser Raiz quando oferece memória, direção e pertencimento sem impedir consciência.
 
-A mesma tradição pode se tornar Corrente quando exige repetição automática e chama toda diferenciação de traição.
+A mesma tradição se torna Corrente quando exige repetição automática e chama diferenciação de traição.
 
 Uma responsabilidade pode ser dever legítimo.
 
-Torna-se Corrente quando alguém é obrigado a carregar indefinidamente aquilo que outros se recusam a assumir — sob culpa, ameaça ou dívida emocional.
+Torna-se Corrente quando alguém precisa carregar indefinidamente aquilo que outros se recusam a assumir — sob culpa, ameaça ou dívida emocional.
+
+## O cuidado que perdeu liberdade
 
 Uma família pode dizer:
 
@@ -2860,47 +2471,29 @@ Mas, quando a frase passa a significar:
 
 “Não pode construir vida própria.”
 
-“Não pode sair.”
-
-“Não pode contar.”
-
-“Precisa sustentar todos.”
+“Não pode contar o que acontece aqui.”
 
 “Só pertence enquanto obedece.”
 
 O cuidado virou Corrente.
 
-## O que é uma Corrente
+Corrente é uma herança, mandato ou lealdade que restringe diferenciação por meio de medo, culpa, segredo, dívida, ameaça de abandono ou retirada de pertencimento.
 
-Corrente é uma herança, mandato, lealdade ou obrigação que restringe diferenciação por meio de:
-
-- medo;
-- culpa;
-- segredo;
-- dívida;
-- ameaça de abandono;
-- punição de perguntas;
-- retirada de pertencimento;
-- obrigação de preservar uma imagem;
-- exigência de repetir um papel.
-
-Nem toda obrigação é Corrente.
+Nem toda obrigação é prisão.
 
 Cuidar de um filho.
 
-Cumprir um compromisso livremente assumido.
+Cumprir um compromisso assumido.
 
 Responder por uma dívida real.
 
 Sustentar um dever profissional.
 
-Honrar uma aliança.
-
 Reparar um dano causado.
 
-Tudo isso pode exigir sacrifício sem ser prisão.
+Tudo isso pode exigir sacrifício sem ser Corrente.
 
-A Corrente aparece quando a obrigação não admite consciência, limite, verdade, revisão ou distribuição justa de responsabilidade.
+A Corrente aparece quando a obrigação não admite consciência, verdade, limite, revisão ou distribuição justa de responsabilidade.
 
 ## Lealdades invisíveis
 
@@ -2912,11 +2505,11 @@ Você começa a prosperar e sente que abandonará alguém.
 
 Recebe uma oportunidade e imagina que ficará “metida”.
 
-Estabelece um limite e escuta por dentro:
+Estabelece limite e escuta por dentro:
 
 “Ingrata.”
 
-Pensa diferente e teme que o grupo deixe de reconhecer você.
+Pensa diferente e teme perder o grupo.
 
 Encontra uma relação tranquila e estranha a paz porque ela não se parece com a intensidade que aprendeu a chamar de amor.
 
@@ -2934,17 +2527,11 @@ Pode dizer:
 
 “Não faça escolhas que mostrem que outra vida era possível.”
 
-“Não questione quem representa nossa fé.”
-
-“Não abandone o lado que acolheu você.”
-
-“Não se torne alguém que nós não sabemos reconhecer.”
-
-Isso não prova que exista uma lealdade invisível.
-
-Mostra um ponto a investigar.
-
 > Que pertencimento parece ameaçado quando você tenta viver de maneira diferente?
+
+A pergunta não diagnostica uma lealdade.
+
+Abre investigação.
 
 ## Legado e mandato
 
@@ -2962,11 +2549,7 @@ Mandato diz:
 
 Legado suporta amadurecimento.
 
-Mandato precisa de repetição.
-
-Legado oferece Raiz.
-
-Mandato aperta Corrente.
+Mandato depende de repetição.
 
 Você pode receber:
 
@@ -2978,28 +2561,6 @@ Você pode receber:
 - amor pelo trabalho sem transformar exaustão em identidade;
 - memória sem obrigação de repetir o roteiro.
 
-## O Herdeiro
-
-Entre os 14 Tipos de Posicionamento existe **O Herdeiro**.
-
-Ele aparecerá em profundidade mais adiante.
-
-Aqui, serve como espelho breve.
-
-O Herdeiro não é quem recebeu uma história.
-
-Todos receberam.
-
-É o modo operante de quem escolhe principalmente pela pergunta:
-
-“O que esperam que alguém como eu faça?”
-
-O risco do Herdeiro é confundir fidelidade com repetição.
-
-Sua pergunta é:
-
-> Estou honrando minha história ou obedecendo à prisão dela?
-
 ## A culpa de se diferenciar
 
 Quando uma pessoa muda, o sistema precisa se reorganizar.
@@ -3010,50 +2571,35 @@ A que concordava começa a perguntar.
 
 A que protegia segredo começa a nomear.
 
-A que aceitava invasão começa a fechar a porta.
-
 A que repetia opinião começa a examinar.
 
-A que permanecia por culpa começa a observar frutos.
+A reação pode vir como acusação:
 
-Essa mudança pode ser recebida como ataque.
+“Egoísta.”
 
-Não porque todo sistema seja perverso.
+“Rebelde.”
 
-Mas porque expectativas antigas perderam estabilidade.
+“Fria.”
 
-Quem dependia da sua disponibilidade pode chamar limite de egoísmo.
-
-Quem se sentia seguro com seu silêncio pode chamar voz de agressão.
-
-Quem confundia uniformidade com união pode chamar diferença de rebeldia.
+“Desleal.”
 
 A reação do sistema é informação.
 
 Não é prova automática de que você está certa.
 
-Também não é prova de que está errada.
+Também não prova que está errada.
 
-Passe pelo Filtro.
+Considere dever, segurança, consequência, fruto e forma de comunicação.
 
-Considere:
-
-- dever real;
-- compromisso assumido;
-- distribuição de custos;
-- segurança;
-- consequência;
-- fruto;
-- possibilidade de reparação;
-- forma da comunicação.
-
-Depois, sustente a posição sensata.
+Depois sustente a posição sensata.
 
 > **A JAULA ESTÁ ABERTA.**
 >
-> Você continua obedecendo a uma lealdade que reconheceu como destrutiva apenas para não sentir a culpa de se diferenciar?
->
-> Culpa pode acompanhar uma decisão correta. Ela não recebe automaticamente o direito de anulá-la.
+> Você continua obedecendo a uma lealdade destrutiva apenas para não sentir a culpa de se diferenciar?
+
+Culpa pode acompanhar uma decisão correta.
+
+Ela não recebe automaticamente o direito de anulá-la.
 
 ## Honrar sem repetir
 
@@ -3065,15 +2611,13 @@ Agradecer pelo que recebeu e recusar o que não transmitirá.
 
 Amar alguém e limitar acesso.
 
-Compreender a história de quem feriu você sem assumir a tarefa de consertá-la.
-
 Preservar vínculo sem preservar todo padrão.
 
 Escolher distância sem transformar a outra pessoa em monstro.
 
 Escolher proximidade sem fingir que nada aconteceu.
 
-A ruptura de uma Corrente nem sempre é uma cena dramática.
+Romper uma Corrente nem sempre produz uma cena dramática.
 
 Às vezes é uma decisão repetida:
 
@@ -3083,59 +2627,45 @@ A ruptura de uma Corrente nem sempre é uma cena dramática.
 
 Escolha uma herança familiar, religiosa, cultural, profissional ou política.
 
-### O que funciona como Raiz?
+Pergunte:
 
 - que valor oferece?
 - que recurso desenvolveu?
-- que vínculo protege?
-- que verdade continua coerente?
-- que fruto saudável produziu?
-
-### O que funciona como Corrente?
-
 - que pergunta não permite?
 - que papel obriga você a manter?
 - que culpa usa para obter obediência?
+- que fruto saudável merece ser preservado?
 - que fruto ruim se repete?
-- que parte de você precisa desaparecer para pertencer?
 - que responsabilidade está distribuída de forma injusta?
 
-Não destrua a árvore para soltar a Corrente.
+Não destrua a Árvore para soltar a Corrente.
 
 Também não preserve a Corrente apenas porque ela está enrolada numa Raiz antiga.
+
+Depois de reconhecer o que alimenta e o que prende, você precisa examinar a direção aprendida.
 
 ---
 
 # CAPÍTULO 9 — OS MAPAS HERDADOS
-## As direções aprendidas antes da escolha consciente
+## A direção aprendida antes da escolha consciente
 
 O Solo é o ambiente.
 
 A Raiz é a fonte de seiva.
 
-O Mapa é a direção que você aprendeu a seguir dentro desse ambiente.
+A Corrente restringe movimento.
 
-Mapas são construídos por:
+O Mapa indica a direção que você aprendeu a seguir dentro desse ambiente.
 
-- cenas;
-- exemplos;
-- ausências;
-- recompensas;
-- punições;
-- palavras;
-- silêncios;
-- papéis;
-- histórias repetidas.
+Mapas são construídos por cenas, exemplos, ausências, recompensas, punições, palavras, silêncios e papéis.
 
 Uma família pode dizer que valoriza respeito e demonstrar que quem possui mais poder não precisa pedir perdão.
 
 Pode dizer que valoriza verdade e esconder tudo o que ameaça a imagem.
 
-Pode falar de liberdade e controlar cada escolha.
-
 Pode ensinar fé e punir pergunta.
 
-O mapa real não aparece apenas no que foi dito.
+O mapa real não aparece apenas no discurso.
 
 Aparece no caminho que as pessoas aprenderam a percorrer.
 
@@ -3147,48 +2677,25 @@ Também pode estar desatualizado.
 
 Pode ter sido desenhado para outro tempo.
 
-Pode destacar perigos que já não existem.
-
-Pode omitir riscos que surgiram depois.
+Pode destacar perigos que já não existem e omitir riscos que surgiram depois.
 
 Pode refletir o medo de quem o desenhou.
 
-Pode ter sido feito por alguém que conhecia um único caminho e falou como se conhecesse o mundo inteiro.
-
 A pessoa pode obedecer ao mapa com perfeição e continuar se perdendo.
 
-> **QUESTIONE A NARRATIVA.**
->
 > Esta direção corresponde ao território de hoje — ou apenas ao medo de quem desenhou o mapa antes de mim?
 
-## O mapa do amor e do acesso
+## O mapa do amor
 
-Algumas pessoas aprenderam que amor inclui:
+Algumas pessoas aprenderam que amor inclui presença, verdade, responsabilidade, respeito e liberdade para existir.
 
-- presença;
-- verdade;
-- responsabilidade;
-- respeito;
-- liberdade para existir;
-- reparação;
-- capacidade de ouvir não.
-
-Outras aprenderam que amor significa:
-
-- vigilância;
-- ciúme;
-- intensidade;
-- acesso ilimitado;
-- sacrifício unilateral;
-- adivinhação;
-- ansiedade;
-- tolerância sem fim.
+Outras aprenderam que amor significa vigilância, ciúme, intensidade, acesso ilimitado, sacrifício unilateral ou tolerância sem fim.
 
 Duas pessoas podem dizer “eu amo você” e usar mapas completamente diferentes.
 
 A intenção pode ser sincera.
 
-O mapa ainda pode produzir controle, omissão, dependência ou apagamento.
+O mapa ainda pode produzir controle, dependência ou apagamento.
 
 A pergunta não é apenas:
 
@@ -3196,29 +2703,25 @@ A pergunta não é apenas:
 
 É:
 
-> O que esta pessoa aprendeu que o amor autoriza — e que fruto isso produz?
+> O que este mapa permite em nome do amor — e que fruto produz?
 
 ## O mapa do conflito
 
 Se conflito sempre terminou em grito, ameaça, silêncio punitivo ou abandono, discordar pode parecer perigo mesmo em ambiente seguro.
 
-Você pode:
+Você pode concordar depressa.
 
-- concordar depressa;
-- explicar demais;
-- atacar antes de ouvir;
-- desaparecer;
-- pedir desculpa por existir;
-- transformar correção em condenação;
-- evitar conversa até o ressentimento ocupar a relação.
+Explicar demais.
+
+Atacar antes de ouvir.
+
+Desaparecer.
+
+Pedir desculpa por existir.
 
 O corpo pode reagir ao mapa antigo antes de a consciência avaliar o território atual.
 
-Isso não faz de você fraca.
-
-Também não transforma toda reação em destino.
-
-Metacognição cria espaço para dizer:
+Metacognição cria um intervalo:
 
 “Meu mapa está anunciando perigo. Preciso verificar se existe perigo aqui.”
 
@@ -3232,8 +2735,6 @@ Uma pessoa criada sob autoridade arbitrária pode obedecer automaticamente toda 
 
 Outra pode rejeitar qualquer autoridade, inclusive a legítima.
 
-As duas respostas podem nascer do mesmo mapa.
-
 Uma entrega a consciência.
 
 A outra chama isolamento de autonomia.
@@ -3242,11 +2743,11 @@ Julgamento próprio não significa que você não precisa aprender.
 
 Significa que nenhuma autoridade humana recebe acesso ilimitado à sua consciência.
 
-> **LEI 7 — PRATIQUE O JULGAMENTO PRÓPRIO.**
+> **PRATIQUE O JULGAMENTO PRÓPRIO.**
 >
 > Estou aprendendo com uma autoridade — ou entregando a ela o trabalho que pertence à minha consciência?
 
-## O mapa de valor, dever e pertencimento
+## Papéis que viram identidade
 
 Algumas pessoas receberam papéis antes de receber perguntas.
 
@@ -3258,10 +2759,6 @@ A boazinha.
 
 O rebelde.
 
-A inteligente.
-
-O problema da família.
-
 A pacificadora.
 
 O provedor.
@@ -3272,11 +2769,7 @@ O orgulho da casa.
 
 A decepção.
 
-A espiritual.
-
-A emocional.
-
-Esses papéis podem organizar identidade.
+Esses papéis podem organizar pertencimento.
 
 A responsável descansa e sente culpa.
 
@@ -3284,23 +2777,17 @@ O forte pede ajuda e sente vergonha.
 
 A pacificadora discorda e imagina que destruiu a família.
 
-O rebelde concorda e teme ter perdido individualidade.
+A pessoa deixa de desempenhar uma função e passa a precisar dela para reconhecer a si mesma.
 
-A inteligente não sabe e sente que desapareceu.
+É aqui que um papel herdado pode participar da Fuga Identitária.
 
-A pessoa não está apenas desempenhando uma função.
+O aprofundamento pertence a outra obra.
 
-Talvez esteja tentando garantir pertencimento.
-
-Esse é o ponto em que um papel herdado pode participar da **Fuga Identitária**: a pessoa reconhece a si mesma apenas enquanto cumpre a versão exigida pelo ambiente.
-
-O aprofundamento desse processo pertence a outra obra.
-
-Aqui, basta perguntar:
+Neste livro, basta perguntar:
 
 > Quem sou quando não estou cumprindo o papel que me concedeu lugar?
 
-## O mapa político como mapa de pertencimento
+## O mapa político
 
 Uma posição política pode começar antes da análise consciente.
 
@@ -3316,17 +2803,13 @@ Na experiência de injustiça.
 
 Na admiração por uma liderança.
 
-Na aversão a outra.
-
 Isso não torna a posição falsa.
 
 Uma convicção herdada pode ser verdadeira.
 
 Uma posição construída depois de longa reflexão também pode conter erro.
 
-A pergunta desta Parte não é repetir o debate do Solo Digital.
-
-É reconhecer o mapa de pertencimento:
+A pergunta é:
 
 > Quando meu grupo oferece a direção, ainda consigo comparar mapa e território?
 
@@ -3338,15 +2821,15 @@ Uma pessoa de esquerda precisa examinar o próprio mapa.
 
 Uma pessoa de centro precisa distinguir prudência de conveniência.
 
-O método não exige mesmo veredito para todos os lados.
+O método não exige o mesmo veredito para todos os lados.
 
-Exige critério que não mude apenas porque mudou a camisa de quem praticou o ato.
+Exige um critério que não mude apenas porque mudou a camisa de quem praticou o ato.
 
 ## Atualizar o mapa
 
 Atualizar não é rasgar tudo.
 
-É comparar Mapa e território.
+É comparar direção e território.
 
 Pergunte:
 
@@ -3357,13 +2840,13 @@ Pergunte:
 5. Que caminho foi omitido?
 6. Que fruto aparece quando obedeço?
 7. Consigo discordar sem perder pertencimento?
-8. Consigo preservar algo bom sem aceitar o sistema inteiro?
-9. Consigo retirar algo ruim sem declarar a origem toda inútil?
-10. Que nova experiência pode oferecer um dado diferente?
+8. Que experiência oferece um dado novo?
 
 Um mapa maduro não elimina incerteza.
 
 Ajuda você a caminhar sem entregar a bússola.
+
+Os mapas se tornam especialmente poderosos quando carregam os nomes de família, fé e autoridade.
 
 ---
 
@@ -3372,17 +2855,7 @@ Ajuda você a caminhar sem entregar a bússola.
 
 Família participa de mais de uma parte da Árvore.
 
-Participa do Solo.
-
-Pode formar Raízes.
-
-Pode apertar Correntes.
-
-Pode fortalecer ou fragilizar o Tronco.
-
-Aparece como Galho.
-
-Produz Frutos.
+Pode formar Solo, Raiz, Corrente, Tronco, Galho e fruto.
 
 Também pode oferecer cuidado, memória, fé, proteção, linguagem, recurso e pertencimento.
 
@@ -3396,25 +2869,17 @@ Nem toda permanência é lealdade.
 
 Nem toda distância é maturidade.
 
-Nem toda reconciliação é possível.
-
-Nem todo rompimento é necessário.
-
 O método não oferece sentença pronta.
 
 Oferece critérios.
 
-## Pais e cuidadores participam; não explicam tudo
+## A origem participa; não explica tudo
 
 Pais, mães e cuidadores possuem influência profunda.
 
 Mas nenhuma fórmula simples explica uma vida inteira.
 
-Pessoas criadas na mesma casa recebem papéis, tratamentos e experiências diferentes.
-
-Podem encontrar apoios distintos fora dela.
-
-Possuem corpos, temperamentos, idades, recursos e vulnerabilidades diferentes.
+Pessoas criadas na mesma casa recebem papéis, tratamentos e experiências diferentes. Encontram apoios distintos e possuem vulnerabilidades diferentes.
 
 Dizer que a origem participa não autoriza dois extremos:
 
@@ -3436,21 +2901,17 @@ Não pode obrigar alguém a chamar abuso de cuidado.
 
 Não pode transformar parentesco em imunidade moral.
 
-Não pode conceder a outra pessoa o governo permanente de uma consciência adulta.
-
 Ao mesmo tempo, posicionamento não autoriza desprezo, humilhação ou crueldade.
 
 Você pode dizer verdade sem reduzir uma pessoa inteira ao pior que fez.
 
 Pode reconhecer limites sem apagar tudo de bom que existiu.
 
-Pode admitir que alguém fez o melhor que conseguiu e afirmar que esse melhor não foi suficiente para proteger você.
-
 Pode amar e limitar.
 
-Pode respeitar e discordar.
+Respeitar e discordar.
 
-Pode compreender e responsabilizar.
+Compreender e responsabilizar.
 
 ## Perdão, reconciliação, confiança e acesso
 
@@ -3462,59 +2923,43 @@ Reconciliação exige participação de mais de uma pessoa.
 
 Confiança depende de evidências ao longo do tempo.
 
-Acesso é decisão prática sobre proximidade, informação, presença e limite.
+Acesso é decisão prática sobre proximidade, informação e presença.
 
-Uma pessoa pode:
+Uma pessoa pode trabalhar o perdão sem restabelecer confiança.
 
-- trabalhar o perdão sem restabelecer confiança;
-- desejar o bem e manter distância;
-- reconhecer arrependimento e reconstruir contato gradualmente;
-- recusar vingança sem reabrir a porta;
-- manter vínculo familiar com acesso limitado;
-- concluir que não existe segurança para contato.
+Desejar o bem e manter distância.
 
-O livro não usará “perdoe” como atalho para devolver alguém a ambiente inseguro.
+Reconstruir contato gradualmente.
 
-Também não usará “coloque limites” como resposta automática para relações que pedem conversa, reparação, dever ou maturidade.
+Recusar vingança sem reabrir a porta.
+
+Concluir que não existe segurança para contato.
+
+Este livro não usará “perdoe” como atalho para devolver alguém a ambiente inseguro.
+
+Também não usará “coloque limites” como resposta automática para relações que pedem conversa, reparação ou dever.
 
 Frutos ajudam a avaliar.
-
-Contexto ajuda a interpretar.
 
 Segurança estabelece linhas que romantismo nenhum deve ultrapassar.
 
 ## Fé que fortalece consciência
 
-Minha fé cristã não aparece como decoração neste livro.
-
-Ela participa da forma como compreendo verdade, responsabilidade, amor, liberdade, dever e fruto.
+Minha fé cristã participa da forma como compreendo verdade, responsabilidade, amor, liberdade, dever e fruto.
 
 Mas fé e uso distorcido da religião não são a mesma coisa.
 
-Fé pode oferecer:
+Fé pode oferecer sentido, esperança, humildade, correção, coragem, serviço e comunidade.
 
-- sentido;
-- esperança;
-- comunidade;
-- humildade;
-- correção;
-- coragem;
-- serviço;
-- disciplina;
-- capacidade de atravessar processos difíceis.
+Religiosidade distorcida usa palavras semelhantes para controlar, silenciar, impedir denúncia, punir pergunta ou transformar liderança em proprietária da consciência.
 
-Religiosidade distorcida pode usar palavras semelhantes para:
+Chama medo de submissão.
 
-- controlar;
-- silenciar;
-- impedir denúncia;
-- punir pergunta;
-- infantilizar adultos;
-- transformar liderança em proprietária da consciência;
-- chamar medo de submissão;
-- chamar omissão de espera;
-- chamar autoabandono de sacrifício;
-- chamar conveniência institucional de vontade de Deus.
+Omissão de espera.
+
+Autoabandono de sacrifício.
+
+Conveniência institucional de vontade de Deus.
 
 O problema não é autoridade espiritual.
 
@@ -3534,18 +2979,21 @@ Também pode agir por impulso e chamar pressa de fé.
 
 Romper sem sensatez e chamar ruptura de libertação.
 
-A pergunta não é se existe emoção.
+A emoção existe.
 
-É se a interpretação da emoção passou pelo Filtro.
+A interpretação da emoção ainda precisa passar pelo Filtro.
 
-- Isso é verdadeiro?
-- Tem evidência?
-- É justo?
-- Que fruto produz?
-- Existe conselho responsável?
-- Há espaço para contraditório?
-- Estou reagindo ou discernindo?
-- O que realmente cabe a mim?
+Isso é verdadeiro?
+
+Tem evidência?
+
+É justo?
+
+Que fruto produz?
+
+Há espaço para contraditório?
+
+Estou reagindo ou discernindo?
 
 Fé madura não exige amputação da consciência.
 
@@ -3559,22 +3007,23 @@ Pensar por si não é pensar sozinho.
 
 Uma tradição pode guardar sabedoria que você ainda não compreende.
 
-Uma comunidade pode confrontar seu individualismo.
-
 Um profissional pode possuir conhecimento que você não tem.
 
 Julgamento próprio significa continuar presente enquanto aprende.
 
-Ser capaz de:
+Perguntar.
 
-- perguntar;
-- comparar;
-- verificar;
-- reconhecer competência e limites;
-- admitir que não sabe;
-- buscar segunda opinião;
-- observar frutos;
-- assumir a decisão que pertence à sua esfera.
+Comparar.
+
+Verificar.
+
+Reconhecer competência e limite.
+
+Admitir que não sabe.
+
+Buscar segunda opinião.
+
+Observar frutos.
 
 Nenhuma pessoa responsável diz:
 
@@ -3584,9 +3033,9 @@ Nenhuma pessoa soberana diz:
 
 “Qualquer pessoa pode decidir por mim.”
 
-## Quando não é apenas uma prisão interna
+## Quando a prisão também é externa
 
-Há situações em que reconhecer uma Corrente não basta.
+Há situações em que reconhecer a Corrente não basta.
 
 Existe ameaça.
 
@@ -3604,21 +3053,7 @@ Coerção religiosa.
 
 Pressão familiar organizada.
 
-Dependência de cuidado.
-
-Fragilidade emocional ou clínica.
-
-Nesses contextos, posicionamento pode exigir:
-
-- plano;
-- rede;
-- orientação jurídica;
-- apoio psicológico ou médico;
-- serviço público;
-- liderança segura;
-- proteção policial;
-- intervenção emergencial;
-- tempo para construir recursos.
+Nesses contextos, posicionamento pode exigir plano, rede, orientação jurídica, apoio psicológico ou médico, serviço público, proteção policial ou tempo para construir recursos.
 
 A Jaula jamais será usada para dizer:
 
@@ -3650,8 +3085,6 @@ Pode começar com clareza interna:
 
 “Reconheço o que me feriu.”
 
-“Reconheço o que ainda não sei.”
-
 “Não carregarei culpa que não me pertence.”
 
 “Não entregarei aos outros aquilo que já está na minha esfera.”
@@ -3660,13 +3093,13 @@ Pode começar com clareza interna:
 
 “Não romperei automaticamente.”
 
-“Vou observar frutos, aplicar o Filtro e sustentar o próximo passo possível.”
+“Vou observar frutos e sustentar o próximo passo possível.”
 
 > **A JAULA ESTÁ ABERTA.**
 >
 > Você continua chamando de honra uma obediência que exige seu desaparecimento?
->
-> Honrar a origem não significa entregar a ela o governo permanente da sua consciência.
+
+Honrar a origem não significa entregar a ela o governo permanente da sua consciência.
 
 ## Checkpoint da Parte III
 
@@ -3674,19 +3107,14 @@ Antes de seguir, verifique:
 
 - consigo diferenciar Solo, configuração e Raiz?
 - identifiquei algo que continua alimentando meu fruto hoje?
-- reconheço Raízes saudáveis?
+- reconheço uma Raiz que merece ser preservada?
 - consigo diferenciar Raiz de Corrente?
 - percebo uma lealdade invisível sem transformá-la em diagnóstico?
-- consigo separar legado de mandato?
-- reconheço algum Mapa herdado sobre amor, conflito, autoridade ou pertencimento?
-- percebo um papel que organizei como identidade?
+- reconheço um Mapa herdado sobre amor, conflito, autoridade ou pertencimento?
 - consigo examinar o mapa político do meu próprio grupo?
-- consigo honrar sem fingir?
 - diferencio perdão, reconciliação, confiança e acesso?
 - reconheço autoridade legítima sem abdicar da consciência?
 - sei quando uma situação exige proteção e apoio especializado?
-- identifiquei algo da origem que desejo preservar?
-- identifiquei uma Corrente que não continuará governando?
 
 Você já sabe de onde parte da seiva vem.
 
@@ -3696,9 +3124,10 @@ Na próxima Parte, entraremos no Tronco.
 
 > Sua origem participa da história. Seu posicionamento decide o que continuará atravessando você.
 
-<!-- FIM DA FONTE: revisao-integral/03_PARTE_III_REV_A.md -->
+<!-- FIM DA FONTE: revisao-b-global/07_ONDA_3_PARTE_III_REV_B.md -->
 
-\newpage
+
+
 
 <!-- FONTE: revisao-integral/04_PARTE_IV_REV_A.md | STATUS: HERDADO TEMPORARIAMENTE DA REVISÃO A -->
 
@@ -4973,7 +4402,8 @@ Exige que você pare de usar um Galho saudável para esconder o fruto do outro.
 
 <!-- FIM DA FONTE: revisao-integral/04_PARTE_IV_REV_A.md -->
 
-\newpage
+
+
 
 <!-- FONTE: revisao-integral/05_PARTE_V_REV_A.md | STATUS: HERDADO TEMPORARIAMENTE DA REVISÃO A -->
 
@@ -6350,7 +5780,8 @@ Precisamos reconhecer aquilo que drena seiva, distorce a leitura, protege repeti
 
 <!-- FIM DA FONTE: revisao-integral/05_PARTE_V_REV_A.md -->
 
-\newpage
+
+
 
 <!-- FONTE: revisao-integral/06_PARTE_VI_REV_A.md | STATUS: HERDADO TEMPORARIAMENTE DA REVISÃO A -->
 
@@ -7537,7 +6968,8 @@ Prepare-se para descer com uma decisão.
 
 <!-- FIM DA FONTE: revisao-integral/06_PARTE_VI_REV_A.md -->
 
-\newpage
+
+
 
 <!-- FONTE: revisao-integral/07_PARTE_VII_REV_A.md | STATUS: HERDADO TEMPORARIAMENTE DA REVISÃO A -->
 
@@ -8770,7 +8202,8 @@ Precisa de nova prática, ambiente, repetição e acompanhamento.
 
 <!-- FIM DA FONTE: revisao-integral/07_PARTE_VII_REV_A.md -->
 
-\newpage
+
+
 
 <!-- FONTE: revisao-integral/08_PARTE_VIII_REV_A.md | STATUS: HERDADO TEMPORARIAMENTE DA REVISÃO A -->
 
