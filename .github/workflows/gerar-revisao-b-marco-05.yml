@@ -142,7 +142,7 @@ jobs:
           assert re.search(r'^# EP[IÍ]LOGO\b', full, flags=re.M|re.I)
           assert 'Partes I–VI revisados' in full
           assert 'Praga não é identidade' in part6
-          assert 'não é diagnóstico, identidade ou insulto' in part6
+          assert 'diagnóstico clínico, identidade nem insulto' in part6
           assert 'Influência saudável e acesso consciente' in part6
           assert 'MEDIÇÃO EDITORIAL DOS 10% KINDLE' in kindle
           print('Validação concluída: Parte VI 21–26; Marco 05 1–26; contínuo 1–38 + Epílogo.')
