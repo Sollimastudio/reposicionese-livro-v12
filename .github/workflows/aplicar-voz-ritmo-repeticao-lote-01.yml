@@ -6,6 +6,7 @@ on:
       - revisao-b-global-2026-07-20
     paths:
       - "scripts/aplicar_voz_ritmo_repeticao_lote_01.py"
+      - "scripts/sincronizar_estado_pos_voz_lote_01.py"
       - ".github/workflows/aplicar-voz-ritmo-repeticao-lote-01.yml"
   workflow_dispatch:
 
@@ -41,6 +42,9 @@ jobs:
       - name: Medir fronteira editorial Kindle
         run: python scripts/medir_amostra_kindle.py
 
+      - name: Sincronizar documentos de estado
+        run: python scripts/sincronizar_estado_pos_voz_lote_01.py
+
       - name: Validar integridade e escopo
         shell: bash
         run: |
@@ -54,6 +58,9 @@ jobs:
           full = Path('manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md').read_text(encoding='utf-8')
           mark7 = Path('marcos-revisao-b/MARCO_07_MANUSCRITO_COMPLETO_REV_B.md').read_text(encoding='utf-8')
           kindle = Path('revisao-b-global/16_MEDICAO_EDITORIAL_10_PORCENTO_KINDLE.md').read_text(encoding='utf-8')
+          entry = Path('LER_AGORA_REPOSICIONESE_REV_B.md').read_text(encoding='utf-8')
+          register = Path('direcao-editorial/12_REGISTRO_MESTRE_DE_CONTEXTO.md').read_text(encoding='utf-8')
+          matrix = Path('direcao-editorial/13_MATRIZ_DE_NAO_PERDA.md').read_text(encoding='utf-8')
 
           official = '''1. Isso é verdadeiro?
           2. Tem lógica?
@@ -93,10 +100,17 @@ jobs:
           assert 'Nenhum grupo pensará automaticamente por mim' in full
           assert 'Sua possibilidade de cultivo.' in full
 
-          print('Validação concluída: Lote 01 refinado; capítulos 1–38, Epílogo, cânone e fronteira Kindle preservados.')
+          assert 'voz e ritmo concluídos no Lote 01' in entry
+          assert 'Lote 01 — Pré-livro e Partes I–II' in entry
+          assert '**Versão:** 3.1 — Voz e ritmo, Lote 01' in register
+          assert 'próximo lote textual: Partes III–IV' in register
+          assert '| 24 | Mirante do Discernimento | Ponto metacognitivo | Pré-livro e Suba | CANÔNICO |' in matrix
+          assert '| 35 | Filtro da Influência | Aplicação temática | Parte II/Workbook | CANÔNICO |' in matrix
+
+          print('Validação concluída: Lote 01 refinado; capítulos 1–38, Epílogo, cânone, estado e fronteira Kindle preservados.')
           PY
 
-      - name: Versionar passagem e integração
+      - name: Versionar passagem, integração e estado
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
@@ -107,10 +121,13 @@ jobs:
             revisao-b-global/05_ONDA_2_PARTE_II_REV_B.md \
             manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md \
             marcos-revisao-b/MARCO_07_MANUSCRITO_COMPLETO_REV_B.md \
-            revisao-b-global/16_MEDICAO_EDITORIAL_10_PORCENTO_KINDLE.md
+            revisao-b-global/16_MEDICAO_EDITORIAL_10_PORCENTO_KINDLE.md \
+            LER_AGORA_REPOSICIONESE_REV_B.md \
+            direcao-editorial/12_REGISTRO_MESTRE_DE_CONTEXTO.md \
+            direcao-editorial/13_MATRIZ_DE_NAO_PERDA.md
           if git diff --cached --quiet; then
-            echo "A passagem do Lote 01 já estava integrada."
+            echo "A passagem do Lote 01 e o estado já estavam integrados."
           else
-            git commit -m "Aplica voz, ritmo e repetição no Lote 01"
+            git commit -m "Sincroniza estado após voz e ritmo do Lote 01"
             git push origin HEAD:revisao-b-global-2026-07-20
           fi
