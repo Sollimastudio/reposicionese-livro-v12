@@ -72,7 +72,8 @@ def main() -> None:
         raise AssertionError("Registro Mestre: esperada versão 3.1 ou posterior.")
     require(registro, "próximo lote textual: Partes III–IV", "Registro Mestre")
     require(retomada, "LOTE 01", "Ponto de retomada")
-    require(retomada, "Próximo lote: Partes III–IV", "Ponto de retomada")
+    if not re.search(r"Próximo lote:\*\*\s+Partes III–IV", retomada):
+        raise AssertionError("Ponto de retomada: próximo lote Partes III–IV não confirmado.")
     require(coerencia, "Não existe um segundo Filtro", "Rastreabilidade metodológica")
     require(voz, "Pré-livro + Partes I–II", "Rastreabilidade de voz")
 
