@@ -17,6 +17,8 @@ on:
       - "revisao-integral/08_PARTE_VIII_REV_A.md"
       - "scripts/gerar_revisao_b_marco_07.py"
       - "scripts/medir_amostra_kindle.py"
+      - "scripts/aplicar_voz_ritmo_repeticao_lote_04.py"
+      - "scripts/sincronizar_estado_pos_voz_lote_04.py"
       - ".github/workflows/gerar-revisao-b-marco-07.yml"
   pull_request:
     branches:
@@ -33,6 +35,8 @@ on:
       - "revisao-integral/08_PARTE_VIII_REV_A.md"
       - "scripts/gerar_revisao_b_marco_07.py"
       - "scripts/medir_amostra_kindle.py"
+      - "scripts/aplicar_voz_ritmo_repeticao_lote_04.py"
+      - "scripts/sincronizar_estado_pos_voz_lote_04.py"
       - ".github/workflows/gerar-revisao-b-marco-07.yml"
   workflow_dispatch:
 
@@ -46,84 +50,65 @@ concurrency:
 jobs:
   gerar:
     runs-on: ubuntu-latest
-
     steps:
       - name: Obter repositório
         uses: actions/checkout@v4
         with:
           ref: ${{ github.sha }}
           fetch-depth: 0
-
       - name: Proteger Revisão A e Marcos anteriores
         shell: bash
         run: |
           git diff --exit-code 3c0338bdb13d6c2c66216a3bd18b3f3603a5faa2 -- \
-            revisao-integral \
-            manuscrito-canonico-rev-a \
-            manuscrito-v13 \
-            revisao-autoral \
-            LER_AGORA_REPOSICIONESE_REV_A.md \
-            VISUALIZAR_REVISAO_INTEGRAL_A.md
+            revisao-integral manuscrito-canonico-rev-a manuscrito-v13 revisao-autoral \
+            LER_AGORA_REPOSICIONESE_REV_A.md VISUALIZAR_REVISAO_INTEGRAL_A.md
           test -s marcos-revisao-b/MARCO_01_PRE_LIVRO_PARTES_I_II.md
           test -s marcos-revisao-b/MARCO_02_PRE_LIVRO_PARTES_I_II_III.md
           test -s marcos-revisao-b/MARCO_03_PRE_LIVRO_PARTES_I_II_III_IV.md
           test -s marcos-revisao-b/MARCO_04_PRE_LIVRO_PARTES_I_II_III_IV_V.md
           test -s marcos-revisao-b/MARCO_05_PRE_LIVRO_PARTES_I_II_III_IV_V_VI.md
           test -s marcos-revisao-b/MARCO_06_PRE_LIVRO_PARTES_I_II_III_IV_V_VI_VII.md
-
       - name: Configurar Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-
       - name: Instalar ferramentas editoriais
         run: |
           sudo apt-get update
           sudo apt-get install -y pandoc libreoffice-writer fonts-liberation poppler-utils
-
+      - name: Aplicar voz e ritmo do Lote 04
+        run: python scripts/aplicar_voz_ritmo_repeticao_lote_04.py
       - name: Gerar Parte VIII, Epílogo, manuscrito completo e Marco 07
         run: python scripts/gerar_revisao_b_marco_07.py
-
+      - name: Reaplicar voz do Lote 04 à Parte VIII gerada
+        run: |
+          python scripts/aplicar_voz_ritmo_repeticao_lote_04.py
+          python scripts/gerar_revisao_b_marco_07.py
       - name: Medir amostra editorial Kindle
         run: python scripts/medir_amostra_kindle.py
-
+      - name: Sincronizar estado editorial do Lote 04
+        run: python scripts/sincronizar_estado_pos_voz_lote_04.py
       - name: Gerar DOCX do Marco 07
         run: |
           mkdir -p dist-revisao-b
-          pandoc marcos-revisao-b/MARCO_07_MANUSCRITO_COMPLETO_REV_B.md \
-            --from=markdown+yaml_metadata_block \
-            --to=docx \
-            --toc \
-            --toc-depth=2 \
-            --metadata toc-title="SUMÁRIO" \
-            --metadata title="REPOSICIONE-SE™" \
-            --metadata subtitle="Método da Árvore do Discernimento — Revisão B — Marco 07" \
-            --metadata author="Sol Lima" \
-            -o dist-revisao-b/REPOSICIONESE_REV_B_MARCO_07_MANUSCRITO_COMPLETO.docx
-
+          pandoc marcos-revisao-b/MARCO_07_MANUSCRITO_COMPLETO_REV_B.md --from=markdown+yaml_metadata_block --to=docx --toc --toc-depth=2 --metadata toc-title="SUMÁRIO" --metadata title="REPOSICIONE-SE™" --metadata subtitle="Método da Árvore do Discernimento — Revisão B — Marco 07" --metadata author="Sol Lima" -o dist-revisao-b/REPOSICIONESE_REV_B_MARCO_07_MANUSCRITO_COMPLETO.docx
       - name: Gerar PDF do Marco 07
         run: |
           mkdir -p dist-revisao-b/pdf
-          libreoffice --headless --convert-to pdf \
-            --outdir dist-revisao-b/pdf \
-            dist-revisao-b/REPOSICIONESE_REV_B_MARCO_07_MANUSCRITO_COMPLETO.docx
-          mv dist-revisao-b/pdf/REPOSICIONESE_REV_B_MARCO_07_MANUSCRITO_COMPLETO.pdf \
-             dist-revisao-b/REPOSICIONESE_REV_B_MARCO_07_MANUSCRITO_COMPLETO.pdf
+          libreoffice --headless --convert-to pdf --outdir dist-revisao-b/pdf dist-revisao-b/REPOSICIONESE_REV_B_MARCO_07_MANUSCRITO_COMPLETO.docx
+          mv dist-revisao-b/pdf/REPOSICIONESE_REV_B_MARCO_07_MANUSCRITO_COMPLETO.pdf dist-revisao-b/REPOSICIONESE_REV_B_MARCO_07_MANUSCRITO_COMPLETO.pdf
           rmdir dist-revisao-b/pdf
-
       - name: Verificar renderização do PDF
         shell: bash
         run: |
           mkdir -p dist-revisao-b/render
           pdfinfo dist-revisao-b/REPOSICIONESE_REV_B_MARCO_07_MANUSCRITO_COMPLETO.pdf
-          pdftoppm -png -r 110 \
-            dist-revisao-b/REPOSICIONESE_REV_B_MARCO_07_MANUSCRITO_COMPLETO.pdf \
-            dist-revisao-b/render/pagina >/dev/null 2>&1
+          pdftoppm -png -r 110 dist-revisao-b/REPOSICIONESE_REV_B_MARCO_07_MANUSCRITO_COMPLETO.pdf dist-revisao-b/render/pagina >/dev/null 2>&1
           test "$(find dist-revisao-b/render -name 'pagina-*.png' -size +0c | wc -l)" -gt 0
-
       - name: Validar manuscritos e arquivos
         shell: bash
         run: |
+          test -s revisao-b-global/29_ONDA_7_PARTE_VII_REV_B.md
           test -s revisao-b-global/32_ONDA_8_PARTE_VIII_EPILOGO_REV_B.md
           test -s manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md
           test -s marcos-revisao-b/MARCO_07_MANUSCRITO_COMPLETO_REV_B.md
@@ -133,47 +118,48 @@ jobs:
           python - <<'PY'
           from pathlib import Path
           import re
-          full = Path('manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md').read_text(encoding='utf-8')
-          part8 = Path('revisao-b-global/32_ONDA_8_PARTE_VIII_EPILOGO_REV_B.md').read_text(encoding='utf-8')
-          mark7 = Path('marcos-revisao-b/MARCO_07_MANUSCRITO_COMPLETO_REV_B.md').read_text(encoding='utf-8')
-          kindle = Path('revisao-b-global/16_MEDICAO_EDITORIAL_10_PORCENTO_KINDLE.md').read_text(encoding='utf-8')
-          chapter_re = re.compile(r'^# CAP[IÍ]TULO\s+(\d+)\b', flags=re.M|re.I)
-          assert [int(x) for x in chapter_re.findall(part8)] == list(range(33, 39))
-          assert [int(x) for x in chapter_re.findall(mark7)] == list(range(1, 39))
-          assert [int(x) for x in chapter_re.findall(full)] == list(range(1, 39))
-          assert len(re.findall(r'^# EP[IÍ]LOGO\b', part8, flags=re.M|re.I)) == 1
-          assert len(re.findall(r'^# EP[IÍ]LOGO\b', mark7, flags=re.M|re.I)) == 1
-          assert len(re.findall(r'^# EP[IÍ]LOGO\b', full, flags=re.M|re.I)) == 1
-          assert 'REVISÃO B COMPLETA' in full
-          assert 'Agora sei como continuar examinando quem estou me tornando.' in part8
-          assert 'Metacognição não é uma técnica reservada à crise.' in part8
-          assert 'Sua possibilidade de cultivo.' in part8
-          assert 'MEDIÇÃO EDITORIAL DOS 10% KINDLE' in kindle
-          print('Validação concluída: Parte VIII 33–38 + Epílogo; Marco 07 e contínuo completos 1–38 + Epílogo.')
+          p7=Path('revisao-b-global/29_ONDA_7_PARTE_VII_REV_B.md').read_text(encoding='utf-8')
+          p8=Path('revisao-b-global/32_ONDA_8_PARTE_VIII_EPILOGO_REV_B.md').read_text(encoding='utf-8')
+          full=Path('manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md').read_text(encoding='utf-8')
+          mark=Path('marcos-revisao-b/MARCO_07_MANUSCRITO_COMPLETO_REV_B.md').read_text(encoding='utf-8')
+          chapter_re=re.compile(r'^# CAP[IÍ]TULO\s+(\d+)\b',re.M|re.I)
+          assert [int(x) for x in chapter_re.findall(p7)]==list(range(27,33))
+          assert [int(x) for x in chapter_re.findall(p8)]==list(range(33,39))
+          for text in (full,mark):
+            assert [int(x) for x in chapter_re.findall(text)]==list(range(1,39))
+            assert len(re.findall(r'^# EP[IÍ]LOGO\b',text,re.M|re.I))==1
+          for phrase in ['1. Isso é verdadeiro?','12. O que uma pessoa posicionada faria com essa informação?','Os Sete Frutos do Posicionamento','Nenhum grupo pensará automaticamente por mim','Sua possibilidade de cultivo.']:
+            assert phrase in p7+p8, phrase
+          assert '[VALIDAÇÃO AUTORAL PENDENTE]' in p7
+          assert 'voz e ritmo concluídos nos Lotes 01–04' in Path('LER_AGORA_REPOSICIONESE_REV_B.md').read_text(encoding='utf-8')
+          print('Validação concluída: Lote 04, capítulos, Filtro, Tipos, Frutos, final e Epílogo preservados.')
           PY
-
-      - name: Versionar Parte VIII, manuscrito, Marco 07 e medição
+      - name: Versionar Lote 04, manuscrito, Marco 07 e medição
         if: github.event_name == 'push'
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add revisao-b-global/32_ONDA_8_PARTE_VIII_EPILOGO_REV_B.md \
+          git add revisao-b-global/29_ONDA_7_PARTE_VII_REV_B.md \
+                  revisao-b-global/32_ONDA_8_PARTE_VIII_EPILOGO_REV_B.md \
                   manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md \
                   marcos-revisao-b/MARCO_07_MANUSCRITO_COMPLETO_REV_B.md \
-                  revisao-b-global/16_MEDICAO_EDITORIAL_10_PORCENTO_KINDLE.md
+                  revisao-b-global/16_MEDICAO_EDITORIAL_10_PORCENTO_KINDLE.md \
+                  LER_AGORA_REPOSICIONESE_REV_B.md \
+                  direcao-editorial/12_REGISTRO_MESTRE_DE_CONTEXTO.md \
+                  direcao-editorial/13_MATRIZ_DE_NAO_PERDA.md
           if git diff --cached --quiet; then
-            echo "Parte VIII, manuscrito completo e medição já estão atualizados."
+            echo "Lote 04 e estado já atualizados."
           else
-            git commit -m "Atualiza Parte VIII, Epílogo, manuscrito completo B, Marco 07 e medição Kindle"
+            git commit -m "Integra voz, ritmo e estado do Lote 04"
             git push origin HEAD:revisao-b-global-2026-07-20
           fi
-
       - name: Publicar pacote de leitura do Marco 07
         uses: actions/upload-artifact@v4
         with:
           name: reposicionese-revisao-b-marco-07-${{ github.event_name }}
           path: |
+            revisao-b-global/29_ONDA_7_PARTE_VII_REV_B.md
             revisao-b-global/32_ONDA_8_PARTE_VIII_EPILOGO_REV_B.md
             manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md
             marcos-revisao-b/MARCO_07_MANUSCRITO_COMPLETO_REV_B.md
