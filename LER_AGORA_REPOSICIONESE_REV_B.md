@@ -3,7 +3,7 @@
 
 **Autora:** Sol Lima  
 **Método:** Árvore do Discernimento  
-**Estado:** manuscrito textual completo; governança reconciliada; auditorias localizadas e especializadas pendentes  
+**Estado:** manuscrito textual completo; governança e coerência metodológica reconciliadas; voz e revisões especializadas pendentes  
 **PR:** #2 — rascunho, sem merge
 
 ---
@@ -20,11 +20,12 @@ Estado confirmado:
 - Partes I–VIII — Revisão B;
 - capítulos 1–38 validados;
 - um Epílogo;
-- aproximadamente 36.859 palavras editoriais;
+- aproximadamente 37.062 palavras editoriais;
 - Revisão A preservada;
 - Marcos 01–06 preservados;
 - Marco 07 vigente;
-- governança reconciliada e protegida por validação automática.
+- governança reconciliada e protegida por validação automática;
+- conflitos metodológicos localizados corrigidos e integrados.
 
 A reconstrução por Partes foi encerrada. O manuscrito não deve voltar automaticamente à Parte I nem reiniciar sua arquitetura.
 
@@ -64,6 +65,8 @@ A representação editorial completa pode mostrar:
 
 Isso não transforma Semente em camada anatômica; ela é aquilo que entra no cultivo.
 
+O Mirante não é camada ou ferramenta separada. É o ponto de observação alcançado quando o leitor sobe e percebe como está pensando.
+
 ## Comandos oficiais
 
 1. **Observe os Frutos.**
@@ -74,6 +77,12 @@ Isso não transforma Semente em camada anatômica; ela é aquilo que entra no cu
 6. **Desça da Árvore.**
 
 `Volte às Raízes e ao Solo` é uma aplicação ampliada do ritual final, não um segundo comando.
+
+## Filtro oficial
+
+O Filtro da Sensatez é o único Filtro oficial e possui doze perguntas.
+
+Influência é uma aplicação temática do mesmo Filtro, com atenção a verdade, evidência, simetria, liberdade, acesso, fruto e responsabilidade. Não existe lista oficial paralela.
 
 ## Navegação curta
 
@@ -93,13 +102,16 @@ O Capítulo 38 preserva dez movimentos de aplicação completa. A rota curta e o
 
 # ARQUIVOS DE ESTADO
 
-## Auditoria e reconciliação
+## Auditoria e governança
 
 - [Auditoria Global de Coerência](revisao-b-global/35_AUDITORIA_GLOBAL_COERENCIA_REV_B.md)
-- [Ponto de retomada pós-reconciliação](revisao-b-global/36_PONTO_DE_RETOMADA_POS_AUDITORIA_GLOBAL.md)
-- [Resumo executivo](revisao-b-global/37_RESUMO_EXECUTIVO_AUDITORIA_GLOBAL.md)
 - [Rastreabilidade da reconciliação](revisao-b-global/38_RASTREABILIDADE_RECONCILIACAO_GOVERNANCA.md)
 - [Validação da reconciliação](revisao-b-global/39_VALIDACAO_RECONCILIACAO_GOVERNANCA.md)
+
+## Coerência metodológica localizada
+
+- [Rastreabilidade da coerência metodológica](revisao-b-global/40_RASTREABILIDADE_COERENCIA_METODOLOGICA_LOCALIZADA.md)
+- [Ponto de retomada após a coerência metodológica](revisao-b-global/41_PONTO_DE_RETOMADA_POS_COERENCIA_METODOLOGICA.md)
 
 ## Fechamento textual
 
@@ -137,22 +149,22 @@ Nenhum Marco anterior deve ser sobrescrito.
 
 A Revisão B textual está completa, mas a publicação ainda depende de:
 
-- coerência metodológica localizada;
 - passagem global de voz, ritmo e repetição;
 - revisão psicológica e clínica;
 - revisão teológica;
 - revisão jurídica;
 - auditoria factual;
 - validações autorais pendentes;
-- integração visual;
+- integração visual e Workbook;
 - preparação e inspeção de EPUB/KPF;
 - preparação gráfica para impressão;
-- prova final.
+- prova final;
+- auditoria final da promessa.
 
 ---
 
 # PRÓXIMA ETAPA
 
-A **Reconciliação de Governança está concluída**.
+A **Rodada de Coerência Metodológica Localizada está concluída**.
 
-A próxima passagem textual autorizável é a **Rodada de Coerência Metodológica Localizada**, limitada aos pontos já auditados e sem reabrir a arquitetura ou as Partes.
+A próxima passagem autorizável é a **Rodada Global de Voz, Ritmo e Repetição**, aplicada em lotes controlados e sem reabrir arquitetura, método ou Partes.
