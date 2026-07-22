@@ -2,7 +2,7 @@
 
 Este diretório registra a governança editorial canônica da obra.
 
-A Revisão B textual está completa. O trabalho atual não é mais reconstrução por Partes; é reconciliação canônica, auditoria global, revisão especializada, voz, visual e produção.
+A Revisão B textual está completa. O trabalho atual não é mais reconstrução por Partes; é coerência metodológica localizada, auditoria especializada, voz, visual e produção.
 
 ---
 
@@ -24,6 +24,7 @@ A Revisão B textual está completa. O trabalho atual não é mais reconstruçã
 - Revisão A preservada;
 - Marcos 01–06 preservados;
 - Marco 07 vigente;
+- governança reconciliada com o Marco 07;
 - Pull Request #2 em rascunho e sem merge.
 
 A reconstrução por Partes foi encerrada. Nenhuma sessão deve retomar automaticamente a Parte IV, usar o Marco 02 como estado atual ou substituir uma fonte B por uma fonte A.
@@ -33,20 +34,21 @@ A reconstrução por Partes foi encerrada. Nenhuma sessão deve retomar automati
 # DOCUMENTOS CANÔNICOS
 
 - `00_CONSTITUICAO_EDITORIAL_REPOSICIONESE.md` — tese, missão, posição autoral e princípios invioláveis.
-- `01_ARQUITETURA_DEFINITIVA_DA_OBRA.md` — arquitetura atual pela ordem de investigação da Árvore.
+- `01_ARQUITETURA_DEFINITIVA_DA_OBRA.md` — arquitetura implementada na Revisão B.
 - `02_MAPA_DA_ARVORE_E_COMANDOS.md` — Semente, estrutura, cultivo, Mirante, comandos e sequências.
 - `03_MAPA_DA_JAULA.md` — função e distribuição das intervenções da Jaula.
 - `04_MAPA_DAS_IMAGENS_PRELIMINAR.md` — famílias, destinos e critérios do banco visual.
 - `05_DISTRIBUICAO_DOS_PRINCIPIOS_E_TIPOS.md` — 14 Leis e 14 Tipos.
-- `06_FILTRO_DA_SENSATEZ.md` — 12 perguntas oficiais e aplicações de influência.
+- `06_FILTRO_DA_SENSATEZ.md` — 12 perguntas oficiais e aplicação à influência.
 - `07_FIOS_CONDUTORES.md` — posicionamento, identidade, influência, metacognição, fé e polarização.
-- `08_PLANO_DE_REESTRUTURACAO_E_PUBLICACAO.md` — fases e entregáveis.
+- `08_PLANO_DE_REESTRUTURACAO_E_PUBLICACAO.md` — histórico de fases e entregáveis.
 - `09_AUDITORIA_DE_COERENCIA_E_RISCOS.md` — riscos históricos e correções obrigatórias.
 - `10_MATRIZ_CAPITULO_A_CAPITULO.md` — função editorial dos capítulos.
 - `11_INVENTARIO_DE_AFIRMACOES_FACTUAIS.md` — afirmações a verificar.
 - `12_REGISTRO_MESTRE_DE_CONTEXTO.md` — memória canônica atual.
-- `13_MATRIZ_DE_NAO_PERDA.md` — rastreamento de conceitos, histórias, ferramentas e riscos.
-- `14_PROTOCOLO_DE_CONTINUIDADE_SEM_FADIGA.md` — processo de retomada e controle de versões.
+- `13_MATRIZ_DE_NAO_PERDA.md` — rastreamento atualizado de conceitos, histórias, ferramentas e riscos.
+- `14_PROTOCOLO_DE_CONTINUIDADE_SEM_FADIGA.md` — protocolo histórico da fase de reconstrução.
+- `15_PROTOCOLO_FASE_GLOBAL_POS_MARCO_07.md` — protocolo operacional vigente.
 
 ---
 
@@ -57,7 +59,7 @@ A reconstrução por Partes foi encerrada. Nenhuma sessão deve retomar automati
 - **Semente:** entrada do cultivo.
 - **Estrutura:** Solo → Raízes → Tronco → Galhos → Frutos.
 - **Operações e condições:** Pragas, Poda e Nova Semente.
-- **Mirante do Discernimento:** ponto metacognitivo de observação.
+- **Mirante do Discernimento:** ponto metacognitivo alcançado pelo comando Suba na Árvore.
 
 A representação editorial completa pode mostrar Semente antes da estrutura, sem chamá-la de camada anatômica.
 
@@ -101,15 +103,15 @@ Veredito:
 
 # PRÓXIMAS FRENTES
 
-1. reconciliar integralmente a governança;
-2. resolver o Filtro da Influência sem criar segundo Filtro;
-3. esclarecer a função editorial do Mirante;
+1. aplicar coerência metodológica localizada no manuscrito mediante autorização específica;
+2. resolver o bloco histórico chamado Filtro da Influência sem criar segundo Filtro;
+3. consolidar o uso editorial do Mirante;
 4. padronizar o Checkpoint da Parte III;
 5. fechar explicitamente polarização, Fuga Identitária e influência no final;
 6. realizar passagem global de voz, ritmo e repetição;
 7. executar revisões psicológica, clínica, teológica, jurídica e factual;
 8. concluir validações autorais;
-9. integrar o banco visual;
+9. integrar o banco visual e o Workbook;
 10. preparar EPUB/KPF, Kindle, impressão e prova final.
 
 ---
