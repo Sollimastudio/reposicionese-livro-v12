@@ -47,15 +47,35 @@ jobs:
           fetch-depth: 0
           show-progress: false
 
-      - name: Validar governança, nomenclatura e integridade
+      - name: Executar validação e salvar relatório
         shell: bash
         run: |
-          set -o pipefail
-          if python3 scripts/validar_governanca_marco_07.py > /tmp/validacao-governanca.log 2>&1; then
-            cat /tmp/validacao-governanca.log
-          else
-            ERRO="$(tail -n 1 /tmp/validacao-governanca.log)"
+          set +e
+          python3 scripts/validar_governanca_marco_07.py > validacao-governanca.log 2>&1
+          CODIGO=$?
+          echo "$CODIGO" > validacao-governanca.status
+          cat validacao-governanca.log
+          exit 0
+
+      - name: Publicar relatório da validação
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: relatorio-validacao-governanca-marco-07-${{ github.event_name }}
+          path: |
+            validacao-governanca.log
+            validacao-governanca.status
+          if-no-files-found: error
+          retention-days: 30
+
+      - name: Confirmar resultado
+        if: always()
+        shell: bash
+        run: |
+          CODIGO="$(cat validacao-governanca.status)"
+          if [ "$CODIGO" != "0" ]; then
+            ERRO="$(tail -n 1 validacao-governanca.log)"
             echo "::error title=Falha na governança::$ERRO"
-            cat /tmp/validacao-governanca.log
-            exit 1
+            exit "$CODIGO"
           fi
+          echo "Governança validada com sucesso."
