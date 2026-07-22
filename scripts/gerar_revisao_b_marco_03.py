@@ -71,7 +71,7 @@ toc-title: "SUMÁRIO"
 > **{note}**  
 > Gerado em {generated}. A Revisão A e os Marcos 01–02 permanecem preservados.
 
-\newpage
+\\newpage
 '''
 
 
