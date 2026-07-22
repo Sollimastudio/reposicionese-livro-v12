@@ -105,6 +105,8 @@ O Capítulo 38 preserva dez movimentos de aplicação completa. A rota curta e o
 ## Auditoria e governança
 
 - [Auditoria Global de Coerência](revisao-b-global/35_AUDITORIA_GLOBAL_COERENCIA_REV_B.md)
+- [Auditoria técnica automática — estado atual](revisao-b-global/49_AUDITORIA_TECNICA_AUTOMATICA_ESTADO_ATUAL.md)
+- [Laudo completo de estado e conclusão](revisao-b-global/50_LAUDO_COMPLETO_ESTADO_E_CONCLUSAO_REPOSICIONESE.md)
 - [Rastreabilidade da reconciliação](revisao-b-global/38_RASTREABILIDADE_RECONCILIACAO_GOVERNANCA.md)
 - [Validação da reconciliação](revisao-b-global/39_VALIDACAO_RECONCILIACAO_GOVERNANCA.md)
 
@@ -122,6 +124,9 @@ O Capítulo 38 preserva dez movimentos de aplicação completa. A rota curta e o
 - [Rastreabilidade — Lote 02](revisao-b-global/46_RASTREABILIDADE_VOZ_RITMO_REPETICAO_LOTE_02.md)
 - [Ponto de retomada — Lote 02](revisao-b-global/47_PONTO_DE_RETOMADA_VOZ_RITMO_LOTE_02.md)
 - [Validação — Lote 02](revisao-b-global/48_VALIDACAO_VOZ_RITMO_LOTE_02.md)
+- [Rastreabilidade — Lote 03](revisao-b-global/51_RASTREABILIDADE_VOZ_RITMO_REPETICAO_LOTE_03.md)
+- [Validação — Lote 03](revisao-b-global/52_VALIDACAO_VOZ_RITMO_LOTE_03.md)
+- [Ponto de retomada — Lote 03](revisao-b-global/53_PONTO_DE_RETOMADA_VOZ_RITMO_LOTE_03.md)
 
 ## Fechamento textual
 
