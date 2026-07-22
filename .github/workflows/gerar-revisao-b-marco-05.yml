@@ -16,13 +16,27 @@ on:
       - "scripts/gerar_revisao_b_marco_05.py"
       - "scripts/medir_amostra_kindle.py"
       - ".github/workflows/gerar-revisao-b-marco-05.yml"
+  pull_request:
+    branches:
+      - direcao-editorial-executiva-2026-07-20
+    paths:
+      - "revisao-b-global/03_ONDA_1_PRE_LIVRO_REV_B.md"
+      - "revisao-b-global/04_ONDA_1_PARTE_I_REV_B.md"
+      - "revisao-b-global/05_ONDA_2_PARTE_II_REV_B.md"
+      - "revisao-b-global/07_ONDA_3_PARTE_III_REV_B.md"
+      - "revisao-b-global/20_ONDA_4_PARTE_IV_REV_B.md"
+      - "revisao-b-global/23_ONDA_5_PARTE_V_REV_B.md"
+      - "revisao-integral/06_PARTE_VI_REV_A.md"
+      - "scripts/gerar_revisao_b_marco_05.py"
+      - "scripts/medir_amostra_kindle.py"
+      - ".github/workflows/gerar-revisao-b-marco-05.yml"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: revisao-b-marco-05-${{ github.ref }}
+  group: revisao-b-marco-05-${{ github.event_name }}-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
@@ -135,6 +149,7 @@ jobs:
           PY
 
       - name: Versionar Parte VI, manuscrito, Marco 05 e medição
+        if: github.event_name == 'push'
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
@@ -153,7 +168,7 @@ jobs:
       - name: Publicar pacote de leitura do Marco 05
         uses: actions/upload-artifact@v4
         with:
-          name: reposicionese-revisao-b-marco-05
+          name: reposicionese-revisao-b-marco-05-${{ github.event_name }}
           path: |
             revisao-b-global/26_ONDA_6_PARTE_VI_REV_B.md
             manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md
