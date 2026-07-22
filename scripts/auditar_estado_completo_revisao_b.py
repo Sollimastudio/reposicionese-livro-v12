@@ -80,6 +80,14 @@ def percentage(part: int, whole: int) -> float:
     return 0.0 if not whole else (part / whole) * 100
 
 
+def fmt_int(value: int) -> str:
+    return f"{value:,}".replace(",", ".")
+
+
+def fmt_pct(value: float) -> str:
+    return f"{value:.1f}".replace(".", ",")
+
+
 def main() -> None:
     rows = []
     all_text = []
@@ -182,7 +190,10 @@ def main() -> None:
         "um Epílogo no manuscrito": manuscript_epilogues == 1,
         "Filtro único declarado": "Não existe um segundo Filtro." in combined,
         "frase de fechamento contemporâneo": "Nenhum grupo pensará automaticamente por mim" in combined,
-        "Praga nunca pessoa": "O nome recai sobre o mecanismo, nunca sobre a pessoa" in combined,
+        "Praga nunca pessoa": (
+            "O nome descreve o funcionamento observado. Não autoriza dizer que alguém *é* uma Praga." in combined
+            and "nunca sobre a pessoa" in combined
+        ),
         "Jaula não culpabiliza": "Você fica porque quer" in combined,
         "Revisão A declarada preservada": "Revisão A" in manuscript[:1500],
         "sem comandos antigos nas fontes vivas": all(value == 0 for value in legacy_counts.values()),
@@ -198,8 +209,8 @@ def main() -> None:
         "",
         "# 1. ESTRUTURA E VOLUME",
         "",
-        f"- palavras nas nove fontes vivas: **{total_words:,}**;".replace(",", "."),
-        f"- palavras no manuscrito contínuo: **{manuscript_words:,}**;".replace(",", "."),
+        f"- palavras nas nove fontes vivas: **{fmt_int(total_words)}**;",
+        f"- palavras no manuscrito contínuo: **{fmt_int(manuscript_words)}**;",
         f"- capítulos nas fontes: **{len(all_chapters)}**;",
         f"- capítulos no manuscrito: **{len(manuscript_chapters)}**;",
         f"- Epílogos nas fontes: **{epilogues}**;",
@@ -212,12 +223,12 @@ def main() -> None:
         chapters_label = "—" if not row["chapters"] else f"{row['chapters'][0]}–{row['chapters'][-1]}"
         lists = row["bullets"] + row["numbered"]
         lines.append(
-            f"| {row['name']} | {row['words']:,} | {chapters_label} | {lists} | {row['neg_is']} | {row['neg_means']} | {row['questions']} | {'OK' if row['ok'] else 'FALHA'} |".replace(",", ".")
+            f"| {row['name']} | {fmt_int(row['words'])} | {chapters_label} | {lists} | {row['neg_is']} | {row['neg_means']} | {row['questions']} | {'OK' if row['ok'] else 'FALHA'} |"
         )
 
     lines += [
         "",
-        f"As Partes V–VIII e o Epílogo concentram **{last_four_words:,} palavras**, equivalentes a **{percentage(last_four_words, total_words):.1f}%** das fontes vivas. Essas unidades ainda não receberam a passagem completa de voz e ritmo dos Lotes 03–04.".replace(",", "."),
+        f"As Partes V–VIII e o Epílogo concentram **{fmt_int(last_four_words)} palavras**, equivalentes a **{fmt_pct(percentage(last_four_words, total_words))}%** das fontes vivas. Essas unidades ainda não receberam a passagem completa de voz e ritmo dos Lotes 03–04.",
         "",
         "---",
         "",
