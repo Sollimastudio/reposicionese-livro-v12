@@ -196,8 +196,26 @@ A degustação continua protegida e o Bloco 1 não deve ser reaberto.
 
 ---
 
-# 8. VEREDITO
+# 8. PROTEÇÃO DOS MARCOS HISTÓRICOS
+
+Durante a integração, foi confirmado que workflows antigos ainda poderiam reagir automaticamente a mudanças em fontes anteriores e tentar regenerar o manuscrito contínuo a partir de um Marco parcial.
+
+A proteção aplicada foi:
+
+- Marcos 02, 03, 04, 05 e 06 convertidos em reprodução histórica **manual**;
+- permissões alteradas para somente leitura;
+- nenhuma reprodução histórica faz commit ou push;
+- os artefatos podem ser gerados em ambiente isolado quando necessário;
+- somente o workflow do Marco 07 permanece responsável pela geração automática do manuscrito completo vigente.
+
+Essa mudança não alterou os arquivos Markdown dos Marcos históricos. Alterou apenas o modo como podem ser reproduzidos.
+
+---
+
+# 9. VEREDITO
 
 > **Os conflitos metodológicos localizados foram resolvidos sem criar conceito novo, sem alterar a arquitetura e sem reconstruir nenhuma Parte. O manuscrito possui agora um único Filtro oficial, uma definição funcional do Mirante, hierarquia visual coerente e fechamento explícito dos fios contemporâneos.**
+
+A proteção técnica também impede que um Marco parcial volte a sobrescrever o Marco 07.
 
 A próxima frente global é voz, ritmo e repetição.
