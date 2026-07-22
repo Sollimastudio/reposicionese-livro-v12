@@ -1,10 +1,10 @@
-# PONTO DE RETOMADA — PÓS-AUDITORIA GLOBAL DE COERÊNCIA
+# PONTO DE RETOMADA — PÓS-RECONCILIAÇÃO DE GOVERNANÇA
 
-**Estado:** Revisão B textual completa; auditoria global concluída sem reescrita  
+**Estado:** Revisão B textual completa; governança reconciliada com o Marco 07  
 **Branch:** `revisao-b-global-2026-07-20`  
 **PR:** #2 — rascunho, sem merge  
 **Marco vigente:** Marco 07 — manuscrito completo em Revisão B  
-**Próxima rodada:** reconciliação de governança, sem alterar o manuscrito
+**Próxima rodada:** coerência metodológica localizada, com autorização textual específica
 
 ---
 
@@ -22,91 +22,67 @@
 - Revisão A preservada;
 - Marcos 01–06 preservados.
 
-## Auditoria
+## Governança
 
-- promessa: cumprida;
-- progressão entre Partes: aprovada;
-- hierarquia metodológica: aprovada com conflitos localizados;
-- proteções éticas: aprovadas, com revisões especializadas pendentes;
-- final e Epílogo: aprovados, sem necessidade de reconstrução;
-- governança: desatualizada em relação ao manuscrito.
+- porta `LER_AGORA` atualizada;
+- README atualizado;
+- Constituição Editorial atualizada;
+- Arquitetura Definitiva atualizada;
+- Mapa da Árvore e Comandos reconciliado;
+- Filtro oficial reconciliado;
+- Registro Mestre atualizado para versão 3.0;
+- Matriz de Não Perda atualizada para o Marco 07;
+- protocolo vigente da fase global criado;
+- Pull Request atualizado para o estado real.
 
-Nenhuma reescrita foi aplicada durante a auditoria.
-
----
-
-# 2. DECISÕES CONGELADAS
-
-1. Não reiniciar a revisão por Partes.
-2. Não reabrir o Bloco 1.
-3. Não reconstruir o final.
-4. Não criar método, filtro, lei, tipo, fruto ou comando novo.
-5. Preservar as doze perguntas oficiais do Filtro da Sensatez.
-6. Preservar os quatorze nomes canônicos dos Tipos até validação autoral específica.
-7. Preservar os Sete Frutos.
-8. Preservar a frase final do Epílogo.
-9. Preservar a Revisão A e todos os Marcos.
-10. Tratar a próxima rodada como governança, não como revisão textual.
+Nenhuma linha do manuscrito foi reescrita nesta rodada.
 
 ---
 
-# 3. ACHADOS DE PRIORIDADE MÁXIMA
+# 2. DECISÕES CANÔNICAS CONGELADAS
 
-## 3.1 Governança desatualizada
+1. **Semente é entrada do cultivo**, não camada anatômica.
+2. **Estrutura:** Solo → Raízes → Tronco → Galhos → Frutos.
+3. A representação editorial completa pode mostrar Semente antes da estrutura.
+4. **Observe os Frutos** é o comando editorial oficial.
+5. **Volte às Raízes** é o comando oficial de investigação das origens.
+6. `Volte às Raízes e ao Solo` é aplicação ampliada no ritual, não comando novo.
+7. Existem uma rota curta e um ritual completo de dez movimentos; ambos pertencem à mesma Árvore.
+8. O Filtro da Sensatez é o único Filtro oficial e possui doze perguntas.
+9. O bloco historicamente chamado Filtro da Influência deve ser tratado como aplicação temática, não protocolo paralelo.
+10. O Mirante é o ponto metacognitivo alcançado ao subir, não sistema independente.
+11. A reconstrução por Partes está encerrada.
+12. Não reabrir o Bloco 1 nem reconstruir o final.
+13. Não criar método, Lei, Tipo, Fruto, Filtro ou comando novo.
+14. Preservar a Revisão A e todos os Marcos.
 
-Precisam ser atualizados para o Marco 07:
+---
 
-- `LER_AGORA_REPOSICIONESE_REV_B.md`;
-- `direcao-editorial/README.md`;
-- corpo e título do Pull Request #2;
-- `direcao-editorial/12_REGISTRO_MESTRE_DE_CONTEXTO.md`;
-- `direcao-editorial/13_MATRIZ_DE_NAO_PERDA.md`;
-- documentos canônicos afetados pelas decisões finais.
+# 3. TERMOS HISTÓRICOS NÃO VIGENTES
 
-## 3.2 Ordem estrutural
-
-Conflito entre:
-
-- `Solo → Raízes → Tronco → Galhos → Frutos`;
-- `Semente → Solo → Raízes → Tronco → Galhos → Frutos`.
-
-A próxima rodada deverá registrar formalmente se Semente é entrada do cultivo ou primeiro elemento da representação editorial.
-
-## 3.3 Comando inicial
-
-Conflito entre:
+Não usar em governança, artes ou texto final como forma canônica:
 
 - `Olhe os Frutos`;
-- `Observe os Frutos`.
-
-O manuscrito atual usa `Observe os Frutos`.
-
-## 3.4 Comando das Raízes
-
-Conflito entre:
-
 - `Volte para a Raiz`;
-- `Volte às Raízes`;
-- aplicação final `Volte às Raízes e ao Solo`.
+- Semente como camada anatômica;
+- protocolo alternativo de oito perguntas;
+- treze Leis;
+- segundo Filtro oficial;
+- Tipos adicionais não aprovados.
 
-## 3.5 Sequência operacional
-
-A governança registra versões de oito, nove e dez movimentos.
-
-O ritual final usa dez movimentos. A versão curta e a versão completa precisam ser distinguidas sem criar métodos diferentes.
+Eles podem permanecer apenas em arquivos históricos congelados.
 
 ---
 
-# 4. ACHADOS TEXTUAIS PARA RODADA POSTERIOR
+# 4. PRÓXIMAS CORREÇÕES TEXTUAIS LOCALIZADAS
 
-Não alterar antes da reconciliação de governança.
+Não aplicar sem autorização específica:
 
-1. `Filtro da Influência` apresenta doze perguntas complementares e pode competir com o Filtro oficial de doze perguntas.
-2. O Mirante do Discernimento é definido, mas o nome aparece muito pouco.
-3. O Checkpoint da Parte III possui hierarquia diferente dos demais.
-4. O final fecha polarização, Fuga Identitária e influência por mecanismo, mas não por nome explícito e memorável.
-5. Partes V–VII concentram negações, listas, exercícios e proteções, criando risco de fadiga.
-6. Uma passagem global de voz deverá reduzir ritmo defensivo sem remover segurança.
+1. resolver o bloco `Filtro da Influência` dentro do manuscrito;
+2. tornar o uso do Mirante mais claro sem ampliar o sistema;
+3. padronizar a hierarquia do Checkpoint da Parte III;
+4. fechar explicitamente polarização, Fuga Identitária e influência no final;
+5. passar voz, ritmo e repetição nas Partes V–VII sem remover proteções.
 
 ---
 
@@ -130,23 +106,37 @@ Não alterar antes da reconciliação de governança.
 
 # 6. ARQUIVOS DE RETOMADA OBRIGATÓRIA
 
-1. `revisao-b-global/35_AUDITORIA_GLOBAL_COERENCIA_REV_B.md`;
-2. `revisao-b-global/36_PONTO_DE_RETOMADA_POS_AUDITORIA_GLOBAL.md`;
-3. `revisao-b-global/34_PONTO_DE_RETOMADA_MARCO_07.md`;
-4. `revisao-b-global/33_RASTREABILIDADE_PARTE_VIII_EPILOGO_REV_B.md`;
-5. `manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md`;
-6. `marcos-revisao-b/MARCO_07_MANUSCRITO_COMPLETO_REV_B.md`;
-7. `direcao-editorial/00_CONSTITUICAO_EDITORIAL_REPOSICIONESE.md`;
-8. `direcao-editorial/02_MAPA_DA_ARVORE_E_COMANDOS.md`;
-9. `direcao-editorial/06_FILTRO_DA_SENSATEZ.md`;
-10. `direcao-editorial/12_REGISTRO_MESTRE_DE_CONTEXTO.md`;
-11. `direcao-editorial/13_MATRIZ_DE_NAO_PERDA.md`;
-12. `LER_AGORA_REPOSICIONESE_REV_B.md`.
+1. `LER_AGORA_REPOSICIONESE_REV_B.md`;
+2. `direcao-editorial/00_CONSTITUICAO_EDITORIAL_REPOSICIONESE.md`;
+3. `direcao-editorial/01_ARQUITETURA_DEFINITIVA_DA_OBRA.md`;
+4. `direcao-editorial/02_MAPA_DA_ARVORE_E_COMANDOS.md`;
+5. `direcao-editorial/06_FILTRO_DA_SENSATEZ.md`;
+6. `direcao-editorial/12_REGISTRO_MESTRE_DE_CONTEXTO.md`;
+7. `direcao-editorial/13_MATRIZ_DE_NAO_PERDA.md`;
+8. `direcao-editorial/15_PROTOCOLO_FASE_GLOBAL_POS_MARCO_07.md`;
+9. `revisao-b-global/35_AUDITORIA_GLOBAL_COERENCIA_REV_B.md`;
+10. `manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md`;
+11. `marcos-revisao-b/MARCO_07_MANUSCRITO_COMPLETO_REV_B.md`.
 
 ---
 
-# 7. PRÓXIMO COMANDO AUTORAL
+# 7. PADRÃO DE EXCELÊNCIA
 
-> **Aprovo a Reconciliação de Governança da Revisão B, sem reescrever o manuscrito.**
+A meta 10/10 foi registrada como critério auditável.
 
-Essa autorização permitirá atualizar o estado canônico, resolver nomenclaturas e impedir regressões antes da passagem global de texto.
+Não declarar prontidão final enquanto houver:
+
+- pendência autoral;
+- revisão especializada ausente;
+- afirmação de alto risco não verificada;
+- conflito visual;
+- EPUB/KPF não inspecionado;
+- prova impressa não aprovada.
+
+---
+
+# 8. PRÓXIMO COMANDO AUTORAL
+
+> **Aprovo a Rodada de Coerência Metodológica Localizada da Revisão B.**
+
+Essa autorização permitirá alterar somente os pontos já auditados, sem reabrir a arquitetura ou as Partes.
