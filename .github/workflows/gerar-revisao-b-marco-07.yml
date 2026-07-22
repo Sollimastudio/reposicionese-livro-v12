@@ -89,7 +89,7 @@ jobs:
           for text in (full,mark):
             assert [int(x) for x in r.findall(text)]==list(range(1,39))
             assert len(re.findall(r'^# EP[IÍ]LOGO\b',text,re.M|re.I))==1
-          required=['1. Isso é verdadeiro?','12. O que uma pessoa posicionada faria com essa informação?','Os Sete Frutos do Posicionamento','Nenhum grupo pensará automaticamente por mim','Sua possibilidade de cultivo.','O desejo importa porque mostra direção. Mas cultivo é feito de práticas.']
+          required=['1. Isso é verdadeiro?','12. O que uma pessoa posicionada faria com essa informação?','OS SETE FRUTOS DO POSICIONAMENTO','Nenhum grupo pensará automaticamente por mim','Sua possibilidade de cultivo.','O desejo importa porque mostra direção. Mas cultivo é feito de práticas.']
           for phrase in required: assert phrase in p7+p8, phrase
           assert '[VALIDAÇÃO AUTORAL PENDENTE]' in p7
           assert 'voz e ritmo concluídos nos Lotes 01–04' in Path('LER_AGORA_REPOSICIONESE_REV_B.md').read_text(encoding='utf-8')
