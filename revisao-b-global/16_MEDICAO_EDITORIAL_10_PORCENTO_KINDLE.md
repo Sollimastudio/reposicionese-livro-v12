@@ -12,7 +12,7 @@
 
 - Total editorial estimado: **33,688 palavras**;
 - alvo de 10%: **3,369 palavras**;
-- linha aproximada da fronteira: **765**;
+- linha aproximada da fronteira: **764**;
 - seção em que a fronteira cai: **O apagamento pode receber elogios**;
 - próxima seção identificada: **Quando adaptação vira identidade**;
 - texto na linha de fronteira: `“Ele é sempre disponível.”`.
@@ -58,19 +58,19 @@ A decisão de fazer novos cortes, deslocamentos ou acréscimos deverá considera
 # 4. CONTEXTO DA FRONTEIRA
 
 ```text
-759: “Ela aguenta tudo.”
-760: 
-761: “Ele nunca reclama.”
-762: 
-763: “Ela vive para a família.”
-764: 
-765: “Ele é sempre disponível.”
-766: 
-767: “Ela não cria problema.”
-768: 
-769: Alguns elogios celebram virtudes reais.
-770: 
-771: Outros premiam a ausência da pessoa que os recebe.
+758: “Ela aguenta tudo.”
+759: 
+760: “Ele nunca reclama.”
+761: 
+762: “Ela vive para a família.”
+763: 
+764: “Ele é sempre disponível.”
+765: 
+766: “Ela não cria problema.”
+767: 
+768: Alguns elogios celebram virtudes reais.
+769: 
+770: Outros premiam a ausência da pessoa que os recebe.
 ```
 
 ---
