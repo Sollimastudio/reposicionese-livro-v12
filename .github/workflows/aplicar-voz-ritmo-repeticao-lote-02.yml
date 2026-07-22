@@ -1,0 +1,99 @@
+name: Aplicar Voz, Ritmo e Repetição — Lote 02
+
+on:
+  push:
+    branches:
+      - revisao-b-global-2026-07-20
+    paths:
+      - "scripts/aplicar_voz_ritmo_repeticao_lote_02.py"
+      - ".github/workflows/aplicar-voz-ritmo-repeticao-lote-02.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: voz-ritmo-lote-02-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  aplicar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Obter repositório
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
+          fetch-depth: 0
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Aplicar passagem de voz e ritmo
+        run: python scripts/aplicar_voz_ritmo_repeticao_lote_02.py
+
+      - name: Regenerar manuscrito completo e Marco 07
+        run: python scripts/gerar_revisao_b_marco_07.py
+
+      - name: Medir fronteira editorial Kindle
+        run: python scripts/medir_amostra_kindle.py
+
+      - name: Validar integridade e escopo
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          p3 = Path('revisao-b-global/07_ONDA_3_PARTE_III_REV_B.md').read_text(encoding='utf-8')
+          p4 = Path('revisao-b-global/20_ONDA_4_PARTE_IV_REV_B.md').read_text(encoding='utf-8')
+          full = Path('manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md').read_text(encoding='utf-8')
+          mark7 = Path('marcos-revisao-b/MARCO_07_MANUSCRITO_COMPLETO_REV_B.md').read_text(encoding='utf-8')
+          kindle = Path('revisao-b-global/16_MEDICAO_EDITORIAL_10_PORCENTO_KINDLE.md').read_text(encoding='utf-8')
+
+          chapter_re = re.compile(r'^# CAP[IÍ]TULO\s+(\d+)\b', flags=re.M | re.I)
+          assert [int(x) for x in chapter_re.findall(p3)] == [7, 8, 9, 10]
+          assert [int(x) for x in chapter_re.findall(p4)] == [11, 12, 13, 14]
+          for label, text in {'manuscrito': full, 'Marco 07': mark7}.items():
+              assert [int(x) for x in chapter_re.findall(text)] == list(range(1, 39)), label
+              assert len(re.findall(r'^# EP[IÍ]LOGO\b', text, flags=re.M | re.I)) == 1
+
+          required = [
+              'Agora a investigação desce. Não para encontrar um culpado original',
+              'Há danos, omissões e abusos reais.',
+              'Julgamento próprio significa continuar presente enquanto aprende:',
+              'O Tronco não é força bruta, rigidez, dureza ou independência absoluta.',
+              'A conversa não falhou. A realidade apareceu.',
+              'Segurança vem antes do desempenho de firmeza.',
+              '[REVISÃO TEOLÓGICA — validar contexto bíblico e formulação.]',
+              '[REVISÃO PSICOLÓGICA — validar a formulação final de autoria emocional e suas proteções antes da edição definitiva.]',
+          ]
+          for phrase in required:
+              assert phrase in full, phrase
+
+          assert 'CAPÍTULO 2 — A MORTE EM VIDA' in kindle
+          assert 'O primeiro sinal de retorno' in kindle
+          assert 'Sua possibilidade de cultivo.' in full
+          print('Validação concluída: Lote 02 refinado; capítulos 1–38, Epílogo, salvaguardas e Kindle preservados.')
+          PY
+
+      - name: Versionar passagem e integração
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add \
+            revisao-b-global/07_ONDA_3_PARTE_III_REV_B.md \
+            revisao-b-global/20_ONDA_4_PARTE_IV_REV_B.md \
+            manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md \
+            marcos-revisao-b/MARCO_07_MANUSCRITO_COMPLETO_REV_B.md \
+            revisao-b-global/16_MEDICAO_EDITORIAL_10_PORCENTO_KINDLE.md
+          if git diff --cached --quiet; then
+            echo "A passagem do Lote 02 já estava integrada."
+          else
+            git commit -m "Aplica voz, ritmo e repetição no Lote 02"
+            git push origin HEAD:revisao-b-global-2026-07-20
+          fi
