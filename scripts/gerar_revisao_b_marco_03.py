@@ -15,6 +15,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 
+# Fonte vigente do Marco 03; qualquer mudança textual deve ocorrer nos módulos.
 B_SOURCES = [
     Path("revisao-b-global/03_ONDA_1_PRE_LIVRO_REV_B.md"),
     Path("revisao-b-global/04_ONDA_1_PARTE_I_REV_B.md"),
