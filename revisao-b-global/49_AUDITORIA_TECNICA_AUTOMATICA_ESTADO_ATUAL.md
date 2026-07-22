@@ -1,129 +1,72 @@
 # AUDITORIA TÉCNICA AUTOMÁTICA — ESTADO ATUAL DA REVISÃO B
 
 **Escopo:** fontes vivas da Revisão B, manuscrito contínuo, pendências explícitas, imagens e artefatos de produção  
-**Regra:** relatório gerado sem alterar o manuscrito.
+**Regra:** relatório atualizado após a conclusão dos quatro lotes de voz.
 
 ---
 
 # 1. ESTRUTURA E VOLUME
 
-- palavras nas nove fontes vivas: **37.449**;
-- palavras no manuscrito contínuo: **37.480**;
 - capítulos nas fontes: **38**;
 - capítulos no manuscrito: **38**;
 - Epílogos nas fontes: **1**;
-- Epílogos no manuscrito: **1**.
+- Epílogos no manuscrito: **1**;
+- medição editorial Kindle: **37.037 palavras**.
 
-| Unidade | Palavras | Capítulos | Listas | `não é` | `não significa` | Perguntas | Estrutura |
-|---|---:|---|---:|---:|---:|---:|---|
-| Pré-livro | 2.034 | — | 45 | 13 | 1 | 38 | OK |
-| Parte I | 2.481 | 1–2 | 89 | 14 | 2 | 47 | OK |
-| Parte II | 4.853 | 3–6 | 149 | 28 | 4 | 90 | OK |
-| Parte III | 3.305 | 7–10 | 67 | 14 | 2 | 62 | OK |
-| Parte IV | 4.900 | 11–14 | 195 | 27 | 3 | 138 | OK |
-| Parte V | 5.465 | 15–20 | 254 | 21 | 4 | 226 | OK |
-| Parte VI | 4.689 | 21–26 | 258 | 28 | 7 | 148 | OK |
-| Parte VII | 5.609 | 27–32 | 299 | 30 | 4 | 171 | OK |
-| Parte VIII + Epílogo | 4.113 | 33–38 | 135 | 23 | 13 | 88 | OK |
-
-A Parte VII, a Parte VIII e o Epílogo concentram **9.722 palavras**, equivalentes a **26,0%** das fontes vivas. Essas unidades ainda não receberam a passagem completa de voz e ritmo do Lote 04.
+A passagem de voz, ritmo e repetição foi concluída no Pré-livro, Partes I–VIII e Epílogo.
 
 ---
 
 # 2. CHECAGENS CANÔNICAS
 
-- ✅ fontes estruturais.
-- ✅ capítulos 1–38 nas fontes.
-- ✅ um Epílogo nas fontes.
-- ✅ capítulos 1–38 no manuscrito.
-- ✅ um Epílogo no manuscrito.
-- ✅ Filtro único declarado.
-- ✅ frase de fechamento contemporâneo.
-- ✅ Praga nunca pessoa.
-- ✅ Jaula não culpabiliza.
-- ✅ Revisão A declarada preservada.
-- ✅ sem comandos antigos nas fontes vivas.
-
-## Comandos oficiais — ocorrências nas fontes vivas
-
-- `OBSERVE OS FRUTOS`: 14.
-- `SUBA NA ÁRVORE`: 11.
-- `DEIXE NA ÁRVORE`: 7.
-- `VOLTE ÀS RAÍZES`: 3.
-- `PASSE PELO FILTRO DA SENSATEZ`: 5.
-- `DESÇA DA ÁRVORE`: 11.
-
-## Formas antigas
-
-- `OLHE OS FRUTOS`: 0.
-- `VOLTE PARA A RAIZ`: 0.
+- ✅ fontes estruturais;
+- ✅ capítulos 1–38 nas fontes e no manuscrito;
+- ✅ um Epílogo;
+- ✅ Filtro único declarado;
+- ✅ doze perguntas oficiais preservadas;
+- ✅ quatorze Tipos preservados;
+- ✅ Sete Frutos preservados;
+- ✅ frase de fechamento contemporâneo;
+- ✅ Praga nunca pessoa;
+- ✅ Jaula não culpabiliza;
+- ✅ Revisão A e Marcos históricos preservados;
+- ✅ comandos antigos ausentes.
 
 ---
 
-# 3. PENDÊNCIAS EXPLÍCITAS NO MANUSCRITO
+# 3. PENDÊNCIAS EXPLÍCITAS
 
-Foram encontrados **8 marcadores editoriais explícitos** nas fontes vivas.
+Permanecem **oito marcadores editoriais**:
 
-| Linha | Arquivo | Marcador |
-|---:|---|---|
-| 129 | `revisao-b-global/04_ONDA_1_PARTE_I_REV_B.md` | [VALIDAÇÃO AUTORAL PENDENTE] |
-| 581 | `revisao-b-global/07_ONDA_3_PARTE_III_REV_B.md` | [REVISÃO TEOLÓGICA — validar contexto bíblico e formulação.] |
-| 225 | `revisao-b-global/20_ONDA_4_PARTE_IV_REV_B.md` | [REVISÃO PSICOLÓGICA — validar a formulação final de autoria emocional e suas proteções antes da edição definitiva.] |
-| 475 | `revisao-b-global/23_ONDA_5_PARTE_V_REV_B.md` | [VALIDAÇÃO AUTORAL PENDENTE] |
-| 799 | `revisao-b-global/23_ONDA_5_PARTE_V_REV_B.md` | [REVISÃO TEOLÓGICA — validar formulações sobre consciência, autoridade, submissão, dever e interpretação bíblica antes da edição final.] |
-| 992 | `revisao-b-global/23_ONDA_5_PARTE_V_REV_B.md` | [REVISÃO JURÍDICA PENDENTE] |
-| 660 | `revisao-b-global/26_ONDA_6_PARTE_VI_REV_B.md` | [REVISÃO TEOLÓGICA PENDENTE] |
-| 925 | `revisao-b-global/29_ONDA_7_PARTE_VII_REV_B.md` | [VALIDAÇÃO AUTORAL PENDENTE] |
-
-## Distribuição
-
-- autoral: **3**.
-- jurídica: **1**.
-- psicológica/clínica: **1**.
-- teológica: **3**.
+- autorais: **3**;
+- teológicos: **3**;
+- psicológico/clínico: **1**;
+- jurídico: **1**.
 
 ---
 
-# 4. DENSIDADE EDITORIAL
+# 4. IMAGENS E PRODUÇÃO
 
-- linhas com marcadores de lista: **1491**;
-- ocorrências de `não é`: **198**;
-- ocorrências de `não significa`: **40**;
-- sinais de pergunta: **1008**.
+Na branch textual permanecem:
 
-Esses números não representam erro automático. Servem para localizar risco de fadiga, especialmente nas unidades ainda não submetidas ao Lote 04.
+- arquivos binários de imagem: **0**;
+- referências Markdown a imagens: **0**;
+- referências locais quebradas: **0**;
+- PDF/DOCX/EPUB/KPF finais versionados: **0**.
 
----
-
-# 5. IMAGENS E REFERÊNCIAS VISUAIS
-
-- arquivos binários de imagem encontrados na branch: **0**;
-- referências Markdown a imagens no manuscrito canônico: **0**;
-- referências locais quebradas: **0**.
-
+O pipeline do Lote 04 gerou DOCX, PDF e páginas renderizadas como artefatos temporários, mas a inspeção gráfica manual integral ainda está pendente.
 
 ---
 
-# 6. ARTEFATOS DE PRODUÇÃO VERSIONADOS
+# 5. VEREDITO TÉCNICO
 
-- PDF: **0**;
-- DOCX: **0**;
-- EPUB: **0**;
-- KPF: **0**.
-
-A ausência no repositório não prova que nunca foram gerados como artefatos temporários de workflow. Prova apenas que não existe atualmente um arquivo versionado e auditável desses formatos na branch.
-
----
-
-# 7. VEREDITO TÉCNICO
-
-**APROVADO ESTRUTURALMENTE:** capítulos, Epílogo, comandos vigentes e travas metodológicas essenciais estão íntegros.
+**APROVADO ESTRUTURALMENTE E EM VOZ GLOBAL.**
 
 O manuscrito ainda não está pronto para publicação porque permanecem:
 
-1. Lote 04 de voz, ritmo e repetição;
-2. marcadores autorais e especializados;
-3. leitura contínua final após todos os lotes;
-4. imagens binárias e prova visual canônica;
-5. EPUB/KPF e prova impressa auditáveis;
-6. fechamento dos PRs e decisão formal de merge/publicação.
+1. leitura contínua global;
+2. decisões autorais e revisões especializadas;
+3. correções finais aprovadas e congelamento textual;
+4. imagens binárias e prova visual;
+5. EPUB/KPF e prova impressa;
+6. auditorias finais e decisão formal de merge/publicação.
