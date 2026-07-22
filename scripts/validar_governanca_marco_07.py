@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Valida a governança canônica da Revisão B após o Marco 07."""
+"""Valida a governança canônica e a proteção histórica após o Marco 07."""
 
 from __future__ import annotations
 
@@ -57,16 +57,24 @@ def main() -> None:
     registro = read("direcao-editorial/12_REGISTRO_MESTRE_DE_CONTEXTO.md")
     matriz = read("direcao-editorial/13_MATRIZ_DE_NAO_PERDA.md")
     protocolo = read("direcao-editorial/15_PROTOCOLO_FASE_GLOBAL_POS_MARCO_07.md")
-    retomada = read("revisao-b-global/36_PONTO_DE_RETOMADA_POS_AUDITORIA_GLOBAL.md")
+    retomada = read("revisao-b-global/43_PONTO_DE_RETOMADA_VOZ_RITMO_LOTE_01.md")
+    coerencia = read("revisao-b-global/40_RASTREABILIDADE_COERENCIA_METODOLOGICA_LOCALIZADA.md")
+    voz = read("revisao-b-global/42_RASTREABILIDADE_VOZ_RITMO_REPETICAO_LOTE_01.md")
     manuscrito = read("manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md")
     marco = read("marcos-revisao-b/MARCO_07_MANUSCRITO_COMPLETO_REV_B.md")
 
-    # Estado atual
+    # Estado atual pós-reconciliação.
     require(ler, "Partes I–VIII — Revisão B", "LER_AGORA")
     require(ler, "Marco 07 vigente", "LER_AGORA")
+    require(ler, "voz e ritmo concluídos no Lote 01", "LER_AGORA")
     require(readme, "governança reconciliada com o Marco 07", "README")
-    require(registro, "Versão:** 3.0", "Registro Mestre")
-    require(retomada, "PÓS-RECONCILIAÇÃO DE GOVERNANÇA", "Ponto de retomada")
+    if not re.search(r"\*\*Versão:\*\* 3\.[1-9]", registro):
+        raise AssertionError("Registro Mestre: esperada versão 3.1 ou posterior.")
+    require(registro, "próximo lote textual: Partes III–IV", "Registro Mestre")
+    require(retomada, "LOTE 01", "Ponto de retomada")
+    require(retomada, "Próximo lote: Partes III–IV", "Ponto de retomada")
+    require(coerencia, "Não existe um segundo Filtro", "Rastreabilidade metodológica")
+    require(voz, "Pré-livro + Partes I–II", "Rastreabilidade de voz")
 
     for label, text in {
         "LER_AGORA": ler,
@@ -80,7 +88,7 @@ def main() -> None:
         forbid(text, "Partes IV–VIII — herdadas temporariamente da Revisão A", label)
         forbid(text, "Parte IV como próximo", label)
 
-    # Estrutura reconciliada
+    # Estrutura reconciliada.
     for label, text in {
         "Constituição": constituicao,
         "Arquitetura": arquitetura,
@@ -91,7 +99,7 @@ def main() -> None:
         require(text, "Solo → Raízes → Tronco → Galhos → Frutos", label)
         require_ci(text, "entrada do cultivo", label)
 
-    # Comandos canônicos
+    # Comandos canônicos.
     commands = [
         "Observe os Frutos",
         "Suba na Árvore",
@@ -113,7 +121,7 @@ def main() -> None:
     require(mapa, "ROTA CURTA DE NAVEGAÇÃO", "Mapa")
     require(registro, "A rota curta é forma memorizável", "Registro")
 
-    # Filtro oficial único
+    # Filtro oficial único.
     require(filtro, "única ferramenta oficial de avaliação", "Filtro")
     require(filtro, "AS DOZE PERGUNTAS OFICIAIS", "Filtro")
     require(filtro, "não designa outro Filtro", "Filtro")
@@ -121,14 +129,15 @@ def main() -> None:
     if len(questions) != 12:
         raise AssertionError(f"Filtro oficial: esperado 12 perguntas; encontrado {len(questions)}")
 
-    # Matriz e protocolo
-    require(matriz, "CORREÇÃO LOCALIZADA", "Matriz")
+    # Matriz e protocolo.
     require(matriz, "RETIRADO/SUSPENSO", "Matriz")
     forbid(matriz, "| EM REESCRITA |", "Matriz")
+    require(matriz, "| 24 | Mirante do Discernimento | Ponto metacognitivo | Pré-livro e Suba | CANÔNICO |", "Matriz")
+    require(matriz, "| 35 | Filtro da Influência | Aplicação temática | Parte II/Workbook | CANÔNICO |", "Matriz")
     require(protocolo, "Marco 07 vigente", "Protocolo")
     require(protocolo, "A obra completa não recebe nota final 10/10", "Protocolo")
 
-    # Integridade estrutural do manuscrito e do Marco 07
+    # Integridade estrutural do manuscrito e do Marco 07.
     chapter_re = re.compile(r"^# CAP[IÍ]TULO\s+(\d+)\b", flags=re.M | re.I)
     for label, text in {"manuscrito": manuscrito, "Marco 07": marco}.items():
         chapters = [int(value) for value in chapter_re.findall(text)]
@@ -138,31 +147,35 @@ def main() -> None:
         if epilogues != 1:
             raise AssertionError(f"{label}: esperado 1 Epílogo; encontrado {epilogues}")
 
-    # A rodada de governança não pode alterar o manuscrito ou fontes B.
-    protected_prefixes = (
-        "manuscrito-revisao-b/",
-        "marcos-revisao-b/",
+    # Revisões B autorizadas podem alterar fontes vivas. O histórico não pode mudar.
+    historical_prefixes = (
+        "revisao-integral/",
+        "manuscrito-canonico-rev-a/",
+        "manuscrito-v13/",
+        "revisao-autoral/",
     )
-    protected_exact = {
-        "revisao-b-global/03_ONDA_1_PRE_LIVRO_REV_B.md",
-        "revisao-b-global/04_ONDA_1_PARTE_I_REV_B.md",
-        "revisao-b-global/05_ONDA_2_PARTE_II_REV_B.md",
-        "revisao-b-global/07_ONDA_3_PARTE_III_REV_B.md",
-        "revisao-b-global/20_ONDA_4_PARTE_IV_REV_B.md",
-        "revisao-b-global/23_ONDA_5_PARTE_V_REV_B.md",
-        "revisao-b-global/26_ONDA_6_PARTE_VI_REV_B.md",
-        "revisao-b-global/29_ONDA_7_PARTE_VII_REV_B.md",
-        "revisao-b-global/32_ONDA_8_PARTE_VIII_EPILOGO_REV_B.md",
+    historical_exact = {
+        "LER_AGORA_REPOSICIONESE_REV_A.md",
+        "VISUALIZAR_REVISAO_INTEGRAL_A.md",
+        "marcos-revisao-b/MARCO_01_PRE_LIVRO_PARTES_I_II.md",
+        "marcos-revisao-b/MARCO_02_PRE_LIVRO_PARTES_I_II_III.md",
+        "marcos-revisao-b/MARCO_03_PRE_LIVRO_PARTES_I_II_III_IV.md",
+        "marcos-revisao-b/MARCO_04_PRE_LIVRO_PARTES_I_II_III_IV_V.md",
+        "marcos-revisao-b/MARCO_05_PRE_LIVRO_PARTES_I_II_III_IV_V_VI.md",
+        "marcos-revisao-b/MARCO_06_PRE_LIVRO_PARTES_I_II_III_IV_V_VI_VII.md",
     }
     violations = [
         path
         for path in changed_files()
-        if path.startswith(protected_prefixes) or path in protected_exact
+        if path.startswith(historical_prefixes) or path in historical_exact
     ]
     if violations:
-        raise AssertionError(f"Rodada de governança alterou arquivos protegidos: {violations}")
+        raise AssertionError(f"Histórico protegido foi alterado: {violations}")
 
-    print("Validação concluída: governança reconciliada, comandos únicos, Marco 07 íntegro e manuscrito não alterado.")
+    print(
+        "Validação concluída: governança atualizada, comandos únicos, Marco 07 íntegro, "
+        "Revisão B autorizada e histórico preservado."
+    )
 
 
 if __name__ == "__main__":
