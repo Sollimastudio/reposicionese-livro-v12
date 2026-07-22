@@ -1,122 +1,154 @@
 # LER AGORA — REPOSICIONE-SE™
-## Revisão B Global
+## Revisão B Global — Marco 07
 
 **Autora:** Sol Lima  
 **Método:** Árvore do Discernimento  
-**Estado:** manuscrito vivo em revisão; Revisão A e marcos anteriores preservados
+**Estado:** manuscrito textual completo em Revisão B; auditorias globais e especializadas em andamento  
+**PR:** #2 — rascunho, sem merge
 
 ---
 
-# MANUSCRITO CONTÍNUO VIVO
+# PORTA PRINCIPAL
 
 [ABRIR O MANUSCRITO CONTÍNUO DA REVISÃO B](manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md)
 
-Estado atual:
+[ABRIR O MARCO 07 — MANUSCRITO COMPLETO](marcos-revisao-b/MARCO_07_MANUSCRITO_COMPLETO_REV_B.md)
+
+Estado confirmado:
 
 - Pré-livro — Revisão B;
-- Parte I — Revisão B;
-- Parte II — Revisão B;
-- Parte III — Revisão B;
-- Partes IV–VIII — herdadas temporariamente da Revisão A;
-- Capítulos 1–38 validados;
-- Epílogo preservado.
+- Partes I–VIII — Revisão B;
+- capítulos 1–38 validados;
+- um Epílogo;
+- aproximadamente 36.859 palavras editoriais;
+- Revisão A preservada;
+- Marcos 01–06 preservados;
+- Marco 07 vigente.
 
-À medida que cada Parte for revisada, sua fonte A será substituída pela fonte B. O livro permanece inteiro e legível durante toda a passagem.
-
----
-
-# MARCO 02 — PRÉ-LIVRO + PARTES I, II E III
-
-[ABRIR O TEXTO DO MARCO 02](marcos-revisao-b/MARCO_02_PRE_LIVRO_PARTES_I_II_III.md)
-
-Conteúdo integralmente revisado:
-
-- abertura, lente autoral e método;
-- Parte I — Frutos;
-- Parte II — Semente, Solo e Configuração;
-- Parte III — Raízes e Heranças;
-- Capítulo 7 — As Raízes;
-- Capítulo 8 — A Corrente;
-- Capítulo 9 — Os Mapas Herdados;
-- Capítulo 10 — Família, Fé e Autoridade.
-
-O DOCX e o PDF são gerados automaticamente pelo workflow `Gerar Revisão B — Marco 02` e disponibilizados como artefato do Pull Request.
+A reconstrução por Partes foi encerrada. O manuscrito não deve voltar automaticamente à Parte I nem reiniciar sua arquitetura.
 
 ---
 
-# O QUE MUDOU NA PARTE III
+# PROMESSA CUMPRIDA
 
-A progressão editorial foi concentrada em quatro movimentos:
+A Revisão B ensina o leitor a:
 
-1. **Raiz alimenta** — origem e alimento atual foram diferenciados;
-2. **Corrente restringe** — dever legítimo foi separado de culpa, mandato e lealdade destrutiva;
-3. **Mapa orienta** — amor, conflito, autoridade, papel e política foram tratados como direções aprendidas;
-4. **Família, fé e autoridade testam a consciência** — honra, perdão, reconciliação, confiança, acesso, segurança e julgamento próprio foram diferenciados.
-
-Foram reduzidos:
-
-- listas repetidas;
-- cautelas já estabelecidas nas Partes I e II;
-- perguntas com a mesma função;
-- reexplicações do Solo Digital;
-- antecipações excessivas da Parte IV.
-
-Foram preservados:
-
-- responsabilidade por danos reais;
-- proteção de vítimas;
-- Raízes saudáveis;
-- lealdades invisíveis;
-- Fuga Identitária como fio, não tema central;
-- posição cristã e conservadora sem imunidade;
-- distinção entre fé e uso coercitivo da religião;
-- orientação de segurança em situações de risco.
+- observar frutos sem transformá-los em identidade;
+- reconhecer o que produz dano e o que produz vida;
+- distinguir fato, interpretação, emoção, influência e decisão;
+- investigar Semente, Solo, Raízes, Tronco, Galhos e mecanismos;
+- praticar metacognição sem morar na análise;
+- pensar por si sem rejeitar aprendizagem, fé, comunidade ou competência;
+- filtrar antes de acreditar, repetir, reagir ou decidir;
+- assumir responsabilidade possível sem culpa total;
+- podar sem vingança;
+- plantar uma prática repetível;
+- observar novos frutos;
+- descer da Árvore e sustentar uma escolha.
 
 ---
 
-# MARCO 01 — PRESERVADO
+# DECISÕES CANÔNICAS VIGENTES
 
-[ABRIR O TEXTO DO MARCO 01](marcos-revisao-b/MARCO_01_PRE_LIVRO_PARTES_I_II.md)
+## Árvore
 
-O Marco 01 continua intacto como registro do estágio anterior da Revisão B.
+- **Entrada do cultivo:** Semente.
+- **Estrutura:** Solo → Raízes → Tronco → Galhos → Frutos.
+- **Operações e condições:** Pragas, Poda e Nova Semente.
+- **Ponto de observação:** Mirante do Discernimento.
+
+A representação editorial completa pode mostrar:
+
+> Semente → Solo → Raízes → Tronco → Galhos → Frutos.
+
+Isso não transforma Semente em camada anatômica; ela é aquilo que entra no cultivo.
+
+## Comandos oficiais
+
+1. **Observe os Frutos.**
+2. **Suba na Árvore.**
+3. **Deixe na Árvore.**
+4. **Volte às Raízes.**
+5. **Passe pelo Filtro da Sensatez.**
+6. **Desça da Árvore.**
+
+`Volte às Raízes e ao Solo` é uma aplicação ampliada do ritual final, não um segundo comando.
+
+## Navegação curta
+
+1. Observe os Frutos.
+2. Deixe a conclusão ainda não examinada na Árvore.
+3. Suba e localize Galho, Tronco, Raízes, Solo e possíveis Pragas.
+4. Passe pelo Filtro da Sensatez.
+5. Defina Poda e Nova Semente.
+6. Desça e aja.
+7. Observe os novos frutos.
+
+## Ritual completo
+
+O Capítulo 38 preserva dez movimentos de aplicação completa. A rota curta e o ritual pertencem ao mesmo método; não são protocolos concorrentes.
 
 ---
 
-# REVISÃO A — REFERÊNCIA HISTÓRICA
+# ARQUIVOS DE ESTADO
 
-[ABRIR A REFERÊNCIA HISTÓRICA DA REVISÃO A](revisao-b-global/06_REFERENCIA_HISTORICA_REVISAO_A.md)
+## Auditoria global
 
-Caminhos congelados e protegidos por validação automática:
+- [Auditoria Global de Coerência](revisao-b-global/35_AUDITORIA_GLOBAL_COERENCIA_REV_B.md)
+- [Ponto de retomada pós-auditoria](revisao-b-global/36_PONTO_DE_RETOMADA_POS_AUDITORIA_GLOBAL.md)
+- [Resumo executivo](revisao-b-global/37_RESUMO_EXECUTIVO_AUDITORIA_GLOBAL.md)
 
-- `revisao-integral/`;
-- `manuscrito-canonico-rev-a/`;
-- `manuscrito-v13/`;
-- `revisao-autoral/`;
-- `LER_AGORA_REPOSICIONESE_REV_A.md`;
-- `VISUALIZAR_REVISAO_INTEGRAL_A.md`.
+## Fechamento textual
 
-Se qualquer um desses caminhos for alterado na branch B, a geração falha.
+- [Parte VIII e Epílogo — Revisão B](revisao-b-global/32_ONDA_8_PARTE_VIII_EPILOGO_REV_B.md)
+- [Rastreabilidade da Parte VIII e Epílogo](revisao-b-global/33_RASTREABILIDADE_PARTE_VIII_EPILOGO_REV_B.md)
+- [Ponto de retomada do Marco 07](revisao-b-global/34_PONTO_DE_RETOMADA_MARCO_07.md)
+
+## Governança
+
+- [Constituição Editorial](direcao-editorial/00_CONSTITUICAO_EDITORIAL_REPOSICIONESE.md)
+- [Arquitetura vigente](direcao-editorial/01_ARQUITETURA_DEFINITIVA_DA_OBRA.md)
+- [Mapa da Árvore e Comandos](direcao-editorial/02_MAPA_DA_ARVORE_E_COMANDOS.md)
+- [Filtro da Sensatez](direcao-editorial/06_FILTRO_DA_SENSATEZ.md)
+- [Registro Mestre de Contexto](direcao-editorial/12_REGISTRO_MESTRE_DE_CONTEXTO.md)
+- [Matriz de Não Perda](direcao-editorial/13_MATRIZ_DE_NAO_PERDA.md)
 
 ---
 
-# PRÓXIMO MARCO
+# HISTÓRICO PRESERVADO
 
-> **MARCO 03 — Pré-livro + Partes I, II, III e IV.**
+- [Marco 01](marcos-revisao-b/MARCO_01_PRE_LIVRO_PARTES_I_II.md)
+- [Marco 02](marcos-revisao-b/MARCO_02_PRE_LIVRO_PARTES_I_II_III.md)
+- [Marco 03](marcos-revisao-b/MARCO_03_PRE_LIVRO_PARTES_I_II_III_IV.md)
+- [Marco 04](marcos-revisao-b/MARCO_04_PRE_LIVRO_PARTES_I_II_III_IV_V.md)
+- [Marco 05](marcos-revisao-b/MARCO_05_PRE_LIVRO_PARTES_I_II_III_IV_V_VI.md)
+- [Marco 06](marcos-revisao-b/MARCO_06_PRE_LIVRO_PARTES_I_II_III_IV_V_VI_VII.md)
+- [Revisão A — referência histórica](revisao-b-global/06_REFERENCIA_HISTORICA_REVISAO_A.md)
 
-O próximo ciclo revisará a Parte IV — O Tronco:
+Nenhum Marco anterior deve ser sobrescrito.
 
-- identidade sustentada;
-- Soberania Interna;
-- autoria emocional;
-- polarização como teste de soberania;
-- Limite Sagrado;
-- pedido, limite, acordo e exigência;
-- transição do Tronco para os Galhos.
+---
 
-A sequência continuará pelo mesmo princípio:
+# O QUE AINDA IMPEDE PUBLICAÇÃO
 
-1. revisar uma nova Parte;
-2. substituir a fonte A pela fonte B no manuscrito contínuo;
-3. validar numeração, transições e não perda;
-4. gerar novo DOCX e PDF;
-5. preservar todos os marcos anteriores.
+A Revisão B textual está completa, mas a publicação ainda depende de:
+
+- coerência metodológica localizada;
+- passagem global de voz, ritmo e repetição;
+- revisão psicológica e clínica;
+- revisão teológica;
+- revisão jurídica;
+- auditoria factual;
+- validações autorais pendentes;
+- integração visual;
+- preparação e inspeção de EPUB/KPF;
+- preparação gráfica para impressão;
+- prova final.
+
+---
+
+# PRÓXIMA ETAPA
+
+A etapa atual é a **Reconciliação de Governança**, sem reescrita do manuscrito.
+
+Depois dela, a próxima passagem textual autorizável será localizada e global — nunca uma nova reconstrução por Partes.
