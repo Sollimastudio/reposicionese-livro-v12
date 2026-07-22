@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Gera o manuscrito contínuo da Revisão B e o Marco 03.
+"""Gera e valida o manuscrito contínuo da Revisão B e o Marco 03.
 
 O Marco 03 reúne Pré-livro e Partes I–IV na Revisão B. As Partes V–VIII
 permanecem herdadas da Revisão A no manuscrito contínuo. Nenhum marco anterior
