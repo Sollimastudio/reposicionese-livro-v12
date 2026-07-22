@@ -1,30 +1,17 @@
-name: Gerar Revisão B — Marco 04
+name: Reproduzir Revisão B — Marco 04 (histórico)
 
 on:
-  push:
-    branches:
-      - revisao-b-global-2026-07-20
-    paths:
-      - "revisao-b-global/03_ONDA_1_PRE_LIVRO_REV_B.md"
-      - "revisao-b-global/04_ONDA_1_PARTE_I_REV_B.md"
-      - "revisao-b-global/05_ONDA_2_PARTE_II_REV_B.md"
-      - "revisao-b-global/07_ONDA_3_PARTE_III_REV_B.md"
-      - "revisao-b-global/20_ONDA_4_PARTE_IV_REV_B.md"
-      - "revisao-b-global/23_ONDA_5_PARTE_V_REV_B.md"
-      - "scripts/gerar_revisao_b_marco_04.py"
-      - "scripts/medir_amostra_kindle.py"
-      - ".github/workflows/gerar-revisao-b-marco-04.yml"
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
 
 concurrency:
-  group: revisao-b-marco-04-${{ github.ref }}
+  group: reproduzir-revisao-b-marco-04-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
-  gerar:
+  reproduzir:
     runs-on: ubuntu-latest
 
     steps:
@@ -34,122 +21,35 @@ jobs:
           ref: ${{ github.sha }}
           fetch-depth: 0
 
-      - name: Proteger Revisão A e Marcos anteriores
-        shell: bash
-        run: |
-          git diff --exit-code 3c0338bdb13d6c2c66216a3bd18b3f3603a5faa2 -- \
-            revisao-integral \
-            manuscrito-canonico-rev-a \
-            manuscrito-v13 \
-            revisao-autoral \
-            LER_AGORA_REPOSICIONESE_REV_A.md \
-            VISUALIZAR_REVISAO_INTEGRAL_A.md
-          test -s marcos-revisao-b/MARCO_01_PRE_LIVRO_PARTES_I_II.md
-          test -s marcos-revisao-b/MARCO_02_PRE_LIVRO_PARTES_I_II_III.md
-          test -s marcos-revisao-b/MARCO_03_PRE_LIVRO_PARTES_I_II_III_IV.md
-
       - name: Configurar Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: Instalar ferramentas editoriais
+      - name: Reproduzir Marco 04 em ambiente isolado
         run: |
-          sudo apt-get update
-          sudo apt-get install -y pandoc libreoffice-writer fonts-liberation
+          python scripts/gerar_revisao_b_marco_04.py
+          python scripts/medir_amostra_kindle.py
 
-      - name: Gerar manuscrito contínuo e Marco 04
-        run: python scripts/gerar_revisao_b_marco_04.py
-
-      - name: Medir amostra editorial Kindle
-        run: python scripts/medir_amostra_kindle.py
-
-      - name: Gerar DOCX do Marco 04
-        run: |
-          mkdir -p dist-revisao-b
-          pandoc marcos-revisao-b/MARCO_04_PRE_LIVRO_PARTES_I_II_III_IV_V.md \
-            --from=markdown+yaml_metadata_block \
-            --to=docx \
-            --toc \
-            --toc-depth=2 \
-            --metadata toc-title="SUMÁRIO" \
-            --metadata title="REPOSICIONE-SE™" \
-            --metadata subtitle="Método da Árvore do Discernimento — Revisão B — Marco 04" \
-            --metadata author="Sol Lima" \
-            -o dist-revisao-b/REPOSICIONESE_REV_B_MARCO_04_PRE_LIVRO_PARTES_I_II_III_IV_V.docx
-
-      - name: Gerar PDF do Marco 04
-        run: |
-          mkdir -p dist-revisao-b/pdf
-          libreoffice --headless --convert-to pdf \
-            --outdir dist-revisao-b/pdf \
-            dist-revisao-b/REPOSICIONESE_REV_B_MARCO_04_PRE_LIVRO_PARTES_I_II_III_IV_V.docx
-          mv dist-revisao-b/pdf/REPOSICIONESE_REV_B_MARCO_04_PRE_LIVRO_PARTES_I_II_III_IV_V.pdf \
-             dist-revisao-b/REPOSICIONESE_REV_B_MARCO_04_PRE_LIVRO_PARTES_I_II_III_IV_V.pdf
-          rmdir dist-revisao-b/pdf
-
-      - name: Validar manuscritos e arquivos
+      - name: Validar reprodução histórica
         shell: bash
         run: |
-          test -s manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md
-          test -s marcos-revisao-b/MARCO_01_PRE_LIVRO_PARTES_I_II.md
-          test -s marcos-revisao-b/MARCO_02_PRE_LIVRO_PARTES_I_II_III.md
-          test -s marcos-revisao-b/MARCO_03_PRE_LIVRO_PARTES_I_II_III_IV.md
           test -s marcos-revisao-b/MARCO_04_PRE_LIVRO_PARTES_I_II_III_IV_V.md
-          test -s revisao-b-global/16_MEDICAO_EDITORIAL_10_PORCENTO_KINDLE.md
-          test -s dist-revisao-b/REPOSICIONESE_REV_B_MARCO_04_PRE_LIVRO_PARTES_I_II_III_IV_V.docx
-          test -s dist-revisao-b/REPOSICIONESE_REV_B_MARCO_04_PRE_LIVRO_PARTES_I_II_III_IV_V.pdf
           python - <<'PY'
           from pathlib import Path
           import re
-          full = Path('manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md').read_text(encoding='utf-8')
-          mark1 = Path('marcos-revisao-b/MARCO_01_PRE_LIVRO_PARTES_I_II.md').read_text(encoding='utf-8')
-          mark2 = Path('marcos-revisao-b/MARCO_02_PRE_LIVRO_PARTES_I_II_III.md').read_text(encoding='utf-8')
-          mark3 = Path('marcos-revisao-b/MARCO_03_PRE_LIVRO_PARTES_I_II_III_IV.md').read_text(encoding='utf-8')
-          mark4 = Path('marcos-revisao-b/MARCO_04_PRE_LIVRO_PARTES_I_II_III_IV_V.md').read_text(encoding='utf-8')
-          kindle = Path('revisao-b-global/16_MEDICAO_EDITORIAL_10_PORCENTO_KINDLE.md').read_text(encoding='utf-8')
-          chapter_re = re.compile(r'^# CAP[IÍ]TULO\s+(\d+)\b', flags=re.M|re.I)
-          full_chapters = [int(x) for x in chapter_re.findall(full)]
-          mark1_chapters = [int(x) for x in chapter_re.findall(mark1)]
-          mark2_chapters = [int(x) for x in chapter_re.findall(mark2)]
-          mark3_chapters = [int(x) for x in chapter_re.findall(mark3)]
-          mark4_chapters = [int(x) for x in chapter_re.findall(mark4)]
-          assert full_chapters == list(range(1, 39)), full_chapters
-          assert mark1_chapters == list(range(1, 7)), mark1_chapters
-          assert mark2_chapters == list(range(1, 11)), mark2_chapters
-          assert mark3_chapters == list(range(1, 15)), mark3_chapters
-          assert mark4_chapters == list(range(1, 21)), mark4_chapters
-          assert re.search(r'^# EP[IÍ]LOGO\b', full, flags=re.M|re.I)
-          assert 'Partes I–V revisados' in full
-          assert 'toc-title: "SUMÁRIO"' in mark4
-          assert 'MEDIÇÃO EDITORIAL DOS 10% KINDLE' in kindle
-          print('Validação concluída: contínuo 1–38 + Epílogo; Marco 04 capítulos 1–20; medição Kindle gerada.')
+          text = Path('marcos-revisao-b/MARCO_04_PRE_LIVRO_PARTES_I_II_III_IV_V.md').read_text(encoding='utf-8')
+          chapters = [int(x) for x in re.findall(r'^# CAP[IÍ]TULO\s+(\d+)\b', text, flags=re.M|re.I)]
+          assert chapters == list(range(1, 21)), chapters
+          print('Reprodução histórica do Marco 04 validada. Nenhum arquivo será versionado.')
           PY
 
-      - name: Versionar manuscrito, Marco 04 e medição Kindle
-        shell: bash
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md \
-                  marcos-revisao-b/MARCO_04_PRE_LIVRO_PARTES_I_II_III_IV_V.md \
-                  revisao-b-global/16_MEDICAO_EDITORIAL_10_PORCENTO_KINDLE.md
-          if git diff --cached --quiet; then
-            echo "Os manuscritos e a medição Kindle já estão atualizados."
-          else
-            git commit -m "Atualiza manuscrito contínuo B, Marco 04 e medição Kindle"
-            git push origin HEAD:revisao-b-global-2026-07-20
-          fi
-
-      - name: Publicar pacote de leitura do Marco 04
+      - name: Publicar reprodução histórica
         uses: actions/upload-artifact@v4
         with:
-          name: reposicionese-revisao-b-marco-04
+          name: reposicionese-marco-04-historico
           path: |
-            manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md
             marcos-revisao-b/MARCO_04_PRE_LIVRO_PARTES_I_II_III_IV_V.md
             revisao-b-global/16_MEDICAO_EDITORIAL_10_PORCENTO_KINDLE.md
-            dist-revisao-b/REPOSICIONESE_REV_B_MARCO_04_PRE_LIVRO_PARTES_I_II_III_IV_V.docx
-            dist-revisao-b/REPOSICIONESE_REV_B_MARCO_04_PRE_LIVRO_PARTES_I_II_III_IV_V.pdf
           if-no-files-found: error
-          retention-days: 30
+          retention-days: 14
