@@ -3,21 +3,13 @@
 
 > Raízes alimentam. O Tronco sustenta. Posicionamento aparece quando aquilo que você afirma acreditar continua de pé quando existe custo.
 
-Você já observou frutos, distinguiu Semente de Solo, reconheceu configurações e voltou às Raízes.
+Você já observou frutos, distinguiu Semente de Solo, reconheceu configurações e voltou às Raízes. Sabe que a origem explica onde algo começou, enquanto a Raiz mostra de onde ainda retira força; que uma Corrente restringe; e que um Mapa herdado pode orientar sem ser verdade final.
 
-Sabe que origem explica onde algo começou, enquanto Raiz mostra de onde ainda retira força. Também sabe que uma Corrente restringe e que um Mapa herdado pode orientar sem ser verdade final.
-
-Agora a pergunta muda.
-
-Não basta compreender de onde veio.
-
-É preciso descobrir:
+Agora a pergunta muda. Compreender de onde veio já não basta. É preciso descobrir:
 
 > **O que você consegue sustentar quando o vento chega?**
 
-O Tronco não é força bruta. Não é rigidez, dureza nem independência absoluta.
-
-É a estrutura que transforma consciência em coerência possível.
+O Tronco não é força bruta, rigidez, dureza ou independência absoluta. É a estrutura que transforma consciência em coerência possível.
 
 É onde identidade, critério, responsabilidade, limite e presença precisam continuar ligados quando há culpa, medo, urgência, desejo de pertencimento ou reação alheia.
 
@@ -51,19 +43,9 @@ No Método da Árvore do Discernimento, o Tronco representa a capacidade de sust
 
 ## Conhecer não é sustentar
 
-Você pode compreender sua história e continuar repetindo o mesmo fruto.
+Você pode compreender sua história e continuar repetindo o mesmo fruto; nomear uma Raiz e obedecer a ela; explicar metacognição e responder ao primeiro impulso; defender limites em público e negociar todos dentro de casa.
 
-Pode nomear uma Raiz e obedecer a ela.
-
-Pode explicar metacognição e responder ao primeiro impulso.
-
-Pode defender limites em público e negociar todos dentro de casa.
-
-Pode falar de liberdade e ser governada por aprovação.
-
-Pode ensinar responsabilidade e usar a dor para não cumprir o que já está na própria esfera.
-
-Pode reconhecer o erro do grupo e continuar protegendo a tribo quando o custo chega.
+Pode falar de liberdade e ser governada por aprovação, ensinar responsabilidade e usar a dor para não cumprir o que já está na própria esfera, reconhecer o erro do grupo e ainda proteger a tribo quando o custo chega.
 
 Conhecimento mostra direção.
 
@@ -113,19 +95,7 @@ Consegue amar sem controlar e limitar sem humilhar?
 
 ## Identidade não é etiqueta
 
-Frases identitárias podem oferecer linguagem:
-
-“Eu sou forte.”
-
-“Eu sou cristã.”
-
-“Eu sou conservadora.”
-
-“Eu sou livre.”
-
-“Eu sou independente.”
-
-“Eu sou assim.”
+Frases identitárias podem oferecer linguagem: “Eu sou forte”, “sou cristã”, “sou conservadora”, “sou livre”, “sou independente”, “sou assim”.
 
 Rótulos podem nomear pertencimento, experiência ou convicção. Mas não carregam sozinhos a verdade inteira sobre uma pessoa.
 
@@ -225,17 +195,7 @@ Serve para reconhecer estrutura que já funciona e fortalecê-la com consciênci
 
 ## Autoria emocional
 
-Pessoas afetam você.
-
-Palavras ferem.
-
-Perdas atravessam.
-
-Ambientes organizam ou desorganizam.
-
-O corpo reage.
-
-Violência produz consequências.
+Pessoas afetam você. Palavras ferem, perdas atravessam, ambientes organizam ou desorganizam, o corpo reage e a violência produz consequências.
 
 Controle não se torna responsabilidade de quem foi controlado.
 
@@ -343,15 +303,7 @@ Soberania é o que acontece com essa estrutura no instante da pressão.
 
 Soberania interna é a capacidade de continuar participante das próprias respostas quando emoção, medo, culpa, urgência ou pertencimento tentam decidir primeiro.
 
-Não é frieza.
-
-Não é isolamento.
-
-Não é independência absoluta.
-
-Não é domínio sobre os outros.
-
-Não é a fantasia de que ninguém consegue afetar você.
+Não é frieza, isolamento, independência absoluta, domínio sobre os outros nem a fantasia de que ninguém consegue afetar você.
 
 > **Soberania é sentir sem entregar automaticamente o governo ao que sente.**
 
@@ -513,21 +465,7 @@ Quando outra pessoa pensa por você, algo parece ficar mais leve.
 
 Se der errado, a responsabilidade parece pertencer a ela.
 
-“Meu pai mandou.”
-
-“Minha igreja disse.”
-
-“Meu partido orientou.”
-
-“Minha terapeuta afirmou.”
-
-“Todo mundo compartilhou.”
-
-“O influenciador explicou.”
-
-“O algoritmo mostrou.”
-
-“Este livro disse.”
+“Meu pai mandou.” “Minha igreja disse.” “Meu partido orientou.” “Minha terapeuta afirmou.” “Todo mundo compartilhou.” “O influenciador explicou.” “O algoritmo mostrou.” “Este livro disse.”
 
 Nenhuma dessas fontes recebe o direito de eliminar seu discernimento.
 
@@ -655,19 +593,7 @@ Nasce de perceber mais cedo, reparar com honestidade e treinar outra resposta.
 
 Limite é linha de definição.
 
-Ele diz:
-
-“Aqui existe uma pessoa.”
-
-“Esta pessoa possui corpo, valores, tempo, responsabilidades, necessidades e escolhas.”
-
-“Pode amar sem desaparecer.”
-
-“Pode ajudar sem assumir tudo.”
-
-“Pode ouvir sem aceitar humilhação.”
-
-“Pode pertencer sem entregar acesso irrestrito.”
+Ele diz: “Aqui existe uma pessoa. Ela possui corpo, valores, tempo, responsabilidades, necessidades e escolhas. Pode amar sem desaparecer, ajudar sem assumir tudo, ouvir sem aceitar humilhação e pertencer sem entregar acesso irrestrito.”
 
 O limite não existe para impedir relação.
 
@@ -687,17 +613,9 @@ Limite pode dizer:
 
 “Você entra até aqui.”
 
-Mas nem toda distância é muro.
+Mas nem toda distância é muro. Algumas relações representam risco real e alguns contextos exigem bloqueio, afastamento, medida jurídica ou ausência de contato.
 
-Algumas relações representam risco real. Alguns contextos exigem bloqueio, afastamento, medida jurídica ou ausência de contato.
-
-Chamar proteção de “muro emocional” pode ser crueldade disfarçada de linguagem terapêutica.
-
-Nem toda pessoa merece proximidade.
-
-Nem toda relação pode ser preservada.
-
-Nem toda conversa é segura.
+Chamar proteção de “muro emocional” pode ser crueldade disfarçada de linguagem terapêutica. Nem toda pessoa merece proximidade, nem toda relação pode ser preservada e nem toda conversa é segura.
 
 A pergunta não é apenas qual forma a linha possui.
 
@@ -800,15 +718,7 @@ Passe pelo Filtro:
 
 ## Limite, poder e segurança
 
-Limites não acontecem no vazio.
-
-Existe diferença entre dizer não a um amigo e a alguém que controla sua renda.
-
-Entre recusar pedido e enfrentar pessoa violenta.
-
-Entre discordar de colega e de liderança capaz de retaliar.
-
-Entre estabelecer linha numa relação respeitosa e tentar fazê-lo num contexto de coerção.
+Limites não acontecem no vazio. Existe diferença entre dizer não a um amigo e a alguém que controla sua renda; entre recusar um pedido e enfrentar uma pessoa violenta; entre discordar de um colega e de uma liderança capaz de retaliar; entre estabelecer uma linha numa relação respeitosa e tentar fazê-lo num contexto de coerção.
 
 O método não exige a mesma forma de ação em contextos diferentes.
 
@@ -1042,11 +952,7 @@ Contratos invisíveis aparecem em frases como:
 
 “Se fosse do meu lado, compartilharia.”
 
-Alguns contratos são herdados.
-
-Outros, supostos.
-
-Outros, impostos por quem possui mais poder.
+Alguns contratos são herdados; outros, supostos; outros ainda, impostos por quem possui mais poder.
 
 Pergunte:
 
@@ -1060,17 +966,9 @@ Pergunte:
 
 ## Clareza não garante compatibilidade
 
-Uma conversa clara pode aproximar.
+Uma conversa clara pode aproximar — ou revelar que duas pessoas desejam coisas diferentes. Você pode comunicar uma necessidade e descobrir que o outro não consegue ou não quer atendê-la; pode ouvir o que ele precisa e perceber que não consegue oferecer.
 
-Também pode revelar que duas pessoas desejam coisas diferentes.
-
-Você pode comunicar uma necessidade e descobrir que o outro não consegue ou não quer atendê-la.
-
-Pode ouvir o que ele precisa e perceber que não consegue oferecer.
-
-Isso não significa que a conversa falhou.
-
-Significa que a realidade apareceu.
+A conversa não falhou. A realidade apareceu.
 
 Ambiguidade pode manter vínculo funcionando por aparência.
 
@@ -1237,23 +1135,7 @@ Antes de seguir para os Galhos, verifique:
 - existe um ato concreto que fortalecerá meu Tronco?
 - consigo descer da Árvore depois de compreender?
 
-O Tronco não aparece no discurso sobre quem você é.
-
-Aparece nos Galhos.
-
-Na relação.
-
-Na família.
-
-No trabalho.
-
-Na fé.
-
-No dinheiro.
-
-Na política.
-
-Nos lugares em que a vida cobra uma resposta concreta.
+O Tronco não aparece no discurso sobre quem você é. Aparece nos Galhos: na relação, na família, no trabalho, na fé, no dinheiro, na política — nos lugares em que a vida cobra uma resposta concreta.
 
 Você pode possuir firmeza no trabalho e desaparecer na família.
 

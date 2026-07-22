@@ -10,8 +10,8 @@
 
 # 1. RESULTADO
 
-- Total editorial estimado: **37,084 palavras**;
-- alvo de 10%: **3,709 palavras**;
+- Total editorial estimado: **37,047 palavras**;
+- alvo de 10%: **3,705 palavras**;
 - linha aproximada da fronteira: **816**;
 - seção em que a fronteira cai: **O primeiro sinal de retorno**;
 - próxima seção identificada: **Morte em Vida não é diagnóstico clínico**;
@@ -28,14 +28,14 @@
 | O QUE ESTE LIVRO VAI TREINAR EM VOCÊ | dentro | 1.08% |
 | SUA PRIMEIRA SUBIDA | dentro | 1.49% |
 | COMO USAR ESTE LIVRO | dentro | 1.85% |
-| PARTE I — OBSERVE OS FRUTOS | dentro | 5.50% |
-| CAPÍTULO 1 — A VITRINE DA VIDA | dentro | 5.89% |
-| CAPÍTULO 2 — A MORTE EM VIDA | dentro | 8.68% |
-| PARTE II — SEMENTE, SOLO E CONFIGURAÇÃO | depois | 12.14% |
-| CAPÍTULO 3 — A SEMENTE E O SOLO | depois | 12.74% |
-| CAPÍTULO 4 — O CELULAR CONFIGURADO | depois | 15.90% |
-| CAPÍTULO 5 — O SOLO DIGITAL | depois | 18.75% |
-| CAPÍTULO 6 — CRENÇAS, VALORES E MODO OPERANTE | depois | 22.15% |
+| PARTE I — OBSERVE OS FRUTOS | dentro | 5.51% |
+| CAPÍTULO 1 — A VITRINE DA VIDA | dentro | 5.90% |
+| CAPÍTULO 2 — A MORTE EM VIDA | dentro | 8.69% |
+| PARTE II — SEMENTE, SOLO E CONFIGURAÇÃO | depois | 12.15% |
+| CAPÍTULO 3 — A SEMENTE E O SOLO | depois | 12.75% |
+| CAPÍTULO 4 — O CELULAR CONFIGURADO | depois | 15.92% |
+| CAPÍTULO 5 — O SOLO DIGITAL | depois | 18.77% |
+| CAPÍTULO 6 — CRENÇAS, VALORES E MODO OPERANTE | depois | 22.17% |
 
 ---
 

@@ -3,42 +3,16 @@
 
 > O Solo mostra onde algo encontrou condições para crescer. A Raiz revela de onde o padrão ainda retira força.
 
-Você já observou frutos.
+Você já observou frutos, separou fato de interpretação e percebeu que mensagens encontram ambientes diferentes — algumas configurações tentam decidir antes de você.
 
-Separou fato de interpretação.
-
-Percebeu que mensagens encontram ambientes diferentes e que algumas configurações tentam decidir antes de você.
-
-Agora a investigação desce.
-
-Não para encontrar um culpado original.
-
-Não para fabricar uma explicação capaz de justificar tudo.
-
-Desce para descobrir o que ainda recebe alimento — e o que merece continuar vivo.
+Agora a investigação desce. Não para encontrar um culpado original nem fabricar uma explicação capaz de justificar tudo, mas para descobrir o que ainda recebe alimento — e o que merece continuar vivo.
 
 ---
 
 # CAPÍTULO 7 — AS RAÍZES
 ## A origem explica o começo; a Raiz explica a permanência
 
-No Método da Árvore do Discernimento, Raiz é aquilo de onde um padrão continua retirando seiva.
-
-Pode ser uma crença ainda aceita.
-
-Uma memória que continua definindo perigo.
-
-Uma culpa.
-
-Uma recompensa.
-
-Uma relação que confirma a mesma interpretação.
-
-Uma visão sobre Deus.
-
-Uma vantagem difícil de admitir.
-
-Uma conclusão antiga que o presente já contrariou, mas que você ainda protege porque não sabe quem será sem ela.
+No Método da Árvore do Discernimento, Raiz é aquilo de onde um padrão continua retirando seiva: uma crença ainda aceita, uma memória que continua definindo perigo, culpa, recompensa, uma relação que confirma a mesma interpretação, uma visão sobre Deus, uma vantagem difícil de admitir ou uma conclusão antiga que o presente já contrariou — mas que você ainda protege porque não sabe quem será sem ela.
 
 A pergunta da Raiz não é apenas:
 
@@ -76,13 +50,7 @@ Quando encontra o alimento atual, começa a perceber o que precisa perder força
 
 ## Raiz não é réu
 
-Há danos reais.
-
-Omissões reais.
-
-Abusos reais.
-
-Pessoas respondem pelo que fizeram.
+Há danos, omissões e abusos reais. Pessoas respondem pelo que fizeram.
 
 Investigar sem transformar a Raiz em réu não apaga responsabilidade. Impede apenas que você troque um automatismo por outro:
 
@@ -103,15 +71,9 @@ A Árvore sustenta perguntas mais honestas:
 
 Discernimento consegue manter mais de uma verdade na mesma sala.
 
-Alguém pode ter amado você e falhado gravemente.
+Alguém pode ter amado você e falhado gravemente, ter tido boa intenção e produzido dano, protegido em uma área e abandonado em outra.
 
-Pode ter tido boa intenção e produzido dano.
-
-Pode ter protegido em uma área e abandonado em outra.
-
-Humanizar não é absolver.
-
-Responsabilizar não exige transformar uma pessoa inteira no pior ato que praticou.
+Humanizar não é absolver. Responsabilizar não exige transformar uma pessoa inteira no pior ato que praticou.
 
 ## Raízes que sustentam
 
@@ -152,15 +114,7 @@ Pode dizer:
 
 ## O que protegeu ontem
 
-Uma resposta antiga pode ter sido sensata num ambiente anterior.
-
-O silêncio pode ter reduzido risco.
-
-A adaptação pode ter protegido uma criança.
-
-A vigilância pode ter ajudado a antecipar perigo.
-
-A performance pode ter garantido algum acolhimento.
+Uma resposta antiga pode ter sido sensata num ambiente anterior: o silêncio reduziu risco, a adaptação protegeu uma criança, a vigilância ajudou a antecipar perigo ou a performance garantiu algum acolhimento.
 
 Reconhecer a função antiga impede que você trate a própria história com desprezo.
 
@@ -266,19 +220,7 @@ O cuidado virou Corrente.
 
 Corrente é uma herança, mandato ou lealdade que restringe diferenciação por meio de medo, culpa, segredo, dívida, ameaça de abandono ou retirada de pertencimento.
 
-Nem toda obrigação é prisão.
-
-Cuidar de um filho.
-
-Cumprir um compromisso assumido.
-
-Responder por uma dívida real.
-
-Sustentar um dever profissional.
-
-Reparar um dano causado.
-
-Tudo isso pode exigir sacrifício sem ser Corrente.
+Nem toda obrigação é prisão. Cuidar de um filho, cumprir um compromisso assumido, responder por uma dívida real, sustentar um dever profissional ou reparar um dano causado pode exigir sacrifício sem ser Corrente.
 
 A Corrente aparece quando a obrigação não admite consciência, verdade, limite, revisão ou distribuição justa de responsabilidade.
 
@@ -350,15 +292,7 @@ Você pode receber:
 
 ## A culpa de se diferenciar
 
-Quando uma pessoa muda, o sistema precisa se reorganizar.
-
-A que resolvia tudo começa a dizer não.
-
-A que concordava começa a perguntar.
-
-A que protegia segredo começa a nomear.
-
-A que repetia opinião começa a examinar.
+Quando uma pessoa muda, o sistema precisa se reorganizar: a que resolvia tudo começa a dizer não; a que concordava, a perguntar; a que protegia segredo, a nomear; a que repetia opinião, a examinar.
 
 A reação pode vir como acusação:
 
@@ -496,15 +430,7 @@ A pergunta não é apenas:
 
 Se conflito sempre terminou em grito, ameaça, silêncio punitivo ou abandono, discordar pode parecer perigo mesmo em ambiente seguro.
 
-Você pode concordar depressa.
-
-Explicar demais.
-
-Atacar antes de ouvir.
-
-Desaparecer.
-
-Pedir desculpa por existir.
+Você pode concordar depressa, explicar demais, atacar antes de ouvir, desaparecer ou pedir desculpa por existir.
 
 O corpo pode reagir ao mapa antigo antes de a consciência avaliar o território atual.
 
@@ -536,25 +462,7 @@ Significa que nenhuma autoridade humana recebe acesso ilimitado à sua consciên
 
 ## Papéis que viram identidade
 
-Algumas pessoas receberam papéis antes de receber perguntas.
-
-A responsável.
-
-O forte.
-
-A boazinha.
-
-O rebelde.
-
-A pacificadora.
-
-O provedor.
-
-A invisível.
-
-O orgulho da casa.
-
-A decepção.
+Algumas pessoas receberam papéis antes de receber perguntas: a responsável, o forte, a boazinha, o rebelde, a pacificadora, o provedor, a invisível, o orgulho da casa, a decepção.
 
 Esses papéis podem organizar pertencimento.
 
@@ -646,19 +554,9 @@ Pode formar Solo, Raiz, Corrente, Tronco, Galho e fruto.
 
 Também pode oferecer cuidado, memória, fé, proteção, linguagem, recurso e pertencimento.
 
-Por isso, frases universais sobre família quase sempre perdem a realidade.
+Por isso, frases universais sobre família quase sempre perdem a realidade. Há famílias seguras e destrutivas; permanência não é sempre lealdade, assim como distância não é sempre maturidade.
 
-Nem toda família é segura.
-
-Nem toda família é destrutiva.
-
-Nem toda permanência é lealdade.
-
-Nem toda distância é maturidade.
-
-O método não oferece sentença pronta.
-
-Oferece critérios.
+O método não oferece sentença pronta. Oferece critérios.
 
 ## A origem participa; não explica tudo
 
@@ -796,21 +694,7 @@ Uma tradição pode guardar sabedoria que você ainda não compreende.
 
 Um profissional pode possuir conhecimento que você não tem.
 
-Julgamento próprio significa continuar presente enquanto aprende.
-
-Perguntar.
-
-Comparar.
-
-Verificar.
-
-Reconhecer competência e limite.
-
-Admitir que não sabe.
-
-Buscar segunda opinião.
-
-Observar frutos.
+Julgamento próprio significa continuar presente enquanto aprende: perguntar, comparar, verificar, reconhecer competência e limite, admitir que não sabe, buscar segunda opinião e observar frutos.
 
 Nenhuma pessoa responsável diz:
 
@@ -822,23 +706,7 @@ Nenhuma pessoa soberana diz:
 
 ## Quando a prisão também é externa
 
-Há situações em que reconhecer a Corrente não basta.
-
-Existe ameaça.
-
-Dependência financeira.
-
-Vigilância.
-
-Controle de documentos.
-
-Risco físico.
-
-Isolamento.
-
-Coerção religiosa.
-
-Pressão familiar organizada.
+Há situações em que reconhecer a Corrente não basta. Existe ameaça, dependência financeira, vigilância, controle de documentos, risco físico, isolamento, coerção religiosa ou pressão familiar organizada.
 
 Nesses contextos, posicionamento pode exigir plano, rede, orientação jurídica, apoio psicológico ou médico, serviço público, proteção policial ou tempo para construir recursos.
 

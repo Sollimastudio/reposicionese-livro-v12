@@ -8,7 +8,7 @@ toc-title: "SUMÁRIO"
 ---
 
 > **MANUSCRITO DE TRABALHO — REVISÃO B COMPLETA. Pré-livro, Partes I–VIII e Epílogo revisados.**  
-> Gerado em 2026-07-22T12:46:32+00:00. A Revisão A e os Marcos 01–06 permanecem preservados.
+> Gerado em 2026-07-22T15:21:59+00:00. A Revisão A e os Marcos 01–06 permanecem preservados.
 
 \newpage
 <!-- FONTE: revisao-b-global/03_ONDA_1_PRE_LIVRO_REV_B.md | STATUS: REVISÃO B -->
@@ -2095,42 +2095,16 @@ Agora começa a investigar o alimento que mantém o padrão vivo.
 
 > O Solo mostra onde algo encontrou condições para crescer. A Raiz revela de onde o padrão ainda retira força.
 
-Você já observou frutos.
+Você já observou frutos, separou fato de interpretação e percebeu que mensagens encontram ambientes diferentes — algumas configurações tentam decidir antes de você.
 
-Separou fato de interpretação.
-
-Percebeu que mensagens encontram ambientes diferentes e que algumas configurações tentam decidir antes de você.
-
-Agora a investigação desce.
-
-Não para encontrar um culpado original.
-
-Não para fabricar uma explicação capaz de justificar tudo.
-
-Desce para descobrir o que ainda recebe alimento — e o que merece continuar vivo.
+Agora a investigação desce. Não para encontrar um culpado original nem fabricar uma explicação capaz de justificar tudo, mas para descobrir o que ainda recebe alimento — e o que merece continuar vivo.
 
 ---
 
 # CAPÍTULO 7 — AS RAÍZES
 ## A origem explica o começo; a Raiz explica a permanência
 
-No Método da Árvore do Discernimento, Raiz é aquilo de onde um padrão continua retirando seiva.
-
-Pode ser uma crença ainda aceita.
-
-Uma memória que continua definindo perigo.
-
-Uma culpa.
-
-Uma recompensa.
-
-Uma relação que confirma a mesma interpretação.
-
-Uma visão sobre Deus.
-
-Uma vantagem difícil de admitir.
-
-Uma conclusão antiga que o presente já contrariou, mas que você ainda protege porque não sabe quem será sem ela.
+No Método da Árvore do Discernimento, Raiz é aquilo de onde um padrão continua retirando seiva: uma crença ainda aceita, uma memória que continua definindo perigo, culpa, recompensa, uma relação que confirma a mesma interpretação, uma visão sobre Deus, uma vantagem difícil de admitir ou uma conclusão antiga que o presente já contrariou — mas que você ainda protege porque não sabe quem será sem ela.
 
 A pergunta da Raiz não é apenas:
 
@@ -2168,13 +2142,7 @@ Quando encontra o alimento atual, começa a perceber o que precisa perder força
 
 ## Raiz não é réu
 
-Há danos reais.
-
-Omissões reais.
-
-Abusos reais.
-
-Pessoas respondem pelo que fizeram.
+Há danos, omissões e abusos reais. Pessoas respondem pelo que fizeram.
 
 Investigar sem transformar a Raiz em réu não apaga responsabilidade. Impede apenas que você troque um automatismo por outro:
 
@@ -2195,15 +2163,9 @@ A Árvore sustenta perguntas mais honestas:
 
 Discernimento consegue manter mais de uma verdade na mesma sala.
 
-Alguém pode ter amado você e falhado gravemente.
+Alguém pode ter amado você e falhado gravemente, ter tido boa intenção e produzido dano, protegido em uma área e abandonado em outra.
 
-Pode ter tido boa intenção e produzido dano.
-
-Pode ter protegido em uma área e abandonado em outra.
-
-Humanizar não é absolver.
-
-Responsabilizar não exige transformar uma pessoa inteira no pior ato que praticou.
+Humanizar não é absolver. Responsabilizar não exige transformar uma pessoa inteira no pior ato que praticou.
 
 ## Raízes que sustentam
 
@@ -2244,15 +2206,7 @@ Pode dizer:
 
 ## O que protegeu ontem
 
-Uma resposta antiga pode ter sido sensata num ambiente anterior.
-
-O silêncio pode ter reduzido risco.
-
-A adaptação pode ter protegido uma criança.
-
-A vigilância pode ter ajudado a antecipar perigo.
-
-A performance pode ter garantido algum acolhimento.
+Uma resposta antiga pode ter sido sensata num ambiente anterior: o silêncio reduziu risco, a adaptação protegeu uma criança, a vigilância ajudou a antecipar perigo ou a performance garantiu algum acolhimento.
 
 Reconhecer a função antiga impede que você trate a própria história com desprezo.
 
@@ -2358,19 +2312,7 @@ O cuidado virou Corrente.
 
 Corrente é uma herança, mandato ou lealdade que restringe diferenciação por meio de medo, culpa, segredo, dívida, ameaça de abandono ou retirada de pertencimento.
 
-Nem toda obrigação é prisão.
-
-Cuidar de um filho.
-
-Cumprir um compromisso assumido.
-
-Responder por uma dívida real.
-
-Sustentar um dever profissional.
-
-Reparar um dano causado.
-
-Tudo isso pode exigir sacrifício sem ser Corrente.
+Nem toda obrigação é prisão. Cuidar de um filho, cumprir um compromisso assumido, responder por uma dívida real, sustentar um dever profissional ou reparar um dano causado pode exigir sacrifício sem ser Corrente.
 
 A Corrente aparece quando a obrigação não admite consciência, verdade, limite, revisão ou distribuição justa de responsabilidade.
 
@@ -2442,15 +2384,7 @@ Você pode receber:
 
 ## A culpa de se diferenciar
 
-Quando uma pessoa muda, o sistema precisa se reorganizar.
-
-A que resolvia tudo começa a dizer não.
-
-A que concordava começa a perguntar.
-
-A que protegia segredo começa a nomear.
-
-A que repetia opinião começa a examinar.
+Quando uma pessoa muda, o sistema precisa se reorganizar: a que resolvia tudo começa a dizer não; a que concordava, a perguntar; a que protegia segredo, a nomear; a que repetia opinião, a examinar.
 
 A reação pode vir como acusação:
 
@@ -2588,15 +2522,7 @@ A pergunta não é apenas:
 
 Se conflito sempre terminou em grito, ameaça, silêncio punitivo ou abandono, discordar pode parecer perigo mesmo em ambiente seguro.
 
-Você pode concordar depressa.
-
-Explicar demais.
-
-Atacar antes de ouvir.
-
-Desaparecer.
-
-Pedir desculpa por existir.
+Você pode concordar depressa, explicar demais, atacar antes de ouvir, desaparecer ou pedir desculpa por existir.
 
 O corpo pode reagir ao mapa antigo antes de a consciência avaliar o território atual.
 
@@ -2628,25 +2554,7 @@ Significa que nenhuma autoridade humana recebe acesso ilimitado à sua consciên
 
 ## Papéis que viram identidade
 
-Algumas pessoas receberam papéis antes de receber perguntas.
-
-A responsável.
-
-O forte.
-
-A boazinha.
-
-O rebelde.
-
-A pacificadora.
-
-O provedor.
-
-A invisível.
-
-O orgulho da casa.
-
-A decepção.
+Algumas pessoas receberam papéis antes de receber perguntas: a responsável, o forte, a boazinha, o rebelde, a pacificadora, o provedor, a invisível, o orgulho da casa, a decepção.
 
 Esses papéis podem organizar pertencimento.
 
@@ -2738,19 +2646,9 @@ Pode formar Solo, Raiz, Corrente, Tronco, Galho e fruto.
 
 Também pode oferecer cuidado, memória, fé, proteção, linguagem, recurso e pertencimento.
 
-Por isso, frases universais sobre família quase sempre perdem a realidade.
+Por isso, frases universais sobre família quase sempre perdem a realidade. Há famílias seguras e destrutivas; permanência não é sempre lealdade, assim como distância não é sempre maturidade.
 
-Nem toda família é segura.
-
-Nem toda família é destrutiva.
-
-Nem toda permanência é lealdade.
-
-Nem toda distância é maturidade.
-
-O método não oferece sentença pronta.
-
-Oferece critérios.
+O método não oferece sentença pronta. Oferece critérios.
 
 ## A origem participa; não explica tudo
 
@@ -2888,21 +2786,7 @@ Uma tradição pode guardar sabedoria que você ainda não compreende.
 
 Um profissional pode possuir conhecimento que você não tem.
 
-Julgamento próprio significa continuar presente enquanto aprende.
-
-Perguntar.
-
-Comparar.
-
-Verificar.
-
-Reconhecer competência e limite.
-
-Admitir que não sabe.
-
-Buscar segunda opinião.
-
-Observar frutos.
+Julgamento próprio significa continuar presente enquanto aprende: perguntar, comparar, verificar, reconhecer competência e limite, admitir que não sabe, buscar segunda opinião e observar frutos.
 
 Nenhuma pessoa responsável diz:
 
@@ -2914,23 +2798,7 @@ Nenhuma pessoa soberana diz:
 
 ## Quando a prisão também é externa
 
-Há situações em que reconhecer a Corrente não basta.
-
-Existe ameaça.
-
-Dependência financeira.
-
-Vigilância.
-
-Controle de documentos.
-
-Risco físico.
-
-Isolamento.
-
-Coerção religiosa.
-
-Pressão familiar organizada.
+Há situações em que reconhecer a Corrente não basta. Existe ameaça, dependência financeira, vigilância, controle de documentos, risco físico, isolamento, coerção religiosa ou pressão familiar organizada.
 
 Nesses contextos, posicionamento pode exigir plano, rede, orientação jurídica, apoio psicológico ou médico, serviço público, proteção policial ou tempo para construir recursos.
 
@@ -3015,21 +2883,13 @@ Na próxima Parte, entraremos no Tronco.
 
 > Raízes alimentam. O Tronco sustenta. Posicionamento aparece quando aquilo que você afirma acreditar continua de pé quando existe custo.
 
-Você já observou frutos, distinguiu Semente de Solo, reconheceu configurações e voltou às Raízes.
+Você já observou frutos, distinguiu Semente de Solo, reconheceu configurações e voltou às Raízes. Sabe que a origem explica onde algo começou, enquanto a Raiz mostra de onde ainda retira força; que uma Corrente restringe; e que um Mapa herdado pode orientar sem ser verdade final.
 
-Sabe que origem explica onde algo começou, enquanto Raiz mostra de onde ainda retira força. Também sabe que uma Corrente restringe e que um Mapa herdado pode orientar sem ser verdade final.
-
-Agora a pergunta muda.
-
-Não basta compreender de onde veio.
-
-É preciso descobrir:
+Agora a pergunta muda. Compreender de onde veio já não basta. É preciso descobrir:
 
 > **O que você consegue sustentar quando o vento chega?**
 
-O Tronco não é força bruta. Não é rigidez, dureza nem independência absoluta.
-
-É a estrutura que transforma consciência em coerência possível.
+O Tronco não é força bruta, rigidez, dureza ou independência absoluta. É a estrutura que transforma consciência em coerência possível.
 
 É onde identidade, critério, responsabilidade, limite e presença precisam continuar ligados quando há culpa, medo, urgência, desejo de pertencimento ou reação alheia.
 
@@ -3063,19 +2923,9 @@ No Método da Árvore do Discernimento, o Tronco representa a capacidade de sust
 
 ## Conhecer não é sustentar
 
-Você pode compreender sua história e continuar repetindo o mesmo fruto.
+Você pode compreender sua história e continuar repetindo o mesmo fruto; nomear uma Raiz e obedecer a ela; explicar metacognição e responder ao primeiro impulso; defender limites em público e negociar todos dentro de casa.
 
-Pode nomear uma Raiz e obedecer a ela.
-
-Pode explicar metacognição e responder ao primeiro impulso.
-
-Pode defender limites em público e negociar todos dentro de casa.
-
-Pode falar de liberdade e ser governada por aprovação.
-
-Pode ensinar responsabilidade e usar a dor para não cumprir o que já está na própria esfera.
-
-Pode reconhecer o erro do grupo e continuar protegendo a tribo quando o custo chega.
+Pode falar de liberdade e ser governada por aprovação, ensinar responsabilidade e usar a dor para não cumprir o que já está na própria esfera, reconhecer o erro do grupo e ainda proteger a tribo quando o custo chega.
 
 Conhecimento mostra direção.
 
@@ -3125,19 +2975,7 @@ Consegue amar sem controlar e limitar sem humilhar?
 
 ## Identidade não é etiqueta
 
-Frases identitárias podem oferecer linguagem:
-
-“Eu sou forte.”
-
-“Eu sou cristã.”
-
-“Eu sou conservadora.”
-
-“Eu sou livre.”
-
-“Eu sou independente.”
-
-“Eu sou assim.”
+Frases identitárias podem oferecer linguagem: “Eu sou forte”, “sou cristã”, “sou conservadora”, “sou livre”, “sou independente”, “sou assim”.
 
 Rótulos podem nomear pertencimento, experiência ou convicção. Mas não carregam sozinhos a verdade inteira sobre uma pessoa.
 
@@ -3237,17 +3075,7 @@ Serve para reconhecer estrutura que já funciona e fortalecê-la com consciênci
 
 ## Autoria emocional
 
-Pessoas afetam você.
-
-Palavras ferem.
-
-Perdas atravessam.
-
-Ambientes organizam ou desorganizam.
-
-O corpo reage.
-
-Violência produz consequências.
+Pessoas afetam você. Palavras ferem, perdas atravessam, ambientes organizam ou desorganizam, o corpo reage e a violência produz consequências.
 
 Controle não se torna responsabilidade de quem foi controlado.
 
@@ -3355,15 +3183,7 @@ Soberania é o que acontece com essa estrutura no instante da pressão.
 
 Soberania interna é a capacidade de continuar participante das próprias respostas quando emoção, medo, culpa, urgência ou pertencimento tentam decidir primeiro.
 
-Não é frieza.
-
-Não é isolamento.
-
-Não é independência absoluta.
-
-Não é domínio sobre os outros.
-
-Não é a fantasia de que ninguém consegue afetar você.
+Não é frieza, isolamento, independência absoluta, domínio sobre os outros nem a fantasia de que ninguém consegue afetar você.
 
 > **Soberania é sentir sem entregar automaticamente o governo ao que sente.**
 
@@ -3525,21 +3345,7 @@ Quando outra pessoa pensa por você, algo parece ficar mais leve.
 
 Se der errado, a responsabilidade parece pertencer a ela.
 
-“Meu pai mandou.”
-
-“Minha igreja disse.”
-
-“Meu partido orientou.”
-
-“Minha terapeuta afirmou.”
-
-“Todo mundo compartilhou.”
-
-“O influenciador explicou.”
-
-“O algoritmo mostrou.”
-
-“Este livro disse.”
+“Meu pai mandou.” “Minha igreja disse.” “Meu partido orientou.” “Minha terapeuta afirmou.” “Todo mundo compartilhou.” “O influenciador explicou.” “O algoritmo mostrou.” “Este livro disse.”
 
 Nenhuma dessas fontes recebe o direito de eliminar seu discernimento.
 
@@ -3667,19 +3473,7 @@ Nasce de perceber mais cedo, reparar com honestidade e treinar outra resposta.
 
 Limite é linha de definição.
 
-Ele diz:
-
-“Aqui existe uma pessoa.”
-
-“Esta pessoa possui corpo, valores, tempo, responsabilidades, necessidades e escolhas.”
-
-“Pode amar sem desaparecer.”
-
-“Pode ajudar sem assumir tudo.”
-
-“Pode ouvir sem aceitar humilhação.”
-
-“Pode pertencer sem entregar acesso irrestrito.”
+Ele diz: “Aqui existe uma pessoa. Ela possui corpo, valores, tempo, responsabilidades, necessidades e escolhas. Pode amar sem desaparecer, ajudar sem assumir tudo, ouvir sem aceitar humilhação e pertencer sem entregar acesso irrestrito.”
 
 O limite não existe para impedir relação.
 
@@ -3699,17 +3493,9 @@ Limite pode dizer:
 
 “Você entra até aqui.”
 
-Mas nem toda distância é muro.
+Mas nem toda distância é muro. Algumas relações representam risco real e alguns contextos exigem bloqueio, afastamento, medida jurídica ou ausência de contato.
 
-Algumas relações representam risco real. Alguns contextos exigem bloqueio, afastamento, medida jurídica ou ausência de contato.
-
-Chamar proteção de “muro emocional” pode ser crueldade disfarçada de linguagem terapêutica.
-
-Nem toda pessoa merece proximidade.
-
-Nem toda relação pode ser preservada.
-
-Nem toda conversa é segura.
+Chamar proteção de “muro emocional” pode ser crueldade disfarçada de linguagem terapêutica. Nem toda pessoa merece proximidade, nem toda relação pode ser preservada e nem toda conversa é segura.
 
 A pergunta não é apenas qual forma a linha possui.
 
@@ -3812,15 +3598,7 @@ Passe pelo Filtro:
 
 ## Limite, poder e segurança
 
-Limites não acontecem no vazio.
-
-Existe diferença entre dizer não a um amigo e a alguém que controla sua renda.
-
-Entre recusar pedido e enfrentar pessoa violenta.
-
-Entre discordar de colega e de liderança capaz de retaliar.
-
-Entre estabelecer linha numa relação respeitosa e tentar fazê-lo num contexto de coerção.
+Limites não acontecem no vazio. Existe diferença entre dizer não a um amigo e a alguém que controla sua renda; entre recusar um pedido e enfrentar uma pessoa violenta; entre discordar de um colega e de uma liderança capaz de retaliar; entre estabelecer uma linha numa relação respeitosa e tentar fazê-lo num contexto de coerção.
 
 O método não exige a mesma forma de ação em contextos diferentes.
 
@@ -4054,11 +3832,7 @@ Contratos invisíveis aparecem em frases como:
 
 “Se fosse do meu lado, compartilharia.”
 
-Alguns contratos são herdados.
-
-Outros, supostos.
-
-Outros, impostos por quem possui mais poder.
+Alguns contratos são herdados; outros, supostos; outros ainda, impostos por quem possui mais poder.
 
 Pergunte:
 
@@ -4072,17 +3846,9 @@ Pergunte:
 
 ## Clareza não garante compatibilidade
 
-Uma conversa clara pode aproximar.
+Uma conversa clara pode aproximar — ou revelar que duas pessoas desejam coisas diferentes. Você pode comunicar uma necessidade e descobrir que o outro não consegue ou não quer atendê-la; pode ouvir o que ele precisa e perceber que não consegue oferecer.
 
-Também pode revelar que duas pessoas desejam coisas diferentes.
-
-Você pode comunicar uma necessidade e descobrir que o outro não consegue ou não quer atendê-la.
-
-Pode ouvir o que ele precisa e perceber que não consegue oferecer.
-
-Isso não significa que a conversa falhou.
-
-Significa que a realidade apareceu.
+A conversa não falhou. A realidade apareceu.
 
 Ambiguidade pode manter vínculo funcionando por aparência.
 
@@ -4249,23 +4015,7 @@ Antes de seguir para os Galhos, verifique:
 - existe um ato concreto que fortalecerá meu Tronco?
 - consigo descer da Árvore depois de compreender?
 
-O Tronco não aparece no discurso sobre quem você é.
-
-Aparece nos Galhos.
-
-Na relação.
-
-Na família.
-
-No trabalho.
-
-Na fé.
-
-No dinheiro.
-
-Na política.
-
-Nos lugares em que a vida cobra uma resposta concreta.
+O Tronco não aparece no discurso sobre quem você é. Aparece nos Galhos: na relação, na família, no trabalho, na fé, no dinheiro, na política — nos lugares em que a vida cobra uma resposta concreta.
 
 Você pode possuir firmeza no trabalho e desaparecer na família.
 
