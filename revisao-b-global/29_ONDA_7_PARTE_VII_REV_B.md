@@ -1249,7 +1249,7 @@ Chega um momento em que investigar mais não aumenta clareza.
 
 Aumenta adiamento. A regra de parada chegou quando existe base suficiente para o próximo movimento, o risco foi considerado e nenhuma informação nova relevante está entrando. O desconforto restante pode ser o custo da posição, não falta de análise.
 
-Metacognição não exige permanecer no Mirante. Também percebe quando pensar deixou de servir à decisão e começou a protegê-la do custo.
+O Mirante não é uma nova camada da Árvore nem um lugar em que você precisa permanecer. É o nome do ponto de observação criado quando você sobe, percebe como está pensando e recupera panorama suficiente para escolher. Metacognição também reconhece quando pensar deixou de servir à decisão e começou a protegê-la do custo.
 
 Você já:
 

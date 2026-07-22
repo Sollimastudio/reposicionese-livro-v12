@@ -185,6 +185,13 @@ O resultado mais honesto não é:
 
     text = replace_once(
         text,
+        "Você não precisa viver desconfiando de tudo. Precisa continuar capaz de perguntar por que acredita, quem participa da conclusão, o que ainda precisa verificar e que fruto essa forma de pensar tende a produzir.\n\n## A Jaula está aberta",
+        "Você não precisa viver desconfiando de tudo. Precisa continuar capaz de perguntar por que acredita, quem participa da conclusão, o que ainda precisa verificar e que fruto essa forma de pensar tende a produzir.\n\n> **Nenhum grupo pensará automaticamente por mim, nem mesmo o grupo que representa meus valores.**\n\nQuando a polarização tentar entregar uma sentença antes do exame, quando a Fuga Identitária oferecer um rótulo para substituir a pessoa inteira, ou quando influenciadores e algoritmos repetirem uma voz até ela parecer sua, volte às perguntas: *Estou aprendendo ou entregando o trabalho da minha consciência? Consigo pertencer sem desaparecer? Esta identificação amplia minha consciência ou está substituindo quem sou?*\n\n## A Jaula está aberta",
+        "fechamento explícito de polarização, Fuga Identitária e influência",
+    )
+
+    text = replace_once(
+        text,
         "## O ritual final\n\n### 1. Observe os Frutos",
         "## O ritual final\n\nEstes dez movimentos não formam um método novo. Reúnem, numa travessia breve, aquilo que você já praticou ao longo da Árvore.\n\n### 1. Observe os Frutos",
         "ritual como síntese",

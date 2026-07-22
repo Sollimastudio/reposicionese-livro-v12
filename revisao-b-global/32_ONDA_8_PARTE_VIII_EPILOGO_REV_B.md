@@ -937,6 +937,10 @@ Responsabilidade pergunta:
 
 Você não precisa viver desconfiando de tudo. Precisa continuar capaz de perguntar por que acredita, quem participa da conclusão, o que ainda precisa verificar e que fruto essa forma de pensar tende a produzir.
 
+> **Nenhum grupo pensará automaticamente por mim, nem mesmo o grupo que representa meus valores.**
+
+Quando a polarização tentar entregar uma sentença antes do exame, quando a Fuga Identitária oferecer um rótulo para substituir a pessoa inteira, ou quando influenciadores e algoritmos repetirem uma voz até ela parecer sua, volte às perguntas: *Estou aprendendo ou entregando o trabalho da minha consciência? Consigo pertencer sem desaparecer? Esta identificação amplia minha consciência ou está substituindo quem sou?*
+
 ## A Jaula está aberta
 
 Talvez exista uma Jaula que este livro ajudou você a enxergar.

@@ -870,26 +870,18 @@ Aqui, mantenha duas perguntas:
 
 > Esta identificação amplia minha consciência — ou está substituindo quem sou?
 
-## O Filtro da Influência
+## O Filtro da Sensatez aplicado à influência
 
-O Filtro da Influência não é outro método.
+Não existe um segundo Filtro.
 
-É o Filtro da Sensatez aplicado ao momento em que uma voz externa pede acesso.
+Quando uma voz externa pede acesso, você usa as mesmas doze perguntas oficiais do Filtro da Sensatez, com atenção especial a quatro focos:
 
-Pergunte:
+- **Verdade e evidência:** qual é a afirmação, o que é fato, qual é a fonte, que competência ela possui e o que precisa ser verificado fora dela?
+- **Justiça e simetria:** eu aplicaria o mesmo rigor se a mensagem viesse do meu grupo, do grupo oposto ou de alguém que não admiro?
+- **Liberdade e acesso:** consigo discordar, dizer “não sei” e limitar a influência sem perder toda dignidade ou pertencimento? Existe pressão de medo, vergonha, urgência ou lealdade?
+- **Fruto e responsabilidade:** esta voz amplia minha capacidade de pensar, que clareza realmente ofereceu, que fruto produz e que nível de acesso merece?
 
-1. Percebi que estava sendo influenciada?
-2. A fonte distingue fato, opinião, experiência e interpretação?
-3. A pessoa possui competência para esta afirmação específica?
-4. Posso discordar sem perder meu lugar?
-5. Existe pressão de medo, vergonha, urgência ou pertencimento?
-6. Aplico o mesmo rigor ao meu grupo e ao grupo oposto?
-7. Esta influência amplia minha capacidade de pensar ou oferece respostas para que eu não precise pensar?
-8. Que fruto já produz em mim?
-9. O que ela me ajudou a compreender com mais clareza?
-10. Ainda consigo dizer “não sei”?
-11. O que preciso verificar fora desta fonte?
-12. Que nível de acesso esta voz realmente merece?
+Em decisões de alto custo, volte ao conjunto completo das doze perguntas. Estes focos não formam outra lista oficial; apenas mostram onde o Filtro costuma revelar acesso indevido ou influência saudável.
 
 Influência saudável pode confrontar e mudar uma opinião.
 

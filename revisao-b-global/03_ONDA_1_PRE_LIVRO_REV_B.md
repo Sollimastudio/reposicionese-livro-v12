@@ -192,9 +192,15 @@ Existe para devolver visão, autoria e decisão.
 - **Pragas:** mecanismos que drenam, distorcem ou sabotam; nunca pessoas, grupos, diagnósticos ou emoções difíceis.
 - **Poda:** a interrupção consciente do que produz frutos incompatíveis; não vingança.
 - **Nova Semente:** a prática que ocupará o espaço aberto.
-- **Mirante do Discernimento:** o ponto metacognitivo de onde você observa sem se reduzir ao fruto e decide quando descer para agir.
+- **Mirante do Discernimento:** o ponto metacognitivo de onde você observa sem se reduzir ao fruto e decide quando descer para agir. Não é uma camada da Árvore nem uma ferramenta separada; é o nome do ponto de observação alcançado quando você sobe.
 
-A ordem estrutural é:
+A **Semente** é a entrada do cultivo.
+
+A estrutura da Árvore é:
+
+> **Solo → Raízes → Tronco → Galhos → Frutos.**
+
+A representação editorial completa pode mostrar:
 
 > **Semente → Solo → Raízes → Tronco → Galhos → Frutos.**
 
@@ -209,7 +215,7 @@ Você não precisa descobrir toda a infância para observar um fruto nem fazer d
 # OS COMANDOS DA ÁRVORE
 
 - **Observe os Frutos:** comece pelo que acontece, sem sentença; observe também o que funciona.
-- **Suba na Árvore:** amplie o panorama e perceba como está pensando enquanto pensa.
+- **Suba na Árvore:** amplie o panorama e perceba como está pensando enquanto pensa. Esse ponto de observação é o Mirante do Discernimento; você não precisa decorá-lo como etapa separada.
 - **Deixe na Árvore:** suspenda a conclusão ainda não examinada; isso não é concordar.
 - **Volte às Raízes:** use quando o padrão se repete e o presente não explica a força da resposta.
 - **Passe pelo Filtro da Sensatez:** examine verdade, lógica, evidência, justiça, vínculo, consequência e autoria.

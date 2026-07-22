@@ -888,7 +888,7 @@ Pode começar com clareza interna:
 
 Honrar a origem não significa entregar a ela o governo permanente da sua consciência.
 
-## Checkpoint da Parte III
+# CHECKPOINT DA PARTE III
 
 Antes de seguir, verifique:
 

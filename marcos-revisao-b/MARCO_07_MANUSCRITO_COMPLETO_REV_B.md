@@ -8,7 +8,7 @@ toc-title: "SUMÁRIO"
 ---
 
 > **MARCO 07 DA REVISÃO B — Manuscrito completo, capítulos 1–38 e Epílogo revisados.**  
-> Gerado em 2026-07-22T01:41:54+00:00. A Revisão A e os Marcos 01–06 permanecem preservados.
+> Gerado em 2026-07-22T12:23:23+00:00. A Revisão A e os Marcos 01–06 permanecem preservados.
 
 \newpage
 <!-- FONTE: revisao-b-global/03_ONDA_1_PRE_LIVRO_REV_B.md | STATUS: REVISÃO B -->
@@ -207,9 +207,15 @@ Existe para devolver visão, autoria e decisão.
 - **Pragas:** mecanismos que drenam, distorcem ou sabotam; nunca pessoas, grupos, diagnósticos ou emoções difíceis.
 - **Poda:** a interrupção consciente do que produz frutos incompatíveis; não vingança.
 - **Nova Semente:** a prática que ocupará o espaço aberto.
-- **Mirante do Discernimento:** o ponto metacognitivo de onde você observa sem se reduzir ao fruto e decide quando descer para agir.
+- **Mirante do Discernimento:** o ponto metacognitivo de onde você observa sem se reduzir ao fruto e decide quando descer para agir. Não é uma camada da Árvore nem uma ferramenta separada; é o nome do ponto de observação alcançado quando você sobe.
 
-A ordem estrutural é:
+A **Semente** é a entrada do cultivo.
+
+A estrutura da Árvore é:
+
+> **Solo → Raízes → Tronco → Galhos → Frutos.**
+
+A representação editorial completa pode mostrar:
 
 > **Semente → Solo → Raízes → Tronco → Galhos → Frutos.**
 
@@ -224,7 +230,7 @@ Você não precisa descobrir toda a infância para observar um fruto nem fazer d
 # OS COMANDOS DA ÁRVORE
 
 - **Observe os Frutos:** comece pelo que acontece, sem sentença; observe também o que funciona.
-- **Suba na Árvore:** amplie o panorama e perceba como está pensando enquanto pensa.
+- **Suba na Árvore:** amplie o panorama e perceba como está pensando enquanto pensa. Esse ponto de observação é o Mirante do Discernimento; você não precisa decorá-lo como etapa separada.
 - **Deixe na Árvore:** suspenda a conclusão ainda não examinada; isso não é concordar.
 - **Volte às Raízes:** use quando o padrão se repete e o presente não explica a força da resposta.
 - **Passe pelo Filtro da Sensatez:** examine verdade, lógica, evidência, justiça, vínculo, consequência e autoria.
@@ -1876,26 +1882,18 @@ Aqui, mantenha duas perguntas:
 
 > Esta identificação amplia minha consciência — ou está substituindo quem sou?
 
-## O Filtro da Influência
+## O Filtro da Sensatez aplicado à influência
 
-O Filtro da Influência não é outro método.
+Não existe um segundo Filtro.
 
-É o Filtro da Sensatez aplicado ao momento em que uma voz externa pede acesso.
+Quando uma voz externa pede acesso, você usa as mesmas doze perguntas oficiais do Filtro da Sensatez, com atenção especial a quatro focos:
 
-Pergunte:
+- **Verdade e evidência:** qual é a afirmação, o que é fato, qual é a fonte, que competência ela possui e o que precisa ser verificado fora dela?
+- **Justiça e simetria:** eu aplicaria o mesmo rigor se a mensagem viesse do meu grupo, do grupo oposto ou de alguém que não admiro?
+- **Liberdade e acesso:** consigo discordar, dizer “não sei” e limitar a influência sem perder toda dignidade ou pertencimento? Existe pressão de medo, vergonha, urgência ou lealdade?
+- **Fruto e responsabilidade:** esta voz amplia minha capacidade de pensar, que clareza realmente ofereceu, que fruto produz e que nível de acesso merece?
 
-1. Percebi que estava sendo influenciada?
-2. A fonte distingue fato, opinião, experiência e interpretação?
-3. A pessoa possui competência para esta afirmação específica?
-4. Posso discordar sem perder meu lugar?
-5. Existe pressão de medo, vergonha, urgência ou pertencimento?
-6. Aplico o mesmo rigor ao meu grupo e ao grupo oposto?
-7. Esta influência amplia minha capacidade de pensar ou oferece respostas para que eu não precise pensar?
-8. Que fruto já produz em mim?
-9. O que ela me ajudou a compreender com mais clareza?
-10. Ainda consigo dizer “não sei”?
-11. O que preciso verificar fora desta fonte?
-12. Que nível de acesso esta voz realmente merece?
+Em decisões de alto custo, volte ao conjunto completo das doze perguntas. Estes focos não formam outra lista oficial; apenas mostram onde o Filtro costuma revelar acesso indevido ou influência saudável.
 
 Influência saudável pode confrontar e mudar uma opinião.
 
@@ -3100,7 +3098,7 @@ Pode começar com clareza interna:
 
 Honrar a origem não significa entregar a ela o governo permanente da sua consciência.
 
-## Checkpoint da Parte III
+# CHECKPOINT DA PARTE III
 
 Antes de seguir, verifique:
 
@@ -8185,7 +8183,7 @@ Chega um momento em que investigar mais não aumenta clareza.
 
 Aumenta adiamento. A regra de parada chegou quando existe base suficiente para o próximo movimento, o risco foi considerado e nenhuma informação nova relevante está entrando. O desconforto restante pode ser o custo da posição, não falta de análise.
 
-Metacognição não exige permanecer no Mirante. Também percebe quando pensar deixou de servir à decisão e começou a protegê-la do custo.
+O Mirante não é uma nova camada da Árvore nem um lugar em que você precisa permanecer. É o nome do ponto de observação criado quando você sobe, percebe como está pensando e recupera panorama suficiente para escolher. Metacognição também reconhece quando pensar deixou de servir à decisão e começou a protegê-la do custo.
 
 Você já:
 
@@ -9230,6 +9228,10 @@ Responsabilidade pergunta:
 5. **A consciência precisa continuar observável.** Qualquer pessoa, grupo, fé, causa, autoridade, algoritmo ou autora pode voltar a ocupar espaço demais quando deixa de ser examinada.
 
 Você não precisa viver desconfiando de tudo. Precisa continuar capaz de perguntar por que acredita, quem participa da conclusão, o que ainda precisa verificar e que fruto essa forma de pensar tende a produzir.
+
+> **Nenhum grupo pensará automaticamente por mim, nem mesmo o grupo que representa meus valores.**
+
+Quando a polarização tentar entregar uma sentença antes do exame, quando a Fuga Identitária oferecer um rótulo para substituir a pessoa inteira, ou quando influenciadores e algoritmos repetirem uma voz até ela parecer sua, volte às perguntas: *Estou aprendendo ou entregando o trabalho da minha consciência? Consigo pertencer sem desaparecer? Esta identificação amplia minha consciência ou está substituindo quem sou?*
 
 ## A Jaula está aberta
 

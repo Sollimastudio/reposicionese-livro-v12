@@ -10,12 +10,12 @@
 
 # 1. RESULTADO
 
-- Total editorial estimado: **36,859 palavras**;
-- alvo de 10%: **3,686 palavras**;
-- linha aproximada da fronteira: **838**;
+- Total editorial estimado: **37,062 palavras**;
+- alvo de 10%: **3,707 palavras**;
+- linha aproximada da fronteira: **836**;
 - seção em que a fronteira cai: **O primeiro sinal de retorno**;
 - próxima seção identificada: **Morte em Vida não é diagnóstico clínico**;
-- texto na linha de fronteira: `“Estou pedindo autorização para algo que já pertence à minha esfera.”`.
+- texto na linha de fronteira: `“Estou concordando para a conversa acabar.”`.
 
 ---
 
@@ -23,19 +23,19 @@
 
 | Marco editorial | Posição | Percentual aproximado de entrada |
 |---|---:|---:|
-| VOCÊ JÁ ESTÁ POSICIONADA | dentro | 0.14% |
+| VOCÊ JÁ ESTÁ POSICIONADA | dentro | 0.13% |
 | OBSERVE OS FRUTOS | dentro | 0.68% |
-| O QUE ESTE LIVRO VAI TREINAR EM VOCÊ | dentro | 1.09% |
-| SUA PRIMEIRA SUBIDA | dentro | 1.49% |
-| COMO USAR ESTE LIVRO | dentro | 1.86% |
-| PARTE I — OBSERVE OS FRUTOS | dentro | 5.34% |
-| CAPÍTULO 1 — A VITRINE DA VIDA | dentro | 5.73% |
-| CAPÍTULO 2 — A MORTE EM VIDA | dentro | 8.54% |
-| PARTE II — SEMENTE, SOLO E CONFIGURAÇÃO | depois | 12.03% |
-| CAPÍTULO 3 — A SEMENTE E O SOLO | depois | 12.61% |
-| CAPÍTULO 4 — O CELULAR CONFIGURADO | depois | 15.80% |
-| CAPÍTULO 5 — O SOLO DIGITAL | depois | 18.66% |
-| CAPÍTULO 6 — CRENÇAS, VALORES E MODO OPERANTE | depois | 21.97% |
+| O QUE ESTE LIVRO VAI TREINAR EM VOCÊ | dentro | 1.08% |
+| SUA PRIMEIRA SUBIDA | dentro | 1.48% |
+| COMO USAR ESTE LIVRO | dentro | 1.85% |
+| PARTE I — OBSERVE OS FRUTOS | dentro | 5.47% |
+| CAPÍTULO 1 — A VITRINE DA VIDA | dentro | 5.85% |
+| CAPÍTULO 2 — A MORTE EM VIDA | dentro | 8.64% |
+| PARTE II — SEMENTE, SOLO E CONFIGURAÇÃO | depois | 12.11% |
+| CAPÍTULO 3 — A SEMENTE E O SOLO | depois | 12.69% |
+| CAPÍTULO 4 — O CELULAR CONFIGURADO | depois | 15.86% |
+| CAPÍTULO 5 — O SOLO DIGITAL | depois | 18.71% |
+| CAPÍTULO 6 — CRENÇAS, VALORES E MODO OPERANTE | depois | 22.11% |
 
 ---
 
@@ -58,19 +58,19 @@ A decisão de fazer novos cortes, deslocamentos ou acréscimos deverá considera
 # 4. CONTEXTO DA FRONTEIRA
 
 ```text
-832: “Estou repetindo uma opinião que não verifiquei.”
+830: ## O primeiro sinal de retorno
+831: 
+832: Voltar a participar da própria existência nem sempre começa com uma grande decisão.
 833: 
-834: “Estou dizendo que não me importo porque admitir o desejo me expõe.”
+834: Às vezes, começa quando você percebe:
 835: 
-836: “Estou chamando medo de paz.”
+836: “Estou concordando para a conversa acabar.”
 837: 
-838: “Estou pedindo autorização para algo que já pertence à minha esfera.”
+838: “Estou repetindo uma opinião que não verifiquei.”
 839: 
-840: Perceber não resolve tudo.
+840: “Estou dizendo que não me importo porque admitir o desejo me expõe.”
 841: 
-842: Mas interrompe por um instante a confusão entre automatismo e identidade.
-843: 
-844: Esse instante é fruto.
+842: “Estou chamando medo de paz.”
 ```
 
 ---
