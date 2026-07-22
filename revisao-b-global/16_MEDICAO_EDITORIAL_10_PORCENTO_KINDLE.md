@@ -10,7 +10,7 @@
 
 # 1. RESULTADO
 
-- Total editorial estimado: **37,047 palavras**;
+- Total editorial estimado: **37,043 palavras**;
 - alvo de 10%: **3,705 palavras**;
 - linha aproximada da fronteira: **816**;
 - seção em que a fronteira cai: **O primeiro sinal de retorno**;

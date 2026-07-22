@@ -16,11 +16,7 @@ A Jaula aparecerá como intervenção narrativa, não como método concorrente. 
 # CAPÍTULO 21 — O QUE É UMA PRAGA
 ## Mecanismo não é identidade
 
-Você observou frutos.
-
-Localizou Galhos.
-
-Investigou Semente, Solo, Raízes, Mapas e Tronco.
+Você observou frutos, localizou Galhos e investigou Semente, Solo, Raízes, Mapas e Tronco.
 
 Agora precisamos perguntar:
 
@@ -44,15 +40,7 @@ Praga não é:
 - cansaço;
 - conflito.
 
-Raiva pode sinalizar injustiça.
-
-Medo pode alertar perigo.
-
-Culpa pode revelar responsabilidade.
-
-Tristeza pode acompanhar luto.
-
-Desejo de pertencimento pode conduzir a comunidade saudável.
+Raiva pode sinalizar injustiça; medo, alertar perigo; culpa, revelar responsabilidade; tristeza, acompanhar luto; desejo de pertencimento, conduzir a comunidade saudável.
 
 A emoção não vira Praga porque incomoda.
 
@@ -146,35 +134,9 @@ Abre uma frente de cuidado.
 
 ## Interno não significa culpa
 
-Alguns mecanismos chegam de fora.
+Alguns mecanismos chegam de fora: manipulação, pressão de grupo, propaganda, algoritmo, controle coercitivo, abuso de autoridade e cultura de humilhação.
 
-Manipulação.
-
-Pressão de grupo.
-
-Propaganda.
-
-Algoritmo.
-
-Controle coercitivo.
-
-Abuso de autoridade.
-
-Cultura de humilhação.
-
-Outros são mantidos internamente.
-
-Comparação repetida.
-
-Ressentimento cultivado.
-
-Busca compulsiva por confirmação.
-
-Narrativa de incapacidade.
-
-Autopunição.
-
-Medo de crescer.
+Outros são mantidos internamente: comparação repetida, ressentimento cultivado, busca compulsiva por confirmação, narrativa de incapacidade, autopunição e medo de crescer.
 
 Mas interno não significa que a pessoa escolheu livremente aprender aquilo.
 
@@ -210,37 +172,13 @@ A Árvore investiga interação.
 # CAPÍTULO 22 — O SONO DA NEGLIGÊNCIA
 ## Quando aquilo que você não faz começa a decidir por você
 
-Negligência não é descansar.
-
-Não é falhar uma vez.
-
-Não é não conseguir fazer tudo.
-
-Existem limites reais de tempo, saúde, dinheiro, energia e conhecimento.
-
-Há fases de sobrevivência.
-
-Há pessoas sobrecarregadas, não adormecidas.
-
-Há decisões que precisam de informação, proteção e tempo.
+Negligência não é descansar, falhar uma vez ou não conseguir fazer tudo. Existem limites reais de tempo, saúde, dinheiro, energia e conhecimento; há fases de sobrevivência, pessoas sobrecarregadas — não adormecidas — e decisões que precisam de informação, proteção e tempo.
 
 O Sono da Negligência é outra coisa.
 
 É o estado em que sinais suficientes já foram percebidos, mas o adiamento continua sendo tratado como se não fosse uma posição.
 
-A conversa não acontece.
-
-O exame não é marcado.
-
-A conta não é aberta.
-
-O pedido de ajuda não é feito.
-
-O limite nunca sai do rascunho.
-
-O problema no trabalho é comentado com todos, menos com quem pode participar da solução.
-
-A relação se deteriora enquanto ausência de conflito recebe o nome de paz.
+A conversa não acontece, o exame não é marcado, a conta não é aberta, o pedido de ajuda não é feito e o limite nunca sai do rascunho. O problema no trabalho é comentado com todos, menos com quem pode participar da solução; a relação se deteriora enquanto ausência de conflito recebe o nome de paz.
 
 Negligência é a ação silenciosa da não ação repetida.
 
@@ -287,21 +225,7 @@ Alguns sinais são ambíguos.
 
 Outros já se repetiram.
 
-O dinheiro não fecha há meses.
-
-A equipe não compreende prioridades.
-
-O corpo pede avaliação.
-
-A relação não possui acordo básico.
-
-A dívida cresce.
-
-O ressentimento mudou a forma de falar.
-
-O ambiente pune perguntas.
-
-A pessoa prometeu reparar, mas os frutos permanecem iguais.
+O dinheiro não fecha há meses; a equipe não compreende prioridades; o corpo pede avaliação; a relação não possui acordo básico. A dívida cresce, o ressentimento mudou a forma de falar, o ambiente pune perguntas e a pessoa prometeu reparar — mas os frutos permanecem iguais.
 
 “Não Ignore o Óbvio” não significa agir impulsivamente sobre a primeira impressão.
 
@@ -313,19 +237,7 @@ Significa parar de exigir uma centésima prova quando as evidências existentes 
 
 ## Negligência consigo
 
-Algumas pessoas cuidam de tudo, menos da estrutura que torna o cuidado possível.
-
-Dormem apenas quando o corpo desliga.
-
-Pedem ajuda somente depois do colapso.
-
-Comem quando sobra tempo.
-
-Não acompanham saúde.
-
-Vivem em disponibilidade permanente.
-
-Chamam exaustão de compromisso.
+Algumas pessoas cuidam de tudo, menos da estrutura que torna o cuidado possível: dormem apenas quando o corpo desliga, pedem ajuda depois do colapso, comem quando sobra tempo, não acompanham a saúde, vivem em disponibilidade permanente e chamam exaustão de compromisso.
 
 Isso pode estar ligado a pobreza, exploração, ausência de rede, necessidade real ou cuidado intenso.
 
@@ -341,17 +253,7 @@ Dentro da esfera possível, pergunte:
 
 ## Negligência relacional
 
-Relações podem enfraquecer pela soma de pequenas ausências.
-
-A conversa sempre adiada.
-
-O pedido nunca feito.
-
-O reparo substituído por presente.
-
-A tarefa invisível nunca reconhecida.
-
-O limite atravessado porque ninguém quis lidar com a reação.
+Relações podem enfraquecer pela soma de pequenas ausências: a conversa sempre adiada, o pedido nunca feito, o reparo substituído por presente, a tarefa invisível nunca reconhecida, o limite atravessado porque ninguém quis lidar com a reação.
 
 O vínculo não precisa de atenção constante e perfeita.
 
@@ -428,17 +330,7 @@ Escolha uma coisa que precisa de atenção.
 # CAPÍTULO 23 — O SOFÁ QUENTE DA MENTIRA
 ## Conforto conhecido não é prova de segurança
 
-Existe conforto que restaura.
-
-Descanso.
-
-Casa segura.
-
-Rotina possível.
-
-Silêncio.
-
-Presença confiável.
+Existe conforto que restaura: descanso, casa segura, rotina possível, silêncio, presença confiável.
 
 Existe também um conforto que protege uma contradição já percebida.
 
@@ -446,19 +338,7 @@ Existe também um conforto que protege uma contradição já percebida.
 
 O problema não é o conforto. Conforto legítimo restaura corpo, vínculo e capacidade de decidir. A imagem do Sofá descreve apenas o conforto usado para impedir contato com uma contradição já reconhecida.
 
-Ele não precisa parecer preguiça.
-
-Pode ser excesso de trabalho.
-
-Consumo de conteúdo.
-
-Uma relação que não exige verdade.
-
-Uma crença que poupa decisão.
-
-A certeza oferecida por um grupo.
-
-A explicação que permite continuar sem tocar no fruto.
+Ele não precisa parecer preguiça. Pode assumir a forma de excesso de trabalho, consumo de conteúdo, relação que não exige verdade, crença que poupa decisão, certeza oferecida por um grupo ou explicação que permite continuar sem tocar no fruto.
 
 O sofá oferece alívio imediato em troca de realidade adiada.
 
@@ -884,23 +764,9 @@ A comparação vira Praga quando:
 
 ## Validação e plateia
 
-Ser reconhecida é humano.
+Ser reconhecida é humano, feedback ajuda e uma comunidade pode confirmar capacidades que você não via.
 
-Feedback ajuda.
-
-Uma comunidade pode confirmar capacidades que você não via.
-
-A Praga aparece quando valor, decisão ou identidade não conseguem permanecer sem retorno constante.
-
-A pessoa posta para saber se sente.
-
-Decide pelo engajamento.
-
-Muda opinião pela reação.
-
-Transforma sofrimento em conteúdo antes de processá-lo.
-
-Confunde visibilidade com existência.
+A Praga aparece quando valor, decisão ou identidade não conseguem permanecer sem retorno constante: a pessoa posta para saber se sente, decide pelo engajamento, muda opinião pela reação, transforma sofrimento em conteúdo antes de processá-lo e confunde visibilidade com existência.
 
 A plateia começa a participar de decisões que nunca deveria governar.
 
@@ -918,13 +784,7 @@ Pode alertar que algo não foi reparado.
 
 Mas, alimentado continuamente, passa a cobrar do presente uma dívida criada no passado.
 
-A pessoa repete a cena.
-
-Reescreve conversas.
-
-Procura confirmação.
-
-Recusa informação que complique a posição de vítima e culpado.
+A pessoa repete a cena, reescreve conversas, procura confirmação e recusa informação que complique a posição de vítima e culpado.
 
 Ressentimento não se resolve com ordem para esquecer.
 
@@ -1090,27 +950,7 @@ Nesses casos, a frase confronta:
 
 Mas a metáfora possui limite.
 
-Há Jaulas externas reais.
-
-Ameaça.
-
-Violência.
-
-Dependência financeira.
-
-Controle de documentos.
-
-Vigilância.
-
-Risco para filhos.
-
-Doença.
-
-Coerção institucional.
-
-Ausência de moradia.
-
-Dependência de cuidado.
+Há Jaulas externas reais: ameaça, violência, dependência financeira, controle de documentos, vigilância, risco para filhos, doença, coerção institucional, ausência de moradia e dependência de cuidado.
 
 A porta pode estar aberta numa dimensão e bloqueada em outra.
 

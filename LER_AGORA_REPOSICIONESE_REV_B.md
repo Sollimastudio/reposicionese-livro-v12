@@ -3,7 +3,7 @@
 
 **Autora:** Sol Lima  
 **Método:** Árvore do Discernimento  
-**Estado:** manuscrito textual completo; governança e coerência metodológica reconciliadas; voz e ritmo concluídos nos Lotes 01–02; especialistas e produção pendentes  
+**Estado:** manuscrito textual completo; governança e coerência metodológica reconciliadas; voz e ritmo concluídos nos Lotes 01–03; especialistas e produção pendentes  
 **PR:** #2 — rascunho, sem merge
 
 ---
@@ -20,7 +20,7 @@ Estado confirmado:
 - Partes I–VIII — Revisão B;
 - capítulos 1–38 validados;
 - um Epílogo;
-- aproximadamente 37.047 palavras editoriais;
+- aproximadamente 37.043 palavras editoriais;
 - Revisão A preservada;
 - Marcos 01–06 preservados;
 - Marco 07 vigente;
@@ -159,7 +159,7 @@ Nenhum Marco anterior deve ser sobrescrito.
 
 A Revisão B textual está completa, mas a publicação ainda depende de:
 
-- passagem global de voz, ritmo e repetição nos Lotes 3–4;
+- passagem global de voz, ritmo e repetição no Lote 4;
 - revisão psicológica e clínica;
 - revisão teológica;
 - revisão jurídica;
@@ -177,4 +177,4 @@ A Revisão B textual está completa, mas a publicação ainda depende de:
 
 A **Rodada de Coerência Metodológica Localizada está concluída**.
 
-A passagem global de voz, ritmo e repetição avançou em lotes controlados. Os **Lotes 01–02 — Pré-livro e Partes I–IV** estão concluídos. A próxima unidade autorizável é o **Lote 03 — Partes V–VI**. A pista visual permanece separada porque os binários ainda não foram versionados no repositório.
+A passagem global de voz, ritmo e repetição avançou em lotes controlados. Os **Lotes 01–03 — Pré-livro e Partes I–VI** estão concluídos. A próxima unidade autorizável é o **Lote 04 — Partes VII–VIII e Epílogo**. A pista visual permanece separada porque os binários ainda não foram versionados no repositório.

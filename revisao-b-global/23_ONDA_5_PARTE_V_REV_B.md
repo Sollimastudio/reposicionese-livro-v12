@@ -3,13 +3,9 @@
 
 > O Tronco mostra o que você consegue sustentar. Os Galhos mostram onde essa sustentação permanece, onde cede e onde já existem recursos capazes de fortalecer outra área da vida.
 
-A Árvore não termina no interior da pessoa.
+A Árvore não termina no interior da pessoa. Ela aparece na relação, na família, no trabalho, no dinheiro, na fé, na política, no corpo, no descanso, na sexualidade, na amizade e no cuidado. Essas áreas são os Galhos.
 
-Ela aparece na relação, na família, no trabalho, no dinheiro, na fé, na política, no corpo, no descanso, na sexualidade, na amizade e no cuidado.
-
-Essas áreas são os Galhos.
-
-Nenhum Galho receberá aqui um método separado. Não abriremos seis livros dentro deste livro.
+Nenhum deles receberá um método separado. Não abriremos seis livros dentro deste livro.
 
 Aplicaremos o mesmo movimento:
 
@@ -24,13 +20,7 @@ O objetivo não é transformar cada área da vida em problema.
 # CAPÍTULO 15 — OS GALHOS
 ## Localizar sem condenar a Árvore inteira
 
-Você já observou frutos.
-
-Distinguiu Semente de Solo.
-
-Reconheceu configurações, Raízes, Correntes e Mapas.
-
-Perguntou o que o Tronco consegue sustentar quando existe custo.
+Você já observou frutos, distinguiu Semente de Solo, reconheceu configurações, Raízes, Correntes e Mapas e perguntou o que o Tronco consegue sustentar quando existe custo.
 
 Agora a investigação entra na vida concreta.
 
@@ -42,21 +32,9 @@ Localiza o lugar onde algo está se tornando visível.
 
 ## Um fruto não condena a Árvore inteira
 
-Você pode ter dificuldade num relacionamento e possuir amizades saudáveis.
+Você pode ter dificuldade num relacionamento e possuir amizades saudáveis; cometer um erro profissional sem ser incompetente em tudo; perder o domínio numa conversa e, ainda assim, reconhecer o autocontrole desenvolvido em outros contextos.
 
-Pode cometer um erro profissional sem ser incompetente em tudo.
-
-Pode perder o domínio numa conversa e reconhecer que desenvolveu autocontrole em muitos outros contextos.
-
-Pode sustentar limites no trabalho e desaparecer diante da família.
-
-Pode ter clareza financeira e confusão afetiva.
-
-Pode ter voz política e não conseguir dizer não a uma pessoa específica.
-
-Pode cuidar dos filhos com responsabilidade e negligenciar o próprio corpo.
-
-Pode possuir fé profunda e precisar revisar a maneira como lida com autoridade religiosa.
+Pode sustentar limites no trabalho e desaparecer diante da família, ter clareza financeira e confusão afetiva, voz política e dificuldade para dizer não a uma pessoa específica. Pode cuidar dos filhos com responsabilidade e negligenciar o próprio corpo, possuir fé profunda e ainda precisar revisar a maneira como lida com autoridade religiosa.
 
 Isso não significa que você seja várias pessoas.
 
@@ -135,19 +113,7 @@ Pergunte:
 
 ## O Galho que carrega a identidade inteira
 
-Trabalho.
-
-Casamento.
-
-Maternidade.
-
-Igreja.
-
-Imagem.
-
-Causa política.
-
-Uma área pode ser profundamente importante.
+Trabalho, casamento, maternidade, igreja, imagem ou causa política: uma área pode ser profundamente importante.
 
 Mas, quando recebe o peso de sustentar toda a identidade, qualquer perda naquele Galho parece desaparecimento pessoal.
 
@@ -232,17 +198,7 @@ Num vínculo, duas pessoas conseguem se encontrar.
 
 Na fusão, a existência de uma começa a depender da redução da outra.
 
-Você deixa de falar.
-
-Afasta vínculos importantes.
-
-Pede autorização para decisões que pertencem à sua esfera.
-
-Muda valores, roupas, projetos ou opiniões apenas para evitar punição.
-
-Mede cada palavra pelo humor da outra pessoa.
-
-Duvida continuamente da própria percepção.
+Você deixa de falar, afasta vínculos importantes e pede autorização para decisões que pertencem à sua esfera. Muda valores, roupas, projetos ou opiniões para evitar punição, mede cada palavra pelo humor da outra pessoa e passa a duvidar continuamente da própria percepção.
 
 Isso pode indicar erosão de autonomia.
 
@@ -254,15 +210,7 @@ Existir com verdade inclui responsabilidade pelo modo como sua liberdade encontr
 
 ## Intensidade não é profundidade
 
-Mensagens contínuas.
-
-Planos acelerados.
-
-Promessas precoces.
-
-Sensação de reconhecimento total.
-
-A intensidade pode participar de uma relação saudável.
+Mensagens contínuas, planos acelerados, promessas precoces, sensação de reconhecimento total: a intensidade pode participar de uma relação saudável.
 
 Também pode esconder ansiedade, idealização, medo de abandono, necessidade de fusão ou controle.
 
@@ -347,15 +295,7 @@ Usa silêncio para obrigar o outro a adivinhar?
 
 Promete para evitar desconforto?
 
-A verdade não garante o resultado desejado.
-
-Pode aproximar.
-
-Pode revelar incompatibilidade.
-
-Pode mostrar matéria para reconstrução.
-
-Pode mostrar que a relação só permanecia por ambiguidade.
+A verdade não garante o resultado desejado. Pode aproximar, revelar incompatibilidade, mostrar matéria para reconstrução ou expor que a relação só permanecia por ambiguidade.
 
 ## Permanecer e sair
 
@@ -471,25 +411,7 @@ Observa mecanismos, responsabilidades e frutos.
 
 ## O papel que ainda esperam de você
 
-A responsável.
-
-O pacificador.
-
-A forte.
-
-O provedor.
-
-A religiosa.
-
-A problemática.
-
-O invisível.
-
-A filha que cuida de todos.
-
-O filho que compensa os demais.
-
-A pessoa pode sair de casa e continuar executando o papel décadas depois.
+A responsável, o pacificador, a forte, o provedor, a religiosa, a problemática, o invisível, a filha que cuida de todos, o filho que compensa os demais: a pessoa pode sair de casa e continuar executando o papel décadas depois.
 
 Muda a cidade, a renda e a idade.
 
@@ -666,15 +588,9 @@ Escolha uma dinâmica familiar presente.
 
 O trabalho coloca o Tronco diante de prazo, autoridade, dinheiro, reconhecimento, poder, limite, comparação, medo de perda, propósito e uso do tempo.
 
-Uma pessoa pode liderar equipes e não conseguir cobrar pelo próprio trabalho.
+Uma pessoa pode liderar equipes e não conseguir cobrar pelo próprio trabalho; sustentar limites em casa e desaparecer diante de uma chefia; ganhar bem e usar produtividade para nunca se encontrar.
 
-Pode sustentar limites em casa e desaparecer diante de uma chefia.
-
-Pode ganhar bem e usar produtividade para nunca se encontrar.
-
-Pode chamar exploração de oportunidade porque teme parecer ingrata.
-
-Pode rejeitar toda disciplina como opressão e chamar desorganização de liberdade.
+Pode chamar exploração de oportunidade porque teme parecer ingrata ou rejeitar toda disciplina como opressão e chamar desorganização de liberdade.
 
 ## Trabalho não é identidade inteira
 
@@ -719,17 +635,7 @@ Pergunte:
 
 ## Trabalho invisível também produz custo
 
-Cuidado doméstico.
-
-Cuidado de crianças e idosos.
-
-Organização de rotina.
-
-Apoio comunitário.
-
-Serviço religioso.
-
-Essas atividades possuem valor e custo, mesmo quando não recebem salário.
+Cuidado doméstico, cuidado de crianças e idosos, organização de rotina, apoio comunitário e serviço religioso possuem valor e custo, mesmo quando não recebem salário.
 
 O problema aparece quando são tratadas como naturais, infinitas e pertencentes sempre à mesma pessoa.
 
@@ -862,17 +768,9 @@ Escolha um fruto profissional ou financeiro.
 # CAPÍTULO 19 — FÉ, COMUNIDADE, POLÍTICA E PERTENCIMENTO
 ## Convicção diante de pessoas reais
 
-Fé, comunidade e política são Galhos diferentes.
+Fé, comunidade e política são Galhos diferentes, mas compartilham uma força poderosa: oferecem linguagem, valores, direção, identidade coletiva e pertencimento. Também podem despertar medo de exclusão, lealdade cega, simplificação e terceirização da consciência.
 
-Compartilham, porém, uma força poderosa.
-
-Oferecem linguagem, valores, direção, identidade coletiva e pertencimento.
-
-Também podem despertar medo de exclusão, lealdade cega, simplificação e terceirização da consciência.
-
-O problema não é pertencer.
-
-O problema começa quando permanecer exige desaparecimento.
+O problema não é pertencer. Começa quando permanecer exige desaparecimento.
 
 ## A fé quando existe custo
 
@@ -1070,13 +968,7 @@ Mas um sinal corporal não possui interpretação única.
 
 Pode envolver questão médica, emocional, relacional, ambiental, medicamentosa, de rotina, de sono, de trabalho ou combinação de fatores.
 
-Não espiritualize todo sintoma.
-
-Não psicologize toda doença.
-
-Não ignore o corpo para proteger um discurso de força.
-
-Procure avaliação adequada quando necessário.
+Não espiritualize todo sintoma, não psicologize toda doença nem ignore o corpo para proteger um discurso de força. Procure avaliação adequada quando necessário.
 
 Pergunte:
 
@@ -1136,13 +1028,7 @@ Pergunte:
 
 ## Amizade e presença
 
-Nem toda amizade precisa permanecer com a mesma intensidade.
-
-Fases mudam.
-
-Distâncias acontecem.
-
-Mas desaparecer sem linguagem, usar pessoas apenas em crise ou exigir disponibilidade unilateral também produz frutos.
+Nem toda amizade precisa permanecer com a mesma intensidade. Fases mudam, distâncias acontecem; ainda assim, desaparecer sem linguagem, usar pessoas apenas em crise ou exigir disponibilidade unilateral também produz frutos.
 
 Uma amizade adulta pode suportar mudança de fase, limites de tempo, diferença política, pedidos claros, reparação, distância sem punição e presença sem posse.
 

@@ -1,9 +1,9 @@
 # Registro Mestre de Contexto — Reposicione-se™
 
-**Versão:** 3.2 — Voz e ritmo, Lotes 01–02  
+**Versão:** 3.3 — Voz e ritmo, Lotes 01–03  
 **Função:** memória editorial canônica do projeto  
 **Precedência:** substitui estados anteriores registrados neste mesmo caminho  
-**Estado:** Revisão B textual completa; governança e coerência metodológica reconciliadas; voz e ritmo concluídos nos Lotes 01–02
+**Estado:** Revisão B textual completa; governança e coerência metodológica reconciliadas; voz e ritmo concluídos nos Lotes 01–03
 
 ---
 
@@ -110,14 +110,14 @@ O livro falha se o leitor apenas admira ideias e permanece dependente da autora 
 
 - capítulos 1–38;
 - um Epílogo;
-- aproximadamente 37.047 palavras editoriais;
+- aproximadamente 37.043 palavras editoriais;
 - Marco 07 vigente;
 - manuscrito contínuo completo;
 - Revisão A preservada;
 - Marcos 01–06 preservados;
 - PR #2 em rascunho e sem merge;
-- voz, ritmo e repetição concluídos no Pré-livro e Partes I–IV;
-- próximo lote textual: Partes V–VI;
+- voz, ritmo e repetição concluídos no Pré-livro e Partes I–VI;
+- próximo lote textual: Partes VII–VIII e Epílogo;
 - banco visual registrado por manifesto e hash, mas sem binários versionados.
 
 ## Decisão
