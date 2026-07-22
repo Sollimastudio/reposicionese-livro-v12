@@ -8,7 +8,7 @@ toc-title: "SUMÁRIO"
 ---
 
 > **MANUSCRITO DE TRABALHO — REVISÃO B COMPLETA. Pré-livro, Partes I–VIII e Epílogo revisados.**  
-> Gerado em 2026-07-22T23:08:56+00:00. A Revisão A e os Marcos 01–06 permanecem preservados.
+> Gerado em 2026-07-22T23:51:30+00:00. A Revisão A e os Marcos 01–06 permanecem preservados.
 
 \newpage
 <!-- FONTE: revisao-b-global/03_ONDA_1_PRE_LIVRO_REV_B.md | STATUS: REVISÃO B -->
@@ -6308,13 +6308,7 @@ Discernimento não é duvidar de tudo para sempre. É verificar o necessário, d
 # CAPÍTULO 27 — O FILTRO DA SENSATEZ EM AÇÃO
 ## Nem todo pensamento merece governo
 
-Você já encontrou frutos.
-
-Localizou Galhos.
-
-Examinou Tronco, Raízes, Mapas e Solo.
-
-Reconheceu Pragas e Jaulas.
+Você já encontrou frutos, localizou Galhos, examinou Tronco, Raízes, Mapas e Solo e reconheceu Pragas e Jaulas.
 
 Agora precisa decidir o que fará com aquilo que percebeu.
 
@@ -6378,15 +6372,9 @@ Quando informação importante ainda falta, a decisão pode ser provisória. Qua
 
 ### Isso é verdadeiro?
 
-Uma interpretação pode combinar com sua dor e ainda estar incompleta.
+Uma interpretação pode combinar com sua dor e ainda estar incompleta; uma notícia pode confirmar sua posição política e continuar falsa; uma acusação pode circular milhares de vezes sem evidência.
 
-Uma notícia pode confirmar sua posição política e continuar falsa.
-
-Uma acusação pode circular milhares de vezes sem evidência.
-
-Uma pessoa pode dizer algo verdadeiro para humilhar.
-
-Outra pode falar com carinho e oferecer uma mentira.
+Uma pessoa pode dizer algo verdadeiro para humilhar, enquanto outra fala com carinho e oferece uma mentira.
 
 Pergunte:
 
@@ -6401,13 +6389,7 @@ Pergunte:
 
 Uma frase pode ser emocionalmente convincente e logicamente frágil.
 
-“Se você me ama, fará o que peço.”
-
-“Se discorda, está contra mim.”
-
-“Como esta pessoa errou uma vez, tudo o que diz é falso.”
-
-“Como sofri, minha reação está correta.”
+“Se você me ama, fará o que peço.” “Se discorda, está contra mim.” “Como esta pessoa errou uma vez, tudo o que diz é falso.” “Como sofri, minha reação está correta.”
 
 Lógica não elimina emoção.
 
@@ -6467,11 +6449,7 @@ Nobreza, aqui, não é aparência moral.
 
 É uma forma de agir que preserva dignidade, verdade e integridade mesmo quando não oferece vantagem imediata.
 
-Uma ação pode ser legal e pequena.
-
-Pode ser eficiente e cruel.
-
-Pode vencer a discussão e diminuir todos os envolvidos.
+Uma ação pode ser legal e pequena, eficiente e cruel, ou vencer a discussão diminuindo todos os envolvidos.
 
 Pergunte:
 
@@ -6513,13 +6491,7 @@ Pergunte:
 
 ### Que fruto produz a curto, médio e longo prazo?
 
-O fruto não é o único critério.
-
-Resultados podem demorar.
-
-Uma decisão correta pode gerar desconforto inicial.
-
-Uma escolha destrutiva pode oferecer prazer rápido.
+O fruto não é o único critério, e resultados podem demorar. Uma decisão correta pode gerar desconforto inicial; uma escolha destrutiva, prazer rápido.
 
 Observe três horizontes.
 
@@ -6595,21 +6567,7 @@ Procura resposta coerente com:
 - realidade;
 - frutos desejados.
 
-Às vezes, a pessoa posicionada fala.
-
-Às vezes, escuta.
-
-Admite que não sabe.
-
-Procura ajuda.
-
-Estabelece limite.
-
-Muda de opinião.
-
-Permanece.
-
-Encerra.
+Às vezes, a pessoa posicionada fala; em outras, escuta, admite que não sabe, procura ajuda, estabelece limite, muda de opinião, permanece ou encerra.
 
 A conduta não é definida por aparência de força.
 
@@ -7666,33 +7624,13 @@ O livro não termina com uma promessa de transformação instantânea. Termina d
 # CAPÍTULO 33 — A NOVA SEMENTE
 ## Mudança não começa grande; começa repetível
 
-Você observou frutos.
-
-Subiu na Árvore.
-
-Localizou Galhos.
-
-Examinou Tronco, Raízes, Mapas e Solo.
-
-Reconheceu Pragas.
-
-Passou pelo Filtro.
-
-Definiu uma Poda.
+Você observou frutos, subiu na Árvore, localizou Galhos, examinou Tronco, Raízes, Mapas e Solo, reconheceu Pragas, passou pelo Filtro e definiu uma Poda.
 
 Agora surge uma pergunta que muita gente esquece:
 
 > O que será plantado no lugar?
 
-Retirar um hábito não cria automaticamente um hábito saudável.
-
-Encerrar uma relação não ensina sozinho a construir outro modo de vínculo.
-
-Sair de um grupo não produz identidade.
-
-Reconhecer uma crença não instala uma resposta nova.
-
-Dizer não uma vez não constrói limite sustentado.
+Retirar um hábito não cria automaticamente outro saudável; encerrar uma relação não ensina sozinho a construir um novo modo de vínculo; sair de um grupo não produz identidade. Reconhecer uma crença não instala uma resposta nova, e dizer não uma vez não constrói limite sustentado.
 
 A Poda interrompe.
 
@@ -7744,21 +7682,9 @@ Comece pequeno o suficiente para entrar na vida e sério o suficiente para alter
 
 ## Desejo não é cultivo
 
-Você pode desejar paz e repetir guerra.
+Você pode desejar paz e repetir guerra; desejar limite e explicar o não até ele virar sim; desejar liberdade e manter todas as permissões antigas; desejar identidade e pedir à plateia que confirme quem é; desejar maturidade e evitar todo desconforto.
 
-Desejar limite e continuar explicando o não até ele virar sim.
-
-Desejar liberdade e manter todas as permissões antigas.
-
-Desejar identidade e passar o dia pedindo à plateia que confirme quem é.
-
-Desejar maturidade e evitar todo desconforto.
-
-O desejo importa.
-
-Mostra direção.
-
-Mas cultivo é feito de práticas.
+O desejo importa porque mostra direção. Mas cultivo é feito de práticas.
 
 > **LEI 3 — DESLIGUE O PILOTO AUTOMÁTICO.**
 >
@@ -7800,23 +7726,7 @@ A mente gosta de mudanças dramáticas porque elas oferecem sensação de recome
 
 Mudanças sustentadas costumam crescer de atos menos cinematográficos.
 
-Uma conversa marcada.
-
-Uma resposta adiada por vinte minutos.
-
-Uma fonte verificada.
-
-Um pedido feito sem desculpa.
-
-Uma consulta.
-
-Um limite repetido com a mesma linguagem.
-
-Uma hora protegida.
-
-Uma transferência automática.
-
-Uma noite sem entrar na discussão.
+Uma conversa marcada, uma resposta adiada por vinte minutos, uma fonte verificada, um pedido feito sem desculpa, uma consulta, um limite repetido com a mesma linguagem, uma hora protegida, uma transferência automática, uma noite sem entrar na discussão.
 
 Uma decisão pequena não resolve a vida inteira.
 
@@ -7892,21 +7802,7 @@ Mostra que o novo ainda precisa de cultivo.
 
 Uma resposta saudável pode parecer errada quando o sistema antigo não a reconhece.
 
-O limite pode parecer egoísmo.
-
-O descanso pode parecer irresponsabilidade.
-
-A paz pode parecer vazio.
-
-Uma relação estável pode parecer sem emoção.
-
-Questionar pode parecer deslealdade.
-
-Receber ajuda pode parecer fracasso.
-
-Cobrar pelo trabalho pode parecer arrogância.
-
-Admitir dúvida pode parecer fraqueza.
+O limite pode parecer egoísmo; o descanso, irresponsabilidade; a paz, vazio; uma relação estável, falta de emoção. Questionar pode parecer deslealdade, receber ajuda pode parecer fracasso, cobrar pelo trabalho pode parecer arrogância e admitir dúvida pode parecer fraqueza.
 
 Mas nem todo desconforto é crescimento.
 
@@ -7965,17 +7861,7 @@ Serve para impedir que a mente ignore progresso real ou fabrique progresso inexi
 
 ## Recaída não é identidade
 
-Você pode repetir um padrão depois de meses.
-
-Voltar a dizer sim por medo.
-
-Compartilhar algo sem verificar.
-
-Explodir.
-
-Desaparecer.
-
-Procurar aprovação.
+Você pode repetir um padrão depois de meses: voltar a dizer sim por medo, compartilhar algo sem verificar, explodir, desaparecer ou procurar aprovação.
 
 Isso não transforma todo cultivo em fraude.
 

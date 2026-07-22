@@ -16,13 +16,7 @@ Discernimento não é duvidar de tudo para sempre. É verificar o necessário, d
 # CAPÍTULO 27 — O FILTRO DA SENSATEZ EM AÇÃO
 ## Nem todo pensamento merece governo
 
-Você já encontrou frutos.
-
-Localizou Galhos.
-
-Examinou Tronco, Raízes, Mapas e Solo.
-
-Reconheceu Pragas e Jaulas.
+Você já encontrou frutos, localizou Galhos, examinou Tronco, Raízes, Mapas e Solo e reconheceu Pragas e Jaulas.
 
 Agora precisa decidir o que fará com aquilo que percebeu.
 
@@ -86,15 +80,9 @@ Quando informação importante ainda falta, a decisão pode ser provisória. Qua
 
 ### Isso é verdadeiro?
 
-Uma interpretação pode combinar com sua dor e ainda estar incompleta.
+Uma interpretação pode combinar com sua dor e ainda estar incompleta; uma notícia pode confirmar sua posição política e continuar falsa; uma acusação pode circular milhares de vezes sem evidência.
 
-Uma notícia pode confirmar sua posição política e continuar falsa.
-
-Uma acusação pode circular milhares de vezes sem evidência.
-
-Uma pessoa pode dizer algo verdadeiro para humilhar.
-
-Outra pode falar com carinho e oferecer uma mentira.
+Uma pessoa pode dizer algo verdadeiro para humilhar, enquanto outra fala com carinho e oferece uma mentira.
 
 Pergunte:
 
@@ -109,13 +97,7 @@ Pergunte:
 
 Uma frase pode ser emocionalmente convincente e logicamente frágil.
 
-“Se você me ama, fará o que peço.”
-
-“Se discorda, está contra mim.”
-
-“Como esta pessoa errou uma vez, tudo o que diz é falso.”
-
-“Como sofri, minha reação está correta.”
+“Se você me ama, fará o que peço.” “Se discorda, está contra mim.” “Como esta pessoa errou uma vez, tudo o que diz é falso.” “Como sofri, minha reação está correta.”
 
 Lógica não elimina emoção.
 
@@ -175,11 +157,7 @@ Nobreza, aqui, não é aparência moral.
 
 É uma forma de agir que preserva dignidade, verdade e integridade mesmo quando não oferece vantagem imediata.
 
-Uma ação pode ser legal e pequena.
-
-Pode ser eficiente e cruel.
-
-Pode vencer a discussão e diminuir todos os envolvidos.
+Uma ação pode ser legal e pequena, eficiente e cruel, ou vencer a discussão diminuindo todos os envolvidos.
 
 Pergunte:
 
@@ -221,13 +199,7 @@ Pergunte:
 
 ### Que fruto produz a curto, médio e longo prazo?
 
-O fruto não é o único critério.
-
-Resultados podem demorar.
-
-Uma decisão correta pode gerar desconforto inicial.
-
-Uma escolha destrutiva pode oferecer prazer rápido.
+O fruto não é o único critério, e resultados podem demorar. Uma decisão correta pode gerar desconforto inicial; uma escolha destrutiva, prazer rápido.
 
 Observe três horizontes.
 
@@ -303,21 +275,7 @@ Procura resposta coerente com:
 - realidade;
 - frutos desejados.
 
-Às vezes, a pessoa posicionada fala.
-
-Às vezes, escuta.
-
-Admite que não sabe.
-
-Procura ajuda.
-
-Estabelece limite.
-
-Muda de opinião.
-
-Permanece.
-
-Encerra.
+Às vezes, a pessoa posicionada fala; em outras, escuta, admite que não sabe, procura ajuda, estabelece limite, muda de opinião, permanece ou encerra.
 
 A conduta não é definida por aparência de força.
 

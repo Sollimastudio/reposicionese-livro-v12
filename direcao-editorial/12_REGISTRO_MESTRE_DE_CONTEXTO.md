@@ -1,9 +1,9 @@
 # Registro Mestre de Contexto — Reposicione-se™
 
-**Versão:** 3.3 — Voz e ritmo, Lotes 01–03  
+**Versão:** 3.4 — Voz e ritmo, Lotes 01–04  
 **Função:** memória editorial canônica do projeto  
 **Precedência:** substitui estados anteriores registrados neste mesmo caminho  
-**Estado:** Revisão B textual completa; governança e coerência metodológica reconciliadas; voz e ritmo concluídos nos Lotes 01–03
+**Estado:** Revisão B textual completa; governança e coerência metodológica reconciliadas; voz e ritmo concluídos nos Lotes 01–04
 
 ---
 
@@ -116,8 +116,8 @@ O livro falha se o leitor apenas admira ideias e permanece dependente da autora 
 - Revisão A preservada;
 - Marcos 01–06 preservados;
 - PR #2 em rascunho e sem merge;
-- voz, ritmo e repetição concluídos no Pré-livro e Partes I–VI;
-- próximo lote textual: Partes VII–VIII e Epílogo;
+- voz, ritmo e repetição concluídos no Pré-livro, Partes I–VIII e Epílogo;
+- próxima etapa textual: leitura contínua global;
 - banco visual registrado por manifesto e hash, mas sem binários versionados.
 
 ## Decisão
