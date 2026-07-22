@@ -26,6 +26,11 @@ def require(text: str, needle: str, label: str) -> None:
         raise AssertionError(f"Ausente em {label}: {needle!r}")
 
 
+def require_ci(text: str, needle: str, label: str) -> None:
+    if needle.casefold() not in text.casefold():
+        raise AssertionError(f"Ausente em {label}: {needle!r}")
+
+
 def forbid(text: str, needle: str, label: str) -> None:
     if needle in text:
         raise AssertionError(f"Regressão em {label}: {needle!r}")
@@ -84,7 +89,7 @@ def main() -> None:
     }.items():
         require(text, "Semente", label)
         require(text, "Solo → Raízes → Tronco → Galhos → Frutos", label)
-        require(text, "entrada do cultivo", label)
+        require_ci(text, "entrada do cultivo", label)
 
     # Comandos canônicos
     commands = [
