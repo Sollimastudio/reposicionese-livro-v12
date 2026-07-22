@@ -10,12 +10,12 @@
 
 # 1. RESULTADO
 
-- Total editorial estimado: **33,688 palavras**;
-- alvo de 10%: **3,369 palavras**;
-- linha aproximada da fronteira: **764**;
+- Total editorial estimado: **34,334 palavras**;
+- alvo de 10%: **3,434 palavras**;
+- linha aproximada da fronteira: **782**;
 - seção em que a fronteira cai: **O apagamento pode receber elogios**;
 - próxima seção identificada: **Quando adaptação vira identidade**;
-- texto na linha de fronteira: `“Ele é sempre disponível.”`.
+- texto na linha de fronteira: `E existe uma segunda pergunta:`.
 
 ---
 
@@ -23,19 +23,19 @@
 
 | Marco editorial | Posição | Percentual aproximado de entrada |
 |---|---:|---:|
-| VOCÊ JÁ ESTÁ POSICIONADA | dentro | 0.17% |
-| OBSERVE OS FRUTOS | dentro | 0.76% |
-| O QUE ESTE LIVRO VAI TREINAR EM VOCÊ | dentro | 1.21% |
-| SUA PRIMEIRA SUBIDA | dentro | 1.65% |
-| COMO USAR ESTE LIVRO | dentro | 2.05% |
-| PARTE I — OBSERVE OS FRUTOS | dentro | 5.87% |
-| CAPÍTULO 1 — A VITRINE DA VIDA | dentro | 6.29% |
-| CAPÍTULO 2 — A MORTE EM VIDA | dentro | 9.36% |
-| PARTE II — SEMENTE, SOLO E CONFIGURAÇÃO | depois | 13.18% |
-| CAPÍTULO 3 — A SEMENTE E O SOLO | depois | 13.82% |
-| CAPÍTULO 4 — O CELULAR CONFIGURADO | depois | 17.30% |
-| CAPÍTULO 5 — O SOLO DIGITAL | depois | 20.43% |
-| CAPÍTULO 6 — CRENÇAS, VALORES E MODO OPERANTE | depois | 24.05% |
+| VOCÊ JÁ ESTÁ POSICIONADA | dentro | 0.16% |
+| OBSERVE OS FRUTOS | dentro | 0.75% |
+| O QUE ESTE LIVRO VAI TREINAR EM VOCÊ | dentro | 1.18% |
+| SUA PRIMEIRA SUBIDA | dentro | 1.62% |
+| COMO USAR ESTE LIVRO | dentro | 2.01% |
+| PARTE I — OBSERVE OS FRUTOS | dentro | 5.76% |
+| CAPÍTULO 1 — A VITRINE DA VIDA | dentro | 6.17% |
+| CAPÍTULO 2 — A MORTE EM VIDA | dentro | 9.18% |
+| PARTE II — SEMENTE, SOLO E CONFIGURAÇÃO | depois | 12.93% |
+| CAPÍTULO 3 — A SEMENTE E O SOLO | depois | 13.56% |
+| CAPÍTULO 4 — O CELULAR CONFIGURADO | depois | 16.97% |
+| CAPÍTULO 5 — O SOLO DIGITAL | depois | 20.05% |
+| CAPÍTULO 6 — CRENÇAS, VALORES E MODO OPERANTE | depois | 23.60% |
 
 ---
 
@@ -58,19 +58,19 @@ A decisão de fazer novos cortes, deslocamentos ou acréscimos deverá considera
 # 4. CONTEXTO DA FRONTEIRA
 
 ```text
-758: “Ela aguenta tudo.”
-759: 
-760: “Ele nunca reclama.”
-761: 
-762: “Ela vive para a família.”
-763: 
-764: “Ele é sempre disponível.”
-765: 
-766: “Ela não cria problema.”
-767: 
-768: Alguns elogios celebram virtudes reais.
-769: 
-770: Outros premiam a ausência da pessoa que os recebe.
+776: Amar não exige abandonar discernimento.
+777: 
+778: A pergunta é simples e desconfortável:
+779: 
+780: > O que precisa deixar de existir em você para que determinada relação, ambiente ou imagem continue funcionando?
+781: 
+782: E existe uma segunda pergunta:
+783: 
+784: > Que fruto saudável aparece quando você participa sem abandonar responsabilidade, vínculo e realidade?
+785: 
+786: O objetivo não é trocar entrega por egoísmo.
+787: 
+788: É impedir que o amor precise da sua ausência para continuar recebendo esse nome.
 ```
 
 ---
