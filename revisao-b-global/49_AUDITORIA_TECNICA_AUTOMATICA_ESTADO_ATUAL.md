@@ -7,8 +7,8 @@
 
 # 1. ESTRUTURA E VOLUME
 
-- palavras nas nove fontes vivas: **37.453**;
-- palavras no manuscrito contínuo: **37.484**;
+- palavras nas nove fontes vivas: **37.449**;
+- palavras no manuscrito contínuo: **37.480**;
 - capítulos nas fontes: **38**;
 - capítulos no manuscrito: **38**;
 - Epílogos nas fontes: **1**;
@@ -21,12 +21,12 @@
 | Parte II | 4.853 | 3–6 | 149 | 28 | 4 | 90 | OK |
 | Parte III | 3.305 | 7–10 | 67 | 14 | 2 | 62 | OK |
 | Parte IV | 4.900 | 11–14 | 195 | 27 | 3 | 138 | OK |
-| Parte V | 5.471 | 15–20 | 254 | 21 | 4 | 226 | OK |
-| Parte VI | 4.687 | 21–26 | 258 | 30 | 7 | 148 | OK |
+| Parte V | 5.465 | 15–20 | 254 | 21 | 4 | 226 | OK |
+| Parte VI | 4.689 | 21–26 | 258 | 28 | 7 | 148 | OK |
 | Parte VII | 5.609 | 27–32 | 299 | 30 | 4 | 171 | OK |
 | Parte VIII + Epílogo | 4.113 | 33–38 | 135 | 23 | 13 | 88 | OK |
 
-As Partes V–VIII e o Epílogo concentram **19.880 palavras**, equivalentes a **53,1%** das fontes vivas. Essas unidades ainda não receberam a passagem completa de voz e ritmo dos Lotes 03–04.
+A Parte VII, a Parte VIII e o Epílogo concentram **9.722 palavras**, equivalentes a **26,0%** das fontes vivas. Essas unidades ainda não receberam a passagem completa de voz e ritmo do Lote 04.
 
 ---
 
@@ -69,10 +69,10 @@ Foram encontrados **8 marcadores editoriais explícitos** nas fontes vivas.
 | 129 | `revisao-b-global/04_ONDA_1_PARTE_I_REV_B.md` | [VALIDAÇÃO AUTORAL PENDENTE] |
 | 581 | `revisao-b-global/07_ONDA_3_PARTE_III_REV_B.md` | [REVISÃO TEOLÓGICA — validar contexto bíblico e formulação.] |
 | 225 | `revisao-b-global/20_ONDA_4_PARTE_IV_REV_B.md` | [REVISÃO PSICOLÓGICA — validar a formulação final de autoria emocional e suas proteções antes da edição definitiva.] |
-| 553 | `revisao-b-global/23_ONDA_5_PARTE_V_REV_B.md` | [VALIDAÇÃO AUTORAL PENDENTE] |
-| 901 | `revisao-b-global/23_ONDA_5_PARTE_V_REV_B.md` | [REVISÃO TEOLÓGICA — validar formulações sobre consciência, autoridade, submissão, dever e interpretação bíblica antes da edição final.] |
-| 1100 | `revisao-b-global/23_ONDA_5_PARTE_V_REV_B.md` | [REVISÃO JURÍDICA PENDENTE] |
-| 780 | `revisao-b-global/26_ONDA_6_PARTE_VI_REV_B.md` | [REVISÃO TEOLÓGICA PENDENTE] |
+| 475 | `revisao-b-global/23_ONDA_5_PARTE_V_REV_B.md` | [VALIDAÇÃO AUTORAL PENDENTE] |
+| 799 | `revisao-b-global/23_ONDA_5_PARTE_V_REV_B.md` | [REVISÃO TEOLÓGICA — validar formulações sobre consciência, autoridade, submissão, dever e interpretação bíblica antes da edição final.] |
+| 992 | `revisao-b-global/23_ONDA_5_PARTE_V_REV_B.md` | [REVISÃO JURÍDICA PENDENTE] |
+| 660 | `revisao-b-global/26_ONDA_6_PARTE_VI_REV_B.md` | [REVISÃO TEOLÓGICA PENDENTE] |
 | 925 | `revisao-b-global/29_ONDA_7_PARTE_VII_REV_B.md` | [VALIDAÇÃO AUTORAL PENDENTE] |
 
 ## Distribuição
@@ -87,11 +87,11 @@ Foram encontrados **8 marcadores editoriais explícitos** nas fontes vivas.
 # 4. DENSIDADE EDITORIAL
 
 - linhas com marcadores de lista: **1491**;
-- ocorrências de `não é`: **200**;
+- ocorrências de `não é`: **198**;
 - ocorrências de `não significa`: **40**;
 - sinais de pergunta: **1008**.
 
-Esses números não representam erro automático. Servem para localizar risco de fadiga, especialmente nas Partes ainda não submetidas aos Lotes 03–04.
+Esses números não representam erro automático. Servem para localizar risco de fadiga, especialmente nas unidades ainda não submetidas ao Lote 04.
 
 ---
 
@@ -121,7 +121,7 @@ A ausência no repositório não prova que nunca foram gerados como artefatos te
 
 O manuscrito ainda não está pronto para publicação porque permanecem:
 
-1. Lotes 03–04 de voz, ritmo e repetição;
+1. Lote 04 de voz, ritmo e repetição;
 2. marcadores autorais e especializados;
 3. leitura contínua final após todos os lotes;
 4. imagens binárias e prova visual canônica;

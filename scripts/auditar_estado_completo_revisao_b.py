@@ -180,7 +180,7 @@ def main() -> None:
             marker_bucket_counts["outra validação"] += 1
 
     part_words = {row["name"]: row["words"] for row in rows}
-    last_four_words = sum(part_words[name] for name in ["Parte V", "Parte VI", "Parte VII", "Parte VIII + Epílogo"])
+    remaining_voice_words = sum(part_words[name] for name in ["Parte VII", "Parte VIII + Epílogo"])
 
     checks = {
         "fontes estruturais": all(row["ok"] for row in rows),
@@ -228,7 +228,7 @@ def main() -> None:
 
     lines += [
         "",
-        f"As Partes V–VIII e o Epílogo concentram **{fmt_int(last_four_words)} palavras**, equivalentes a **{fmt_pct(percentage(last_four_words, total_words))}%** das fontes vivas. Essas unidades ainda não receberam a passagem completa de voz e ritmo dos Lotes 03–04.",
+        f"A Parte VII, a Parte VIII e o Epílogo concentram **{fmt_int(remaining_voice_words)} palavras**, equivalentes a **{fmt_pct(percentage(remaining_voice_words, total_words))}%** das fontes vivas. Essas unidades ainda não receberam a passagem completa de voz e ritmo do Lote 04.",
         "",
         "---",
         "",
@@ -277,7 +277,7 @@ def main() -> None:
         f"- ocorrências de `não significa`: **{total_neg_means}**;",
         f"- sinais de pergunta: **{total_questions}**.",
         "",
-        "Esses números não representam erro automático. Servem para localizar risco de fadiga, especialmente nas Partes ainda não submetidas aos Lotes 03–04.",
+        "Esses números não representam erro automático. Servem para localizar risco de fadiga, especialmente nas unidades ainda não submetidas ao Lote 04.",
         "",
         "---",
         "",
@@ -329,7 +329,7 @@ def main() -> None:
         "",
         "O manuscrito ainda não está pronto para publicação porque permanecem:",
         "",
-        "1. Lotes 03–04 de voz, ritmo e repetição;",
+        "1. Lote 04 de voz, ritmo e repetição;",
         "2. marcadores autorais e especializados;",
         "3. leitura contínua final após todos os lotes;",
         "4. imagens binárias e prova visual canônica;",
