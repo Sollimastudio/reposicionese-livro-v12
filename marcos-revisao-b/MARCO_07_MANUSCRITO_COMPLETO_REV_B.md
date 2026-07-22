@@ -8,7 +8,7 @@ toc-title: "SUMÁRIO"
 ---
 
 > **MARCO 07 DA REVISÃO B — Manuscrito completo, capítulos 1–38 e Epílogo revisados.**  
-> Gerado em 2026-07-22T12:23:23+00:00. A Revisão A e os Marcos 01–06 permanecem preservados.
+> Gerado em 2026-07-22T12:40:01+00:00. A Revisão A e os Marcos 01–06 permanecem preservados.
 
 \newpage
 <!-- FONTE: revisao-b-global/03_ONDA_1_PRE_LIVRO_REV_B.md | STATUS: REVISÃO B -->
@@ -97,7 +97,7 @@ Metacognição é perceber o pensamento enquanto ele se forma: separar fato e in
 
 Não é pensar sem parar nem desconfiar de tudo. É criar um intervalo entre estímulo e resposta, influência e adesão, emoção e decisão.
 
-Ao final, você deverá observar sem transformar fruto em identidade; distinguir fato, interpretação e influência; reconhecer o automático; aprender sem terceirizar a consciência; fortalecer o que funciona; assumir sua responsabilidade real; filtrar, interromper, plantar outra prática e agir.
+Você aprenderá a observar sem transformar fruto em identidade, distinguir fato, interpretação e influência e reconhecer o automático. Aprenderá sem terceirizar a consciência, fortalecendo o que funciona e assumindo sua responsabilidade real. Então poderá filtrar, interromper, plantar outra prática e agir.
 
 Você não terminará este livro sabendo tudo.
 
@@ -190,9 +190,9 @@ Do chão, você vê o fruto que caiu.
 
 Da Árvore, pergunta pelo Galho, Tronco, Raiz, Solo, Praga, Poda e pelos recursos saudáveis já disponíveis.
 
-A Árvore organiza a investigação sem causa única, diagnóstico de pessoas ou poder da autora sobre seu pensamento.
+A Árvore organiza a investigação sem reduzir tudo a uma causa, diagnosticar pessoas ou entregar à autora poder sobre seu pensamento.
 
-Existe para devolver visão, autoria e decisão.
+Ela existe para devolver visão, autoria e decisão.
 
 ---
 
@@ -314,7 +314,9 @@ O Método da Árvore do Discernimento existe para construir consciência, não p
 > Verdade sem sensatez vira agressão.  
 > Força sem discernimento vira controle.
 
-Este livro não autoriza diagnosticar pessoas, acusar com a Jaula, chamar todo sofrimento de Autopiedade, culpabilizar vítimas, punir com limites, humilhar com a verdade, impedir investigação pela fé, rejeitar aprendizagem ou ruminar em nome da metacognição.
+Este livro não autoriza diagnosticar pessoas, acusar com a Jaula nem chamar todo sofrimento de Autopiedade. Também não autoriza culpabilizar vítimas, punir com limites, humilhar com a verdade ou impedir investigação pela fé.
+
+Aprender continua necessário. Metacognição continua ligada à vida — não à ruminação.
 
 Quem praticou o dano responde pelo que fez.
 
@@ -374,15 +376,9 @@ Você já sabe que está posicionada.
 
 Agora precisa olhar para a posição que ocupa sem se defender dela e sem transformá-la numa sentença sobre quem é.
 
-A investigação começa pelo que pode ser observado.
+A investigação começa pelo que pode ser observado — antes do rótulo, da justificativa e da promessa de mudança.
 
-Não pelo rótulo.
-
-Não pela justificativa.
-
-Não pela promessa de mudança.
-
-Pelo fruto.
+Começa pelo fruto.
 
 Mas observar frutos não significa procurar apenas o que está errado.
 
@@ -709,19 +705,7 @@ O próximo capítulo entra na experiência de desaparecer mesmo quando a vida co
 
 Há uma forma de desaparecimento que não interrompe a rotina.
 
-A pessoa acorda.
-
-Trabalha.
-
-Cuida.
-
-Cumpre.
-
-Sorri quando esperam.
-
-Responde mensagens.
-
-Mantém a casa, a família, a função ou a imagem.
+A pessoa acorda, trabalha, cuida, cumpre, sorri quando esperam, responde mensagens e mantém a casa, a família, a função ou a imagem.
 
 Por fora, continua presente.
 
@@ -855,13 +839,7 @@ Pequeno, mas real.
 
 ## Morte em Vida não é diagnóstico clínico
 
-A expressão é autoral e pedagógica.
-
-Ela nomeia apagamento, desconexão e ausência de participação consciente na própria vida.
-
-Não substitui avaliação psicológica ou psiquiátrica.
-
-Também não transforma sofrimento em culpa.
+A expressão é autoral e pedagógica: nomeia apagamento, desconexão e ausência de participação consciente na própria vida, sem substituir avaliação psicológica ou psiquiátrica nem transformar sofrimento em culpa.
 
 Há pessoas submetidas a violência, coerção, dependência e risco real.
 
@@ -914,9 +892,7 @@ A frase surge aqui pela primeira vez com todo o peso:
 
 > **A JAULA ESTÁ ABERTA.**
 
-Não significa que toda saída seja simples.
-
-Não significa que toda porta esteja livre.
+A frase não promete saída simples nem afirma que toda porta esteja livre.
 
 Significa que uma prisão percebida já não pode continuar sendo chamada apenas de destino.
 
@@ -1043,19 +1019,11 @@ Precisamos investigar:
 
 A investigação começa sem tribunal.
 
-Semente não é destino.
+Semente abre possibilidade, não destino. Solo oferece condições, não sentença. Configuração orienta, mas não define identidade.
 
-Solo não é sentença.
+Influência pode ensinar, corrigir, confundir ou manipular. O que veio de fora pode ser verdadeiro; o que nasceu dentro de você também pode precisar de exame.
 
-Configuração não é identidade.
-
-Influência não é automaticamente manipulação.
-
-Aquilo que veio de fora não é necessariamente falso.
-
-Aquilo que nasceu dentro de você não é automaticamente verdadeiro.
-
-Mas o que não é examinado pode continuar governando como se fosse natureza.
+Aquilo que não é examinado pode continuar governando como se fosse natureza.
 
 Guarde a sequência desta Parte:
 
@@ -1070,33 +1038,11 @@ Todo fruto começou antes de aparecer.
 
 Em algum momento, algo entrou no cultivo.
 
-Uma frase.
+Uma frase, uma perda, um elogio ou uma ameaça.
 
-Uma perda.
+Uma interpretação bíblica, uma regra familiar, uma notícia ou um modelo de amor.
 
-Um elogio.
-
-Uma ameaça.
-
-Uma interpretação bíblica.
-
-Uma regra familiar.
-
-Uma notícia.
-
-Um modelo de amor.
-
-Uma oportunidade.
-
-Uma decisão.
-
-Uma imagem repetida.
-
-Uma crença oferecida por um grupo.
-
-Uma experiência de cuidado.
-
-Um exemplo de coragem.
+Uma oportunidade, uma decisão, uma imagem repetida, uma crença oferecida por um grupo, uma experiência de cuidado ou um exemplo de coragem.
 
 No Método da Árvore do Discernimento, chamamos isso de **Semente**.
 
@@ -1179,17 +1125,9 @@ Impede apenas que uma explicação ocupe o lugar do fato sem ser percebida.
 
 Solo é o ambiente interno e externo em que uma Semente encontra condições para crescer.
 
-Família participa.
+Família e cultura participam. Fé, escola, território, linguagem, dinheiro, perdas, elogios, punições e silêncios também. Telas, músicas, grupos e algoritmos entram nesse ambiente.
 
-Cultura participa.
-
-Fé, escola, território, linguagem, dinheiro, perdas, elogios, punições e silêncios participam.
-
-Telas, músicas, grupos e algoritmos também.
-
-Estado físico participa.
-
-Cansaço, fome, medo, solidão e sensação de segurança podem alterar a maneira como uma mensagem é recebida.
+O estado físico participa: cansaço, fome, medo, solidão e sensação de segurança podem alterar a maneira como uma mensagem é recebida.
 
 O Solo não é apenas o lugar onde você nasceu.
 
@@ -1292,21 +1230,7 @@ Pode ser um ambiente em que:
 - mudança de opinião não é automaticamente tratada como traição;
 - bons frutos são reconhecidos sem transformar a pessoa em personagem perfeita.
 
-Talvez você já tenha encontrado um ambiente assim.
-
-Uma amizade.
-
-Uma sala de aula.
-
-Uma igreja.
-
-Uma equipe.
-
-Uma terapia.
-
-Uma conversa familiar.
-
-Um livro.
+Talvez você já tenha encontrado um ambiente assim numa amizade, sala de aula, igreja, equipe, terapia, conversa familiar ou livro.
 
 Pergunte:
 
@@ -1318,15 +1242,7 @@ Investigue também as condições que ajudam a verdade a crescer.
 
 ## A Parábola do Semeador
 
-Na Parábola do Semeador, a mesma Semente encontra terrenos diferentes.
-
-Caminho endurecido.
-
-Pedras.
-
-Espinhos.
-
-Boa terra.
+Na Parábola do Semeador, a mesma Semente encontra terrenos diferentes: caminho endurecido, pedras, espinhos e boa terra.
 
 A imagem não autoriza classificar pessoas como terra boa ou ruim.
 
@@ -1406,21 +1322,7 @@ Ele não chega sem estrutura.
 
 Possui hardware, sistema básico, capacidades e limites.
 
-Depois começa a configuração.
-
-Idioma.
-
-Rede.
-
-Contatos.
-
-Aplicativos.
-
-Senhas.
-
-Notificações.
-
-Permissões.
+Depois começa a configuração: idioma, rede, contatos, aplicativos, senhas, notificações e permissões.
 
 Dois aparelhos semelhantes podem terminar com rotinas completamente diferentes porque receberam acessos, hábitos e configurações diferentes.
 
@@ -1540,17 +1442,7 @@ Repetir o que funciona com consciência não é permanecer no automático.
 
 ## Quem recebeu permissão?
 
-Todo aplicativo pede acesso.
-
-Localização.
-
-Câmera.
-
-Microfone.
-
-Contatos.
-
-Arquivos.
+Todo aplicativo pede acesso: localização, câmera, microfone, contatos, arquivos.
 
 Influências também pedem permissões.
 
@@ -2019,19 +1911,9 @@ Essa distância — ou essa coerência — pede investigação.
 
 Toda decisão revela alguma interpretação sobre o que importa, o que ameaça e o que precisa ser protegido.
 
-Você pode escolher por convicção.
+Você pode escolher por convicção, medo, pressa, lealdade, carência ou pressão de grupo.
 
-Por medo.
-
-Pressa.
-
-Lealdade.
-
-Carência.
-
-Pressão de grupo.
-
-Ou por uma evidência que realmente precisava ser considerada.
+Também pode escolher porque uma evidência realmente precisava ser considerada.
 
 O método não presume a resposta.
 

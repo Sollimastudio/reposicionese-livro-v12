@@ -82,7 +82,7 @@ Metacognição é perceber o pensamento enquanto ele se forma: separar fato e in
 
 Não é pensar sem parar nem desconfiar de tudo. É criar um intervalo entre estímulo e resposta, influência e adesão, emoção e decisão.
 
-Ao final, você deverá observar sem transformar fruto em identidade; distinguir fato, interpretação e influência; reconhecer o automático; aprender sem terceirizar a consciência; fortalecer o que funciona; assumir sua responsabilidade real; filtrar, interromper, plantar outra prática e agir.
+Você aprenderá a observar sem transformar fruto em identidade, distinguir fato, interpretação e influência e reconhecer o automático. Aprenderá sem terceirizar a consciência, fortalecendo o que funciona e assumindo sua responsabilidade real. Então poderá filtrar, interromper, plantar outra prática e agir.
 
 Você não terminará este livro sabendo tudo.
 
@@ -175,9 +175,9 @@ Do chão, você vê o fruto que caiu.
 
 Da Árvore, pergunta pelo Galho, Tronco, Raiz, Solo, Praga, Poda e pelos recursos saudáveis já disponíveis.
 
-A Árvore organiza a investigação sem causa única, diagnóstico de pessoas ou poder da autora sobre seu pensamento.
+A Árvore organiza a investigação sem reduzir tudo a uma causa, diagnosticar pessoas ou entregar à autora poder sobre seu pensamento.
 
-Existe para devolver visão, autoria e decisão.
+Ela existe para devolver visão, autoria e decisão.
 
 ---
 
@@ -299,7 +299,9 @@ O Método da Árvore do Discernimento existe para construir consciência, não p
 > Verdade sem sensatez vira agressão.  
 > Força sem discernimento vira controle.
 
-Este livro não autoriza diagnosticar pessoas, acusar com a Jaula, chamar todo sofrimento de Autopiedade, culpabilizar vítimas, punir com limites, humilhar com a verdade, impedir investigação pela fé, rejeitar aprendizagem ou ruminar em nome da metacognição.
+Este livro não autoriza diagnosticar pessoas, acusar com a Jaula nem chamar todo sofrimento de Autopiedade. Também não autoriza culpabilizar vítimas, punir com limites, humilhar com a verdade ou impedir investigação pela fé.
+
+Aprender continua necessário. Metacognição continua ligada à vida — não à ruminação.
 
 Quem praticou o dano responde pelo que fez.
 

@@ -5,15 +5,9 @@ Você já sabe que está posicionada.
 
 Agora precisa olhar para a posição que ocupa sem se defender dela e sem transformá-la numa sentença sobre quem é.
 
-A investigação começa pelo que pode ser observado.
+A investigação começa pelo que pode ser observado — antes do rótulo, da justificativa e da promessa de mudança.
 
-Não pelo rótulo.
-
-Não pela justificativa.
-
-Não pela promessa de mudança.
-
-Pelo fruto.
+Começa pelo fruto.
 
 Mas observar frutos não significa procurar apenas o que está errado.
 
@@ -340,19 +334,7 @@ O próximo capítulo entra na experiência de desaparecer mesmo quando a vida co
 
 Há uma forma de desaparecimento que não interrompe a rotina.
 
-A pessoa acorda.
-
-Trabalha.
-
-Cuida.
-
-Cumpre.
-
-Sorri quando esperam.
-
-Responde mensagens.
-
-Mantém a casa, a família, a função ou a imagem.
+A pessoa acorda, trabalha, cuida, cumpre, sorri quando esperam, responde mensagens e mantém a casa, a família, a função ou a imagem.
 
 Por fora, continua presente.
 
@@ -486,13 +468,7 @@ Pequeno, mas real.
 
 ## Morte em Vida não é diagnóstico clínico
 
-A expressão é autoral e pedagógica.
-
-Ela nomeia apagamento, desconexão e ausência de participação consciente na própria vida.
-
-Não substitui avaliação psicológica ou psiquiátrica.
-
-Também não transforma sofrimento em culpa.
+A expressão é autoral e pedagógica: nomeia apagamento, desconexão e ausência de participação consciente na própria vida, sem substituir avaliação psicológica ou psiquiátrica nem transformar sofrimento em culpa.
 
 Há pessoas submetidas a violência, coerção, dependência e risco real.
 
@@ -545,9 +521,7 @@ A frase surge aqui pela primeira vez com todo o peso:
 
 > **A JAULA ESTÁ ABERTA.**
 
-Não significa que toda saída seja simples.
-
-Não significa que toda porta esteja livre.
+A frase não promete saída simples nem afirma que toda porta esteja livre.
 
 Significa que uma prisão percebida já não pode continuar sendo chamada apenas de destino.
 

@@ -10,12 +10,12 @@
 
 # 1. RESULTADO
 
-- Total editorial estimado: **37,062 palavras**;
-- alvo de 10%: **3,707 palavras**;
-- linha aproximada da fronteira: **836**;
+- Total editorial estimado: **37,084 palavras**;
+- alvo de 10%: **3,709 palavras**;
+- linha aproximada da fronteira: **816**;
 - seção em que a fronteira cai: **O primeiro sinal de retorno**;
 - próxima seção identificada: **Morte em Vida não é diagnóstico clínico**;
-- texto na linha de fronteira: `“Estou concordando para a conversa acabar.”`.
+- texto na linha de fronteira: `Voltar a participar da própria existência nem sempre começa com uma grande decisão.`.
 
 ---
 
@@ -26,16 +26,16 @@
 | VOCÊ JÁ ESTÁ POSICIONADA | dentro | 0.13% |
 | OBSERVE OS FRUTOS | dentro | 0.68% |
 | O QUE ESTE LIVRO VAI TREINAR EM VOCÊ | dentro | 1.08% |
-| SUA PRIMEIRA SUBIDA | dentro | 1.48% |
+| SUA PRIMEIRA SUBIDA | dentro | 1.49% |
 | COMO USAR ESTE LIVRO | dentro | 1.85% |
-| PARTE I — OBSERVE OS FRUTOS | dentro | 5.47% |
-| CAPÍTULO 1 — A VITRINE DA VIDA | dentro | 5.85% |
-| CAPÍTULO 2 — A MORTE EM VIDA | dentro | 8.64% |
-| PARTE II — SEMENTE, SOLO E CONFIGURAÇÃO | depois | 12.11% |
-| CAPÍTULO 3 — A SEMENTE E O SOLO | depois | 12.69% |
-| CAPÍTULO 4 — O CELULAR CONFIGURADO | depois | 15.86% |
-| CAPÍTULO 5 — O SOLO DIGITAL | depois | 18.71% |
-| CAPÍTULO 6 — CRENÇAS, VALORES E MODO OPERANTE | depois | 22.11% |
+| PARTE I — OBSERVE OS FRUTOS | dentro | 5.50% |
+| CAPÍTULO 1 — A VITRINE DA VIDA | dentro | 5.89% |
+| CAPÍTULO 2 — A MORTE EM VIDA | dentro | 8.68% |
+| PARTE II — SEMENTE, SOLO E CONFIGURAÇÃO | depois | 12.14% |
+| CAPÍTULO 3 — A SEMENTE E O SOLO | depois | 12.74% |
+| CAPÍTULO 4 — O CELULAR CONFIGURADO | depois | 15.90% |
+| CAPÍTULO 5 — O SOLO DIGITAL | depois | 18.75% |
+| CAPÍTULO 6 — CRENÇAS, VALORES E MODO OPERANTE | depois | 22.15% |
 
 ---
 
@@ -58,19 +58,19 @@ A decisão de fazer novos cortes, deslocamentos ou acréscimos deverá considera
 # 4. CONTEXTO DA FRONTEIRA
 
 ```text
-830: ## O primeiro sinal de retorno
-831: 
-832: Voltar a participar da própria existência nem sempre começa com uma grande decisão.
-833: 
-834: Às vezes, começa quando você percebe:
-835: 
-836: “Estou concordando para a conversa acabar.”
-837: 
-838: “Estou repetindo uma opinião que não verifiquei.”
-839: 
-840: “Estou dizendo que não me importo porque admitir o desejo me expõe.”
-841: 
-842: “Estou chamando medo de paz.”
+810: Aqui, basta guardar uma pergunta:
+811: 
+812: > Esta adaptação me ajuda a viver uma realidade — ou está me impedindo de perceber o que penso, sinto e sustento?
+813: 
+814: ## O primeiro sinal de retorno
+815: 
+816: Voltar a participar da própria existência nem sempre começa com uma grande decisão.
+817: 
+818: Às vezes, começa quando você percebe:
+819: 
+820: “Estou concordando para a conversa acabar.”
+821: 
+822: “Estou repetindo uma opinião que não verifiquei.”
 ```
 
 ---
