@@ -3,11 +3,11 @@ title: "REPOSICIONE-SE™"
 subtitle: "Método da Árvore do Discernimento"
 author: "Sol Lima"
 lang: pt-BR
-subject: "Manuscrito contínuo completo — Revisão B — Marco 07"
+subject: "Marco 07 — Manuscrito completo — Revisão B"
 toc-title: "SUMÁRIO"
 ---
 
-> **MANUSCRITO DE TRABALHO — REVISÃO B COMPLETA. Pré-livro, Partes I–VIII e Epílogo revisados.**  
+> **MARCO 07 DA REVISÃO B — Manuscrito completo, capítulos 1–38 e Epílogo revisados.**  
 > Gerado em 2026-07-22T01:41:54+00:00. A Revisão A e os Marcos 01–06 permanecem preservados.
 
 \newpage

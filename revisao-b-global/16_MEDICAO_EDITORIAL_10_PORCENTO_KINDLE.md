@@ -10,12 +10,12 @@
 
 # 1. RESULTADO
 
-- Total editorial estimado: **36,266 palavras**;
-- alvo de 10%: **3,627 palavras**;
-- linha aproximada da fronteira: **822**;
-- seção em que a fronteira cai: **Quando adaptação vira identidade**;
-- próxima seção identificada: **O primeiro sinal de retorno**;
-- texto na linha de fronteira: `> Esta adaptação me ajuda a viver uma realidade — ou está me impedindo de perceber o que penso, sinto e sustento?`.
+- Total editorial estimado: **36,859 palavras**;
+- alvo de 10%: **3,686 palavras**;
+- linha aproximada da fronteira: **838**;
+- seção em que a fronteira cai: **O primeiro sinal de retorno**;
+- próxima seção identificada: **Morte em Vida não é diagnóstico clínico**;
+- texto na linha de fronteira: `“Estou pedindo autorização para algo que já pertence à minha esfera.”`.
 
 ---
 
@@ -23,19 +23,19 @@
 
 | Marco editorial | Posição | Percentual aproximado de entrada |
 |---|---:|---:|
-| VOCÊ JÁ ESTÁ POSICIONADA | dentro | 0.15% |
-| OBSERVE OS FRUTOS | dentro | 0.71% |
-| O QUE ESTE LIVRO VAI TREINAR EM VOCÊ | dentro | 1.12% |
-| SUA PRIMEIRA SUBIDA | dentro | 1.53% |
-| COMO USAR ESTE LIVRO | dentro | 1.90% |
-| PARTE I — OBSERVE OS FRUTOS | dentro | 5.45% |
-| CAPÍTULO 1 — A VITRINE DA VIDA | dentro | 5.84% |
-| CAPÍTULO 2 — A MORTE EM VIDA | dentro | 8.69% |
-| PARTE II — SEMENTE, SOLO E CONFIGURAÇÃO | depois | 12.24% |
-| CAPÍTULO 3 — A SEMENTE E O SOLO | depois | 12.83% |
-| CAPÍTULO 4 — O CELULAR CONFIGURADO | depois | 16.07% |
-| CAPÍTULO 5 — O SOLO DIGITAL | depois | 18.98% |
-| CAPÍTULO 6 — CRENÇAS, VALORES E MODO OPERANTE | depois | 22.34% |
+| VOCÊ JÁ ESTÁ POSICIONADA | dentro | 0.14% |
+| OBSERVE OS FRUTOS | dentro | 0.68% |
+| O QUE ESTE LIVRO VAI TREINAR EM VOCÊ | dentro | 1.09% |
+| SUA PRIMEIRA SUBIDA | dentro | 1.49% |
+| COMO USAR ESTE LIVRO | dentro | 1.86% |
+| PARTE I — OBSERVE OS FRUTOS | dentro | 5.34% |
+| CAPÍTULO 1 — A VITRINE DA VIDA | dentro | 5.73% |
+| CAPÍTULO 2 — A MORTE EM VIDA | dentro | 8.54% |
+| PARTE II — SEMENTE, SOLO E CONFIGURAÇÃO | depois | 12.03% |
+| CAPÍTULO 3 — A SEMENTE E O SOLO | depois | 12.61% |
+| CAPÍTULO 4 — O CELULAR CONFIGURADO | depois | 15.80% |
+| CAPÍTULO 5 — O SOLO DIGITAL | depois | 18.66% |
+| CAPÍTULO 6 — CRENÇAS, VALORES E MODO OPERANTE | depois | 21.97% |
 
 ---
 
@@ -58,19 +58,19 @@ A decisão de fazer novos cortes, deslocamentos ou acréscimos deverá considera
 # 4. CONTEXTO DA FRONTEIRA
 
 ```text
-816: Começa a substituir quem você é.
-817: 
-818: Esse é um dos movimentos da Fuga Identitária que atravessará o livro.
-819: 
-820: Aqui, basta guardar uma pergunta:
-821: 
-822: > Esta adaptação me ajuda a viver uma realidade — ou está me impedindo de perceber o que penso, sinto e sustento?
-823: 
-824: ## O primeiro sinal de retorno
-825: 
-826: Voltar a participar da própria existência nem sempre começa com uma grande decisão.
-827: 
-828: Às vezes, começa quando você percebe:
+832: “Estou repetindo uma opinião que não verifiquei.”
+833: 
+834: “Estou dizendo que não me importo porque admitir o desejo me expõe.”
+835: 
+836: “Estou chamando medo de paz.”
+837: 
+838: “Estou pedindo autorização para algo que já pertence à minha esfera.”
+839: 
+840: Perceber não resolve tudo.
+841: 
+842: Mas interrompe por um instante a confusão entre automatismo e identidade.
+843: 
+844: Esse instante é fruto.
 ```
 
 ---
