@@ -1,11 +1,19 @@
 # VALIDAÇÃO — RECONCILIAÇÃO DE GOVERNANÇA
 
-**Status inicial:** aguardando verificação final.
+**Status:** em verificação final  
+**Manuscrito:** nenhuma alteração autorizada ou aplicada
 
-Este arquivo será atualizado após:
+## Verificações previstas
 
-- conferência dos arquivos canônicos;
-- comparação do estado antes e depois;
-- confirmação de que o manuscrito não foi alterado;
-- atualização do Pull Request;
-- busca por regressões ativas de nomenclatura.
+- arquivos canônicos apontam para Marco 07;
+- comandos oficiais reconciliados;
+- Semente distinguida da estrutura;
+- rota curta distinguida do ritual completo;
+- Filtro oficial único;
+- protocolo vigente criado;
+- Matriz atualizada;
+- Pull Request atualizado;
+- comparação confirma ausência de alteração no manuscrito;
+- regressões históricas permanecem apenas em arquivos congelados.
+
+A conclusão será registrada após a comparação final dos commits.
