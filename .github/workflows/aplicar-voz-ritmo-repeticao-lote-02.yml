@@ -7,6 +7,7 @@ on:
       - revisao-b-global-2026-07-20
     paths:
       - "scripts/aplicar_voz_ritmo_repeticao_lote_02.py"
+      - "scripts/sincronizar_estado_pos_voz_lote_02.py"
       - ".github/workflows/aplicar-voz-ritmo-repeticao-lote-02.yml"
   workflow_dispatch:
 
@@ -42,6 +43,9 @@ jobs:
       - name: Medir fronteira editorial Kindle
         run: python scripts/medir_amostra_kindle.py
 
+      - name: Sincronizar estado editorial
+        run: python scripts/sincronizar_estado_pos_voz_lote_02.py
+
       - name: Validar integridade e escopo
         shell: bash
         run: |
@@ -54,6 +58,9 @@ jobs:
           full = Path('manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md').read_text(encoding='utf-8')
           mark7 = Path('marcos-revisao-b/MARCO_07_MANUSCRITO_COMPLETO_REV_B.md').read_text(encoding='utf-8')
           kindle = Path('revisao-b-global/16_MEDICAO_EDITORIAL_10_PORCENTO_KINDLE.md').read_text(encoding='utf-8')
+          ler = Path('LER_AGORA_REPOSICIONESE_REV_B.md').read_text(encoding='utf-8')
+          registro = Path('direcao-editorial/12_REGISTRO_MESTRE_DE_CONTEXTO.md').read_text(encoding='utf-8')
+          matriz = Path('direcao-editorial/13_MATRIZ_DE_NAO_PERDA.md').read_text(encoding='utf-8')
 
           chapter_re = re.compile(r'^# CAP[IÍ]TULO\s+(\d+)\b', flags=re.M | re.I)
           assert [int(x) for x in chapter_re.findall(p3)] == [7, 8, 9, 10]
@@ -77,8 +84,13 @@ jobs:
 
           assert 'CAPÍTULO 2 — A MORTE EM VIDA' in kindle
           assert 'O primeiro sinal de retorno' in kindle
+          assert '37,047 palavras' in kindle
+          assert 'voz e ritmo concluídos nos Lotes 01–02' in ler
+          assert 'Lote 03 — Partes V–VI' in ler
+          assert 'Versão:** 3.2' in registro
+          assert 'Versão:** 2.2' in matriz
           assert 'Sua possibilidade de cultivo.' in full
-          print('Validação concluída: Lote 02 refinado; capítulos 1–38, Epílogo, salvaguardas e Kindle preservados.')
+          print('Validação concluída: Lote 02, estado canônico, capítulos 1–38, Epílogo, salvaguardas e Kindle preservados.')
           PY
 
       - name: Versionar passagem e integração
@@ -91,10 +103,13 @@ jobs:
             revisao-b-global/20_ONDA_4_PARTE_IV_REV_B.md \
             manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md \
             marcos-revisao-b/MARCO_07_MANUSCRITO_COMPLETO_REV_B.md \
-            revisao-b-global/16_MEDICAO_EDITORIAL_10_PORCENTO_KINDLE.md
+            revisao-b-global/16_MEDICAO_EDITORIAL_10_PORCENTO_KINDLE.md \
+            LER_AGORA_REPOSICIONESE_REV_B.md \
+            direcao-editorial/12_REGISTRO_MESTRE_DE_CONTEXTO.md \
+            direcao-editorial/13_MATRIZ_DE_NAO_PERDA.md
           if git diff --cached --quiet; then
-            echo "A passagem do Lote 02 já estava integrada."
+            echo "A passagem e o estado do Lote 02 já estavam integrados."
           else
-            git commit -m "Aplica voz, ritmo e repetição no Lote 02"
+            git commit -m "Sincroniza voz, ritmo e estado do Lote 02"
             git push origin HEAD:revisao-b-global-2026-07-20
           fi
