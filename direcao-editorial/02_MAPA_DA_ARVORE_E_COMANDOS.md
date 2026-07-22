@@ -1,153 +1,268 @@
 # Mapa Canônico da Árvore do Discernimento
 
 ## Regra de navegação
+
 O leitor não aprende a Árvore apenas para entender o livro. O livro treina o leitor a pensar como a Árvore.
 
-A metodologia possui uma estrutura, operações de cultivo e um ponto de observação. Essas categorias não devem ser misturadas.
+A metodologia distingue quatro categorias que não devem ser misturadas:
 
-# 1. Estrutura da Árvore
+1. entrada do cultivo;
+2. estrutura da Árvore;
+3. operações e condições de cultivo;
+4. ponto de observação.
+
+---
+
+# 1. ENTRADA DO CULTIVO
+
+## Semente
+
+**Função:** aquilo que entra no processo de cultivo.
+
+Pode ser:
+
+- ideia;
+- experiência;
+- mensagem;
+- informação;
+- interpretação;
+- desejo;
+- decisão;
+- possibilidade.
+
+**Pergunta:** o que entrou neste cultivo?
+
+A Semente não é camada anatômica da Árvore. Ela antecede e participa do cultivo.
+
+A representação editorial completa pode mostrar:
+
+> **Semente → Solo → Raízes → Tronco → Galhos → Frutos.**
+
+Isso não altera a ordem estrutural abaixo.
+
+---
+
+# 2. ESTRUTURA DA ÁRVORE
 
 ## Solo
-**Função:** ambiente interno e externo em que interpretações se tornam férteis.
 
-Inclui crenças, valores, memória, cultura, fé, linguagem, experiências, ambiente, hábitos mentais, telas e modelos de mundo.
+**Função:** ambiente interno e externo em que interpretações, crenças e práticas se tornam férteis.
 
-**Pergunta:** em que ambiente esse modo de funcionar foi cultivado?
+Inclui valores, memória, cultura, fé, linguagem, experiências, hábitos mentais, telas e modelos de mundo.
 
-O solo não é “o fato”. Fato pertence ao Filtro da Sensatez. O solo é a configuração em que o fato será interpretado.
+**Pergunta:** em que ambiente esse modo de funcionar encontrou fertilidade?
+
+O Solo não é o fato. Fato pertence ao Filtro da Sensatez.
 
 ## Raízes
-**Função:** fontes de alimentação invisíveis.
 
-Incluem crenças profundas, lealdades, feridas, vínculos, medos, votos silenciosos, pertencimentos e narrativas herdadas.
+**Função:** fontes de alimentação subterrâneas e atuais.
+
+Incluem crenças profundas, lealdades, feridas, vínculos, medos, votos silenciosos, pertencimentos, recursos e narrativas herdadas.
 
 **Pergunta:** o que continua alimentando essa resposta?
 
+Origem não é destino, e nem todo problema está na Raiz.
+
 ## Tronco
+
 **Função:** sustentação da identidade no mundo real.
 
-Inclui critérios, limites, coerência, autocontrole, soberania interna, autoria e capacidade de manter posição quando existe custo.
+Inclui critérios, limites, coerência, autocontrole, soberania interna, autoria, responsabilidade e capacidade de manter uma posição quando existe custo.
 
-**Pergunta:** eu sustento na prática aquilo que afirmo acreditar?
+**Pergunta:** sustento na prática aquilo que afirmo acreditar?
+
+O Tronco não é dureza. É sustentação com capacidade de flexão e revisão.
 
 ## Galhos
+
 **Função:** áreas da vida em que a estrutura aparece.
 
-Incluem relacionamentos, família, trabalho, fé, corpo, dinheiro, comunicação, sexualidade, maternidade, paternidade, política, pertencimento e propósito.
+Incluem relacionamentos, família, trabalho, fé, corpo, dinheiro, comunicação, sexualidade, maternidade, paternidade, política, pertencimento, descanso e propósito.
 
 **Pergunta:** em qual área esse padrão está produzindo resultado?
 
+Um Galho pode estar saudável enquanto outro pede atenção.
+
 ## Frutos
+
 **Função:** resultados, consequências e evidências visíveis.
 
-Fruto bom não significa vida perfeita. Fruto ruim não significa condenação. O fruto mostra que existe algo a investigar, mas não identifica sozinho a causa.
+Fruto bom não significa vida perfeita. Fruto ruim não significa condenação. O fruto abre investigação, mas não identifica sozinho a causa.
 
 **Pergunta:** o que minha posição atual está produzindo?
 
-# 2. Operações e condições de cultivo
+> **Fruto é evidência, não sentença.**
+
+## Ordem estrutural oficial
+
+> **Solo → Raízes → Tronco → Galhos → Frutos.**
+
+---
+
+# 3. OPERAÇÕES E CONDIÇÕES DE CULTIVO
 
 ## Pragas
-Mecanismos internos ou externos que sugam seiva, deformam percepção ou comprometem qualquer camada da Árvore.
 
-**Pergunta:** o que está drenando energia, distorcendo leitura ou impedindo crescimento?
+Mecanismos internos ou externos que drenam, distorcem, capturam necessidades legítimas ou comprometem qualquer camada.
+
+**Pergunta:** o que está consumindo energia, deformando leitura ou impedindo revisão?
+
+Praga é mecanismo, nunca pessoa, grupo, diagnóstico, emoção difícil ou dor.
 
 ## Poda
-Interrupção consciente de hábitos, permissões, narrativas, ambientes, vínculos ou respostas que continuam produzindo frutos incompatíveis.
 
-**Pergunta:** o que precisa deixar de ser alimentado?
+Interrupção consciente de mecanismos, acessos, hábitos, permissões, narrativas, ambientes, práticas ou vínculos que continuam produzindo frutos incompatíveis.
+
+**Pergunta:** o que precisa deixar de ser alimentado, perder acesso, reduzir ou mudar?
+
+Poda não é vingança, punição nem ruptura impulsiva.
 
 ## Nova Semente
-Decisão, prática, limite, resposta ou configuração que será cultivada com repetição.
+
+Prática, decisão, limite, resposta, interpretação ou configuração escolhida para ser cultivada com repetição.
 
 **Pergunta:** o que começo a sustentar agora?
 
-A semente não produz fruto por desejo. Precisa de solo, tempo, cuidado, repetição e posicionamento.
+A Nova Semente não produz fruto por desejo. Precisa de Solo, tempo, cuidado, repetição, revisão e posicionamento.
 
-# 3. Ponto de observação
+---
+
+# 4. PONTO DE OBSERVAÇÃO
 
 ## Mirante do Discernimento
-Não é uma parte anatômica da Árvore. É o lugar metacognitivo de onde o leitor observa a estrutura.
+
+Não é parte anatômica da Árvore nem ferramenta concorrente.
+
+É o ponto metacognitivo alcançado pelo comando **Suba na Árvore**.
 
 **Pergunta:** de onde estou pensando, sentindo, interpretando e decidindo — da dor, do medo, do grupo, da culpa, da pressa ou do discernimento?
 
-O Cajueiro de Pirangi inaugura esse ponto de vista.
+O Cajueiro de Pirangi inaugura essa perspectiva.
 
-# 4. Duas ordens de leitura
+O leitor não precisa decorar o Mirante como um sistema independente. Precisa reconhecer o movimento de sair da reação, observar e depois descer para agir.
 
-## Ordem estrutural
-Solo → Raízes → Tronco → Galhos → Frutos.
+---
 
-Pragas podem atingir qualquer camada. Poda intervém. Nova Semente reinicia o cultivo. O Mirante oferece perspectiva.
+# 5. ORDEM DE INVESTIGAÇÃO
 
-## Ordem de investigação
-1. Olhe os Frutos.
+1. Observe os Frutos.
 2. Localize o Galho.
-3. Verifique o Tronco.
-4. Volte para a Raiz.
-5. Examine o Solo.
-6. Identifique Pragas.
+3. Examine o Tronco.
+4. Volte às Raízes.
+5. Examine o Solo e a Semente que entrou.
+6. Identifique possíveis Pragas.
 7. Passe pelo Filtro da Sensatez.
-8. Defina Poda e Nova Semente.
-9. Desça da Árvore e sustente o posicionamento.
+8. Defina a Poda.
+9. Escolha a Nova Semente.
+10. Desça da Árvore e sustente a ação.
+11. Observe os novos frutos.
 
-# 5. Comandos oficiais
+Essa é a lógica investigativa. Ela pode ser condensada na rota curta ou desenvolvida no ritual completo sem criar protocolos diferentes.
 
-## Olhe os Frutos
-**Uso:** início de uma investigação. Suspende a defesa da intenção e começa pela evidência.
+---
 
-“Observe os frutos” pode aparecer como explicação, mas o comando editorial e visual será **Olhe os Frutos**.
+# 6. COMANDOS OFICIAIS
+
+## Observe os Frutos
+
+**Uso:** início da investigação. Suspende a defesa da intenção e começa pela evidência.
+
+`Olhe os Frutos` pode aparecer apenas em fala coloquial ou registro histórico. Em títulos, boxes, artes e materiais canônicos, usar **Observe os Frutos**.
 
 ## Suba na Árvore
+
 **Uso:** quando a pessoa está reagindo, julgando rapidamente, emocionalmente inundada ou enxergando apenas um fragmento.
 
-Significa sair por alguns instantes de dentro da reação, ir ao Mirante e observar o panorama, a estrutura e os possíveis nexos.
+Significa alcançar o Mirante por alguns instantes e ampliar o panorama.
 
-Subir não é negar emoção. É impedir que a emoção seja a única intérprete.
+Subir não nega emoção. Impede que ela seja a única intérprete.
 
 ## Deixe na Árvore
+
 **Uso:** quando julgamento, culpa, opinião, rótulo, acusação ou interpretação ainda não foram examinados.
 
-A pessoa não incorpora nem rejeita imediatamente. Coloca sob observação, sobe, examina e só depois decide se recolhe, corrige ou descarta.
+A pessoa não incorpora nem rejeita imediatamente. Coloca sob observação e depois decide.
 
-Nas falas mais coloquiais da autora pode aparecer “deixa na árvore”. Em títulos, comandos, boxes e artes, padronizar **Deixe na Árvore**.
+Na oralidade, `deixa na árvore` pode aparecer. Em títulos, comandos, boxes e artes, usar **Deixe na Árvore**.
 
-## Volte para a Raiz
-**Uso:** quando um fruto ou padrão se repete e precisa ter sua fonte de alimentação investigada.
+## Volte às Raízes
 
-Buscar origem nunca significa transformar origem em desculpa nem presumir que todo problema esteja necessariamente na raiz.
+**Uso:** quando um fruto ou padrão se repete e a fonte de alimentação precisa ser investigada.
+
+Buscar origem nunca significa transformá-la em desculpa ou presumir que toda causa está na Raiz.
+
+`Volte às Raízes e ao Solo` é aplicação ampliada no ritual completo, não um comando adicional.
 
 ## Passe pelo Filtro da Sensatez
-**Uso:** antes de aceitar uma narrativa, aderir a uma influência, reagir, podar ou tomar decisão com custo real.
+
+**Uso:** antes de aceitar narrativa, aderir a influência, reagir, podar ou tomar decisão com custo real.
+
+O Filtro oficial possui doze perguntas.
 
 ## Desça da Árvore
-**Uso:** quando já existe discernimento suficiente para uma ação responsável.
+
+**Uso:** quando existe discernimento suficiente para ação responsável.
 
 Encerra a análise e convoca limite, conversa, reparação, pedido de ajuda, mudança de rota, prática ou decisão concreta.
 
-Metacognição sem descida pode virar ruminação. O método não autoriza morar na análise.
+> **Subir sem descer pode virar ruminação. Descer sem subir pode virar reação.**
 
-# 6. Comandos do pensamento
+---
+
+# 7. COMANDOS DO PENSAMENTO
 
 ## Pense comigo
-Acompanhe o raciocínio até o fim antes de concordar ou discordar.
+
+Acompanhe um raciocínio antes de concordar ou discordar.
 
 ## Pense nisso
-Pare. Nomeie. Traga à consciência antes de responder.
+
+Pare, nomeie e traga à consciência antes de responder.
 
 ## Repense isso
-Revise uma interpretação, crença ou configuração à luz de evidências, lógica, coerência e frutos.
 
-# 7. Sequência operacional resumida
-1. Olhe os Frutos.
-2. Deixe o julgamento na Árvore.
-3. Suba na Árvore.
-4. Localize Galho, Tronco, Raiz, Solo e possíveis Pragas.
-5. Passe pelo Filtro da Sensatez.
-6. Escolha a Poda e a Nova Semente.
-7. Desça da Árvore.
-8. Sustente o posicionamento e volte aos frutos para verificar o resultado.
+Revise uma interpretação, crença ou configuração à luz de evidência, lógica, coerência e frutos.
 
-# Cajueiro de Pirangi
-O storytelling inaugura o comando **Suba na Árvore**. Debaixo da experiência, o leitor sente peso, sombra, beleza, urgência ou confusão. No Mirante, percebe estrutura, expansão, apoios, conexões e direção.
+Esses comandos são convites de raciocínio. Não constituem outro método.
 
-A história não é ornamento. É treinamento de perspectiva.
+---
+
+# 8. ROTA CURTA DE NAVEGAÇÃO
+
+1. **Observe os Frutos.**
+2. **Deixe na Árvore** a conclusão ainda não examinada.
+3. **Suba na Árvore** e localize Galho, Tronco, Raízes, Solo, Semente e possíveis Pragas.
+4. **Passe pelo Filtro da Sensatez.**
+5. Defina **Poda e Nova Semente**.
+6. **Desça da Árvore** e aja.
+7. Observe os novos frutos.
+
+A rota curta serve para uso cotidiano e memorização.
+
+---
+
+# 9. RITUAL COMPLETO DE DEZ MOVIMENTOS
+
+O Capítulo 38 preserva a aplicação completa:
+
+1. Observe os Frutos.
+2. Suba na Árvore.
+3. Identifique o Galho.
+4. Examine o Tronco.
+5. Volte às Raízes e ao Solo.
+6. Reconheça Pragas e Jaulas.
+7. Passe pelo Filtro da Sensatez.
+8. Defina a Poda.
+9. Escolha a Nova Semente.
+10. Desça da Árvore.
+
+O ritual completo não é um segundo método. É a rota expandida para decisões que exigem investigação mais cuidadosa.
+
+---
+
+# 10. REGRA FINAL
+
+> **A Árvore organiza. O Filtro examina. A Jaula interrompe. A Poda retira alimento ou acesso. A Nova Semente ocupa o espaço. O posicionamento transforma discernimento em conduta.**
+
+Nenhuma nova ferramenta, sequência ou nome será acrescentado sem demonstrar ganho real e sem registrar a decisão na governança.
