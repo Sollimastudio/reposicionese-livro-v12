@@ -1,0 +1,22 @@
+id_visual,codigo_img,titulo_visual,familia,local_no_manuscrito,classe,prioridade,orientacao,legenda,texto_alternativo,autoria_licenca,status,observacoes
+VIS-001,,Capa oficial,Identidade e capa,Capa/folha de rosto,CANONICA,essencial,,,,,pendente_inspecao,Selecionar após inspeção dos JPEGs
+VIS-002,,Ruído externo,Pré-livro,Antes de Você já está posicionada,CANONICA,alta,,,,,pendente_inspecao,
+VIS-003,,Cajueiro de Pirangi,Pré-livro,O Cajueiro de Pirangi,CANONICA,essencial,,,,,pendente_inspecao,
+VIS-004,,Árvore canônica completa,Árvore canônica,O mapa da Árvore,CANONICA,essencial,,,,,pendente_inspecao,
+VIS-005,,Seis comandos da Árvore,Árvore canônica,Os comandos da Árvore,CANONICA,essencial,,,,,pendente_inspecao,
+VIS-006,,Filtro da Sensatez,Fundamentos,O Filtro da Sensatez,CANONICA,essencial,,,,,pendente_inspecao,
+VIS-007,,O que este método não autoriza,Blindagem ética,Pré-livro,CANONICA,essencial,,,,,pendente_inspecao,
+VIS-008,,Vitrine: discurso comportamento e fruto,Identidade,Capítulo 1,CANONICA,média,,,,,pendente_inspecao,
+VIS-009,,Celular configurado,Autoria e repetição,Capítulo 4,CANONICA,alta,,,,,pendente_inspecao,
+VIS-010,,Solo Raiz Corrente e Mapa,Árvore canônica,Partes II e III,CANONICA,essencial,,,,,pendente_inspecao,
+VIS-011,,Pedido limite acordo e exigência,Ferramentas,Parte IV,CANONICA,essencial,,,,,pendente_inspecao,
+VIS-012,,Galhos e transferência de recursos,Árvore canônica,Parte V,CANONICA,alta,,,,,pendente_inspecao,
+VIS-013,,Critérios de reconhecimento de Praga,Pragas e intervenção,Parte VI,CANONICA,alta,,,,,pendente_inspecao,
+VIS-014,,A Jaula está aberta,Jaula,Intervenções narrativas,CANONICA,média,,,,,pendente_inspecao,
+VIS-015,,Sono da negligência,Jaula,Capítulo 22,CANONICA,média,,,,,pendente_inspecao,
+VIS-016,,Sofá quente da mentira,Jaula,Capítulo 23,CANONICA,média,,,,,pendente_inspecao,
+VIS-017,,14 Tipos de Posicionamento,Tipos e leis,Capítulo 30,CANONICA,essencial,,,,,validacao_autoral_pendente,Validar Espelho Partido Espelho e Vitrine
+VIS-018,,Percurso da Poda,Pragas e intervenção,Capítulo 31,CANONICA,essencial,,,,,pendente_inspecao,
+VIS-019,,Nova Semente,Pragas e intervenção,Após Poda,CANONICA,alta,,,,,pendente_inspecao,
+VIS-020,,Sete Frutos,Encerramento,Parte VIII,CANONICA,alta,,,,,pendente_inspecao,
+VIS-021,,Retorno ao Cajueiro,Encerramento,Epílogo,CANONICA,alta,,,,,pendente_inspecao,
