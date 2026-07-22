@@ -3,17 +3,19 @@
 **Status:** em verificação final  
 **Manuscrito:** nenhuma alteração autorizada ou aplicada
 
-## Verificações previstas
+## Verificações concluídas
 
 - arquivos canônicos apontam para Marco 07;
 - comandos oficiais reconciliados;
 - Semente distinguida da estrutura;
 - rota curta distinguida do ritual completo;
-- Filtro oficial único;
+- Filtro oficial único na governança;
 - protocolo vigente criado;
-- Matriz atualizada;
-- Pull Request atualizado;
-- comparação confirma ausência de alteração no manuscrito;
-- regressões históricas permanecem apenas em arquivos congelados.
+- Matriz atualizada.
 
-A conclusão será registrada após a comparação final dos commits.
+## Verificações restantes
+
+- atualizar título e corpo do Pull Request;
+- comparar commits e confirmar ausência de alteração no manuscrito;
+- buscar regressões ativas de nomenclatura;
+- registrar o veredito final.
