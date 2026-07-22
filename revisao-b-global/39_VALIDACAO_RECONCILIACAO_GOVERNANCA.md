@@ -19,3 +19,5 @@
 - comparar commits e confirmar ausência de alteração no manuscrito;
 - buscar regressões ativas de nomenclatura;
 - registrar o veredito final.
+
+Nenhuma conclusão será declarada antes dessas confirmações.
