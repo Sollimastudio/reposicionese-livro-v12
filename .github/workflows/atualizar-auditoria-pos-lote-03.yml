@@ -1,0 +1,69 @@
+name: Atualizar Auditoria — Pós-Lote 03
+
+on:
+  push:
+    branches:
+      - revisao-b-global-2026-07-20
+    paths:
+      - "scripts/atualizar_auditoria_pos_lote_03.py"
+      - ".github/workflows/atualizar-auditoria-pos-lote-03.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-auditoria-pos-lote-03-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Obter repositório
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
+          fetch-depth: 0
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Atualizar lógica da auditoria
+        run: python scripts/atualizar_auditoria_pos_lote_03.py
+
+      - name: Regenerar auditoria técnica
+        run: python scripts/auditar_estado_completo_revisao_b.py
+
+      - name: Validar estado pós-Lote 03
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          report = Path('revisao-b-global/49_AUDITORIA_TECNICA_AUTOMATICA_ESTADO_ATUAL.md').read_text(encoding='utf-8')
+          assert 'Lote 04 de voz, ritmo e repetição' in report
+          assert 'A Parte VII, a Parte VIII e o Epílogo concentram' in report
+          assert 'Lotes 03–04 de voz, ritmo e repetição' not in report
+          assert 'APROVADO ESTRUTURALMENTE' in report
+          assert 'arquivos binários de imagem encontrados na branch: **0**' in report
+          print('Auditoria técnica sincronizada com o estado pós-Lote 03.')
+          PY
+
+      - name: Versionar auditoria atualizada
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add \
+            scripts/auditar_estado_completo_revisao_b.py \
+            revisao-b-global/49_AUDITORIA_TECNICA_AUTOMATICA_ESTADO_ATUAL.md
+          if git diff --cached --quiet; then
+            echo "Auditoria já estava atualizada."
+          else
+            git commit -m "Atualiza auditoria técnica após Lote 03"
+            git push origin HEAD:revisao-b-global-2026-07-20
+          fi
