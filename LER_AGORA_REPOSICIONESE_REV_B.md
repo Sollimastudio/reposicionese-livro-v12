@@ -3,7 +3,7 @@
 
 **Autora:** Sol Lima  
 **Método:** Árvore do Discernimento  
-**Estado:** manuscrito textual completo em Revisão B; auditorias globais e especializadas em andamento  
+**Estado:** manuscrito textual completo; governança reconciliada; auditorias localizadas e especializadas pendentes  
 **PR:** #2 — rascunho, sem merge
 
 ---
@@ -23,7 +23,8 @@ Estado confirmado:
 - aproximadamente 36.859 palavras editoriais;
 - Revisão A preservada;
 - Marcos 01–06 preservados;
-- Marco 07 vigente.
+- Marco 07 vigente;
+- governança reconciliada e protegida por validação automática.
 
 A reconstrução por Partes foi encerrada. O manuscrito não deve voltar automaticamente à Parte I nem reiniciar sua arquitetura.
 
@@ -78,7 +79,7 @@ Isso não transforma Semente em camada anatômica; ela é aquilo que entra no cu
 
 1. Observe os Frutos.
 2. Deixe a conclusão ainda não examinada na Árvore.
-3. Suba e localize Galho, Tronco, Raízes, Solo e possíveis Pragas.
+3. Suba e localize Galho, Tronco, Raízes, Solo, Semente e possíveis Pragas.
 4. Passe pelo Filtro da Sensatez.
 5. Defina Poda e Nova Semente.
 6. Desça e aja.
@@ -92,11 +93,13 @@ O Capítulo 38 preserva dez movimentos de aplicação completa. A rota curta e o
 
 # ARQUIVOS DE ESTADO
 
-## Auditoria global
+## Auditoria e reconciliação
 
 - [Auditoria Global de Coerência](revisao-b-global/35_AUDITORIA_GLOBAL_COERENCIA_REV_B.md)
-- [Ponto de retomada pós-auditoria](revisao-b-global/36_PONTO_DE_RETOMADA_POS_AUDITORIA_GLOBAL.md)
+- [Ponto de retomada pós-reconciliação](revisao-b-global/36_PONTO_DE_RETOMADA_POS_AUDITORIA_GLOBAL.md)
 - [Resumo executivo](revisao-b-global/37_RESUMO_EXECUTIVO_AUDITORIA_GLOBAL.md)
+- [Rastreabilidade da reconciliação](revisao-b-global/38_RASTREABILIDADE_RECONCILIACAO_GOVERNANCA.md)
+- [Validação da reconciliação](revisao-b-global/39_VALIDACAO_RECONCILIACAO_GOVERNANCA.md)
 
 ## Fechamento textual
 
@@ -112,6 +115,7 @@ O Capítulo 38 preserva dez movimentos de aplicação completa. A rota curta e o
 - [Filtro da Sensatez](direcao-editorial/06_FILTRO_DA_SENSATEZ.md)
 - [Registro Mestre de Contexto](direcao-editorial/12_REGISTRO_MESTRE_DE_CONTEXTO.md)
 - [Matriz de Não Perda](direcao-editorial/13_MATRIZ_DE_NAO_PERDA.md)
+- [Protocolo vigente da fase global](direcao-editorial/15_PROTOCOLO_FASE_GLOBAL_POS_MARCO_07.md)
 
 ---
 
@@ -149,6 +153,6 @@ A Revisão B textual está completa, mas a publicação ainda depende de:
 
 # PRÓXIMA ETAPA
 
-A etapa atual é a **Reconciliação de Governança**, sem reescrita do manuscrito.
+A **Reconciliação de Governança está concluída**.
 
-Depois dela, a próxima passagem textual autorizável será localizada e global — nunca uma nova reconstrução por Partes.
+A próxima passagem textual autorizável é a **Rodada de Coerência Metodológica Localizada**, limitada aos pontos já auditados e sem reabrir a arquitetura ou as Partes.
