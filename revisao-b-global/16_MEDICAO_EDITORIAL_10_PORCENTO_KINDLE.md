@@ -10,12 +10,12 @@
 
 # 1. RESULTADO
 
-- Total editorial estimado: **33,209 palavras**;
-- alvo de 10%: **3,321 palavras**;
-- linha aproximada da fronteira: **749**;
-- seção em que a fronteira cai: **Desaparecer não é apenas ficar em silêncio**;
-- próxima seção identificada: **O apagamento pode receber elogios**;
-- texto na linha de fronteira: `Ela não apenas escuta influências.`.
+- Total editorial estimado: **33,688 palavras**;
+- alvo de 10%: **3,369 palavras**;
+- linha aproximada da fronteira: **765**;
+- seção em que a fronteira cai: **O apagamento pode receber elogios**;
+- próxima seção identificada: **Quando adaptação vira identidade**;
+- texto na linha de fronteira: `“Ele é sempre disponível.”`.
 
 ---
 
@@ -24,18 +24,18 @@
 | Marco editorial | Posição | Percentual aproximado de entrada |
 |---|---:|---:|
 | VOCÊ JÁ ESTÁ POSICIONADA | dentro | 0.17% |
-| OBSERVE OS FRUTOS | dentro | 0.77% |
-| O QUE ESTE LIVRO VAI TREINAR EM VOCÊ | dentro | 1.22% |
-| SUA PRIMEIRA SUBIDA | dentro | 1.67% |
-| COMO USAR ESTE LIVRO | dentro | 2.07% |
-| PARTE I — OBSERVE OS FRUTOS | dentro | 5.95% |
-| CAPÍTULO 1 — A VITRINE DA VIDA | dentro | 6.38% |
-| CAPÍTULO 2 — A MORTE EM VIDA | dentro | 9.49% |
-| PARTE II — SEMENTE, SOLO E CONFIGURAÇÃO | depois | 13.36% |
-| CAPÍTULO 3 — A SEMENTE E O SOLO | depois | 14.01% |
-| CAPÍTULO 4 — O CELULAR CONFIGURADO | depois | 17.55% |
-| CAPÍTULO 5 — O SOLO DIGITAL | depois | 20.72% |
-| CAPÍTULO 6 — CRENÇAS, VALORES E MODO OPERANTE | depois | 24.40% |
+| OBSERVE OS FRUTOS | dentro | 0.76% |
+| O QUE ESTE LIVRO VAI TREINAR EM VOCÊ | dentro | 1.21% |
+| SUA PRIMEIRA SUBIDA | dentro | 1.65% |
+| COMO USAR ESTE LIVRO | dentro | 2.05% |
+| PARTE I — OBSERVE OS FRUTOS | dentro | 5.87% |
+| CAPÍTULO 1 — A VITRINE DA VIDA | dentro | 6.29% |
+| CAPÍTULO 2 — A MORTE EM VIDA | dentro | 9.36% |
+| PARTE II — SEMENTE, SOLO E CONFIGURAÇÃO | depois | 13.18% |
+| CAPÍTULO 3 — A SEMENTE E O SOLO | depois | 13.82% |
+| CAPÍTULO 4 — O CELULAR CONFIGURADO | depois | 17.30% |
+| CAPÍTULO 5 — O SOLO DIGITAL | depois | 20.43% |
+| CAPÍTULO 6 — CRENÇAS, VALORES E MODO OPERANTE | depois | 24.05% |
 
 ---
 
@@ -58,19 +58,19 @@ A decisão de fazer novos cortes, deslocamentos ou acréscimos deverá considera
 # 4. CONTEXTO DA FRONTEIRA
 
 ```text
-743: O que deve desejar.
-744: 
-745: O que pode recusar.
-746: 
-747: A quem precisa agradar para continuar pertencendo.
-748: 
-749: Ela não apenas escuta influências.
-750: 
-751: Entrega a elas a função de dizer quem é.
-752: 
-753: Pode continuar pronunciando opiniões.
-754: 
-755: Mas já não sabe quais examinou, quais herdou e quais repete para não perder lugar.
+759: “Ela aguenta tudo.”
+760: 
+761: “Ele nunca reclama.”
+762: 
+763: “Ela vive para a família.”
+764: 
+765: “Ele é sempre disponível.”
+766: 
+767: “Ela não cria problema.”
+768: 
+769: Alguns elogios celebram virtudes reais.
+770: 
+771: Outros premiam a ausência da pessoa que os recebe.
 ```
 
 ---
