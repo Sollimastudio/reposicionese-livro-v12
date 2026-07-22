@@ -1,0 +1,94 @@
+name: Aplicar Voz, Ritmo e Repetição — Lote 04
+
+on:
+  push:
+    branches:
+      - revisao-b-global-2026-07-20
+    paths:
+      - "scripts/aplicar_voz_ritmo_repeticao_lote_04.py"
+      - "scripts/sincronizar_estado_pos_voz_lote_04.py"
+      - ".github/workflows/aplicar-voz-ritmo-repeticao-lote-04.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: voz-ritmo-lote-04-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  aplicar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Obter repositório
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
+          fetch-depth: 0
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Aplicar passagem de voz e ritmo
+        run: python scripts/aplicar_voz_ritmo_repeticao_lote_04.py
+      - name: Regenerar manuscrito completo e Marco 07
+        run: python scripts/gerar_revisao_b_marco_07.py
+      - name: Medir fronteira editorial Kindle
+        run: python scripts/medir_amostra_kindle.py
+      - name: Sincronizar estado editorial
+        run: python scripts/sincronizar_estado_pos_voz_lote_04.py
+      - name: Validar integridade e escopo
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          p7 = Path('revisao-b-global/29_ONDA_7_PARTE_VII_REV_B.md').read_text(encoding='utf-8')
+          p8 = Path('revisao-b-global/32_ONDA_8_PARTE_VIII_EPILOGO_REV_B.md').read_text(encoding='utf-8')
+          full = Path('manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md').read_text(encoding='utf-8')
+          mark = Path('marcos-revisao-b/MARCO_07_MANUSCRITO_COMPLETO_REV_B.md').read_text(encoding='utf-8')
+          chapter_re = re.compile(r'^# CAP[IÍ]TULO\s+(\d+)\b', re.M|re.I)
+          assert [int(x) for x in chapter_re.findall(p7)] == list(range(27,33))
+          assert [int(x) for x in chapter_re.findall(p8)] == list(range(33,39))
+          for text in (full, mark):
+              assert [int(x) for x in chapter_re.findall(text)] == list(range(1,39))
+              assert len(re.findall(r'^# EP[IÍ]LOGO\b', text, re.M|re.I)) == 1
+          official = [
+              '1. Isso é verdadeiro?', '2. Tem lógica?', '3. Tem evidência?',
+              '4. É justo?', '5. É nobre?', '6. Constrói vínculos ou alimenta divisão?',
+              '7. Resistiria ao tempo?', '8. Que fruto produz a curto, médio e longo prazo?',
+              '9. É fato, narrativa ou manipulação?', '10. Estou reagindo ou discernindo?',
+              '11. Qual parte da Árvore está falando?',
+              '12. O que uma pessoa posicionada faria com essa informação?'
+          ]
+          for phrase in official:
+              assert phrase in p7, phrase
+          assert 'Os Sete Frutos do Posicionamento' in p8
+          assert 'Nenhum grupo pensará automaticamente por mim' in p8
+          assert 'Sua possibilidade de cultivo.' in p8
+          assert '[VALIDAÇÃO AUTORAL PENDENTE]' in p7
+          assert 'A JAULA ESTÁ ABERTA.' in p8
+          assert 'voz e ritmo concluídos nos Lotes 01–04' in Path('LER_AGORA_REPOSICIONESE_REV_B.md').read_text(encoding='utf-8')
+          print('Lote 04 validado: capítulos, Filtro, Tipos, Frutos, final, Epílogo e pendências preservados.')
+          PY
+      - name: Versionar passagem e integração
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add \
+            revisao-b-global/29_ONDA_7_PARTE_VII_REV_B.md \
+            revisao-b-global/32_ONDA_8_PARTE_VIII_EPILOGO_REV_B.md \
+            manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md \
+            marcos-revisao-b/MARCO_07_MANUSCRITO_COMPLETO_REV_B.md \
+            revisao-b-global/16_MEDICAO_EDITORIAL_10_PORCENTO_KINDLE.md \
+            LER_AGORA_REPOSICIONESE_REV_B.md \
+            direcao-editorial/12_REGISTRO_MESTRE_DE_CONTEXTO.md \
+            direcao-editorial/13_MATRIZ_DE_NAO_PERDA.md
+          if git diff --cached --quiet; then
+            echo "Lote 04 já integrado."
+          else
+            git commit -m "Sincroniza voz, ritmo e estado do Lote 04"
+            git push origin HEAD:revisao-b-global-2026-07-20
+          fi
