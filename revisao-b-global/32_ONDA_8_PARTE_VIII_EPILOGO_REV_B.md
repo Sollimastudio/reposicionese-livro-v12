@@ -16,17 +16,35 @@ O livro não termina com uma promessa de transformação instantânea. Termina d
 # CAPÍTULO 33 — A NOVA SEMENTE
 ## Mudança não começa grande; começa repetível
 
-Você observou frutos, subiu na Árvore, localizou Galhos, examinou Tronco, Raízes, Mapas e Solo, reconheceu Pragas, passou pelo Filtro e definiu uma Poda.
+Você observou frutos.
+
+Subiu na Árvore.
+
+Localizou Galhos.
+
+Examinou Tronco, Raízes, Mapas e Solo.
+
+Reconheceu Pragas.
+
+Passou pelo Filtro.
+
+Definiu uma Poda.
 
 Agora surge uma pergunta que muita gente esquece:
 
 > O que será plantado no lugar?
 
-Retirar um hábito não cria automaticamente outro saudável; encerrar uma relação não ensina sozinho a construir um novo modo de vínculo; sair de um grupo não produz identidade. Reconhecer uma crença não instala uma resposta nova, e dizer não uma vez não constrói limite sustentado.
+Retirar um hábito não cria automaticamente um hábito saudável.
 
-A Poda interrompe.
+Encerrar uma relação não ensina sozinho a construir outro modo de vínculo.
 
-A Nova Semente inicia cultivo.
+Sair de um grupo não produz identidade.
+
+Reconhecer uma crença não instala uma resposta nova.
+
+Dizer não uma vez não constrói limite sustentado.
+
+A Poda interrompe; a Nova Semente inicia cultivo.
 
 ## O que é uma Nova Semente
 
@@ -74,9 +92,21 @@ Comece pequeno o suficiente para entrar na vida e sério o suficiente para alter
 
 ## Desejo não é cultivo
 
-Você pode desejar paz e repetir guerra; desejar limite e explicar o não até ele virar sim; desejar liberdade e manter todas as permissões antigas; desejar identidade e pedir à plateia que confirme quem é; desejar maturidade e evitar todo desconforto.
+Você pode desejar paz e repetir guerra.
 
-O desejo importa porque mostra direção. Mas cultivo é feito de práticas.
+Desejar limite e continuar explicando o não até ele virar sim.
+
+Desejar liberdade e manter todas as permissões antigas.
+
+Desejar identidade e passar o dia pedindo à plateia que confirme quem é.
+
+Desejar maturidade e evitar todo desconforto.
+
+O desejo importa.
+
+Mostra direção.
+
+Mas cultivo é feito de práticas.
 
 > **LEI 3 — DESLIGUE O PILOTO AUTOMÁTICO.**
 >
@@ -118,7 +148,23 @@ A mente gosta de mudanças dramáticas porque elas oferecem sensação de recome
 
 Mudanças sustentadas costumam crescer de atos menos cinematográficos.
 
-Uma conversa marcada, uma resposta adiada por vinte minutos, uma fonte verificada, um pedido feito sem desculpa, uma consulta, um limite repetido com a mesma linguagem, uma hora protegida, uma transferência automática, uma noite sem entrar na discussão.
+Uma conversa marcada.
+
+Uma resposta adiada por vinte minutos.
+
+Uma fonte verificada.
+
+Um pedido feito sem desculpa.
+
+Uma consulta.
+
+Um limite repetido com a mesma linguagem.
+
+Uma hora protegida.
+
+Uma transferência automática.
+
+Uma noite sem entrar na discussão.
 
 Uma decisão pequena não resolve a vida inteira.
 
@@ -180,21 +226,29 @@ Escreva:
 # CAPÍTULO 34 — CULTIVO, REPETIÇÃO E REVISÃO
 ## A consciência abre a porta; a prática atravessa
 
-Compreender produz possibilidade.
+Compreender produz possibilidade, não incorporação automática. Você pode viver uma leitura transformadora e voltar ao modo anterior quando a pressão chega.
 
-Não garante incorporação.
-
-Você pode viver uma leitura transformadora e voltar ao modo anterior quando a pressão chega.
-
-Isso não prova que nada mudou.
-
-Mostra que o novo ainda precisa de cultivo.
+Isso não prova que nada mudou; mostra que o novo ainda precisa de cultivo.
 
 ## O novo pode parecer estranho
 
 Uma resposta saudável pode parecer errada quando o sistema antigo não a reconhece.
 
-O limite pode parecer egoísmo; o descanso, irresponsabilidade; a paz, vazio; uma relação estável, falta de emoção. Questionar pode parecer deslealdade, receber ajuda pode parecer fracasso, cobrar pelo trabalho pode parecer arrogância e admitir dúvida pode parecer fraqueza.
+O limite pode parecer egoísmo.
+
+O descanso pode parecer irresponsabilidade.
+
+A paz pode parecer vazio.
+
+Uma relação estável pode parecer sem emoção.
+
+Questionar pode parecer deslealdade.
+
+Receber ajuda pode parecer fracasso.
+
+Cobrar pelo trabalho pode parecer arrogância.
+
+Admitir dúvida pode parecer fraqueza.
 
 Mas nem todo desconforto é crescimento.
 
@@ -253,7 +307,17 @@ Serve para impedir que a mente ignore progresso real ou fabrique progresso inexi
 
 ## Recaída não é identidade
 
-Você pode repetir um padrão depois de meses: voltar a dizer sim por medo, compartilhar algo sem verificar, explodir, desaparecer ou procurar aprovação.
+Você pode repetir um padrão depois de meses.
+
+Voltar a dizer sim por medo.
+
+Compartilhar algo sem verificar.
+
+Explodir.
+
+Desaparecer.
+
+Procurar aprovação.
 
 Isso não transforma todo cultivo em fraude.
 
@@ -279,17 +343,7 @@ Também significa repetir conscientemente o que funcionou. O método não foi cr
 
 Pensar por si não significa cultivar sozinho.
 
-Apoio pode vir de:
-
-- amizade madura;
-- família segura;
-- comunidade responsável;
-- terapia;
-- aconselhamento pastoral;
-- supervisão profissional;
-- grupo de apoio;
-- mentoria;
-- orientação jurídica, médica ou financeira.
+Apoio pode vir de amizade madura, família segura, comunidade responsável, terapia, aconselhamento pastoral, supervisão profissional, grupo de apoio, mentoria ou orientação jurídica, médica e financeira.
 
 Escolha apoio que amplie autoria.
 
@@ -301,19 +355,7 @@ Não ocupa o lugar da consciência.
 
 ## Quando a Semente não funciona
 
-Uma prática pode não produzir o fruto esperado.
-
-Talvez esteja mal definida.
-
-Talvez o ambiente precise mudar.
-
-Talvez o problema exija apoio especializado.
-
-Talvez o fruto precise de mais tempo.
-
-Talvez a hipótese estivesse errada.
-
-Talvez a prática cobre um recurso que você ainda não possui.
+Uma prática pode não produzir o fruto esperado porque está mal definida, o ambiente precisa mudar, o problema exige apoio especializado, o fruto precisa de mais tempo, a hipótese estava errada ou a prática cobra um recurso que você ainda não possui.
 
 Revisar não é fracassar.
 
@@ -359,17 +401,7 @@ Metacognição não é uma técnica reservada à crise. É a disciplina de perce
 # CAPÍTULO 35 — O QUE O POSICIONAMENTO PRODUZ
 ## Sinais cotidianos de incorporação
 
-Posicionamento não elimina dor.
-
-Não impede toda rejeição.
-
-Não garante sucesso financeiro.
-
-Não protege contra todas as violências.
-
-Não torna relações simples.
-
-Não oferece controle sobre o comportamento alheio.
+Posicionamento não elimina dor, impede toda rejeição, garante sucesso financeiro, protege contra todas as violências, torna relações simples ou oferece controle sobre o comportamento alheio.
 
 O que pode produzir é outra participação diante da realidade.
 
@@ -465,17 +497,7 @@ Posicionamento incorporado não significa infalibilidade.
 
 Significa reconhecer mais cedo quando saiu do próprio eixo e retornar com menos tempo perdido.
 
-Você percebe.
-
-Nomeia.
-
-Repara.
-
-Pede ajuda.
-
-Revê a prática.
-
-Retoma.
+Você percebe, nomeia, repara, pede ajuda, revê a prática e retoma.
 
 A maturidade não aparece apenas na ausência de erro.
 
@@ -483,15 +505,7 @@ Aparece na qualidade do retorno.
 
 ## Você suporta melhor o custo de não controlar tudo
 
-A outra pessoa pode discordar.
-
-Pode não compreender.
-
-Pode ir embora.
-
-Pode precisar de tempo.
-
-Pode não mudar.
+A outra pessoa pode discordar, não compreender, ir embora, precisar de tempo ou não mudar.
 
 O posicionamento reduz a fantasia de que uma decisão correta controla o desfecho.
 
@@ -679,31 +693,7 @@ A Árvore mantém os frutos conectados.
 # CAPÍTULO 37 — VOLTE AO MAPA DOS FRUTOS
 ## O que mudou, o que não mudou e o que você ainda não sabe
 
-Retome o mapa feito no início.
-
-Relacionamentos.
-
-Família.
-
-Trabalho.
-
-Dinheiro.
-
-Fé.
-
-Corpo.
-
-Limites.
-
-Identidade.
-
-Paz.
-
-Propósito.
-
-Política e pertencimento.
-
-Vida digital.
+Retome o mapa feito no início: relacionamentos, família, trabalho, dinheiro, fé, corpo, limites, identidade, paz, propósito, política e pertencimento, vida digital.
 
 Não procure transformação cinematográfica.
 
@@ -827,15 +817,7 @@ O resultado mais honesto não é:
 
 ## Sua Árvore, seus frutos
 
-Essa frase não significa que tudo foi causado por você.
-
-Não significa que o mundo é justo.
-
-Não significa que abuso é responsabilidade da vítima.
-
-Não significa que contexto não importa.
-
-Não significa que vontade supera qualquer limite material.
+Essa frase não significa que tudo foi causado por você, que o mundo é justo, que abuso é responsabilidade da vítima, que contexto não importa ou que vontade supera qualquer limite material.
 
 Significa:
 
@@ -877,15 +859,7 @@ A porta pode não estar totalmente livre.
 
 Talvez precise de ajuda, dinheiro, proteção, tratamento, tempo ou plano.
 
-Talvez a porta seja interna.
-
-Uma conversa.
-
-Uma permissão que precisa ser retirada.
-
-Um pedido de ajuda.
-
-Parar de se punir.
+Talvez a porta seja interna: uma conversa, uma permissão que precisa ser retirada, um pedido de ajuda ou o fim da autopunição.
 
 A Jaula não promete saída simples.
 

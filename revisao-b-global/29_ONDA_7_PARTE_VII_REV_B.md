@@ -307,13 +307,7 @@ Se este livro exigir obediência sem exame, contradisse o próprio método.
 # CAPÍTULO 28 — A ARTE DE OUVIR VERDADES
 ## Nem toda dor é abuso; nem toda fala dolorosa é verdade
 
-Ouvir uma verdade pode doer.
-
-Ouvir uma mentira também.
-
-Ser confrontada pode gerar vergonha, raiva, medo ou alívio.
-
-Ser humilhada pode produzir emoções semelhantes.
+Ouvir uma verdade pode doer — e ouvir uma mentira também. Confronto e humilhação podem produzir vergonha, raiva, medo ou alívio.
 
 Por isso, desconforto não distingue sozinho correção de violência.
 
@@ -363,17 +357,7 @@ Forma, conteúdo, contexto, poder e padrão completam a leitura.
 
 ## Deixe na Árvore
 
-Quando uma fala toca identidade, a reação tenta decidir imediatamente.
-
-Atacar.
-
-Explicar.
-
-Desaparecer.
-
-Concordar por medo.
-
-Rejeitar tudo.
+Quando uma fala toca identidade, a reação tenta decidir imediatamente: atacar, explicar, desaparecer, concordar por medo ou rejeitar tudo.
 
 **Deixe na Árvore** cria suspensão.
 
@@ -395,19 +379,7 @@ Pergunte:
 
 ## O erro de chamar todo desconforto de violência
 
-Há conversas necessárias que doem.
-
-Receber um não.
-
-Ouvir que uma promessa não foi cumprida.
-
-Reconhecer impacto.
-
-Receber avaliação profissional.
-
-Ser confrontada por contradição.
-
-Descobrir que boa intenção não impediu dano.
+Há conversas necessárias que doem: receber um não, ouvir que uma promessa não foi cumprida, reconhecer impacto, receber avaliação profissional, ser confrontada por contradição ou descobrir que boa intenção não impediu dano.
 
 Chamar todo desconforto de violência elimina capacidade de correção.
 
@@ -440,15 +412,7 @@ Pergunte:
 
 ## O ouvido submetido
 
-Outra pessoa aceita tudo.
-
-Se alguém fala com autoridade, acredita.
-
-Se uma liderança corrige, assume culpa.
-
-Se o parceiro acusa, pede perdão antes de investigar.
-
-Se o grupo desaprova, muda de posição.
+Outra pessoa aceita tudo: se alguém fala com autoridade, acredita; se uma liderança corrige, assume culpa; se o parceiro acusa, pede perdão antes de investigar; se o grupo desaprova, muda de posição.
 
 Isso não é humildade.
 
@@ -511,13 +475,7 @@ Também não precisa virar lâmina para provar coragem.
 
 ## Polarização e escuta
 
-Na polarização, ouvir parece conceder vitória.
-
-Perguntar parece fraqueza.
-
-Reconhecer um ponto do outro parece traição.
-
-Mas escutar não é aderir.
+Na polarização, ouvir parece conceder vitória, perguntar parece fraqueza e reconhecer um ponto do outro parece traição. Mas escutar não é aderir.
 
 É compreender suficientemente antes de responder.
 
@@ -571,13 +529,7 @@ Uma pessoa não é saudável, tóxica ou morna em todas as situações para semp
 
 Essas palavras descrevem modos de posicionamento. Não autorizam dizer que uma pessoa *é* saudável, tóxica ou morna como identidade total. Descreva o comportamento, o contexto, o poder, a repetição e o fruto.
 
-A mesma pessoa pode operar de forma saudável no trabalho, morna na família e tóxica numa discussão política.
-
-Pode amadurecer.
-
-Pode regredir sob pressão.
-
-Pode reconhecer um modo e praticar outro.
+A mesma pessoa pode operar de forma saudável no trabalho, morna na família e tóxica numa discussão política. Pode amadurecer, regredir sob pressão, reconhecer um modo e praticar outro.
 
 ## Posicionamento saudável
 
@@ -663,25 +615,9 @@ Morno é o modo em que ausência de decisão funciona como estratégia para não
 
 ## Sensatez não é metade matemática
 
-Posicionamento saudável não é metade entre agressão e desaparecimento.
+Posicionamento saudável não é metade entre agressão e desaparecimento. É resposta adequada ao contexto: às vezes firme, delicada, pública, privada, imediata ou preparada.
 
-É resposta adequada ao contexto.
-
-Às vezes, firme.
-
-Delicada.
-
-Pública.
-
-Privada.
-
-Imediata.
-
-Preparada.
-
-Sensatez não é temperatura média.
-
-É adequação responsável.
+Sensatez não é temperatura média. É adequação responsável.
 
 > **O QUE ESTE MÉTODO NÃO AUTORIZA**
 >
@@ -706,13 +642,7 @@ Sensatez não é temperatura média.
 # CAPÍTULO 30 — OS 14 TIPOS DE POSICIONAMENTO
 ## Espelhos, não diagnósticos
 
-Os 14 Tipos não dizem quem você é.
-
-Mostram como pode estar operando num contexto.
-
-Uma pessoa pode apresentar mais de um tipo.
-
-Pode mudar conforme o Galho, o poder, o medo e a pressão.
+Os 14 Tipos não dizem quem você é; mostram como pode estar operando num contexto. Uma pessoa pode apresentar mais de um tipo e mudar conforme o Galho, o poder, o medo e a pressão.
 
 Os nomes são imagens pedagógicas.
 
@@ -997,59 +927,21 @@ Mesmo uma Poda necessária pode doer.
 
 Você pode sentir saudade daquilo que não deve retornar.
 
-Chorar uma relação que precisava terminar.
+Você pode chorar uma relação que precisava terminar, sentir culpa depois do limite, estranhar a paz, perder pertencimento ou descobrir que a liberdade possui solidão inicial.
 
-Sentir culpa depois do limite.
-
-Estranhar a paz.
-
-Perder pertencimento.
-
-Descobrir que liberdade possui solidão inicial.
-
-Dor depois da Poda não prova erro.
-
-Alívio também não prova acerto definitivo.
+Dor depois da Poda não prova erro. Alívio também não prova acerto definitivo.
 
 Observe frutos ao longo do tempo.
 
 ## Poda gradual e imediata
 
-Algumas mudanças precisam ser graduais.
-
-Reduzir exposição.
-
-Reorganizar dinheiro.
-
-Construir rede.
-
-Treinar resposta.
-
-Alterar agenda.
-
-Delegar.
-
-Buscar qualificação.
-
-Planejar saída.
+Algumas mudanças precisam ser graduais: reduzir exposição, reorganizar dinheiro, construir rede, treinar resposta, alterar agenda, delegar, buscar qualificação ou planejar saída.
 
 Poda gradual não é covardia quando possui direção e critérios. Quando há segurança, comece pela intervenção menos destrutiva capaz de proteger o que precisa ser protegido e estabeleça critérios de revisão. Isso não obriga tentativas infinitas nem reconciliação. Apenas evita usar intensidade como prova de coragem.
 
 Decisões de difícil reversão pedem mais Filtro, dever cumprido e apoio competente. Risco iminente pode exigir interrupção antes dessa sequência completa.
 
-Outras situações exigem interrupção rápida.
-
-Risco físico.
-
-Fraude.
-
-Violação grave.
-
-Ameaça.
-
-Exposição perigosa.
-
-Conduta que exige denúncia ou proteção.
+Outras situações exigem interrupção rápida: risco físico, fraude, violação grave, ameaça, exposição perigosa ou conduta que exige denúncia ou proteção.
 
 Mesmo nessas situações, procure apoio adequado quando possível.
 
@@ -1148,15 +1040,7 @@ Condensa o método em momentos de pressão.
 
 ## Fruto provável não é certeza
 
-Você pode decidir com cuidado e encontrar resultado inesperado.
-
-Outra pessoa possui liberdade.
-
-O ambiente muda.
-
-Informações faltam.
-
-Acidentes acontecem.
+Você pode decidir com cuidado e encontrar resultado inesperado: outra pessoa possui liberdade, o ambiente muda, informações faltam e acidentes acontecem.
 
 Responsabilidade não é previsão perfeita.
 
@@ -1179,19 +1063,7 @@ Confiança, acordos e posições podem ser provisórios sem serem frágeis: poss
 
 ## O custo da posição
 
-Toda posição real fecha possibilidades.
-
-Dizer sim limita outras escolhas.
-
-Dizer não pode frustrar.
-
-Assumir erro altera imagem.
-
-Mudar de grupo reduz pertencimento.
-
-Manter convicção pode custar aprovação.
-
-Revisar convicção pode custar orgulho.
+Toda posição real fecha possibilidades: dizer sim limita outras escolhas; dizer não pode frustrar; assumir erro altera imagem; mudar de grupo reduz pertencimento; manter convicção pode custar aprovação; revisar convicção pode custar orgulho.
 
 Você não precisa buscar sofrimento.
 
@@ -1297,12 +1169,6 @@ Antes de seguir para Nova Semente e Novos Frutos, verifique:
 - sei quando investigação virou adiamento?
 - defini uma ação concreta para descer da Árvore?
 
-A próxima Parte não será sobre cortar mais.
-
-Será sobre plantar.
-
-Uma Árvore não muda apenas pela retirada do que adoece.
-
-Precisa de nova prática, ambiente, repetição e acompanhamento.
+A próxima Parte não será sobre cortar mais, mas sobre plantar. Uma Árvore não muda apenas pela retirada do que adoece; precisa de nova prática, ambiente, repetição e acompanhamento.
 
 > A Poda abre espaço. A Nova Semente decide o que ocupará esse espaço.
