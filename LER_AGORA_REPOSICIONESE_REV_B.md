@@ -25,7 +25,8 @@ Estado confirmado:
 - Marcos 01–06 preservados;
 - Marco 07 vigente;
 - governança reconciliada e protegida por validação automática;
-- conflitos metodológicos localizados corrigidos e integrados.
+- conflitos metodológicos localizados corrigidos e integrados;
+- trava de extensão e auditoria comparativa de paginação registrada.
 
 A reconstrução por Partes foi encerrada. O manuscrito não deve voltar automaticamente à Parte I nem reiniciar sua arquitetura.
 
@@ -107,6 +108,7 @@ O Capítulo 38 preserva dez movimentos de aplicação completa. A rota curta e o
 - [Auditoria Global de Coerência](revisao-b-global/35_AUDITORIA_GLOBAL_COERENCIA_REV_B.md)
 - [Auditoria técnica automática — estado atual](revisao-b-global/49_AUDITORIA_TECNICA_AUTOMATICA_ESTADO_ATUAL.md)
 - [Laudo completo de estado e conclusão](revisao-b-global/50_LAUDO_COMPLETO_ESTADO_E_CONCLUSAO_REPOSICIONESE.md)
+- [Trava de extensão e auditoria de paginação](revisao-b-global/57_TRAVA_DE_EXTENSAO_E_AUDITORIA_DE_PAGINACAO.md)
 - [Rastreabilidade da reconciliação](revisao-b-global/38_RASTREABILIDADE_RECONCILIACAO_GOVERNANCA.md)
 - [Validação da reconciliação](revisao-b-global/39_VALIDACAO_RECONCILIACAO_GOVERNANCA.md)
 
@@ -127,21 +129,6 @@ O Capítulo 38 preserva dez movimentos de aplicação completa. A rota curta e o
 - [Rastreabilidade — Lote 03](revisao-b-global/51_RASTREABILIDADE_VOZ_RITMO_REPETICAO_LOTE_03.md)
 - [Validação — Lote 03](revisao-b-global/52_VALIDACAO_VOZ_RITMO_LOTE_03.md)
 - [Ponto de retomada — Lote 03](revisao-b-global/53_PONTO_DE_RETOMADA_VOZ_RITMO_LOTE_03.md)
-- [Rastreabilidade — Lote 04](revisao-b-global/54_RASTREABILIDADE_VOZ_RITMO_REPETICAO_LOTE_04.md)
-- [Validação — Lote 04](revisao-b-global/55_VALIDACAO_VOZ_RITMO_LOTE_04.md)
-- [Ponto de retomada pós-voz global](revisao-b-global/56_PONTO_DE_RETOMADA_POS_VOZ_GLOBAL.md)
-- [Rastreabilidade — Lote 04](revisao-b-global/54_RASTREABILIDADE_VOZ_RITMO_REPETICAO_LOTE_04.md)
-- [Validação — Lote 04](revisao-b-global/55_VALIDACAO_VOZ_RITMO_LOTE_04.md)
-- [Ponto de retomada pós-voz global](revisao-b-global/56_PONTO_DE_RETOMADA_POS_VOZ_GLOBAL.md)
-- [Rastreabilidade — Lote 04](revisao-b-global/54_RASTREABILIDADE_VOZ_RITMO_REPETICAO_LOTE_04.md)
-- [Validação — Lote 04](revisao-b-global/55_VALIDACAO_VOZ_RITMO_LOTE_04.md)
-- [Ponto de retomada pós-voz global](revisao-b-global/56_PONTO_DE_RETOMADA_POS_VOZ_GLOBAL.md)
-- [Rastreabilidade — Lote 04](revisao-b-global/54_RASTREABILIDADE_VOZ_RITMO_REPETICAO_LOTE_04.md)
-- [Validação — Lote 04](revisao-b-global/55_VALIDACAO_VOZ_RITMO_LOTE_04.md)
-- [Ponto de retomada pós-voz global](revisao-b-global/56_PONTO_DE_RETOMADA_POS_VOZ_GLOBAL.md)
-- [Rastreabilidade — Lote 04](revisao-b-global/54_RASTREABILIDADE_VOZ_RITMO_REPETICAO_LOTE_04.md)
-- [Validação — Lote 04](revisao-b-global/55_VALIDACAO_VOZ_RITMO_LOTE_04.md)
-- [Ponto de retomada pós-voz global](revisao-b-global/56_PONTO_DE_RETOMADA_POS_VOZ_GLOBAL.md)
 - [Rastreabilidade — Lote 04](revisao-b-global/54_RASTREABILIDADE_VOZ_RITMO_REPETICAO_LOTE_04.md)
 - [Validação — Lote 04](revisao-b-global/55_VALIDACAO_VOZ_RITMO_LOTE_04.md)
 - [Ponto de retomada pós-voz global](revisao-b-global/56_PONTO_DE_RETOMADA_POS_VOZ_GLOBAL.md)
@@ -183,6 +170,8 @@ Nenhum Marco anterior deve ser sobrescrito.
 A Revisão B textual está completa, mas a publicação ainda depende de:
 
 - leitura contínua global após a conclusão dos quatro lotes;
+- auditoria comparativa entre a versão histórica de 286–287 páginas e a Revisão B;
+- classificação do que foi preservado, reescrito, transferido, ainda não integrado ou realmente retirado;
 - revisão psicológica e clínica;
 - revisão teológica;
 - revisão jurídica;
@@ -192,7 +181,10 @@ A Revisão B textual está completa, mas a publicação ainda depende de:
 - preparação e inspeção de EPUB/KPF;
 - preparação gráfica para impressão;
 - prova final;
+- aprovação autoral explícita da extensão impressa;
 - auditoria final da promessa.
+
+A prova técnica automática de 177 páginas não é meta de publicação nem autorização de redução. Nenhum novo corte substancial está autorizado antes da auditoria comparativa.
 
 ---
 
@@ -200,4 +192,4 @@ A Revisão B textual está completa, mas a publicação ainda depende de:
 
 A **Rodada de Coerência Metodológica Localizada está concluída**.
 
-A passagem global de voz, ritmo e repetição foi concluída nos **Lotes 01–04 — Pré-livro, Partes I–VIII e Epílogo**. A próxima etapa é a **leitura contínua global**, seguida das decisões autorais e auditorias especializadas. A pista visual permanece separada porque os binários ainda não foram versionados no repositório.
+A passagem global de voz, ritmo e repetição foi concluída nos **Lotes 01–04 — Pré-livro, Partes I–VIII e Epílogo**. A próxima etapa é a **leitura contínua global com auditoria comparativa de extensão**, seguida das decisões autorais e auditorias especializadas. A pista visual permanece separada porque os binários ainda não foram versionados no repositório.
