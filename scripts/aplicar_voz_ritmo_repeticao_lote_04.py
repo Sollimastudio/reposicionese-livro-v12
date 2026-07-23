@@ -3,6 +3,7 @@
 
 Passagem estritamente estilística. Preserva as 12 perguntas, os 14 Tipos,
 as 14 Leis, os Sete Frutos, o ritual final, o Epílogo e marcações pendentes.
+Execução autorizada e disparada em 2026-07-23.
 """
 from pathlib import Path
 
