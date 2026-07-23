@@ -26,7 +26,8 @@ Estado confirmado:
 - Marco 07 vigente;
 - governança reconciliada e protegida por validação automática;
 - conflitos metodológicos localizados corrigidos e integrados;
-- trava de extensão e auditoria comparativa de paginação registrada.
+- trava de extensão e auditoria comparativa de paginação registrada;
+- certificação editorial pela Skill v1 concluída como análise, sem reescrita.
 
 A reconstrução por Partes foi encerrada. O manuscrito não deve voltar automaticamente à Parte I nem reiniciar sua arquitetura.
 
@@ -109,6 +110,7 @@ O Capítulo 38 preserva dez movimentos de aplicação completa. A rota curta e o
 - [Auditoria técnica automática — estado atual](revisao-b-global/49_AUDITORIA_TECNICA_AUTOMATICA_ESTADO_ATUAL.md)
 - [Laudo completo de estado e conclusão](revisao-b-global/50_LAUDO_COMPLETO_ESTADO_E_CONCLUSAO_REPOSICIONESE.md)
 - [Trava de extensão e auditoria de paginação](revisao-b-global/57_TRAVA_DE_EXTENSAO_E_AUDITORIA_DE_PAGINACAO.md)
+- [Certificação editorial pela Skill v1](revisao-b-global/58_CERTIFICACAO_EDITORIAL_SKILL_V1_REPOSICIONESE.md)
 - [Rastreabilidade da reconciliação](revisao-b-global/38_RASTREABILIDADE_RECONCILIACAO_GOVERNANCA.md)
 - [Validação da reconciliação](revisao-b-global/39_VALIDACAO_RECONCILIACAO_GOVERNANCA.md)
 
@@ -172,6 +174,7 @@ A Revisão B textual está completa, mas a publicação ainda depende de:
 - leitura contínua global após a conclusão dos quatro lotes;
 - auditoria comparativa entre a versão histórica de 286–287 páginas e a Revisão B;
 - classificação do que foi preservado, reescrito, transferido, ainda não integrado ou realmente retirado;
+- decisão autoral sobre as lacunas válidas apontadas pela certificação da Skill v1;
 - revisão psicológica e clínica;
 - revisão teológica;
 - revisão jurídica;
@@ -192,4 +195,4 @@ A prova técnica automática de 177 páginas não é meta de publicação nem au
 
 A **Rodada de Coerência Metodológica Localizada está concluída**.
 
-A passagem global de voz, ritmo e repetição foi concluída nos **Lotes 01–04 — Pré-livro, Partes I–VIII e Epílogo**. A próxima etapa é a **leitura contínua global com auditoria comparativa de extensão**, seguida das decisões autorais e auditorias especializadas. A pista visual permanece separada porque os binários ainda não foram versionados no repositório.
+A passagem global de voz, ritmo e repetição foi concluída nos **Lotes 01–04 — Pré-livro, Partes I–VIII e Epílogo**. A próxima etapa é a **leitura contínua global com auditoria comparativa de extensão e matriz de decisão sobre as lacunas válidas da Skill v1**, seguida das decisões autorais e auditorias especializadas. A pista visual permanece separada porque os binários ainda não foram versionados no repositório.
