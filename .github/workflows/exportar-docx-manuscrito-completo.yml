@@ -1,0 +1,84 @@
+name: Exportar DOCX do manuscrito completo
+
+on:
+  push:
+    branches:
+      - revisao-b-global-2026-07-20
+    paths:
+      - '.github/workflows/exportar-docx-manuscrito-completo.yml'
+      - 'manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  exportar-docx:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Instalar Pandoc e LibreOffice
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc libreoffice-writer fonts-liberation
+
+      - name: Preparar manuscrito para DOCX
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          src = Path('manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md')
+          text = src.read_text(encoding='utf-8')
+          # Remove comentários técnicos de montagem, preservando todo o texto editorial.
+          lines = []
+          for line in text.splitlines():
+              if line.lstrip().startswith('<!-- FONTE:') or line.lstrip().startswith('<!-- FIM DA FONTE:'):
+                  continue
+              if line.strip() == r'\newpage':
+                  lines.append('\\newpage')
+              else:
+                  lines.append(line)
+          Path('build').mkdir(exist_ok=True)
+          Path('build/REPOSICIONESE_MANUSCRITO_COMPLETO.md').write_text('\n'.join(lines) + '\n', encoding='utf-8')
+          PY
+
+      - name: Gerar DOCX completo
+        run: |
+          pandoc build/REPOSICIONESE_MANUSCRITO_COMPLETO.md \
+            --from=markdown+raw_tex \
+            --to=docx \
+            --toc \
+            --toc-depth=2 \
+            --metadata=toc-title:'SUMÁRIO' \
+            --output=build/REPOSICIONESE_REV_B_MANUSCRITO_COMPLETO.docx
+
+      - name: Validar estrutura do DOCX
+        run: |
+          python - <<'PY'
+          from zipfile import ZipFile
+          from pathlib import Path
+          p = Path('build/REPOSICIONESE_REV_B_MANUSCRITO_COMPLETO.docx')
+          assert p.exists() and p.stat().st_size > 100000, p.stat().st_size if p.exists() else 'ausente'
+          with ZipFile(p) as z:
+              xml = z.read('word/document.xml').decode('utf-8')
+          for marker in ['REPOSICIONE-SE', 'CAPÍTULO 1', 'CAPÍTULO 38', 'EPÍLOGO', 'Sua possibilidade de cultivo']:
+              assert marker in xml, marker
+          print(f'DOCX validado: {p.stat().st_size} bytes')
+          PY
+
+      - name: Gerar PDF técnico para conferência
+        run: |
+          mkdir -p build/pdf
+          libreoffice --headless --convert-to pdf --outdir build/pdf build/REPOSICIONESE_REV_B_MANUSCRITO_COMPLETO.docx
+          test -s build/pdf/REPOSICIONESE_REV_B_MANUSCRITO_COMPLETO.pdf
+
+      - name: Publicar DOCX completo
+        uses: actions/upload-artifact@v4
+        with:
+          name: REPOSICIONESE_REV_B_MANUSCRITO_COMPLETO
+          path: |
+            build/REPOSICIONESE_REV_B_MANUSCRITO_COMPLETO.docx
+            build/pdf/REPOSICIONESE_REV_B_MANUSCRITO_COMPLETO.pdf
+          if-no-files-found: error
+          retention-days: 7
