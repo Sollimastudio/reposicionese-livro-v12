@@ -3,7 +3,8 @@
 **Obra:** Reposicione-se™ — Método da Árvore do Discernimento  
 **Escopo:** Parte VII, Parte VIII e Epílogo  
 **Estado:** concluído e integrado  
-**Commit final de integração:** `28e2f053f2599b8de20ebd1dd17e01912849ca69`
+**Commit final de conteúdo:** `28e2f053f2599b8de20ebd1dd17e01912849ca69`  
+**Commit final de sincronização:** `0de843014d06ad8a8fbdf4e6eaac71e2b96523a8`
 
 ---
 
@@ -83,7 +84,8 @@ Confirmados:
 - doze perguntas oficiais;
 - formas antigas de comando ausentes;
 - Revisão A e Marcos 01–06 preservados;
-- oito marcadores autorais e especializados mantidos.
+- oito marcadores autorais e especializados mantidos;
+- governança pós-Lote 04 validada com sucesso.
 
 # 6. KINDLE
 
