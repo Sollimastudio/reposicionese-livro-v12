@@ -8,7 +8,7 @@ toc-title: "SUMÁRIO"
 ---
 
 > **MANUSCRITO DE TRABALHO — REVISÃO B COMPLETA. Pré-livro, Partes I–VIII e Epílogo revisados.**  
-> Gerado em 2026-07-23T18:04:34+00:00. A Revisão A e os Marcos 01–06 permanecem preservados.
+> Gerado em 2026-07-23T18:09:03+00:00. A Revisão A e os Marcos 01–06 permanecem preservados.
 
 \newpage
 <!-- FONTE: revisao-b-global/03_ONDA_1_PRE_LIVRO_REV_B.md | STATUS: REVISÃO B -->
