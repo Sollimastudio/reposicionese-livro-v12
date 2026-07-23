@@ -136,6 +136,9 @@ O Capítulo 38 preserva dez movimentos de aplicação completa. A rota curta e o
 - [Rastreabilidade — Lote 04](revisao-b-global/54_RASTREABILIDADE_VOZ_RITMO_REPETICAO_LOTE_04.md)
 - [Validação — Lote 04](revisao-b-global/55_VALIDACAO_VOZ_RITMO_LOTE_04.md)
 - [Ponto de retomada pós-voz global](revisao-b-global/56_PONTO_DE_RETOMADA_POS_VOZ_GLOBAL.md)
+- [Rastreabilidade — Lote 04](revisao-b-global/54_RASTREABILIDADE_VOZ_RITMO_REPETICAO_LOTE_04.md)
+- [Validação — Lote 04](revisao-b-global/55_VALIDACAO_VOZ_RITMO_LOTE_04.md)
+- [Ponto de retomada pós-voz global](revisao-b-global/56_PONTO_DE_RETOMADA_POS_VOZ_GLOBAL.md)
 
 ## Fechamento textual
 
