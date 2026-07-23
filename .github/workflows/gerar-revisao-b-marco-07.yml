@@ -32,7 +32,7 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  gerar:
+  integrar-texto:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -46,15 +46,11 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Instalar ferramentas editoriais
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y pandoc libreoffice-writer fonts-liberation poppler-utils
       - name: Gerar base canônica do Marco 07
         run: python scripts/gerar_revisao_b_marco_07.py
-      - name: Aplicar Lote 04 após a geração da Parte VIII
+      - name: Aplicar Lote 04
         run: python scripts/aplicar_voz_ritmo_repeticao_lote_04.py
-      - name: Remontar contínuo e Marco sem reconstruir a Parte VIII
+      - name: Remontar contínuo e Marco
         run: |
           python - <<'PY'
           import scripts.gerar_revisao_b_marco_07 as g
@@ -67,13 +63,6 @@ jobs:
         run: |
           python scripts/medir_amostra_kindle.py
           python scripts/sincronizar_estado_pos_voz_lote_04.py
-      - name: Gerar DOCX e PDF
-        run: |
-          mkdir -p dist-revisao-b
-          pandoc marcos-revisao-b/MARCO_07_MANUSCRITO_COMPLETO_REV_B.md --from=markdown+yaml_metadata_block --to=docx --toc --toc-depth=2 --metadata toc-title="SUMÁRIO" --metadata title="REPOSICIONE-SE™" --metadata subtitle="Método da Árvore do Discernimento — Revisão B — Marco 07" --metadata author="Sol Lima" -o dist-revisao-b/REPOSICIONESE_REV_B_MARCO_07_MANUSCRITO_COMPLETO.docx
-          libreoffice --headless --convert-to pdf --outdir dist-revisao-b dist-revisao-b/REPOSICIONESE_REV_B_MARCO_07_MANUSCRITO_COMPLETO.docx
-          mkdir -p dist-revisao-b/render
-          pdftoppm -png -r 110 dist-revisao-b/REPOSICIONESE_REV_B_MARCO_07_MANUSCRITO_COMPLETO.pdf dist-revisao-b/render/pagina >/dev/null 2>&1
       - name: Validar integridade do Lote 04
         run: |
           python - <<'PY'
@@ -89,7 +78,7 @@ jobs:
           for label,text in {'manuscrito':full,'Marco 07':mark}.items():
             assert [int(x) for x in r.findall(text)]==list(range(1,39)), label
             assert len(re.findall(r'^# EP[IÍ]LOGO\b',text,re.M|re.I))==1, label
-          for phrase in [
+          required=[
             '1. Isso é verdadeiro?',
             '12. O que uma pessoa posicionada faria com essa informação?',
             '## 14. O Refém',
@@ -98,14 +87,14 @@ jobs:
             'Nenhum grupo pensará automaticamente por mim',
             '**AGORA DESÇA DA ÁRVORE E SUSTENTE UMA ESCOLHA.**',
             'Sua possibilidade de cultivo.',
-          ]:
+            '[VALIDAÇÃO AUTORAL PENDENTE]',
+            'Ouvir uma verdade pode doer — e ouvir uma mentira também.',
+            'Compreender produz possibilidade, não incorporação automática.',
+          ]
+          for phrase in required:
             assert phrase in p7+p8, phrase
-          assert '[VALIDAÇÃO AUTORAL PENDENTE]' in p7
           assert 'voz e ritmo concluídos nos Lotes 01–04' in Path('LER_AGORA_REPOSICIONESE_REV_B.md').read_text(encoding='utf-8')
-          assert 'Ouvir uma verdade pode doer — e ouvir uma mentira também.' in p7
-          assert 'Compreender produz possibilidade, não incorporação automática.' in p8
-          assert list(Path('dist-revisao-b/render').glob('pagina-*.png'))
-          print('Lote 04 validado: 38 capítulos, Epílogo, Filtro, Tipos, Frutos, final e render preservados.')
+          print('Lote 04 validado: 38 capítulos, Epílogo, Filtro, Tipos, Frutos e final preservados.')
           PY
       - name: Versionar integração
         if: github.event_name == 'push'
@@ -116,14 +105,11 @@ jobs:
           if ! git diff --cached --quiet; then git commit -m "Integra voz, ritmo e estado do Lote 04" && git push origin HEAD:revisao-b-global-2026-07-20; fi
       - uses: actions/upload-artifact@v4
         with:
-          name: reposicionese-revisao-b-marco-07-${{ github.event_name }}
+          name: reposicionese-revisao-b-marco-07-texto-${{ github.event_name }}
           path: |
             revisao-b-global/29_ONDA_7_PARTE_VII_REV_B.md
             revisao-b-global/32_ONDA_8_PARTE_VIII_EPILOGO_REV_B.md
             manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md
             marcos-revisao-b/MARCO_07_MANUSCRITO_COMPLETO_REV_B.md
             revisao-b-global/16_MEDICAO_EDITORIAL_10_PORCENTO_KINDLE.md
-            dist-revisao-b/REPOSICIONESE_REV_B_MARCO_07_MANUSCRITO_COMPLETO.docx
-            dist-revisao-b/REPOSICIONESE_REV_B_MARCO_07_MANUSCRITO_COMPLETO.pdf
-            dist-revisao-b/render
           retention-days: 30
