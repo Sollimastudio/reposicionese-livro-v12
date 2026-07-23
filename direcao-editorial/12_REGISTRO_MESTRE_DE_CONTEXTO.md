@@ -1,9 +1,9 @@
 # Registro Mestre de Contexto — Reposicione-se™
 
-**Versão:** 3.4 — Voz e ritmo, Lotes 01–04  
+**Versão:** 3.5 — Certificação editorial pela Skill v1  
 **Função:** memória editorial canônica do projeto  
 **Precedência:** substitui estados anteriores registrados neste mesmo caminho  
-**Estado:** Revisão B textual completa; governança e coerência metodológica reconciliadas; voz e ritmo concluídos nos Lotes 01–04
+**Estado:** Revisão B textual completa; governança e coerência metodológica reconciliadas; voz e ritmo concluídos nos Lotes 01–04; certificação pela Skill v1 concluída sem reescrita
 
 ---
 
@@ -117,8 +117,42 @@ O livro falha se o leitor apenas admira ideias e permanece dependente da autora 
 - Marcos 01–06 preservados;
 - PR #2 em rascunho e sem merge;
 - voz, ritmo e repetição concluídos no Pré-livro, Partes I–VIII e Epílogo;
-- próxima etapa textual: leitura contínua global;
+- certificação editorial pela Skill v1 concluída como análise, sem correções automáticas;
+- trava de extensão de 286–287 páginas registrada;
+- próxima etapa textual: leitura contínua global com auditoria comparativa de extensão e matriz de decisão;
 - banco visual registrado por manifesto e hash, mas sem binários versionados.
+
+## Resultado da certificação pela Skill v1
+
+A certificação confirmou:
+
+- coerência conceitual e metodológica no cânone atual;
+- proteção ética forte;
+- abertura comercial textual consistente;
+- necessidade de maior auditoria narrativa, de aparato editorial e de extensão.
+
+Lacunas reais a decidir, sem inserção automática:
+
+- densidade de cenas biográficas;
+- nomeação da maiêutica socrática;
+- formato de passaporte para leitores sem o Volume 1;
+- distribuição do Sono da Negligência;
+- profundidade narrativa dos quatorze Tipos canônicos;
+- conceitos legados de reação adversa ao bullying e autoridade afetiva;
+- Dicionário e Referências;
+- imagens, boxes e experiência de página.
+
+Itens da Skill v1 considerados superados e não autorizados para retorno automático:
+
+- treze princípios sem numeração;
+- arquitetura antiga das Partes;
+- comandos paralelos;
+- elenco antigo de Tipos;
+- Oportunista Estratégico e variantes pós-pandemia como novos Tipos;
+- Magnetus como exigência textual;
+- Última Costura antiga;
+- encerramento com Instagram;
+- promessa concorrente de posicionamento magnético.
 
 ## Decisão
 
@@ -131,7 +165,9 @@ Não autorizar automaticamente:
 - reconstrução do final;
 - uso do Marco 02 como estado atual;
 - substituição de fonte B por fonte A;
-- criação de novo método, Filtro, Lei, Tipo, Fruto ou comando.
+- aplicação literal de prompt ou skill histórica contra o cânone atual;
+- criação de novo método, Filtro, Lei, Tipo, Fruto ou comando;
+- novos cortes substanciais antes da auditoria comparativa com a versão histórica.
 
 ---
 
@@ -370,12 +406,12 @@ Nenhuma segunda lista pode ser apresentada como Filtro oficial.
 
 ## Filtro da Influência
 
-Estado atual: **conflito localizado a corrigir em rodada textual autorizada**.
+Estado atual: **aplicação temática reconciliada com o Filtro oficial**.
 
 Direção canônica:
 
 - influência não é inimiga;
-- o conteúdo útil deve funcionar como aplicação temática das doze perguntas oficiais;
+- o conteúdo útil funciona como aplicação temática das doze perguntas oficiais;
 - não manter duas listas paralelas de doze perguntas chamadas Filtro;
 - instrumento extenso pode ir para o Workbook;
 - confiança deve considerar competência, evidência, histórico, acesso e frutos.
@@ -517,347 +553,3 @@ Significa:
 A Autopiedade permanece linguagem pedagógica de mecanismo.
 
 `Praga-mãe` é expressão autoral sensível e ainda depende de revisão psicológica, clínica, teológica e de sensibilidade.
-
-Nunca usar Autopiedade para:
-
-- silenciar violência;
-- apressar luto;
-- negar sintomas;
-- humilhar pedido de ajuda;
-- exigir ação sem recursos;
-- substituir avaliação profissional.
-
-Autocompaixão preserva cuidado e responsabilidade possível.
-
----
-
-# 16. IDENTIDADE E FUGA IDENTITÁRIA
-
-Identidade é fio condutor.
-
-Fuga Identitária não é centro do livro nem método paralelo.
-
-Perguntas permanentes:
-
-> Este pensamento nasceu do meu discernimento ou foi terceirizado?
-
-> Consigo pertencer sem desaparecer?
-
-> Esta identificação amplia minha consciência ou está substituindo quem sou?
-
-Nem toda identificação coletiva é fuga.
-
-O aprofundamento pertence a **Fuga Identitária: O Apagamento do Eu**.
-
----
-
-# 17. POLARIZAÇÃO E INFLUÊNCIA
-
-Polarização é tratada como:
-
-- pensamento binário;
-- pertencimento sem discernimento;
-- confirmação seletiva;
-- identidade totalizante;
-- incapacidade de revisar o próprio lado;
-- terceirização da consciência.
-
-O livro não afirma que todos os lados são iguais.
-
-Mesmo critério não significa mesmo veredito.
-
-A posição conservadora da autora exige exame de:
-
-- direita;
-- líderes conservadores;
-- ambientes religiosos;
-- narrativas convenientes ao próprio grupo.
-
-Influência saudável pode ampliar fatos, competência, responsabilidade e liberdade para discordar.
-
-> **Posso escutar sem me entregar. Posso aprender sem desaparecer.**
-
----
-
-# 18. FÉ
-
-A Bíblia é fonte real da autora.
-
-Distinguir:
-
-- fé de medo;
-- honra de obediência cega;
-- perdão de reconciliação e acesso;
-- submissão espiritual de apagamento;
-- espera de negligência;
-- prudência de fuga;
-- comunidade de coerção;
-- direção espiritual de terceirização da consciência.
-
-Não usar Deus para substituir ação que cabe à pessoa.
-
-Não usar posicionamento para desprezar oração, dependência de Deus, comunhão ou aconselhamento.
-
-> **Fé fortalece discernimento e responsabilidade; não exige amputação da consciência.**
-
----
-
-# 19. VIOLÊNCIA, ABUSO E SEGURANÇA
-
-A obra nunca pode sugerir que o posicionamento da vítima causa abuso.
-
-A responsabilidade do agressor permanece com o agressor.
-
-Limites, Poda e saída devem considerar:
-
-- assimetria de poder;
-- dependência financeira;
-- vigilância;
-- ameaça;
-- coerção;
-- filhos;
-- saúde;
-- recursos;
-- segurança;
-- capacidade real de escolha.
-
-Segurança vem antes do desempenho de firmeza.
-
-Em risco, orientar rede de proteção e apoio profissional, jurídico, policial, médico, psicológico ou pastoral adequado.
-
----
-
-# 20. HISTÓRIAS E CASOS
-
-Classificar cada caso como:
-
-- autobiográfico documentado;
-- memória autoral;
-- composição pedagógica;
-- exemplo hipotético;
-- caso anonimizado;
-- referência externa verificável.
-
-Não apresentar composição como fato específico.
-
-Histórias e padrões que permanecem rastreáveis:
-
-- Cajueiro de Pirangi;
-- Letreiro de Neon;
-- batom vermelho;
-- portão;
-- ministério;
-- família;
-- relacionamentos;
-- cenas judiciais;
-- pai presente que não protegeu;
-- casos ligados aos Tipos.
-
-Pendências autorais permanecem explícitas.
-
----
-
-# 21. FATOS E FONTES
-
-Alegações científicas, psicológicas, jurídicas, bíblicas, históricas, digitais ou sociais devem entrar no inventário factual.
-
-Classificar como:
-
-- fonte necessária;
-- metáfora;
-- experiência autoral;
-- hipótese;
-- retirar;
-- verificar por fonte primária.
-
-Não apresentar sem verificação:
-
-- números exatos;
-- causalidades psicológicas;
-- explicações neurológicas simplificadas;
-- protocolos clínicos;
-- afirmações jurídicas;
-- frases atribuídas;
-- interpretações bíblicas como consenso.
-
----
-
-# 22. WORKBOOK
-
-O Workbook é separado do livro principal.
-
-Pode receber:
-
-- Teste da Árvore;
-- instrumento de influência;
-- Teste de Posicionamento;
-- auto-observação de Autopiedade;
-- autonomia de pensamento;
-- mapa de frutos;
-- folhas de Poda;
-- plano de Nova Semente;
-- acompanhamento de frutos.
-
-O livro preserva versões enxutas.
-
-Pontuações e escalas não devem interromper a leitura principal.
-
----
-
-# 23. BANCO VISUAL
-
-Destinos:
-
-- livro principal;
-- Workbook;
-- edição premium;
-- impressão P&B;
-- Kindle;
-- materiais complementares.
-
-Imagens prioritárias:
-
-- Árvore;
-- rota curta;
-- ritual completo;
-- Cajueiro;
-- Semente;
-- Solo;
-- Raízes;
-- Tronco;
-- Galhos;
-- Frutos;
-- Pragas;
-- Poda;
-- Nova Semente;
-- Filtro;
-- Jaula;
-- Limite versus muro e controle;
-- pedido versus limite, acordo e exigência;
-- Tipos;
-- Sete Frutos.
-
-Não criar arte canônica antes de aplicar as decisões reconciliadas deste Registro.
-
----
-
-# 24. EDIÇÕES
-
-## Kindle
-
-Texto refluível, sumário clicável, imagens essenciais e inspeção do EPUB/KPF efetivamente enviado.
-
-## Impressão econômica
-
-Contraste, escala de cinza, prova física e capa recalculada após paginação.
-
-## Premium
-
-PDF navegável, infográficos e experiência ampliada.
-
-A edição premium não é o manuscrito canônico.
-
----
-
-# 25. PENDÊNCIAS ABERTAS
-
-## Autorais
-
-- cena do batom vermelho;
-- padrão `pai presente que não protegeu`;
-- nomes, gêneros e diferenciação dos Tipos.
-
-## Teológicas
-
-- honra e obediência;
-- consciência, autoridade, submissão e dever;
-- cruz, espera, sofrimento e responsabilidade;
-- referências bíblicas e versão utilizada.
-
-## Psicológicas e clínicas
-
-- autoria emocional;
-- Autopiedade e `praga-mãe`;
-- trauma, fusão, dependência e ressentimento;
-- fronteira entre metáfora pedagógica, sintoma e diagnóstico.
-
-## Jurídicas e de segurança
-
-- consentimento;
-- violência, coerção, documentação e proteção;
-- trabalho e finanças;
-- exposição de terceiros.
-
-## Editoriais localizadas
-
-- resolver Filtro da Influência;
-- definir uso visível do Mirante;
-- padronizar Checkpoint da Parte III;
-- fechar explicitamente polarização, Fuga Identitária e influência no final;
-- passagem global de voz, ritmo e repetição.
-
-## Produção
-
-- banco visual;
-- Workbook;
-- EPUB/KPF;
-- impressão;
-- prova final.
-
----
-
-# 26. REGRA DE EXCELÊNCIA 10/10
-
-A aspiração 10/10 será tratada como processo auditável.
-
-Não declarar excelência final enquanto houver:
-
-- contradição canônica;
-- pendência autoral;
-- afirmação de alto risco não verificada;
-- revisão especializada ausente;
-- arquivo de governança desatualizado;
-- problema de voz ou repetição não examinado;
-- arte conflitante;
-- EPUB/KPF não inspecionado;
-- prova impressa não aprovada.
-
-Critérios de 10/10:
-
-1. promessa cumprida;
-2. arquitetura sem concorrência;
-3. nomenclatura única;
-4. voz preservada;
-5. ética e segurança validadas;
-6. fatos sustentados;
-7. fé revisada com rigor;
-8. navegação memorável;
-9. visual coerente;
-10. produção testada;
-11. nenhuma pendência aberta;
-12. aprovação autoral final.
-
-A nota será consequência da evidência, não substituto dela.
-
----
-
-# 27. PRÓXIMA ORDEM DE TRABALHO
-
-1. concluir reconciliação de governança;
-2. auditar ausência de referências antigas ativas;
-3. aplicar coerência metodológica localizada com autorização;
-4. passar voz, ritmo e repetição;
-5. executar especialistas e validações autorais;
-6. integrar visual e Workbook;
-7. preparar EPUB/KPF e impressão;
-8. realizar prova final;
-9. auditar novamente promessa e transformação;
-10. somente então considerar o PR pronto para merge.
-
----
-
-# 28. REGRA FINAL
-
-> **Nenhuma melhoria editorial poderá custar identidade, integridade, memória, segurança ou promessa.**
-
-> **O livro deve ensinar o leitor a pensar melhor — não apenas a repetir Sol Lima.**
