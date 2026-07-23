@@ -8,7 +8,7 @@ toc-title: "SUMÁRIO"
 ---
 
 > **MARCO 07 DA REVISÃO B — Manuscrito completo, capítulos 1–38 e Epílogo revisados.**  
-> Gerado em 2026-07-23T18:12:23+00:00. A Revisão A e os Marcos 01–06 permanecem preservados.
+> Gerado em 2026-07-23T18:12:43+00:00. A Revisão A e os Marcos 01–06 permanecem preservados.
 
 \newpage
 <!-- FONTE: revisao-b-global/03_ONDA_1_PRE_LIVRO_REV_B.md | STATUS: REVISÃO B -->
