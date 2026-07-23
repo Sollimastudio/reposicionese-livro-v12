@@ -1,6 +1,12 @@
 name: Exportar DOCX do manuscrito completo
 
 on:
+  pull_request:
+    branches:
+      - direcao-editorial-executiva-2026-07-20
+    paths:
+      - '.github/workflows/exportar-docx-manuscrito-completo.yml'
+      - 'manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md'
   push:
     branches:
       - revisao-b-global-2026-07-20
@@ -30,15 +36,12 @@ jobs:
           from pathlib import Path
           src = Path('manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md')
           text = src.read_text(encoding='utf-8')
-          # Remove comentários técnicos de montagem, preservando todo o texto editorial.
+          # Remove apenas comentários técnicos de montagem; todo o texto editorial é preservado.
           lines = []
           for line in text.splitlines():
               if line.lstrip().startswith('<!-- FONTE:') or line.lstrip().startswith('<!-- FIM DA FONTE:'):
                   continue
-              if line.strip() == r'\newpage':
-                  lines.append('\\newpage')
-              else:
-                  lines.append(line)
+              lines.append(line)
           Path('build').mkdir(exist_ok=True)
           Path('build/REPOSICIONESE_MANUSCRITO_COMPLETO.md').write_text('\n'.join(lines) + '\n', encoding='utf-8')
           PY
