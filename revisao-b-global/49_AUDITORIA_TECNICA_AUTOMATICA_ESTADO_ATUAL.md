@@ -1,7 +1,7 @@
 # AUDITORIA TÉCNICA AUTOMÁTICA — ESTADO ATUAL DA REVISÃO B
 
 **Escopo:** fontes vivas da Revisão B, manuscrito contínuo, pendências explícitas, imagens e artefatos de produção  
-**Regra:** relatório atualizado após a conclusão dos quatro lotes de voz.
+**Regra:** relatório atualizado após a conclusão e correção final dos quatro lotes de voz.
 
 ---
 
@@ -11,7 +11,7 @@
 - capítulos no manuscrito: **38**;
 - Epílogos nas fontes: **1**;
 - Epílogos no manuscrito: **1**;
-- medição editorial Kindle: **37.037 palavras**.
+- medição editorial Kindle: **37.026 palavras**.
 
 A passagem de voz, ritmo e repetição foi concluída no Pré-livro, Partes I–VIII e Epílogo.
 
@@ -30,7 +30,9 @@ A passagem de voz, ritmo e repetição foi concluída no Pré-livro, Partes I–
 - ✅ Praga nunca pessoa;
 - ✅ Jaula não culpabiliza;
 - ✅ Revisão A e Marcos históricos preservados;
-- ✅ comandos antigos ausentes.
+- ✅ comandos antigos ausentes;
+- ✅ Parte VIII protegida contra reconstrução automática pela Revisão A;
+- ✅ formas fragmentadas conhecidas bloqueadas por validação.
 
 ---
 
@@ -54,7 +56,7 @@ Na branch textual permanecem:
 - referências locais quebradas: **0**;
 - PDF/DOCX/EPUB/KPF finais versionados: **0**.
 
-O pipeline do Lote 04 gerou DOCX, PDF e páginas renderizadas como artefatos temporários, mas a inspeção gráfica manual integral ainda está pendente.
+Uma execução intermediária gerou DOCX, PDF e páginas renderizadas antes de falhar numa asserção e antes da correção final de regressão. Esses artefatos não constituem prova gráfica do estado final atual. A nova prova integral ainda precisa ser gerada e inspecionada.
 
 ---
 
@@ -68,5 +70,6 @@ O manuscrito ainda não está pronto para publicação porque permanecem:
 2. decisões autorais e revisões especializadas;
 3. correções finais aprovadas e congelamento textual;
 4. imagens binárias e prova visual;
-5. EPUB/KPF e prova impressa;
-6. auditorias finais e decisão formal de merge/publicação.
+5. nova prova DOCX/PDF do texto final atual;
+6. EPUB/KPF e prova impressa;
+7. auditorias finais e decisão formal de merge/publicação.
