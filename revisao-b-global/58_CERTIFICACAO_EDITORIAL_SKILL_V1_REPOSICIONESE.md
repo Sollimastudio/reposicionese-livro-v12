@@ -338,7 +338,7 @@ A promessa vigente é discernimento aplicado ao posicionamento e recuperação d
 
 ---
 
-# 6. PENDÊNCIAS AUTORAIS E ESPECIALIZADAS QUE IMPEDem CERTIFICAÇÃO FINAL
+# 6. PENDÊNCIAS AUTORAIS E ESPECIALIZADAS QUE IMPEDEM CERTIFICAÇÃO FINAL
 
 Permanecem abertas:
 
