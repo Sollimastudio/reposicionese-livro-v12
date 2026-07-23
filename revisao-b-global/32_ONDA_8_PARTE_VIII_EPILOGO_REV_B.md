@@ -16,33 +16,13 @@ O livro não termina com uma promessa de transformação instantânea. Termina d
 # CAPÍTULO 33 — A NOVA SEMENTE
 ## Mudança não começa grande; começa repetível
 
-Você observou frutos.
-
-Subiu na Árvore.
-
-Localizou Galhos.
-
-Examinou Tronco, Raízes, Mapas e Solo.
-
-Reconheceu Pragas.
-
-Passou pelo Filtro.
-
-Definiu uma Poda.
+Você observou frutos, subiu na Árvore, localizou Galhos, examinou Tronco, Raízes, Mapas e Solo, reconheceu Pragas, passou pelo Filtro e definiu uma Poda.
 
 Agora surge uma pergunta que muita gente esquece:
 
 > O que será plantado no lugar?
 
-Retirar um hábito não cria automaticamente um hábito saudável.
-
-Encerrar uma relação não ensina sozinho a construir outro modo de vínculo.
-
-Sair de um grupo não produz identidade.
-
-Reconhecer uma crença não instala uma resposta nova.
-
-Dizer não uma vez não constrói limite sustentado.
+Retirar um hábito não cria automaticamente outro saudável; encerrar uma relação não ensina sozinho a construir um novo modo de vínculo; sair de um grupo não produz identidade. Reconhecer uma crença não instala uma resposta nova, e dizer não uma vez não constrói limite sustentado.
 
 A Poda interrompe; a Nova Semente inicia cultivo.
 
@@ -92,21 +72,9 @@ Comece pequeno o suficiente para entrar na vida e sério o suficiente para alter
 
 ## Desejo não é cultivo
 
-Você pode desejar paz e repetir guerra.
+Você pode desejar paz e repetir guerra; desejar limite e explicar o não até ele virar sim; desejar liberdade e manter todas as permissões antigas; desejar identidade e pedir à plateia que confirme quem é; desejar maturidade e evitar todo desconforto.
 
-Desejar limite e continuar explicando o não até ele virar sim.
-
-Desejar liberdade e manter todas as permissões antigas.
-
-Desejar identidade e passar o dia pedindo à plateia que confirme quem é.
-
-Desejar maturidade e evitar todo desconforto.
-
-O desejo importa.
-
-Mostra direção.
-
-Mas cultivo é feito de práticas.
+O desejo importa porque mostra direção. Mas cultivo é feito de práticas.
 
 > **LEI 3 — DESLIGUE O PILOTO AUTOMÁTICO.**
 >
@@ -148,23 +116,7 @@ A mente gosta de mudanças dramáticas porque elas oferecem sensação de recome
 
 Mudanças sustentadas costumam crescer de atos menos cinematográficos.
 
-Uma conversa marcada.
-
-Uma resposta adiada por vinte minutos.
-
-Uma fonte verificada.
-
-Um pedido feito sem desculpa.
-
-Uma consulta.
-
-Um limite repetido com a mesma linguagem.
-
-Uma hora protegida.
-
-Uma transferência automática.
-
-Uma noite sem entrar na discussão.
+Uma conversa marcada, uma resposta adiada por vinte minutos, uma fonte verificada, um pedido feito sem desculpa, uma consulta, um limite repetido com a mesma linguagem, uma hora protegida, uma transferência automática, uma noite sem entrar na discussão.
 
 Uma decisão pequena não resolve a vida inteira.
 
@@ -234,21 +186,7 @@ Isso não prova que nada mudou; mostra que o novo ainda precisa de cultivo.
 
 Uma resposta saudável pode parecer errada quando o sistema antigo não a reconhece.
 
-O limite pode parecer egoísmo.
-
-O descanso pode parecer irresponsabilidade.
-
-A paz pode parecer vazio.
-
-Uma relação estável pode parecer sem emoção.
-
-Questionar pode parecer deslealdade.
-
-Receber ajuda pode parecer fracasso.
-
-Cobrar pelo trabalho pode parecer arrogância.
-
-Admitir dúvida pode parecer fraqueza.
+O limite pode parecer egoísmo; o descanso, irresponsabilidade; a paz, vazio; uma relação estável, falta de emoção. Questionar pode parecer deslealdade, receber ajuda pode parecer fracasso, cobrar pelo trabalho pode parecer arrogância e admitir dúvida pode parecer fraqueza.
 
 Mas nem todo desconforto é crescimento.
 
@@ -278,11 +216,7 @@ Posicionamento não é rigidez.
 
 ## O registro dos frutos
 
-Mudanças internas podem ser difíceis de perceber no cotidiano.
-
-Registre evidências.
-
-Não apenas grandes resultados.
+Mudanças internas podem ser difíceis de perceber no cotidiano. Registre evidências — não apenas grandes resultados.
 
 Observe:
 
@@ -307,17 +241,7 @@ Serve para impedir que a mente ignore progresso real ou fabrique progresso inexi
 
 ## Recaída não é identidade
 
-Você pode repetir um padrão depois de meses.
-
-Voltar a dizer sim por medo.
-
-Compartilhar algo sem verificar.
-
-Explodir.
-
-Desaparecer.
-
-Procurar aprovação.
+Você pode repetir um padrão depois de meses: voltar a dizer sim por medo, compartilhar algo sem verificar, explodir, desaparecer ou procurar aprovação.
 
 Isso não transforma todo cultivo em fraude.
 
@@ -345,13 +269,9 @@ Pensar por si não significa cultivar sozinho.
 
 Apoio pode vir de amizade madura, família segura, comunidade responsável, terapia, aconselhamento pastoral, supervisão profissional, grupo de apoio, mentoria ou orientação jurídica, médica e financeira.
 
-Escolha apoio que amplie autoria.
+Escolha apoio que amplie autoria. Cuidado que exige dependência permanente, impede contraditório ou decide tudo por você precisa ser examinado.
 
-Cuidado que exige dependência permanente, impede contraditório ou decide tudo por você precisa ser examinado.
-
-A ajuda participa do cultivo.
-
-Não ocupa o lugar da consciência.
+A ajuda participa do cultivo; não ocupa o lugar da consciência.
 
 ## Quando a Semente não funciona
 
@@ -429,15 +349,7 @@ Alguns vínculos ganham profundidade porque finalmente existe clareza.
 
 Outros revelam que dependiam de silêncio, conveniência ou ausência de limite.
 
-Isso não significa que toda pessoa que resiste ao seu posicionamento esteja errada.
-
-Talvez seu modo de comunicar precise de revisão.
-
-Talvez exista incompatibilidade.
-
-Talvez o outro precise de tempo.
-
-Talvez você esteja usando firmeza como arma.
+Isso não significa que toda pessoa que resiste ao seu posicionamento esteja errada. Talvez seu modo de comunicar precise de revisão, exista incompatibilidade, o outro precise de tempo ou você esteja usando firmeza como arma.
 
 Posicionamento não transforma toda oposição em prova de que você amadureceu.
 
@@ -455,11 +367,7 @@ Reduz algumas crises produzidas por promessas impossíveis, acordos invisíveis 
 
 ## Você explica com mais adequação
 
-Explicação é importante.
-
-Contexto ajuda.
-
-Prestação de contas pode ser dever.
+Explicação é importante, contexto ajuda e prestação de contas pode ser dever.
 
 Mas algumas pessoas tentam convencer o outro de que possuem direito ao próprio limite.
 

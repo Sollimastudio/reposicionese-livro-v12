@@ -10,8 +10,8 @@
 
 # 1. RESULTADO
 
-- Total editorial estimado: **37,031 palavras**;
-- alvo de 10%: **3,704 palavras**;
+- Total editorial estimado: **37,026 palavras**;
+- alvo de 10%: **3,703 palavras**;
 - linha aproximada da fronteira: **816**;
 - seção em que a fronteira cai: **O primeiro sinal de retorno**;
 - próxima seção identificada: **Morte em Vida não é diagnóstico clínico**;
@@ -32,7 +32,7 @@
 | CAPÍTULO 1 — A VITRINE DA VIDA | dentro | 5.90% |
 | CAPÍTULO 2 — A MORTE EM VIDA | dentro | 8.69% |
 | PARTE II — SEMENTE, SOLO E CONFIGURAÇÃO | depois | 12.16% |
-| CAPÍTULO 3 — A SEMENTE E O SOLO | depois | 12.75% |
+| CAPÍTULO 3 — A SEMENTE E O SOLO | depois | 12.76% |
 | CAPÍTULO 4 — O CELULAR CONFIGURADO | depois | 15.93% |
 | CAPÍTULO 5 — O SOLO DIGITAL | depois | 18.78% |
 | CAPÍTULO 6 — CRENÇAS, VALORES E MODO OPERANTE | depois | 22.18% |
