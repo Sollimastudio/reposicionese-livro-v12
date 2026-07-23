@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 """Valida a governança canônica e a proteção histórica após o Marco 07."""
-
 from __future__ import annotations
 
 import re
@@ -57,25 +56,25 @@ def main() -> None:
     registro = read("direcao-editorial/12_REGISTRO_MESTRE_DE_CONTEXTO.md")
     matriz = read("direcao-editorial/13_MATRIZ_DE_NAO_PERDA.md")
     protocolo = read("direcao-editorial/15_PROTOCOLO_FASE_GLOBAL_POS_MARCO_07.md")
-    retomada = read("revisao-b-global/43_PONTO_DE_RETOMADA_VOZ_RITMO_LOTE_01.md")
+    retomada = read("revisao-b-global/56_PONTO_DE_RETOMADA_POS_VOZ_GLOBAL.md")
     coerencia = read("revisao-b-global/40_RASTREABILIDADE_COERENCIA_METODOLOGICA_LOCALIZADA.md")
-    voz = read("revisao-b-global/42_RASTREABILIDADE_VOZ_RITMO_REPETICAO_LOTE_01.md")
+    voz = read("revisao-b-global/54_RASTREABILIDADE_VOZ_RITMO_REPETICAO_LOTE_04.md")
     manuscrito = read("manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md")
     marco = read("marcos-revisao-b/MARCO_07_MANUSCRITO_COMPLETO_REV_B.md")
 
-    # Estado atual pós-reconciliação.
+    # Estado atual pós-Lote 04.
     require(ler, "Partes I–VIII — Revisão B", "LER_AGORA")
     require(ler, "Marco 07 vigente", "LER_AGORA")
-    require(ler, "voz e ritmo concluídos no Lote 01", "LER_AGORA")
+    require(ler, "voz e ritmo concluídos nos Lotes 01–04", "LER_AGORA")
+    require(ler, "leitura contínua global", "LER_AGORA")
     require(readme, "governança reconciliada com o Marco 07", "README")
-    if not re.search(r"\*\*Versão:\*\* 3\.[1-9]", registro):
-        raise AssertionError("Registro Mestre: esperada versão 3.1 ou posterior.")
-    require(registro, "próximo lote textual: Partes III–IV", "Registro Mestre")
-    require(retomada, "LOTE 01", "Ponto de retomada")
-    if not re.search(r"Próximo lote:\*\*\s+Partes III–IV", retomada):
-        raise AssertionError("Ponto de retomada: próximo lote Partes III–IV não confirmado.")
+    if not re.search(r"\*\*Versão:\*\* 3\.[4-9]", registro):
+        raise AssertionError("Registro Mestre: esperada versão 3.4 ou posterior.")
+    require(registro, "próxima etapa textual: leitura contínua global", "Registro Mestre")
+    require(retomada, "Lotes 01–04 concluídos", "Ponto de retomada")
+    require(retomada, "leitura contínua global", "Ponto de retomada")
     require(coerencia, "Não existe um segundo Filtro", "Rastreabilidade metodológica")
-    require(voz, "Pré-livro + Partes I–II", "Rastreabilidade de voz")
+    require(voz, "Parte VII, Parte VIII e Epílogo", "Rastreabilidade de voz")
 
     for label, text in {
         "LER_AGORA": ler,
@@ -100,7 +99,6 @@ def main() -> None:
         require(text, "Solo → Raízes → Tronco → Galhos → Frutos", label)
         require_ci(text, "entrada do cultivo", label)
 
-    # Comandos canônicos.
     commands = [
         "Observe os Frutos",
         "Suba na Árvore",
@@ -122,7 +120,6 @@ def main() -> None:
     require(mapa, "ROTA CURTA DE NAVEGAÇÃO", "Mapa")
     require(registro, "A rota curta é forma memorizável", "Registro")
 
-    # Filtro oficial único.
     require(filtro, "única ferramenta oficial de avaliação", "Filtro")
     require(filtro, "AS DOZE PERGUNTAS OFICIAIS", "Filtro")
     require(filtro, "não designa outro Filtro", "Filtro")
@@ -130,7 +127,6 @@ def main() -> None:
     if len(questions) != 12:
         raise AssertionError(f"Filtro oficial: esperado 12 perguntas; encontrado {len(questions)}")
 
-    # Matriz e protocolo.
     require(matriz, "RETIRADO/SUSPENSO", "Matriz")
     forbid(matriz, "| EM REESCRITA |", "Matriz")
     require(matriz, "| 24 | Mirante do Discernimento | Ponto metacognitivo | Pré-livro e Suba | CANÔNICO |", "Matriz")
@@ -138,7 +134,6 @@ def main() -> None:
     require(protocolo, "Marco 07 vigente", "Protocolo")
     require(protocolo, "A obra completa não recebe nota final 10/10", "Protocolo")
 
-    # Integridade estrutural do manuscrito e do Marco 07.
     chapter_re = re.compile(r"^# CAP[IÍ]TULO\s+(\d+)\b", flags=re.M | re.I)
     for label, text in {"manuscrito": manuscrito, "Marco 07": marco}.items():
         chapters = [int(value) for value in chapter_re.findall(text)]
@@ -147,8 +142,13 @@ def main() -> None:
         epilogues = len(re.findall(r"^# EP[IÍ]LOGO\b", text, flags=re.M | re.I))
         if epilogues != 1:
             raise AssertionError(f"{label}: esperado 1 Epílogo; encontrado {epilogues}")
+        require(text, "Sua possibilidade de cultivo.", label)
 
-    # Revisões B autorizadas podem alterar fontes vivas. O histórico não pode mudar.
+    # Travas contra regressão de cadência na Parte VIII.
+    forbid(manuscrito, "Você observou frutos.\n\nSubiu na Árvore.", "manuscrito")
+    forbid(manuscrito, "O desejo importa.\n\nMostra direção.", "manuscrito")
+    require(manuscrito, "O desejo importa porque mostra direção. Mas cultivo é feito de práticas.", "manuscrito")
+
     historical_prefixes = (
         "revisao-integral/",
         "manuscrito-canonico-rev-a/",
@@ -166,16 +166,15 @@ def main() -> None:
         "marcos-revisao-b/MARCO_06_PRE_LIVRO_PARTES_I_II_III_IV_V_VI_VII.md",
     }
     violations = [
-        path
-        for path in changed_files()
+        path for path in changed_files()
         if path.startswith(historical_prefixes) or path in historical_exact
     ]
     if violations:
         raise AssertionError(f"Histórico protegido foi alterado: {violations}")
 
     print(
-        "Validação concluída: governança atualizada, comandos únicos, Marco 07 íntegro, "
-        "Revisão B autorizada e histórico preservado."
+        "Validação concluída: governança pós-Lote 04, comandos únicos, Marco 07 íntegro, "
+        "cadência protegida, Revisão B autorizada e histórico preservado."
     )
 
 
