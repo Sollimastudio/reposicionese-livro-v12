@@ -86,15 +86,26 @@ jobs:
           r=re.compile(r'^# CAP[IÍ]TULO\s+(\d+)\b',re.M|re.I)
           assert [int(x) for x in r.findall(p7)]==list(range(27,33))
           assert [int(x) for x in r.findall(p8)]==list(range(33,39))
-          for text in (full,mark):
-            assert [int(x) for x in r.findall(text)]==list(range(1,39))
-            assert len(re.findall(r'^# EP[IÍ]LOGO\b',text,re.M|re.I))==1
-          required=['1. Isso é verdadeiro?','12. O que uma pessoa posicionada faria com essa informação?','OS SETE FRUTOS DO POSICIONAMENTO','Nenhum grupo pensará automaticamente por mim','Sua possibilidade de cultivo.','O desejo importa porque mostra direção. Mas cultivo é feito de práticas.']
-          for phrase in required: assert phrase in p7+p8, phrase
+          for label,text in {'manuscrito':full,'Marco 07':mark}.items():
+            assert [int(x) for x in r.findall(text)]==list(range(1,39)), label
+            assert len(re.findall(r'^# EP[IÍ]LOGO\b',text,re.M|re.I))==1, label
+          for phrase in [
+            '1. Isso é verdadeiro?',
+            '12. O que uma pessoa posicionada faria com essa informação?',
+            '## 14. O Refém',
+            '## 1. Verdade',
+            '## 7. Legado',
+            'Nenhum grupo pensará automaticamente por mim',
+            '**AGORA DESÇA DA ÁRVORE E SUSTENTE UMA ESCOLHA.**',
+            'Sua possibilidade de cultivo.',
+          ]:
+            assert phrase in p7+p8, phrase
           assert '[VALIDAÇÃO AUTORAL PENDENTE]' in p7
           assert 'voz e ritmo concluídos nos Lotes 01–04' in Path('LER_AGORA_REPOSICIONESE_REV_B.md').read_text(encoding='utf-8')
+          assert 'Ouvir uma verdade pode doer — e ouvir uma mentira também.' in p7
+          assert 'Compreender produz possibilidade, não incorporação automática.' in p8
           assert list(Path('dist-revisao-b/render').glob('pagina-*.png'))
-          print('Lote 04 validado: texto, final, Epílogo e render preservados.')
+          print('Lote 04 validado: 38 capítulos, Epílogo, Filtro, Tipos, Frutos, final e render preservados.')
           PY
       - name: Versionar integração
         if: github.event_name == 'push'
