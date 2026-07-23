@@ -3,6 +3,8 @@
 **Estado:** Lotes 01–04 concluídos e integrados  
 **Branch:** `revisao-b-global-2026-07-20`  
 **PR:** #2 — aberto, rascunho, sem merge  
+**Commit final de conteúdo:** `28e2f053f2599b8de20ebd1dd17e01912849ca69`  
+**Commit final de sincronização:** `0de843014d06ad8a8fbdf4e6eaac71e2b96523a8`  
 **Próxima etapa:** leitura contínua global, sem nova reconstrução por Partes
 
 ---
