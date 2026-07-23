@@ -110,7 +110,7 @@ O livro falha se o leitor apenas admira ideias e permanece dependente da autora 
 
 - capítulos 1–38;
 - um Epílogo;
-- aproximadamente 37.043 palavras editoriais;
+- aproximadamente 37.026 palavras editoriais;
 - Marco 07 vigente;
 - manuscrito contínuo completo;
 - Revisão A preservada;

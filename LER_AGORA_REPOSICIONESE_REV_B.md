@@ -20,7 +20,7 @@ Estado confirmado:
 - Partes I–VIII — Revisão B;
 - capítulos 1–38 validados;
 - um Epílogo;
-- aproximadamente 37.043 palavras editoriais;
+- aproximadamente 37.026 palavras editoriais;
 - Revisão A preservada;
 - Marcos 01–06 preservados;
 - Marco 07 vigente;
@@ -127,6 +127,9 @@ O Capítulo 38 preserva dez movimentos de aplicação completa. A rota curta e o
 - [Rastreabilidade — Lote 03](revisao-b-global/51_RASTREABILIDADE_VOZ_RITMO_REPETICAO_LOTE_03.md)
 - [Validação — Lote 03](revisao-b-global/52_VALIDACAO_VOZ_RITMO_LOTE_03.md)
 - [Ponto de retomada — Lote 03](revisao-b-global/53_PONTO_DE_RETOMADA_VOZ_RITMO_LOTE_03.md)
+- [Rastreabilidade — Lote 04](revisao-b-global/54_RASTREABILIDADE_VOZ_RITMO_REPETICAO_LOTE_04.md)
+- [Validação — Lote 04](revisao-b-global/55_VALIDACAO_VOZ_RITMO_LOTE_04.md)
+- [Ponto de retomada pós-voz global](revisao-b-global/56_PONTO_DE_RETOMADA_POS_VOZ_GLOBAL.md)
 
 ## Fechamento textual
 
