@@ -9,6 +9,12 @@ on:
       - "scripts/aplicar_voz_ritmo_repeticao_lote_04.py"
       - "scripts/sincronizar_estado_pos_voz_lote_04.py"
       - ".github/workflows/aplicar-voz-ritmo-repeticao-lote-04.yml"
+  pull_request:
+    branches:
+      - revisao-b-global-2026-07-20
+    paths:
+      - "scripts/aplicar_voz_ritmo_repeticao_lote_04.py"
+      - ".github/workflows/aplicar-voz-ritmo-repeticao-lote-04.yml"
   workflow_dispatch:
 
 permissions:
