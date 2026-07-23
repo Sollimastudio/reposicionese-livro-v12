@@ -6,20 +6,20 @@ on:
     branches: [revisao-b-global-2026-07-20]
     paths:
       - "revisao-b-global/**"
-      - "revisao-integral/08_PARTE_VIII_REV_A.md"
       - "scripts/gerar_revisao_b_marco_07.py"
       - "scripts/medir_amostra_kindle.py"
       - "scripts/aplicar_voz_ritmo_repeticao_lote_04.py"
+      - "scripts/corrigir_regressao_parte_viii_pos_lote_04.py"
       - "scripts/sincronizar_estado_pos_voz_lote_04.py"
       - ".github/workflows/gerar-revisao-b-marco-07.yml"
   pull_request:
     branches: [direcao-editorial-executiva-2026-07-20]
     paths:
       - "revisao-b-global/**"
-      - "revisao-integral/08_PARTE_VIII_REV_A.md"
       - "scripts/gerar_revisao_b_marco_07.py"
       - "scripts/medir_amostra_kindle.py"
       - "scripts/aplicar_voz_ritmo_repeticao_lote_04.py"
+      - "scripts/corrigir_regressao_parte_viii_pos_lote_04.py"
       - "scripts/sincronizar_estado_pos_voz_lote_04.py"
       - ".github/workflows/gerar-revisao-b-marco-07.yml"
   workflow_dispatch:
@@ -46,11 +46,11 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Gerar base canônica do Marco 07
-        run: python scripts/gerar_revisao_b_marco_07.py
-      - name: Aplicar Lote 04
-        run: python scripts/aplicar_voz_ritmo_repeticao_lote_04.py
-      - name: Remontar contínuo e Marco
+      - name: Aplicar passagem final do Lote 04
+        run: |
+          python scripts/aplicar_voz_ritmo_repeticao_lote_04.py
+          python scripts/corrigir_regressao_parte_viii_pos_lote_04.py
+      - name: Montar manuscrito e Marco a partir das fontes B vigentes
         run: |
           python - <<'PY'
           import scripts.gerar_revisao_b_marco_07 as g
@@ -63,7 +63,7 @@ jobs:
         run: |
           python scripts/medir_amostra_kindle.py
           python scripts/sincronizar_estado_pos_voz_lote_04.py
-      - name: Validar integridade do Lote 04
+      - name: Validar integridade, cadência e escopo
         run: |
           python - <<'PY'
           from pathlib import Path
@@ -89,12 +89,23 @@ jobs:
             'Sua possibilidade de cultivo.',
             '[VALIDAÇÃO AUTORAL PENDENTE]',
             'Ouvir uma verdade pode doer — e ouvir uma mentira também.',
+            'Você observou frutos, subiu na Árvore, localizou Galhos',
+            'O desejo importa porque mostra direção. Mas cultivo é feito de práticas.',
+            'Uma conversa marcada, uma resposta adiada por vinte minutos',
             'Compreender produz possibilidade, não incorporação automática.',
+            'Mudanças internas podem ser difíceis de perceber no cotidiano. Registre evidências',
           ]
           for phrase in required:
             assert phrase in p7+p8, phrase
+          forbidden=[
+            'Você observou frutos.\n\nSubiu na Árvore.',
+            'O desejo importa.\n\nMostra direção.',
+            'Uma conversa marcada.\n\nUma resposta adiada por vinte minutos.',
+          ]
+          for phrase in forbidden:
+            assert phrase not in p8, phrase
           assert 'voz e ritmo concluídos nos Lotes 01–04' in Path('LER_AGORA_REPOSICIONESE_REV_B.md').read_text(encoding='utf-8')
-          print('Lote 04 validado: 38 capítulos, Epílogo, Filtro, Tipos, Frutos e final preservados.')
+          print('Lote 04 validado sem regressão: 38 capítulos, Epílogo, Filtro, Tipos, Frutos, cadência e final preservados.')
           PY
       - name: Versionar integração
         if: github.event_name == 'push'
@@ -102,7 +113,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add revisao-b-global/29_ONDA_7_PARTE_VII_REV_B.md revisao-b-global/32_ONDA_8_PARTE_VIII_EPILOGO_REV_B.md manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md marcos-revisao-b/MARCO_07_MANUSCRITO_COMPLETO_REV_B.md revisao-b-global/16_MEDICAO_EDITORIAL_10_PORCENTO_KINDLE.md LER_AGORA_REPOSICIONESE_REV_B.md direcao-editorial/12_REGISTRO_MESTRE_DE_CONTEXTO.md direcao-editorial/13_MATRIZ_DE_NAO_PERDA.md
-          if ! git diff --cached --quiet; then git commit -m "Integra voz, ritmo e estado do Lote 04" && git push origin HEAD:revisao-b-global-2026-07-20; fi
+          if ! git diff --cached --quiet; then git commit -m "Corrige regressão e fecha voz e ritmo do Lote 04" && git push origin HEAD:revisao-b-global-2026-07-20; fi
       - uses: actions/upload-artifact@v4
         with:
           name: reposicionese-revisao-b-marco-07-texto-${{ github.event_name }}
