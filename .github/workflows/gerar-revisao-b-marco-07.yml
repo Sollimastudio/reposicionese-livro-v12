@@ -81,7 +81,7 @@ jobs:
           required=[
             '1. Isso é verdadeiro?',
             '12. O que uma pessoa posicionada faria com essa informação?',
-            '## 14. O Refém',
+            '## 14. O Camaleão',
             '## 1. Verdade',
             '## 7. Legado',
             'Nenhum grupo pensará automaticamente por mim',
