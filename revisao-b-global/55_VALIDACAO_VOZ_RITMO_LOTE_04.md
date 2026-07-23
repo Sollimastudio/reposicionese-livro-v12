@@ -2,7 +2,8 @@
 
 **Escopo:** Parte VII, Parte VIII e Epílogo  
 **Status:** aprovado como passagem textual, estrutural e de integração  
-**Commit final:** `28e2f053f2599b8de20ebd1dd17e01912849ca69`
+**Commit final de conteúdo:** `28e2f053f2599b8de20ebd1dd17e01912849ca69`  
+**Commit final de sincronização:** `0de843014d06ad8a8fbdf4e6eaac71e2b96523a8`
 
 ---
 
@@ -12,7 +13,8 @@
 - correção de regressão: `scripts/corrigir_regressao_parte_viii_pos_lote_04.py`;
 - sincronização: `scripts/sincronizar_estado_pos_voz_lote_04.py`;
 - pipeline vigente: `.github/workflows/gerar-revisao-b-marco-07.yml`;
-- execução final aprovada: workflow `30032146530`;
+- execução textual final aprovada: workflow `30032146530`;
+- validação de governança pós-Lote 04 aprovada: workflow `30032442640`;
 - medição Kindle: **37.026 palavras**.
 
 # 2. INTEGRIDADE CONFIRMADA
@@ -40,7 +42,7 @@ A validação agora falha se a Parte VIII voltar a conter as formas fragmentadas
 - `O desejo importa.` seguido de `Mostra direção.`;
 - exemplos de mudança pequena em linhas isoladas.
 
-O gerador vigente não reconstrói mais a Parte VIII a partir da Revisão A. Monta o manuscrito e o Marco 07 diretamente das fontes vivas da Revisão B.
+O workflow vigente não reconstrói mais a Parte VIII a partir da Revisão A. Monta o manuscrito e o Marco 07 diretamente das fontes vivas da Revisão B.
 
 # 4. KINDLE
 
