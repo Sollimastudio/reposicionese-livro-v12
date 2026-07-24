@@ -10,12 +10,12 @@
 
 # 1. RESULTADO
 
-- Total editorial estimado: **37,026 palavras**;
-- alvo de 10%: **3,703 palavras**;
-- linha aproximada da fronteira: **816**;
-- seção em que a fronteira cai: **O primeiro sinal de retorno**;
-- próxima seção identificada: **Morte em Vida não é diagnóstico clínico**;
-- texto na linha de fronteira: `Voltar a participar da própria existência nem sempre começa com uma grande decisão.`.
+- Total editorial estimado: **38,874 palavras**;
+- alvo de 10%: **3,888 palavras**;
+- linha aproximada da fronteira: **617**;
+- seção em que a fronteira cai: **O PACTO DESTA TRAVESSIA**;
+- próxima seção identificada: **PARTE I — OBSERVE OS FRUTOS**;
+- texto na linha de fronteira: `> **a Vitrine e os frutos visíveis do posicionamento que você já ocupa.**`.
 
 ---
 
@@ -23,19 +23,19 @@
 
 | Marco editorial | Posição | Percentual aproximado de entrada |
 |---|---:|---:|
-| VOCÊ JÁ ESTÁ POSICIONADA | dentro | 0.14% |
-| OBSERVE OS FRUTOS | dentro | 0.68% |
-| O QUE ESTE LIVRO VAI TREINAR EM VOCÊ | dentro | 1.08% |
-| SUA PRIMEIRA SUBIDA | dentro | 1.49% |
-| COMO USAR ESTE LIVRO | dentro | 1.86% |
-| PARTE I — OBSERVE OS FRUTOS | dentro | 5.51% |
-| CAPÍTULO 1 — A VITRINE DA VIDA | dentro | 5.90% |
-| CAPÍTULO 2 — A MORTE EM VIDA | dentro | 8.69% |
-| PARTE II — SEMENTE, SOLO E CONFIGURAÇÃO | depois | 12.16% |
-| CAPÍTULO 3 — A SEMENTE E O SOLO | depois | 12.76% |
-| CAPÍTULO 4 — O CELULAR CONFIGURADO | depois | 15.93% |
-| CAPÍTULO 5 — O SOLO DIGITAL | depois | 18.78% |
-| CAPÍTULO 6 — CRENÇAS, VALORES E MODO OPERANTE | depois | 22.18% |
+| VOCÊ JÁ ESTÁ POSICIONADA | dentro | 1.18% |
+| OBSERVE OS FRUTOS | dentro | 3.06% |
+| O QUE ESTE LIVRO VAI TREINAR EM VOCÊ | dentro | 4.83% |
+| SUA PRIMEIRA SUBIDA | dentro | 5.40% |
+| COMO USAR ESTE LIVRO | dentro | 5.75% |
+| PARTE I — OBSERVE OS FRUTOS | depois | 10.00% |
+| CAPÍTULO 1 — A VITRINE DA VIDA | depois | 10.37% |
+| CAPÍTULO 2 — A MORTE EM VIDA | depois | 13.03% |
+| PARTE II — SEMENTE, SOLO E CONFIGURAÇÃO | depois | 16.33% |
+| CAPÍTULO 3 — A SEMENTE E O SOLO | depois | 16.90% |
+| CAPÍTULO 4 — O CELULAR CONFIGURADO | depois | 19.93% |
+| CAPÍTULO 5 — O SOLO DIGITAL | depois | 22.64% |
+| CAPÍTULO 6 — CRENÇAS, VALORES E MODO OPERANTE | depois | 25.88% |
 
 ---
 
@@ -58,19 +58,19 @@ A decisão de fazer novos cortes, deslocamentos ou acréscimos deverá considera
 # 4. CONTEXTO DA FRONTEIRA
 
 ```text
-810: Aqui, basta guardar uma pergunta:
-811: 
-812: > Esta adaptação me ajuda a viver uma realidade — ou está me impedindo de perceber o que penso, sinto e sustento?
-813: 
-814: ## O primeiro sinal de retorno
-815: 
-816: Voltar a participar da própria existência nem sempre começa com uma grande decisão.
-817: 
-818: Às vezes, começa quando você percebe:
-819: 
-820: “Estou concordando para a conversa acabar.”
-821: 
-822: “Estou repetindo uma opinião que não verifiquei.”
+611: > **PASSE PELO FILTRO DA SENSATEZ.**
+612: >
+613: > **DEPOIS, DESÇA.**
+614: 
+615: A Parte I começa naquilo que sua vida já mostra antes de qualquer explicação:
+616: 
+617: > **a Vitrine e os frutos visíveis do posicionamento que você já ocupa.**
+618: 
+619: <!-- FIM DA FONTE: revisao-b-global/03_ONDA_1_PRE_LIVRO_REV_B.md -->
+620: 
+621: 
+622: 
+623: 
 ```
 
 ---

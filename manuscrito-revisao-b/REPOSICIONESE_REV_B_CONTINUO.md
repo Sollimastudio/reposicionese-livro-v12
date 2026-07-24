@@ -8,7 +8,7 @@ toc-title: "SUMÁRIO"
 ---
 
 > **MANUSCRITO DE TRABALHO — REVISÃO B COMPLETA. Pré-livro, Partes I–VIII e Epílogo revisados.**  
-> Gerado em 2026-07-23T20:22:18+00:00. A Revisão A e os Marcos 01–06 permanecem preservados.
+> Gerado em 2026-07-24T02:28:26+00:00. A Revisão A e os Marcos 01–06 permanecem preservados.
 
 \newpage
 <!-- FONTE: revisao-b-global/03_ONDA_1_PRE_LIVRO_REV_B.md | STATUS: REVISÃO B -->
@@ -19,6 +19,76 @@ toc-title: "SUMÁRIO"
 **Sol Lima**
 
 > O mundo ensinou você a reagir. Ninguém ensinou você a existir.
+
+---
+
+# GUIA DE LEITURA
+
+Este livro é uma travessia. Não o leia como cobrança. Leia como mapa.
+
+Você não precisa responder a tudo de uma vez, compreender toda a sua história numa sentada nem transformar cada capítulo numa tarefa. Algumas páginas vão nomear o que você já sabia. Outras vão contrariar uma explicação antiga. Outras talvez apenas plantem uma pergunta que amadurecerá depois.
+
+Quando o texto tocar fundo, não corra para se consertar. Pare. Respire. Observe.
+
+A pergunta não é:
+
+> **O que há de errado comigo?**
+
+A pergunta é:
+
+> **Que configuração está produzindo esses frutos?**
+
+Ao longo do livro, você encontrará mapas, perguntas, pausas, exercícios e comandos. Eles não existem para controlar a leitura. Existem para aliviar a travessia e conduzir o olhar quando a experiência parecer grande demais.
+
+Use-os assim:
+
+- volte ao mapa quando se sentir perdida;
+- faça uma pausa quando uma frase tocar sua identidade;
+- deixe na Árvore aquilo que ainda não consegue concluir;
+- anote o que se repete;
+- reconheça também o que funciona;
+- não transforme consciência em pressa;
+- não use o método contra si mesma.
+
+Este livro começa pelo que aparece, investiga o que sustenta, interrompe o que drena e devolve você à vida com uma decisão possível.
+
+> **Sua Árvore. Seus frutos. Seu cultivo.**
+
+---
+
+# VOLUME 2 — DA ANATOMIA À TRAVESSIA
+
+No primeiro volume, *Morte em Vida: A Anatomia de um Feminicídio Emocional*, eu abri a história, nomeei o apagamento e mostrei como uma pessoa pode continuar funcionando enquanto desaparece por dentro.
+
+Este segundo volume começa onde a anatomia termina.
+
+Depois de reconhecer o que feriu, é preciso investigar o que ficou instalado. Depois de nomear o apagamento, é preciso recuperar o governo da consciência. Depois de compreender como uma vida foi sendo diminuída, é preciso aprender a sustentar escolhas que produzam outra vida.
+
+*Morte em Vida* perguntou:
+
+> **Como eu desapareci?**
+
+*Reposicione-se* pergunta:
+
+> **Como eu paro de desaparecer, recupero discernimento e sustento uma posição na vida real?**
+
+A resposta não será uma frase de motivação.
+
+Será uma Árvore.
+
+---
+
+# A HIERARQUIA DA TRAVESSIA
+
+Para não confundir os nomes:
+
+- **Relacione-se®** é a marca-mãe e o ecossistema de consciência, vínculos e recursos internos;
+- **Reposicione-se™** é este livro e esta travessia de discernimento aplicado ao posicionamento;
+- **Posicione-se™** é a linguagem prática do movimento: o momento em que aquilo que foi discernido precisa ser sustentado na vida real.
+
+Aqui, posicionamento não é grito, imposição, pose, dureza ou vitória numa discussão.
+
+É a forma como a consciência aparece na vida real quando existe custo.
 
 ---
 
@@ -43,15 +113,61 @@ A questão é:
 
 > **A posição que você ocupa está produzindo os frutos que deseja continuar colhendo?**
 
-Você pode dizer que quer paz e alimentar guerras; desejar respeito e negociar o próprio limite; defender liberdade e entregar a consciência ao grupo; afirmar que pensa por si e consumir apenas confirmações.
+Você pode dizer que quer paz e alimentar guerras. Pode desejar respeito e negociar o próprio limite. Pode defender liberdade e entregar a consciência ao grupo. Pode afirmar que pensa por si e consumir apenas confirmações.
 
-Também pode ter aprendido a pausar, construído vínculos em que verdade não ameaça pertencimento e sustentado valores que podem fortalecer outros Galhos.
+Também pode ter aprendido a pausar, construído vínculos em que a verdade não ameaça o pertencimento e sustentado valores capazes de fortalecer outros Galhos.
 
 Este livro ajudará você a reconhecer o que produz dano, o que produz vida, o que foi repetido sem exame e o que merece repetição consciente.
 
 Isso não significa que todo fruto foi causado por você.
 
 Significa que o fruto é o primeiro lugar em que a investigação se torna visível.
+
+---
+
+# A PROMESSA DO POSICIONAMENTO
+
+Antes de apresentar ferramenta, metáfora ou Lei, este livro precisa acender uma pergunta:
+
+> **Se eu continuar lendo, que tipo de pessoa posso me tornar?**
+
+Você não está prestes a aprender um método para parecer forte. Está prestes a treinar uma consciência que pensa antes de obedecer, filtra antes de pertencer, enxerga antes de reagir e escolhe antes de repetir.
+
+Ao longo desta travessia, você aprenderá a reconhecer quando vive para pertencer e quando vive por convicção; quando uma narrativa pronta tomou o lugar da sua voz; quando o sofá da mentira parece descanso, mas já virou prisão; quando o algoritmo, a família, o medo, a igreja, o relacionamento, o trabalho ou o grupo começaram a pensar por você.
+
+A promessa não é uma vida sem dor. Não é invulnerabilidade, controle absoluto, popularidade nem garantia de que tudo dará certo.
+
+A promessa é recuperar clareza, discernimento, responsabilidade, respeito próprio, maturidade e liberdade interior suficientes para não entregar o governo da sua consciência a qualquer voz que prometa alívio rápido.
+
+Posicionamento, aqui, é governo interno. É paz sem anestesia. É autoridade sem arrogância. É respeito sem ameaça. É clareza sem frieza. É liberdade sem fuga. É influência saudável sem manipulação. É liderança sem violência. É segurança sem rigidez. É coerência quando custa.
+
+Quando uma pessoa se reposiciona, algo pode mudar antes mesmo de ela explicar. A presença ganha contorno. A voz deixa de pedir licença para existir. A imagem deixa de mendigar validação e começa a comunicar inteireza. Os vínculos deixam de exigir desaparecimento. O trabalho deixa de ser apenas sobrevivência. A fé deixa de ser usada como anestesia e volta a ser eixo.
+
+Essa inteireza pode se tornar atraente — até magnética — porque coerência, clareza e presença são raras num mundo treinado para performance. Mas magnetismo não é promessa de aprovação, conquista ou compatibilidade universal. Uma posição íntegra atrai algumas relações e afasta outras. Às vezes, o primeiro fruto do posicionamento não é ser acolhida; é deixar de se abandonar para continuar sendo aceita.
+
+É por isso que este livro não começa exigindo que você decore uma estrutura. Primeiro, ele quer mostrar o preço de continuar sendo decidida por fora.
+
+Se, ao final, você achar que leu sobre relacionamentos, família, trabalho, telas, influência, dor, fé, pertencimento e frutos, tudo bem. A camada subterrânea será outra:
+
+> **Você estava aprendendo posicionamento. E, mais fundo ainda, estava aprendendo a pensar antes que o mundo pensasse por você.**
+
+---
+
+# POSICIONAMENTO É UMA HABILIDADE
+
+Posicionamento não é um traço de personalidade, um dom de nascimento nem o privilégio de quem cresceu num ambiente ideal.
+
+É uma habilidade.
+
+Você pode aprendê-la. Pode perdê-la em determinados Galhos. Pode recuperá-la. Pode sustentá-la bem no trabalho e abandoná-la num vínculo afetivo. Pode parecer firme por fora e ainda estar sendo governada pelo medo por dentro.
+
+Isso muda tudo.
+
+Se posicionamento fosse um traço fixo, você estaria condenada ao que já é. Como é uma habilidade, pode ser treinado — não por performance de coragem, mas pela repetição de consciência, critério, limite, responsabilidade e ação possível.
+
+Você não precisa se tornar outra pessoa para se posicionar.
+
+Precisa parar de desaparecer da própria decisão.
 
 ---
 
@@ -72,6 +188,8 @@ Por enquanto, observe:
 - Sua fé produz vida, responsabilidade e coragem — ou culpa, dependência e apagamento?
 - Você sabe o que pensa antes de abrir a rede para descobrir o que deveria pensar?
 - Que escolha produziu um fruto que deseja repetir?
+- Onde você está chamando sobrevivência de paz?
+- Onde está chamando silêncio de maturidade quando, na verdade, tem medo do custo da verdade?
 
 Não responda bonito.
 
@@ -85,6 +203,82 @@ Você não é o fruto estragado. Também não precisa desprezar os frutos bons c
 
 ---
 
+# ANTES DA ÁRVORE: QUEM ESTÁ PENSANDO DENTRO DE VOCÊ?
+
+Eu chamo de feminicídio emocional porque foi assim que a minha morte em vida ganhou nome: no corpo, na história e na travessia de uma mulher.
+
+Mas o mecanismo do apagamento interno não pertence apenas às mulheres. Ele pode atravessar homens, pessoas LGBTQIA+, filhos, mães, líderes, fiéis, casais, famílias e qualquer pessoa que perdeu a própria consciência tentando sobreviver a vínculos, narrativas e ambientes que sequestraram sua voz.
+
+O mundo mudou depressa demais. A atenção virou território de disputa. A indignação virou produto. O pertencimento virou anestesia.
+
+Eu não culpo quem foi capturado. Eu também fui.
+
+Ninguém estava totalmente preparado para viver influenciado o tempo todo, por todos os lados, enquanto ainda tentava amar, trabalhar, crer, decidir, sobreviver e continuar inteiro.
+
+A pergunta que abre esta travessia não é apenas:
+
+> **O que aconteceu comigo?**
+
+A pergunta é mais funda:
+
+> **Quem está pensando dentro de mim quando eu acho que estou escolhendo?**
+
+Reposicionar-se é recuperar consciência, acessar recursos internos e sustentar uma escolha diante de tudo que tenta decidir por você.
+
+---
+
+# A PERGUNTA QUE ABRE A PORTA
+
+Talvez a sua Jaula não tenha apenas grades visíveis.
+
+Talvez tenha frases bonitas, pertencimentos prontos, telas acesas, vozes influentes e explicações que aliviam por alguns minutos, mas não libertam por dentro.
+
+A porta aberta não significa que a saída foi fácil. Não significa que o risco acabou, que os recursos existem ou que a dependência desapareceu. Significa apenas que alguma possibilidade começou a se tornar visível.
+
+Em certas dimensões, a porta pode estar aberta. Em outras, ainda pode haver medo, trauma, coerção, ameaça, filhos, dependência financeira, falta de rede ou perigo real.
+
+Este livro não foi escrito para arrancar identidades, crenças ou histórias de ninguém. Foi escrito para devolver uma pergunta:
+
+> **Isso nasceu do seu discernimento ou da sua dor tentando pertencer?**
+
+Relacione-se® nasceu da descoberta de que Deus não nos fez em série. Cada pessoa traz recursos internos, dor, alegria, memória, fé, corpo e caminho próprios.
+
+Por isso, nenhuma saída responsável pode ser construída pela amputação da consciência.
+
+---
+
+# A JAULA COMO FIO DA TRAVESSIA
+
+A Jaula não será um segundo método nem uma explicação para tudo. A Árvore investiga. A Jaula interrompe quando uma prisão já começou a ser percebida.
+
+Ao longo do livro, diferentes barras aparecerão:
+
+- o Sofá Quente da Mentira;
+- o Sono da Negligência;
+- a Autopiedade;
+- o medo;
+- o perfeccionismo;
+- a procrastinação;
+- a anestesia;
+- o controle;
+- o vitimismo;
+- a identidade emprestada;
+- o pertencimento que exige desaparecimento;
+- o merecimento;
+- o algoritmo;
+- a comparação;
+- a dependência emocional;
+- a dependência material;
+- a coerção e as prisões externas reais.
+
+A frase **A JAULA ESTÁ ABERTA** não será usada para culpabilizar quem ainda não conseguiu sair. Ela servirá para reconhecer a dimensão em que existe possibilidade — e também aquilo que ainda bloqueia acesso, segurança ou movimento.
+
+Nem toda porta aberta parece aberta para quem foi treinado a procurar a chave fora. Por isso, o livro mostrará onde uma possibilidade aparece e o que ainda impede a consciência de tocar na maçaneta.
+
+A dor não será negada. Mas também não receberá automaticamente o governo da vida.
+
+---
+
 # O QUE ESTE LIVRO VAI TREINAR EM VOCÊ
 
 Este livro não foi escrito para dizer o que você deve pensar.
@@ -95,13 +289,28 @@ Essa capacidade tem um nome: **metacognição**.
 
 Metacognição é perceber o pensamento enquanto ele se forma: separar fato e interpretação, reconhecer emoção, influência e impulso, e perguntar que fruto a resposta tende a produzir.
 
+É uma forma de maiêutica aplicada: em vez de entregar respostas prontas, o método devolve perguntas capazes de trazer à luz aquilo que já participa da sua decisão, mas ainda não foi examinado.
+
 Não é pensar sem parar nem desconfiar de tudo. É criar um intervalo entre estímulo e resposta, influência e adesão, emoção e decisão.
 
-Você aprenderá a observar sem transformar fruto em identidade, distinguir fato, interpretação e influência e reconhecer o automático. Aprenderá sem terceirizar a consciência, fortalecendo o que funciona e assumindo sua responsabilidade real. Então poderá filtrar, interromper, plantar outra prática e agir.
+Você aprenderá a:
+
+- observar sem transformar fruto em identidade;
+- distinguir fato, interpretação, emoção, influência e decisão;
+- reconhecer o automático;
+- aprender sem terceirizar a consciência;
+- identificar o que fortalece e o que drena;
+- sustentar responsabilidade sem assumir culpa total;
+- filtrar antes de aderir;
+- interromper sem usar a Poda como vingança;
+- plantar uma prática capaz de ocupar o espaço aberto;
+- descer da análise e voltar à vida.
 
 Você não terminará este livro sabendo tudo.
 
 Terminará sabendo **examinar melhor antes de acreditar, repetir, reagir ou decidir**.
+
+Se terminar repetindo Sol Lima, mas incapaz de examinar uma ideia, esta obra falhou.
 
 ---
 
@@ -138,7 +347,7 @@ Não tente consertar sua vida inteira de uma vez.
 
 Escolha um fruto real — incômodo ou bom — e acompanhe a mesma investigação ao longo das Partes.
 
-Use o livro em cinco movimentos:
+Use o livro em cinco movimentos de leitura:
 
 1. **Observe:** o que aconteceu e que fruto apareceu?
 2. **Suba:** como estou pensando, sentindo e interpretando?
@@ -146,7 +355,15 @@ Use o livro em cinco movimentos:
 4. **Filtre:** o que é fato, narrativa, influência e responsabilidade?
 5. **Desça:** que ação, Poda ou Nova Semente tornará o discernimento visível?
 
-Anote. Não use incômodo como prova. Deixe na Árvore frases que tocam identidade, examine influências urgentes e investigue o que sustentou um bom fruto.
+Anote. Não use incômodo como prova. Deixe na Árvore frases que tocam identidade. Examine influências urgentes. Investigue também o que sustentou um bom fruto.
+
+Em capítulos densos, faça um checkpoint:
+
+- O que me tocou?
+- Que padrão apareceu?
+- Que fruto está sendo produzido?
+- O que ainda precisa permanecer na Árvore antes de eu seguir?
+- Existe algo que preciso levar a uma pessoa qualificada, em vez de tentar resolver sozinha?
 
 Ao final, você deverá repetir o método sem depender da autora: perceber, verificar, reconhecer, revisar e sustentar uma escolha.
 
@@ -188,7 +405,7 @@ Subir não é fugir da realidade. É sair, por alguns instantes, de dentro da re
 
 Do chão, você vê o fruto que caiu.
 
-Da Árvore, pergunta pelo Galho, Tronco, Raiz, Solo, Praga, Poda e pelos recursos saudáveis já disponíveis.
+Da Árvore, pergunta pelo Galho, Tronco, Raízes, Solo, Semente, Pragas, recursos saudáveis, Poda e Nova Semente.
 
 A Árvore organiza a investigação sem reduzir tudo a uma causa, diagnosticar pessoas ou entregar à autora poder sobre seu pensamento.
 
@@ -207,7 +424,7 @@ Ela existe para devolver visão, autoria e decisão.
 - **Pragas:** mecanismos que drenam, distorcem ou sabotam; nunca pessoas, grupos, diagnósticos ou emoções difíceis.
 - **Poda:** a interrupção consciente do que produz frutos incompatíveis; não vingança.
 - **Nova Semente:** a prática que ocupará o espaço aberto.
-- **Mirante do Discernimento:** o ponto metacognitivo de onde você observa sem se reduzir ao fruto e decide quando descer para agir. Não é uma camada da Árvore nem uma ferramenta separada; é o nome do ponto de observação alcançado quando você sobe.
+- **Mirante do Discernimento:** o ponto metacognitivo de onde você observa sem se reduzir ao fruto e decide quando descer para agir. Não é camada da Árvore nem ferramenta separada; é o nome do ponto de observação alcançado quando você sobe.
 
 A **Semente** é a entrada do cultivo.
 
@@ -239,6 +456,8 @@ Você não precisa descobrir toda a infância para observar um fruto nem fazer d
 A Árvore não foi criada para virar moradia de análise.
 
 Foi criada para devolver você à vida.
+
+> **Subir sem descer pode virar ruminação. Descer sem subir pode virar reação.**
 
 ---
 
@@ -275,7 +494,7 @@ Esses temas parecem diferentes, mas podem compartilhar um mecanismo:
 
 Na polarização, o grupo responde e pune perguntas. Na influência contínua, uma voz ganha acesso sem ser percebida. Na Fuga Identitária, papel, causa, dor, rótulo ou pertencimento responde pela pessoa inteira.
 
-O problema não é pertencer ou aprender, mas deixar de perceber quem participa das conclusões.
+O problema não é pertencer, aprender, seguir alguém ou reconhecer uma causa. O problema começa quando você deixa de perceber quem participa das suas conclusões.
 
 Volte a três perguntas:
 
@@ -285,11 +504,30 @@ Volte a três perguntas:
 >
 > **Esta identificação amplia minha consciência ou está substituindo quem sou?**
 
+Nenhum grupo pensará automaticamente por mim, nem mesmo o grupo que representa meus valores.
+
+---
+
+# FIOS QUE VOLTARÃO AO LONGO DO LIVRO
+
+Alguns conceitos não aparecerão uma única vez. Eles nascerão, reaparecerão e amadurecerão em diferentes Partes.
+
+- **Jaula:** nasce na pergunta da porta, reaparece no Sofá Quente da Mentira e no Sono da Negligência, atravessa vínculos e fecha no ritual final.
+- **Pertencimento:** começa como necessidade humana, atravessa família, fé, grupos, algoritmos e Fuga Identitária.
+- **Merecimento:** aparece como fome de valor, reaparece nos relacionamentos e no trabalho e se torna visível nos frutos.
+- **Responsabilidade:** nasce na investigação, atravessa limites, Poda e dever e termina como decisão concreta.
+- **Não Ignore o Óbvio:** aparece quando um fruto começa a falar, volta diante da negação e amadurece quando a pessoa deixa de negociar a evidência.
+- **Sono da Negligência:** surge onde a vida continua funcionando, mas algo essencial deixou de receber cuidado.
+
+Esses fios não são métodos paralelos. São maneiras de reconhecer a mesma Árvore em movimentos diferentes da vida.
+
 ---
 
 # DE ONDE EU ESCREVO
 
-Escrevo de uma lente cristã, conservadora, pedagógica e experiencial. Escondê-la seria começar um livro sobre posicionamento me escondendo. Mas minha posição não me dá o direito de pensar por você.
+Escrevo de uma lente cristã, conservadora, pedagógica e experiencial. Escondê-la seria começar um livro sobre posicionamento me escondendo.
+
+Mas minha posição não me dá o direito de pensar por você.
 
 Ser conservadora não torna a direita sempre verdadeira, a esquerda sempre errada nem o centro sempre sensato. Toda lente é perigosa quando deixa de ser examinável.
 
@@ -314,13 +552,25 @@ O Método da Árvore do Discernimento existe para construir consciência, não p
 > Verdade sem sensatez vira agressão.  
 > Força sem discernimento vira controle.
 
-Este livro não autoriza diagnosticar pessoas, acusar com a Jaula nem chamar todo sofrimento de Autopiedade. Também não autoriza culpabilizar vítimas, punir com limites, humilhar com a verdade ou impedir investigação pela fé.
+Este livro não autoriza:
 
-Aprender continua necessário. Metacognição continua ligada à vida — não à ruminação.
+- diagnosticar pessoas;
+- usar a Jaula como acusação;
+- chamar todo sofrimento de Autopiedade;
+- responsabilizar vítimas pela violência que sofreram;
+- punir com limites;
+- humilhar com a verdade;
+- usar fé para impedir investigação;
+- transformar prudência em covardia;
+- transformar desconforto em prova de abuso;
+- exigir saída sem considerar risco e recursos;
+- substituir avaliação profissional por exercício de livro.
 
 Quem praticou o dano responde pelo que fez.
 
-Contexto, trauma, dependência financeira, risco, coerção e falta de rede importam. Autoresponsabilidade não apaga essas realidades. Pergunta:
+Contexto, trauma, dependência financeira, risco, coerção e falta de rede importam. Autoresponsabilidade não apaga essas realidades.
+
+A pergunta responsável é:
 
 > **Diante do que aconteceu e das condições reais de hoje, qual é o próximo movimento possível dentro da minha esfera?**
 
@@ -330,23 +580,23 @@ Os exercícios não substituem atendimento psicológico, psiquiátrico, médico,
 
 ---
 
-# ESTE LIVRO E O ANTERIOR
+# O PACTO DESTA TRAVESSIA
 
-*Morte em Vida* nomeia o apagamento.
+Eu não prometo que toda pergunta será confortável.
 
-*Reposicione-se* organiza a reconstrução.
+Prometo não usar desconforto como prova de verdade.
 
-O livro anterior perguntou:
+Não prometo entregar uma resposta pronta para cada Galho.
 
-> Como eu desapareci?
+Prometo oferecer um método para que você investigue sem entregar sua consciência à autora.
 
-Este pergunta:
+Não prometo que toda Poda será imediata.
 
-> **Como eu paro de desaparecer, recupero discernimento e sustento uma posição na vida real?**
+Prometo não confundir demora, risco ou falta de recurso com falta de vontade.
 
-A resposta não será uma frase de motivação.
+Não prometo uma vida sem dor.
 
-Será uma Árvore.
+Prometo que a dor não precisará continuar sendo o único lugar de onde você decide.
 
 ---
 
@@ -354,7 +604,11 @@ Será uma Árvore.
 >
 > **SUBA NA ÁRVORE.**
 >
-> **PASSE PELO FILTRO.**
+> **DEIXE NA ÁRVORE O QUE AINDA NÃO PODE CONCLUIR.**
+>
+> **VOLTE ÀS RAÍZES QUANDO O PADRÃO PEDIR.**
+>
+> **PASSE PELO FILTRO DA SENSATEZ.**
 >
 > **DEPOIS, DESÇA.**
 
