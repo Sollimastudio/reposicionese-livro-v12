@@ -1,0 +1,81 @@
+name: Validar Governança — Marco 07
+
+on:
+  push:
+    branches:
+      - revisao-b-global-2026-07-20
+    paths:
+      - "LER_AGORA_REPOSICIONESE_REV_B.md"
+      - "direcao-editorial/**"
+      - "revisao-b-global/35_AUDITORIA_GLOBAL_COERENCIA_REV_B.md"
+      - "revisao-b-global/36_PONTO_DE_RETOMADA_POS_AUDITORIA_GLOBAL.md"
+      - "revisao-b-global/37_RESUMO_EXECUTIVO_AUDITORIA_GLOBAL.md"
+      - "revisao-b-global/38_RASTREABILIDADE_RECONCILIACAO_GOVERNANCA.md"
+      - "revisao-b-global/39_VALIDACAO_RECONCILIACAO_GOVERNANCA.md"
+      - "scripts/validar_governanca_marco_07.py"
+      - ".github/workflows/validar-governanca-marco-07.yml"
+  pull_request:
+    branches:
+      - direcao-editorial-executiva-2026-07-20
+    paths:
+      - "LER_AGORA_REPOSICIONESE_REV_B.md"
+      - "direcao-editorial/**"
+      - "revisao-b-global/35_AUDITORIA_GLOBAL_COERENCIA_REV_B.md"
+      - "revisao-b-global/36_PONTO_DE_RETOMADA_POS_AUDITORIA_GLOBAL.md"
+      - "revisao-b-global/37_RESUMO_EXECUTIVO_AUDITORIA_GLOBAL.md"
+      - "revisao-b-global/38_RASTREABILIDADE_RECONCILIACAO_GOVERNANCA.md"
+      - "revisao-b-global/39_VALIDACAO_RECONCILIACAO_GOVERNANCA.md"
+      - "scripts/validar_governanca_marco_07.py"
+      - ".github/workflows/validar-governanca-marco-07.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: validar-governanca-marco-07-${{ github.event_name }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Obter repositório completo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          show-progress: false
+
+      - name: Executar validação e salvar relatório
+        shell: bash
+        run: |
+          set +e
+          python3 scripts/validar_governanca_marco_07.py > validacao-governanca.log 2>&1
+          CODIGO=$?
+          echo "$CODIGO" > validacao-governanca.status
+          cat validacao-governanca.log
+          exit 0
+
+      - name: Publicar relatório da validação
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: relatorio-validacao-governanca-marco-07-${{ github.event_name }}
+          path: |
+            validacao-governanca.log
+            validacao-governanca.status
+          if-no-files-found: error
+          retention-days: 30
+
+      - name: Confirmar resultado
+        if: always()
+        shell: bash
+        run: |
+          CODIGO="$(cat validacao-governanca.status)"
+          if [ "$CODIGO" != "0" ]; then
+            ERRO="$(tail -n 1 validacao-governanca.log)"
+            echo "::error title=Falha na governança::$ERRO"
+            exit "$CODIGO"
+          fi
+          echo "Governança validada com sucesso."

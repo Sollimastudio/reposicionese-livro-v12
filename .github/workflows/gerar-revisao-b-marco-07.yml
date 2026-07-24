@@ -1,0 +1,126 @@
+# Marco 07 — fechamento completo da Revisão B
+name: Gerar Revisão B — Marco 07
+
+on:
+  push:
+    branches: [revisao-b-global-2026-07-20]
+    paths:
+      - "revisao-b-global/**"
+      - "scripts/gerar_revisao_b_marco_07.py"
+      - "scripts/medir_amostra_kindle.py"
+      - "scripts/aplicar_voz_ritmo_repeticao_lote_04.py"
+      - "scripts/corrigir_regressao_parte_viii_pos_lote_04.py"
+      - ".github/workflows/gerar-revisao-b-marco-07.yml"
+  pull_request:
+    branches: [direcao-editorial-executiva-2026-07-20]
+    paths:
+      - "revisao-b-global/**"
+      - "scripts/gerar_revisao_b_marco_07.py"
+      - "scripts/medir_amostra_kindle.py"
+      - "scripts/aplicar_voz_ritmo_repeticao_lote_04.py"
+      - "scripts/corrigir_regressao_parte_viii_pos_lote_04.py"
+      - ".github/workflows/gerar-revisao-b-marco-07.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: revisao-b-marco-07-${{ github.event_name }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  integrar-texto:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
+          fetch-depth: 0
+      - name: Proteger Revisão A e Marcos anteriores
+        run: |
+          git diff --exit-code 3c0338bdb13d6c2c66216a3bd18b3f3603a5faa2 -- revisao-integral manuscrito-canonico-rev-a manuscrito-v13 revisao-autoral LER_AGORA_REPOSICIONESE_REV_A.md VISUALIZAR_REVISAO_INTEGRAL_A.md
+          for n in 01 02 03 04 05 06; do test -n "$(find marcos-revisao-b -maxdepth 1 -name "MARCO_${n}_*.md" -size +0c -print -quit)"; done
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Aplicar passagem final do Lote 04
+        run: |
+          python scripts/aplicar_voz_ritmo_repeticao_lote_04.py
+          python scripts/corrigir_regressao_parte_viii_pos_lote_04.py
+      - name: Montar manuscrito e Marco a partir das fontes B vigentes
+        run: |
+          python - <<'PY'
+          import scripts.gerar_revisao_b_marco_07 as g
+          body = g.assemble(g.B_SOURCES)
+          g.validate(body)
+          g.CONTINUOUS.write_text(g.metadata('Manuscrito contínuo completo — Revisão B — Marco 07','MANUSCRITO DE TRABALHO — REVISÃO B COMPLETA. Pré-livro, Partes I–VIII e Epílogo revisados.') + body, encoding='utf-8', newline='\n')
+          g.MILESTONE.write_text(g.metadata('Marco 07 — Manuscrito completo — Revisão B','MARCO 07 DA REVISÃO B — Manuscrito completo, capítulos 1–38 e Epílogo revisados.') + body, encoding='utf-8', newline='\n')
+          PY
+      - name: Medir Kindle
+        run: |
+          python scripts/medir_amostra_kindle.py
+      - name: Validar integridade, cadência e escopo
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          p7=Path('revisao-b-global/29_ONDA_7_PARTE_VII_REV_B.md').read_text(encoding='utf-8')
+          p8=Path('revisao-b-global/32_ONDA_8_PARTE_VIII_EPILOGO_REV_B.md').read_text(encoding='utf-8')
+          full=Path('manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md').read_text(encoding='utf-8')
+          mark=Path('marcos-revisao-b/MARCO_07_MANUSCRITO_COMPLETO_REV_B.md').read_text(encoding='utf-8')
+          r=re.compile(r'^# CAP[IÍ]TULO\s+(\d+)\b',re.M|re.I)
+          assert [int(x) for x in r.findall(p7)]==list(range(27,33))
+          assert [int(x) for x in r.findall(p8)]==list(range(33,39))
+          for label,text in {'manuscrito':full,'Marco 07':mark}.items():
+            assert [int(x) for x in r.findall(text)]==list(range(1,39)), label
+            assert len(re.findall(r'^# EP[IÍ]LOGO\b',text,re.M|re.I))==1, label
+          required=[
+            '1. Isso é verdadeiro?',
+            '12. O que uma pessoa posicionada faria com essa informação?',
+            '## 14. O Camaleão',
+            '## 1. Verdade',
+            '## 7. Legado',
+            'Nenhum grupo pensará automaticamente por mim',
+            '**AGORA DESÇA DA ÁRVORE E SUSTENTE UMA ESCOLHA.**',
+            'Sua possibilidade de cultivo.',
+            '[VALIDAÇÃO AUTORAL PENDENTE]',
+            'Ouvir uma verdade pode doer — e ouvir uma mentira também.',
+            'Você observou frutos, subiu na Árvore, localizou Galhos',
+            'O desejo importa porque mostra direção. Mas cultivo é feito de práticas.',
+            'Uma conversa marcada, uma resposta adiada por vinte minutos',
+            'Compreender produz possibilidade, não incorporação automática.',
+            'Mudanças internas podem ser difíceis de perceber no cotidiano. Registre evidências',
+            'POSICIONAMENTO É UMA HABILIDADE',
+            'A JAULA COMO FIO DA TRAVESSIA',
+            'O PACTO DESTA TRAVESSIA',
+          ]
+          for phrase in required:
+            assert phrase in full, phrase
+          forbidden=[
+            'Você observou frutos.\n\nSubiu na Árvore.',
+            'O desejo importa.\n\nMostra direção.',
+            'Uma conversa marcada.\n\nUma resposta adiada por vinte minutos.',
+          ]
+          for phrase in forbidden:
+            assert phrase not in p8, phrase
+          assert 'voz e ritmo concluídos nos Lotes 01–04' in Path('LER_AGORA_REPOSICIONESE_REV_B.md').read_text(encoding='utf-8')
+          print('Revisão B validada: Pré-livro consolidado, 38 capítulos, Epílogo, Filtro, Tipos, Frutos, cadência e final preservados.')
+          PY
+      - name: Versionar integração
+        if: github.event_name == 'push'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add revisao-b-global/29_ONDA_7_PARTE_VII_REV_B.md revisao-b-global/32_ONDA_8_PARTE_VIII_EPILOGO_REV_B.md manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md marcos-revisao-b/MARCO_07_MANUSCRITO_COMPLETO_REV_B.md revisao-b-global/16_MEDICAO_EDITORIAL_10_PORCENTO_KINDLE.md
+          if ! git diff --cached --quiet; then git commit -m "Integra Pré-livro consolidado ao manuscrito contínuo" && git push origin HEAD:revisao-b-global-2026-07-20; fi
+      - uses: actions/upload-artifact@v4
+        with:
+          name: reposicionese-revisao-b-marco-07-texto-${{ github.event_name }}
+          path: |
+            revisao-b-global/29_ONDA_7_PARTE_VII_REV_B.md
+            revisao-b-global/32_ONDA_8_PARTE_VIII_EPILOGO_REV_B.md
+            manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md
+            marcos-revisao-b/MARCO_07_MANUSCRITO_COMPLETO_REV_B.md
+            revisao-b-global/16_MEDICAO_EDITORIAL_10_PORCENTO_KINDLE.md
+          retention-days: 30

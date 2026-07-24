@@ -1,0 +1,67 @@
+# Auditoria técnica integral do estado atual
+name: Auditar Estado Completo — Revisão B
+
+on:
+  push:
+    branches:
+      - revisao-b-global-2026-07-20
+    paths:
+      - "scripts/auditar_estado_completo_revisao_b.py"
+      - ".github/workflows/auditar-estado-completo-revisao-b.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: auditoria-estado-completo-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  auditar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Obter repositório
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
+          fetch-depth: 0
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Gerar auditoria técnica
+        run: python scripts/auditar_estado_completo_revisao_b.py
+
+      - name: Validar que o manuscrito não foi alterado
+        shell: bash
+        run: |
+          git diff --exit-code -- \
+            revisao-b-global/03_ONDA_1_PRE_LIVRO_REV_B.md \
+            revisao-b-global/04_ONDA_1_PARTE_I_REV_B.md \
+            revisao-b-global/05_ONDA_2_PARTE_II_REV_B.md \
+            revisao-b-global/07_ONDA_3_PARTE_III_REV_B.md \
+            revisao-b-global/20_ONDA_4_PARTE_IV_REV_B.md \
+            revisao-b-global/23_ONDA_5_PARTE_V_REV_B.md \
+            revisao-b-global/26_ONDA_6_PARTE_VI_REV_B.md \
+            revisao-b-global/29_ONDA_7_PARTE_VII_REV_B.md \
+            revisao-b-global/32_ONDA_8_PARTE_VIII_EPILOGO_REV_B.md \
+            manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md \
+            marcos-revisao-b/MARCO_07_MANUSCRITO_COMPLETO_REV_B.md
+          test -s revisao-b-global/49_AUDITORIA_TECNICA_AUTOMATICA_ESTADO_ATUAL.md
+
+      - name: Versionar relatório
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add revisao-b-global/49_AUDITORIA_TECNICA_AUTOMATICA_ESTADO_ATUAL.md
+          if git diff --cached --quiet; then
+            echo "Relatório já atualizado."
+          else
+            git commit -m "Gera auditoria técnica completa do estado da Revisão B"
+            git push origin HEAD:revisao-b-global-2026-07-20
+          fi

@@ -1,0 +1,60 @@
+name: Medir amostra editorial Kindle
+
+on:
+  push:
+    branches:
+      - revisao-b-global-2026-07-20
+    paths:
+      - "manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md"
+      - "revisao-b-global/03_ONDA_1_PRE_LIVRO_REV_B.md"
+      - "revisao-b-global/04_ONDA_1_PARTE_I_REV_B.md"
+      - "revisao-b-global/05_ONDA_2_PARTE_II_REV_B.md"
+      - "scripts/medir_amostra_kindle.py"
+      - ".github/workflows/medir-amostra-kindle.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: medir-amostra-kindle-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  medir:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Obter repositório
+        uses: actions/checkout@v4
+        with:
+          ref: revisao-b-global-2026-07-20
+          fetch-depth: 0
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Medir os 10% editoriais
+        run: python scripts/medir_amostra_kindle.py
+
+      - name: Validar relatório
+        shell: bash
+        run: |
+          test -s revisao-b-global/16_MEDICAO_EDITORIAL_10_PORCENTO_KINDLE.md
+          grep -q "MEDIÇÃO EDITORIAL DOS 10% KINDLE" revisao-b-global/16_MEDICAO_EDITORIAL_10_PORCENTO_KINDLE.md
+
+      - name: Versionar medição
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add revisao-b-global/16_MEDICAO_EDITORIAL_10_PORCENTO_KINDLE.md
+          if git diff --cached --quiet; then
+            echo "A medição Kindle já está atualizada."
+          else
+            git commit -m "Atualiza medição editorial dos 10% Kindle"
+            git pull --rebase origin revisao-b-global-2026-07-20
+            git push origin HEAD:revisao-b-global-2026-07-20
+          fi

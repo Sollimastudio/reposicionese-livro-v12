@@ -1,0 +1,55 @@
+name: Reproduzir Revisão B — Marco 02 (histórico)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: reproduzir-revisao-b-marco-02-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  reproduzir:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Obter repositório
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
+          fetch-depth: 0
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Reproduzir Marco 02 em ambiente isolado
+        run: |
+          python scripts/gerar_revisao_b_marco_02.py
+          python scripts/medir_amostra_kindle.py
+
+      - name: Validar reprodução histórica
+        shell: bash
+        run: |
+          test -s marcos-revisao-b/MARCO_02_PRE_LIVRO_PARTES_I_II_III.md
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          text = Path('marcos-revisao-b/MARCO_02_PRE_LIVRO_PARTES_I_II_III.md').read_text(encoding='utf-8')
+          chapters = [int(x) for x in re.findall(r'^# CAP[IÍ]TULO\s+(\d+)\b', text, flags=re.M|re.I)]
+          assert chapters == list(range(1, 11)), chapters
+          print('Reprodução histórica do Marco 02 validada. Nenhum arquivo será versionado.')
+          PY
+
+      - name: Publicar reprodução histórica
+        uses: actions/upload-artifact@v4
+        with:
+          name: reposicionese-marco-02-historico
+          path: |
+            marcos-revisao-b/MARCO_02_PRE_LIVRO_PARTES_I_II_III.md
+            revisao-b-global/16_MEDICAO_EDITORIAL_10_PORCENTO_KINDLE.md
+          if-no-files-found: error
+          retention-days: 14

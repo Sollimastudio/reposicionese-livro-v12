@@ -1,0 +1,49 @@
+name: Gerar Revisão B — Marco 01 — Histórico
+
+# O Marco 01 permanece preservado, mas não deve mais regenerar automaticamente
+# o manuscrito contínuo depois da criação do Marco 02. A execução manual continua
+# disponível para auditoria histórica, sem competir com a automação vigente.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validar-marco-historico:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Obter repositório
+        uses: actions/checkout@v4
+        with:
+          ref: revisao-b-global-2026-07-20
+          fetch-depth: 0
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validar preservação do Marco 01
+        shell: bash
+        run: |
+          test -s marcos-revisao-b/MARCO_01_PRE_LIVRO_PARTES_I_II.md
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          mark = Path('marcos-revisao-b/MARCO_01_PRE_LIVRO_PARTES_I_II.md').read_text(encoding='utf-8')
+          chapters = [int(x) for x in re.findall(r'^# CAP[IÍ]TULO\s+(\d+)\b', mark, flags=re.M|re.I)]
+          assert chapters == list(range(1, 7)), chapters
+          assert 'toc-title: "SUMÁRIO"' in mark
+          print('Marco 01 histórico preservado: capítulos 1–6.')
+          PY
+
+      - name: Publicar Marco 01 histórico
+        uses: actions/upload-artifact@v4
+        with:
+          name: reposicionese-revisao-b-marco-01-historico
+          path: marcos-revisao-b/MARCO_01_PRE_LIVRO_PARTES_I_II.md
+          if-no-files-found: error
+          retention-days: 30

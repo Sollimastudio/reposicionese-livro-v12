@@ -1,0 +1,118 @@
+# Execução autorizada da coerência metodológica localizada
+name: Aplicar Coerência Metodológica Localizada
+
+on:
+  push:
+    branches:
+      - revisao-b-global-2026-07-20
+    paths:
+      - "scripts/aplicar_coerencia_metodologica_localizada.py"
+      - ".github/workflows/aplicar-coerencia-metodologica-localizada.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: coerencia-metodologica-localizada-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  aplicar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Obter repositório
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
+          fetch-depth: 0
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Aplicar correções localizadas
+        run: python scripts/aplicar_coerencia_metodologica_localizada.py
+
+      - name: Regenerar Parte VIII, manuscrito completo e Marco 07
+        run: python scripts/gerar_revisao_b_marco_07.py
+
+      - name: Medir amostra editorial Kindle
+        run: python scripts/medir_amostra_kindle.py
+
+      - name: Validar método e integridade estrutural
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          pre = Path('revisao-b-global/03_ONDA_1_PRE_LIVRO_REV_B.md').read_text(encoding='utf-8')
+          part2 = Path('revisao-b-global/05_ONDA_2_PARTE_II_REV_B.md').read_text(encoding='utf-8')
+          part3 = Path('revisao-b-global/07_ONDA_3_PARTE_III_REV_B.md').read_text(encoding='utf-8')
+          part7 = Path('revisao-b-global/29_ONDA_7_PARTE_VII_REV_B.md').read_text(encoding='utf-8')
+          part8 = Path('revisao-b-global/32_ONDA_8_PARTE_VIII_EPILOGO_REV_B.md').read_text(encoding='utf-8')
+          full = Path('manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md').read_text(encoding='utf-8')
+          mark7 = Path('marcos-revisao-b/MARCO_07_MANUSCRITO_COMPLETO_REV_B.md').read_text(encoding='utf-8')
+
+          official = '''1. Isso é verdadeiro?
+          2. Tem lógica?
+          3. Tem evidência?
+          4. É justo?
+          5. É nobre?
+          6. Constrói vínculos ou alimenta divisão?
+          7. Resistiria ao tempo?
+          8. Que fruto produz a curto, médio e longo prazo?
+          9. É fato, narrativa ou manipulação?
+          10. Estou reagindo ou discernindo?
+          11. Qual parte da Árvore está falando?
+          12. O que uma pessoa posicionada faria com essa informação?'''.replace('          ', '')
+
+          assert 'A estrutura da Árvore é:' in pre
+          assert '> **Solo → Raízes → Tronco → Galhos → Frutos.**' in pre
+          assert 'Não é uma camada da Árvore' in pre
+          assert '## O Filtro da Influência' not in part2
+          assert '## O Filtro da Sensatez aplicado à influência' in part2
+          assert 'Estes focos não formam outra lista oficial' in part2
+          assert '# CHECKPOINT DA PARTE III' in part3
+          assert '## Checkpoint da Parte III' not in part3
+          assert 'O Mirante não é uma nova camada da Árvore' in part7
+          assert official in part7
+          assert 'Nenhum grupo pensará automaticamente por mim' in part8
+          assert 'Quando a polarização tentar entregar uma sentença antes do exame' in part8
+          assert 'quando a Fuga Identitária oferecer um rótulo' in part8
+          assert 'influenciadores e algoritmos repetirem uma voz' in part8
+
+          chapter_re = re.compile(r'^# CAP[IÍ]TULO\s+(\d+)\b', flags=re.M|re.I)
+          for label, text in {'manuscrito': full, 'Marco 07': mark7}.items():
+              chapters = [int(x) for x in chapter_re.findall(text)]
+              assert chapters == list(range(1, 39)), (label, chapters)
+              assert len(re.findall(r'^# EP[IÍ]LOGO\b', text, flags=re.M|re.I)) == 1
+
+          print('Validação concluída: coerência metodológica localizada e estrutura 1–38 + Epílogo preservadas.')
+          PY
+
+      - name: Versionar correções e regeneração
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add \
+            revisao-b-global/03_ONDA_1_PRE_LIVRO_REV_B.md \
+            revisao-b-global/05_ONDA_2_PARTE_II_REV_B.md \
+            revisao-b-global/07_ONDA_3_PARTE_III_REV_B.md \
+            revisao-b-global/29_ONDA_7_PARTE_VII_REV_B.md \
+            revisao-b-global/32_ONDA_8_PARTE_VIII_EPILOGO_REV_B.md \
+            scripts/gerar_revisao_b_marco_06.py \
+            scripts/gerar_revisao_b_marco_07.py \
+            manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md \
+            marcos-revisao-b/MARCO_07_MANUSCRITO_COMPLETO_REV_B.md \
+            revisao-b-global/16_MEDICAO_EDITORIAL_10_PORCENTO_KINDLE.md
+          if git diff --cached --quiet; then
+            echo "Correções localizadas já estavam aplicadas."
+          else
+            git commit -m "Aplica coerência metodológica localizada na Revisão B"
+            git push origin HEAD:revisao-b-global-2026-07-20
+          fi

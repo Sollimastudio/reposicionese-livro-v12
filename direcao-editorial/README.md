@@ -1,82 +1,133 @@
 # Direção Editorial Executiva — Reposicione-se™
 
-Este diretório registra a governança editorial canônica da obra e as decisões que orientam a reconstrução do manuscrito.
+Este diretório registra a governança editorial canônica da obra.
 
-## Documentos
+A Revisão B textual está completa. O trabalho atual não é mais reconstrução por Partes; é coerência metodológica localizada, auditoria especializada, voz, visual e produção.
+
+---
+
+# PORTA DE ENTRADA
+
+- `LER_AGORA_REPOSICIONESE_REV_B.md` — estado real, Marco vigente e próximos passos.
+- `manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md` — manuscrito contínuo completo.
+- `marcos-revisao-b/MARCO_07_MANUSCRITO_COMPLETO_REV_B.md` — Marco vigente.
+
+---
+
+# ESTADO ATUAL
+
+- Pré-livro em Revisão B;
+- Partes I–VIII em Revisão B;
+- capítulos 1–38;
+- um Epílogo;
+- aproximadamente 36.859 palavras editoriais;
+- Revisão A preservada;
+- Marcos 01–06 preservados;
+- Marco 07 vigente;
+- governança reconciliada com o Marco 07;
+- Pull Request #2 em rascunho e sem merge.
+
+A reconstrução por Partes foi encerrada. Nenhuma sessão deve retomar automaticamente a Parte IV, usar o Marco 02 como estado atual ou substituir uma fonte B por uma fonte A.
+
+---
+
+# DOCUMENTOS CANÔNICOS
+
 - `00_CONSTITUICAO_EDITORIAL_REPOSICIONESE.md` — tese, missão, posição autoral e princípios invioláveis.
-- `01_ARQUITETURA_DEFINITIVA_DA_OBRA.md` — nova arquitetura pela ordem de investigação da Árvore.
-- `02_MAPA_DA_ARVORE_E_COMANDOS.md` — estrutura, cultivo, Mirante, comandos e sequência operacional.
+- `01_ARQUITETURA_DEFINITIVA_DA_OBRA.md` — arquitetura implementada na Revisão B.
+- `02_MAPA_DA_ARVORE_E_COMANDOS.md` — Semente, estrutura, cultivo, Mirante, comandos e sequências.
 - `03_MAPA_DA_JAULA.md` — função e distribuição das intervenções da Jaula.
 - `04_MAPA_DAS_IMAGENS_PRELIMINAR.md` — famílias, destinos e critérios do banco visual.
-- `05_DISTRIBUICAO_DOS_PRINCIPIOS_E_TIPOS.md` — 14 Leis certificadas, distribuição e tipologia.
-- `06_FILTRO_DA_SENSATEZ.md` — 12 perguntas oficiais e Filtro da Influência.
+- `05_DISTRIBUICAO_DOS_PRINCIPIOS_E_TIPOS.md` — 14 Leis e 14 Tipos.
+- `06_FILTRO_DA_SENSATEZ.md` — 12 perguntas oficiais e aplicação à influência.
 - `07_FIOS_CONDUTORES.md` — posicionamento, identidade, influência, metacognição, fé e polarização.
-- `08_PLANO_DE_REESTRUTURACAO_E_PUBLICACAO.md` — fases, base de trabalho e entregáveis.
-- `09_AUDITORIA_DE_COERENCIA_E_RISCOS.md` — contradições, riscos e correções obrigatórias.
-- `10_MATRIZ_CAPITULO_A_CAPITULO.md` — decisão editorial para o pré-livro, 25 capítulos e apêndices.
-- `11_INVENTARIO_DE_AFIRMACOES_FACTUAIS.md` — ciência, psicologia, violência, Bíblia, direito, ambiente digital e histórias reais a verificar.
-- `12_REGISTRO_MESTRE_DE_CONTEXTO.md` — memória editorial completa, conceitos canônicos, decisões abertas e regressões proibidas.
-- `13_MATRIZ_DE_NAO_PERDA.md` — rastreamento de conceitos, histórias, ferramentas, testes, imagens e riscos que não podem desaparecer.
-- `14_PROTOCOLO_DE_CONTINUIDADE_SEM_FADIGA.md` — processo de retomada, trabalho por lotes, controle de versões e proibição de execução fictícia.
+- `08_PLANO_DE_REESTRUTURACAO_E_PUBLICACAO.md` — histórico de fases e entregáveis.
+- `09_AUDITORIA_DE_COERENCIA_E_RISCOS.md` — riscos históricos e correções obrigatórias.
+- `10_MATRIZ_CAPITULO_A_CAPITULO.md` — função editorial dos capítulos.
+- `11_INVENTARIO_DE_AFIRMACOES_FACTUAIS.md` — afirmações a verificar.
+- `12_REGISTRO_MESTRE_DE_CONTEXTO.md` — memória canônica atual.
+- `13_MATRIZ_DE_NAO_PERDA.md` — rastreamento atualizado de conceitos, histórias, ferramentas e riscos.
+- `14_PROTOCOLO_DE_CONTINUIDADE_SEM_FADIGA.md` — protocolo histórico da fase de reconstrução.
+- `15_PROTOCOLO_FASE_GLOBAL_POS_MARCO_07.md` — protocolo operacional vigente.
 
-## Manuscrito V13
-A reconstrução textual foi iniciada sem apagar a extração anterior:
+---
 
-- `manuscrito-v13/00_PRE_LIVRO_MAPA_DE_NAVEGACAO.md` — pacto de leitura, posição autoral, frutos, Cajueiro, Árvore, comandos e Filtro.
-- `manuscrito-v13/01_PARTE_I_OLHE_OS_FRUTOS.md` — capítulos reestruturados “A Vitrine da Vida” e “A Morte em Vida”.
-- `manuscrito-v13/02_PARTE_II_SOLO_SEMENTES_E_CONFIGURACAO.md` — Solo, Parábola do Semeador, celular, ambiente digital, crenças, valores e modo operante.
-- `manuscrito-v13/03_PARTE_III_RAIZES_E_HERANCAS.md` — Raízes, A Corrente, mapas herdados, família, fé, autoridade e lealdades invisíveis.
-- `manuscrito-v13/_RASTREABILIDADE_LOTE_01_PARTE_I.md` — origens, movimentos, cortes, riscos e pendências da Parte I.
-- `manuscrito-v13/_RASTREABILIDADE_LOTE_02_PARTE_II.md` — rastreabilidade da Parte II.
-- `manuscrito-v13/_RASTREABILIDADE_LOTE_03_PARTE_III.md` — rastreabilidade da Parte III.
+# DECISÕES CANÔNICAS VIGENTES
 
-## Correções já executadas
-- separação entre ordem estrutural e ordem de investigação da Árvore;
-- Mirante tratado como ponto de observação, não parte anatômica;
-- Jaula removida como parte autônoma;
-- 14 Leis certificadas e distribuídas;
-- Filtro restaurado com 12 perguntas oficiais;
-- posição cristã e conservadora da autora preservada com simetria de método;
-- polarização integrada como rigidez interpretativa, pertencimento e terceirização da consciência;
-- identidade transformada em fio condutor;
-- conceitos-chave antigos atualizados;
-- riscos de culpabilização, absolutos e contradições registrados;
-- pré-livro V13 criado;
-- Parte I V13 criada;
-- Parte II V13 criada;
-- Parte III V13 criada;
-- Parábola do Semeador colocada no Solo;
-- celular reformulado sem “nascer zerado” literal;
-- raiz diferenciada de corrente;
-- família e fé tratadas sem determinismo, romantização ou anti-institucionalismo;
-- julgamento próprio diferenciado de isolamento e desprezo por autoridade;
-- conteúdo técnico não verificado separado em inventário factual;
-- trechos sobre violência e controle reescritos com proteção ética;
-- alegações retóricas, científicas, jurídicas, bíblicas e culturais classificadas por risco;
-- memória do projeto protegida por Registro Mestre, Matriz de Não Perda e Protocolo de Continuidade.
+## Método
 
-## Estado atual
-- **Fase 1 — governança:** concluída, revisada e protegida contra perda de contexto.
-- **Fase 2 — auditoria:** matriz, riscos, inventário factual e rastreabilidade em andamento por lote.
-- **Fase 3 — reestruturação textual:** pré-livro e Partes I, II e III concluídos em primeira versão editorial.
-- **Banco visual:** mapa editorial concluído; inventário técnico aguarda os originais aprovados.
-- **DOCX canônico:** aguarda recuperação e confronto das versões binárias concorrentes.
-- **PR:** permanece em rascunho; nenhum merge foi realizado.
+- **Semente:** entrada do cultivo.
+- **Estrutura:** Solo → Raízes → Tronco → Galhos → Frutos.
+- **Operações e condições:** Pragas, Poda e Nova Semente.
+- **Mirante do Discernimento:** ponto metacognitivo alcançado pelo comando Suba na Árvore.
 
-## Próximo marco
-Construir a Parte IV — **O Tronco: identidade, soberania, limites e sustentação**, confrontando e reescrevendo:
+A representação editorial completa pode mostrar Semente antes da estrutura, sem chamá-la de camada anatômica.
 
-- Soberania Interna;
-- Limite Sagrado;
-- Acordos Conscientes;
-- Ação com Visão de Futuro;
-- Sono da Negligência;
-- Sofá Quente da Mentira;
-- posicionamento saudável, tóxico e morno;
-- autoria emocional;
-- identidade sem fuga;
-- diferença entre firmeza, controle, muro e limite;
-- Leis 1, 9, 11, 12, 13 e 14;
-- Jaula da autorização, da culpa e do conforto conhecido.
+## Comandos oficiais
 
-Em paralelo, continuar a verificação por fontes primárias do inventário factual, sem inserir alegações técnicas não verificadas no manuscrito canônico.
+1. Observe os Frutos.
+2. Suba na Árvore.
+3. Deixe na Árvore.
+4. Volte às Raízes.
+5. Passe pelo Filtro da Sensatez.
+6. Desça da Árvore.
+
+`Volte às Raízes e ao Solo` é aplicação ampliada no ritual final.
+
+## Sequências
+
+- existe uma rota curta de navegação;
+- o Capítulo 38 contém o ritual completo de dez movimentos;
+- ambas pertencem à mesma Árvore e não constituem métodos concorrentes.
+
+---
+
+# AUDITORIA GLOBAL
+
+Arquivos vigentes:
+
+- `revisao-b-global/35_AUDITORIA_GLOBAL_COERENCIA_REV_B.md`;
+- `revisao-b-global/36_PONTO_DE_RETOMADA_POS_AUDITORIA_GLOBAL.md`;
+- `revisao-b-global/37_RESUMO_EXECUTIVO_AUDITORIA_GLOBAL.md`.
+
+Veredito:
+
+- promessa cumprida;
+- progressão aprovada;
+- proteção ética forte;
+- final e Epílogo aprovados;
+- manuscrito não precisa de nova reconstrução estrutural;
+- publicação ainda depende de auditorias localizadas e produção.
+
+---
+
+# PRÓXIMAS FRENTES
+
+1. aplicar coerência metodológica localizada no manuscrito mediante autorização específica;
+2. resolver o bloco histórico chamado Filtro da Influência sem criar segundo Filtro;
+3. consolidar o uso editorial do Mirante;
+4. padronizar o Checkpoint da Parte III;
+5. fechar explicitamente polarização, Fuga Identitária e influência no final;
+6. realizar passagem global de voz, ritmo e repetição;
+7. executar revisões psicológica, clínica, teológica, jurídica e factual;
+8. concluir validações autorais;
+9. integrar o banco visual e o Workbook;
+10. preparar EPUB/KPF, Kindle, impressão e prova final.
+
+---
+
+# REGRA DE EXCELÊNCIA
+
+A nota máxima só pode ser declarada quando houver evidência verificável de:
+
+- ausência de contradições canônicas;
+- promessa cumprida do início ao final;
+- segurança ética e factual;
+- voz autoral preservada;
+- navegação clara;
+- arquivos de governança atualizados;
+- validações especializadas concluídas;
+- EPUB/KPF e prova impressa inspecionados;
+- nenhuma pendência autoral aberta.
+
+Até lá, o projeto trabalha para o padrão 10/10 sem transformar aspiração em afirmação não comprovada.

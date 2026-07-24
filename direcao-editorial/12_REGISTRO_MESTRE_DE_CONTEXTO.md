@@ -1,33 +1,36 @@
 # Registro Mestre de Contexto — Reposicione-se™
 
-**Versão:** 2.0  
+**Versão:** 3.5 — Certificação editorial pela Skill v1  
 **Função:** memória editorial canônica do projeto  
-**Precedência:** este arquivo substitui estados anteriores registrados no mesmo caminho
+**Precedência:** substitui estados anteriores registrados neste mesmo caminho  
+**Estado:** Revisão B textual completa; governança e coerência metodológica reconciliadas; voz e ritmo concluídos nos Lotes 01–04; certificação pela Skill v1 concluída sem reescrita
 
 ---
 
-# 1. FUNÇÃO DESTE ARQUIVO
+# 1. REGRA DE PRECEDÊNCIA
 
-Este documento existe para impedir que decisões tomadas em conversas, versões concorrentes, arquivos antigos ou rodadas extensas de revisão sejam esquecidas, simplificadas ou contraditas.
+Este arquivo existe para impedir que conversas, versões concorrentes, documentos antigos ou novas sessões contradigam decisões já tomadas.
 
-Antes de iniciar qualquer nova rodada de edição, o responsável deverá ler:
+Antes de qualquer rodada, ler:
 
 1. este Registro Mestre;
 2. a Constituição Editorial;
 3. o Mapa da Árvore e dos Comandos;
 4. a Matriz de Não Perda;
-5. o Protocolo de Continuidade sem Fadiga;
-6. o último arquivo de rastreabilidade do manuscrito V13.
+5. o último ponto de retomada;
+6. a parte do manuscrito diretamente afetada.
 
-Nenhuma versão posterior poderá apagar silenciosamente um conceito registrado aqui.
+Em caso de conflito, prevalece:
 
-Quando um conceito precisar ser alterado:
+1. decisão autoral explícita mais recente registrada;
+2. este Registro Mestre e a Constituição;
+3. o manuscrito contínuo da Revisão B e sua rastreabilidade;
+4. Marco 07;
+5. Marcos anteriores como histórico;
+6. Revisão A e versões antigas como fonte de resgate;
+7. prompts, skills e relatórios antigos como memória, nunca como estado atual.
 
-- registrar a decisão;
-- explicar o motivo;
-- indicar o destino do conteúdo anterior;
-- atualizar a rastreabilidade;
-- conferir se a mudança fortalece posicionamento e Árvore.
+Nenhum arquivo chamado `FINAL` é canônico apenas pelo nome.
 
 ---
 
@@ -43,51 +46,132 @@ Quando um conceito precisar ser alterado:
 
 ## Ecossistema
 
-A obra pertence ao ecossistema **Relacione-se®**.
+**Relacione-se®**
 
 ## Natureza editorial
 
-O livro será tratado como:
+A obra é:
 
-- obra autoral;
+- livro autoral;
 - metodologia pedagógica;
 - sistema visual de discernimento;
 - propriedade intelectual;
 - base para Workbook;
 - base para edições e produtos complementares.
 
-Ele não será reduzido a autoajuda, motivação, aconselhamento ou relato autobiográfico.
+Não será reduzida a autoajuda genérica, motivação, aconselhamento pronto ou autobiografia.
 
 ## Tese central
 
-> Reposicionar-se é recuperar o governo da própria consciência por meio do discernimento aplicado à realidade, para produzir frutos coerentes com a vida que se escolhe cultivar.
+> **Reposicionar-se é recuperar o governo da própria consciência por meio do discernimento aplicado à realidade, para sustentar escolhas e produzir frutos coerentes com a vida que se escolhe cultivar.**
 
 ## Competência ensinada
 
-> Discernimento aplicado ao posicionamento.
+> **Discernimento aplicado ao posicionamento.**
 
 ## Resultado final esperado
 
-Ao terminar o livro, o leitor deverá conseguir:
+O leitor deverá conseguir:
 
 - observar os próprios frutos;
-- distinguir fato, interpretação e narrativa;
+- reconhecer dano e vida;
+- distinguir fato, interpretação, emoção, influência e decisão;
 - usar a Árvore para investigar padrões;
 - praticar metacognição;
 - identificar influências;
-- filtrar pensamentos antes de aceitá-los;
-- reconhecer jaulas invisíveis;
-- assumir autoria emocional;
-- pensar por si mesmo;
-- transformar discernimento em posicionamento concreto.
+- filtrar antes de aceitar;
+- reconhecer Jaulas invisíveis sem negar prisões concretas;
+- assumir autoria e responsabilidade possível;
+- pensar por si sem pensar sozinho;
+- podar com prudência;
+- plantar uma prática repetível;
+- descer e sustentar uma escolha.
 
-O livro falha se o leitor apenas admirar ideias e continuar dependente da autora para pensar.
+O livro falha se o leitor apenas admira ideias e permanece dependente da autora para pensar.
 
 ---
 
-# 3. POSICIONAMENTO AUTORAL
+# 3. ESTADO REAL DO MANUSCRITO
 
-A voz da autora deverá permanecer nítida.
+## Revisão B completa
+
+- Pré-livro;
+- Parte I — Observe os Frutos;
+- Parte II — Semente, Solo e Configuração;
+- Parte III — Raízes e Heranças;
+- Parte IV — O Tronco;
+- Parte V — Os Galhos;
+- Parte VI — Pragas, Jaulas e Fugas;
+- Parte VII — Filtro, Poda e Posicionamento;
+- Parte VIII — Nova Semente e Novos Frutos;
+- Epílogo — O Cajueiro Ainda Está Lá.
+
+## Validação
+
+- capítulos 1–38;
+- um Epílogo;
+- aproximadamente 37.026 palavras editoriais;
+- Marco 07 vigente;
+- manuscrito contínuo completo;
+- Revisão A preservada;
+- Marcos 01–06 preservados;
+- PR #2 em rascunho e sem merge;
+- voz, ritmo e repetição concluídos no Pré-livro, Partes I–VIII e Epílogo;
+- certificação editorial pela Skill v1 concluída como análise, sem correções automáticas;
+- trava de extensão de 286–287 páginas registrada;
+- próxima etapa textual: leitura contínua global com auditoria comparativa de extensão e matriz de decisão;
+- banco visual registrado por manifesto e hash, mas sem binários versionados.
+
+## Resultado da certificação pela Skill v1
+
+A certificação confirmou:
+
+- coerência conceitual e metodológica no cânone atual;
+- proteção ética forte;
+- abertura comercial textual consistente;
+- necessidade de maior auditoria narrativa, de aparato editorial e de extensão.
+
+Lacunas reais a decidir, sem inserção automática:
+
+- densidade de cenas biográficas;
+- nomeação da maiêutica socrática;
+- formato de passaporte para leitores sem o Volume 1;
+- distribuição do Sono da Negligência;
+- profundidade narrativa dos quatorze Tipos canônicos;
+- conceitos legados de reação adversa ao bullying e autoridade afetiva;
+- Dicionário e Referências;
+- imagens, boxes e experiência de página.
+
+Itens da Skill v1 considerados superados e não autorizados para retorno automático:
+
+- treze princípios sem numeração;
+- arquitetura antiga das Partes;
+- comandos paralelos;
+- elenco antigo de Tipos;
+- Oportunista Estratégico e variantes pós-pandemia como novos Tipos;
+- Magnetus como exigência textual;
+- Última Costura antiga;
+- encerramento com Instagram;
+- promessa concorrente de posicionamento magnético.
+
+## Decisão
+
+A reconstrução por Partes foi encerrada.
+
+Não autorizar automaticamente:
+
+- retorno à Parte I;
+- reabertura do Bloco 1;
+- reconstrução do final;
+- uso do Marco 02 como estado atual;
+- substituição de fonte B por fonte A;
+- aplicação literal de prompt ou skill histórica contra o cânone atual;
+- criação de novo método, Filtro, Lei, Tipo, Fruto ou comando;
+- novos cortes substanciais antes da auditoria comparativa com a versão histórica.
+
+---
+
+# 4. POSICIONAMENTO AUTORAL
 
 A autora escreve a partir de uma lente:
 
@@ -100,9 +184,9 @@ A autora escreve a partir de uma lente:
 - comprometida com metacognição;
 - comprometida com autorresponsabilidade.
 
-A obra não fingirá neutralidade absoluta.
+A obra não simula neutralidade absoluta.
 
-Entretanto, declarar posição não autoriza:
+Essa posição não autoriza:
 
 - caricaturar quem discorda;
 - generalizar grupos;
@@ -110,202 +194,198 @@ Entretanto, declarar posição não autoriza:
 - usar fé para impedir investigação;
 - aplicar rigor apenas ao lado oposto;
 - confundir firmeza com agressão;
-- transformar posicionamento em licença para controlar;
+- transformar posicionamento em controle;
 - tratar discordância como prova de cegueira;
-- usar a autora como consciência substituta do leitor.
+- usar a autora como consciência substituta.
 
-A posição autoral deverá ser forte o suficiente para ser reconhecida e sensata o suficiente para submeter a si mesma ao método que propõe.
+A autora e o leitor devem submeter o próprio lado ao mesmo Filtro.
 
 ---
 
-# 4. HIERARQUIA DO MÉTODO
+# 5. HIERARQUIA DO MÉTODO
 
-## Protagonista absoluta
+## Protagonista
 
-A **Árvore do Discernimento** é o método central e a protagonista da obra.
+A **Árvore do Discernimento** é o método central.
 
-Nenhuma metáfora, teste, tipologia, lei, comando ou ferramenta poderá competir com ela.
+Nenhuma metáfora, teste, tipologia, Lei, comando ou ferramenta pode competir com ela.
 
 ## Funções subordinadas
 
-- A **Jaula** confronta prisões invisíveis.
-- O **Filtro da Sensatez** organiza avaliação.
-- As **14 Leis** oferecem critérios recorrentes.
-- Os **14 Tipos de Posicionamento** funcionam como espelhos pedagógicos.
-- O **Workbook** concentra testes, pontuações e exercícios extensos.
-- A **Fuga Identitária** atravessa a obra como fio condutor e será aprofundada em livro próprio.
+- **Filtro da Sensatez:** avaliação;
+- **Jaula:** intervenção narrativa de interrupção;
+- **14 Leis:** critérios recorrentes;
+- **14 Tipos:** espelhos pedagógicos;
+- **Mirante:** ponto metacognitivo alcançado ao subir;
+- **Fuga Identitária:** fio condutor e futuro livro;
+- **Workbook:** instrumentos extensos;
+- **Posicionamento:** discernimento transformado em conduta.
 
 ## Regra de decisão
 
-- Para compreender a estrutura: **Árvore**.
-- Para interromper contradição já percebida: **Jaula**.
-- Para avaliar pensamento, informação, influência ou decisão: **Filtro**.
-- Para transformar clareza em conduta: **Posicionamento**.
+- Para compreender estrutura: **Árvore**.
+- Para examinar pensamento e influência: **Filtro**.
+- Para interromper prisão já percebida: **Jaula**.
+- Para retirar alimento, prática ou acesso: **Poda**.
+- Para ocupar o espaço aberto: **Nova Semente**.
+- Para transformar clareza em vida: **Posicionamento**.
 
 ---
 
-# 5. A ÁRVORE DO DISCERNIMENTO
+# 6. ÁRVORE DO DISCERNIMENTO
 
-## Ordem estrutural
-
-A representação visual canônica deverá mostrar:
-
-1. Semente;
-2. Solo;
-3. Raízes;
-4. Tronco;
-5. Galhos;
-6. Frutos;
-7. Pragas;
-8. Poda;
-9. Nova Semente.
-
-## Mirante do Discernimento
-
-O Mirante não é parte anatômica da árvore.
-
-É o ponto metacognitivo de observação a partir do qual o leitor consegue olhar:
-
-- fruto;
-- galho;
-- tronco;
-- raízes;
-- solo;
-- pragas;
-- poda;
-- nova semente.
-
-## Ordem de investigação
-
-1. Observe os frutos.
-2. Identifique o galho.
-3. Examine o tronco.
-4. Volte às raízes.
-5. Compreenda o solo.
-6. Identifique pragas.
-7. Aplique o Filtro da Sensatez.
-8. Defina a poda.
-9. Escolha a nova semente.
-10. Desça da árvore e sustente uma decisão.
-
-## Definições canônicas
+## Entrada do cultivo
 
 ### Semente
 
-Ideia, experiência, mensagem, desejo, escolha, informação ou possibilidade que entra no processo de cultivo.
+Ideia, experiência, mensagem, informação, interpretação, desejo, decisão ou possibilidade que entra no cultivo.
 
-### Solo
+A Semente não é camada anatômica.
 
-Ambiente interno e externo em que crenças, valores, interpretações, memórias, hábitos mentais e influências se tornam férteis.
+## Ordem estrutural oficial
 
-O solo não é sinônimo de fato.
+> **Solo → Raízes → Tronco → Galhos → Frutos.**
 
-### Raízes
+## Representação editorial completa
 
-Crenças profundas, vínculos, memórias, lealdades, medos e interpretações que continuam alimentando respostas por baixo da superfície.
+> **Semente → Solo → Raízes → Tronco → Galhos → Frutos.**
 
-### Tronco
+Essa representação mostra a entrada seguida da estrutura.
 
-Estrutura que sustenta identidade, limites, coerência, autocontrole, autoria, responsabilidade e governo interno.
+## Solo
 
-O Tronco não é força bruta. É sustentação com capacidade de flexão e revisão.
+Ambiente interno e externo em que interpretações, crenças e práticas encontram fertilidade.
 
-### Galhos
+O Solo não é o fato.
 
-Áreas da vida em que a estrutura aparece: família, relacionamentos, trabalho, fé, política, corpo, dinheiro, comunicação, pertencimento, propósito e outras.
+## Raízes
 
-Um galho pode estar saudável enquanto outro pede atenção.
+Aquilo de onde uma resposta continua retirando força hoje: crenças, vínculos, memórias, lealdades, medos, recursos e narrativas.
 
-### Frutos
+Origem não é destino.
 
-Resultados, consequências, sintomas e evidências visíveis do cultivo.
+## Tronco
 
-> Fruto é evidência, não sentença.
+Sustentação de identidade, critérios, limites, coerência, autocontrole, autoria, responsabilidade e soberania interna.
 
-O fruto não é diagnóstico final e não revela sozinho qual parte da estrutura precisa de atenção.
+Não é dureza.
 
-### Pragas
+## Galhos
 
-Mecanismos internos ou externos que drenam, distorcem, sabotam ou contaminam o cultivo.
+Áreas concretas da vida.
 
-### Poda
+Um Galho pode estar saudável enquanto outro pede atenção.
 
-Interrupção consciente do que continua produzindo frutos incompatíveis com a vida escolhida.
+## Frutos
 
-Poda não autoriza ruptura impulsiva, imprudência ou destruição indiscriminada.
+Resultados, consequências e evidências visíveis.
 
-### Nova Semente
+> **Fruto é evidência, não sentença.**
 
-Nova prática, pensamento, decisão, limite, interpretação ou hábito que será repetido até produzir outro cultivo.
+O fruto não revela sozinho a causa.
 
----
+## Pragas
 
-# 6. COMANDOS CANÔNICOS
+Mecanismos internos ou externos que drenam, distorcem, capturam necessidade legítima ou impedem revisão.
 
-## Observe os frutos
+Praga nunca é pessoa, grupo, diagnóstico, emoção difícil, dor ou luto.
 
-Função: suspender defesa de intenções e olhar para resultados sem condenação.
+## Poda
 
-## Suba na árvore
+Interrupção consciente de mecanismo, acesso, prática, expectativa, ambiente ou vínculo.
 
-Função: ampliar panorama, praticar metacognição e observar estrutura quando há urgência, reação, confusão ou julgamento rápido.
+Poda não é vingança, punição ou impulso.
 
-## Deixe na árvore
+## Nova Semente
 
-Forma formal recomendada: **Deixe na árvore**.
+Prática, interpretação, decisão, limite, ambiente ou hábito escolhido conscientemente e repetido.
 
-A oralidade da autora pode ocasionalmente usar **Deixa na árvore**.
+Não é pensamento positivo nem promessa emocional.
 
-Função: suspender temporariamente culpa, rótulo, acusação, opinião ou interpretação ainda não examinada.
+## Mirante do Discernimento
 
-Não significa concordar com a autora.
+Ponto metacognitivo alcançado pelo comando **Suba na Árvore**.
 
-## Volte para a raiz
-
-Função: investigar origem e alimentação quando um fruto ou padrão se repete.
-
-Permanece decisão aberta se será comando oficial visual ou orientação derivada.
-
-## Passe pelo Filtro da Sensatez
-
-Função: organizar avaliação antes de aderir a narrativa, reagir, acusar, decidir ou aceitar influência com custo real.
-
-## Desça da árvore
-
-Função: interromper ruminação e retornar à vida com ação, conversa, limite, pedido de ajuda, decisão ou mudança concreta.
-
-## Regra essencial
-
-> Subir sem descer vira análise sem posicionamento. Descer sem subir vira reação sem discernimento.
+Não é parte anatômica nem sistema independente.
 
 ---
 
-# 7. COMANDOS DO PENSAMENTO
+# 7. COMANDOS CANÔNICOS
 
-## Pense comigo
+## 1. Observe os Frutos
 
-Convite para acompanhar um raciocínio antes de aceitar ou rejeitar.
+Forma editorial oficial.
 
-## Pense nisso
+`Olhe os Frutos` permanece apenas como oralidade possível ou registro histórico.
 
-Pausa consciente para nomear e observar.
+## 2. Suba na Árvore
 
-## Repense isso
+Amplie o panorama e perceba como está pensando.
 
-Revisão de crença, interpretação, narrativa ou configuração antiga.
+Subir não nega emoção.
 
-Repensar não significa abandonar automaticamente o que se acredita. Significa verificar coerência, verdade e frutos.
+## 3. Deixe na Árvore
+
+Suspenda temporariamente conclusão, culpa, rótulo ou acusação ainda não examinada.
+
+Na oralidade, `deixa na árvore` pode aparecer.
+
+## 4. Volte às Raízes
+
+Investigue origem e alimentação atual quando um padrão se repete.
+
+`Volte para a Raiz` deixa de ser forma canônica.
+
+`Volte às Raízes e ao Solo` é aplicação ampliada no ritual final, não comando novo.
+
+## 5. Passe pelo Filtro da Sensatez
+
+Examine antes de aderir, reagir, acusar, podar ou decidir.
+
+## 6. Desça da Árvore
+
+Interrompa a análise quando houver discernimento suficiente e retorne à vida com ação responsável.
+
+## Regra
+
+> **Subir sem descer pode virar ruminação. Descer sem subir pode virar reação.**
 
 ---
 
-# 8. FILTRO DA SENSATEZ
+# 8. ROTA CURTA E RITUAL COMPLETO
 
-O Filtro da Sensatez é o protocolo recorrente de higiene mental da obra.
+## Rota curta de navegação
 
-Ele atua:
+1. Observe os Frutos.
+2. Deixe na Árvore a conclusão não examinada.
+3. Suba e localize estrutura, Semente e mecanismos.
+4. Passe pelo Filtro.
+5. Defina Poda e Nova Semente.
+6. Desça e aja.
+7. Observe os novos frutos.
 
-- no que chega de fora;
-- no que a própria pessoa produz internamente.
+## Ritual completo de dez movimentos
+
+1. Observe os Frutos.
+2. Suba na Árvore.
+3. Identifique o Galho.
+4. Examine o Tronco.
+5. Volte às Raízes e ao Solo.
+6. Reconheça Pragas e Jaulas.
+7. Passe pelo Filtro da Sensatez.
+8. Defina a Poda.
+9. Escolha a Nova Semente.
+10. Desça da Árvore.
+
+A rota curta é forma memorizável. O ritual é aplicação expandida. Não são métodos concorrentes.
+
+---
+
+# 9. FILTRO DA SENSATEZ
+
+## Função
+
+Protocolo oficial de avaliação do que chega de fora e do que nasce dentro.
 
 ## Doze perguntas oficiais
 
@@ -319,30 +399,48 @@ Ele atua:
 8. Que fruto produz a curto, médio e longo prazo?
 9. É fato, narrativa ou manipulação?
 10. Estou reagindo ou discernindo?
-11. Qual parte da árvore está falando?
+11. Qual parte da Árvore está falando?
 12. O que uma pessoa posicionada faria com essa informação?
+
+Nenhuma segunda lista pode ser apresentada como Filtro oficial.
 
 ## Filtro da Influência
 
-- Eu sei que estou sendo influenciada?
-- Que acesso essa voz pede à minha consciência?
-- A fonte diferencia fato de interpretação?
-- Posso discordar sem perder meu lugar?
-- Essa influência admite complexidade?
-- Consigo aplicar o mesmo rigor ao meu lado?
-- Quem ganha quando penso assim?
-- Essa influência amplia minha autoria ou substitui meu pensamento?
-- Que fruto ela já produziu em mim?
+Estado atual: **aplicação temática reconciliada com o Filtro oficial**.
 
-## Frase-matriz
+Direção canônica:
 
-> O problema não é receber influência. O problema é entregar a ela o governo da sua consciência sem perceber.
+- influência não é inimiga;
+- o conteúdo útil funciona como aplicação temática das doze perguntas oficiais;
+- não manter duas listas paralelas de doze perguntas chamadas Filtro;
+- instrumento extenso pode ir para o Workbook;
+- confiança deve considerar competência, evidência, histórico, acesso e frutos.
+
+## Regra de parada
+
+O Filtro é proporcional ao custo.
+
+Não autoriza:
+
+- dúvida compulsiva;
+- cinismo;
+- incapacidade de confiar;
+- busca infinita de certeza;
+- adiamento disfarçado de discernimento.
 
 ---
 
-# 9. AS 14 LEIS DO POSICIONAMENTO
+# 10. COMANDOS DO PENSAMENTO
 
-As leis estão certificadas como catorze.
+- **Pense comigo:** acompanhe o raciocínio antes de aceitar ou rejeitar.
+- **Pense nisso:** pare, nomeie e perceba antes de responder.
+- **Repense isso:** revise interpretação, crença ou configuração à luz de evidências e frutos.
+
+São convites de raciocínio. Não constituem método paralelo.
+
+---
+
+# 11. AS 14 LEIS
 
 1. Pense Antes de Reagir.
 2. Questione a Narrativa.
@@ -359,211 +457,13 @@ As leis estão certificadas como catorze.
 13. Abrace o Desconforto.
 14. Seja Sensata.
 
-## Regra editorial
+As Leis são subordinadas à Árvore e aparecem quando necessárias.
 
-- A lista completa pode existir no manual de navegação e guia rápido.
-- No corpo do livro, cada lei surge quando o leitor necessita dela.
-- As leis são subordinadas à Árvore.
-- Não voltar a treze sem decisão formal registrada.
+Não estruturar novamente o livro inteiro por elas.
 
 ---
 
-# 10. A JAULA
-
-## Função
-
-A Jaula é metáfora narrativa de prisão invisível.
-
-> A Árvore explica. A Jaula interrompe.
-
-## Comando
-
-> A JAULA ESTÁ ABERTA.
-
-## Situações de uso
-
-- culpa já examinada;
-- medo que continua governando;
-- dependência de aprovação;
-- contradição sustentada;
-- lealdade invisível;
-- identidade emprestada;
-- autopunição;
-- narrativa já questionada;
-- permanência no automático;
-- conforto conhecido que impede ação possível;
-- autorização externa que substitui decisão própria;
-- contrato invisível que mantém ressentimento.
-
-## Proteções éticas
-
-Não usar a Jaula para:
-
-- culpabilizar vítima;
-- negar coerção real;
-- minimizar risco físico;
-- ignorar dependência financeira;
-- desconsiderar trauma;
-- sugerir que toda prisão é apenas mental;
-- pressionar saída sem plano ou proteção;
-- transformar dificuldade em falta de vontade.
-
-A porta pode estar aberta em uma dimensão e bloqueada em outra.
-
----
-
-# 11. SUA ÁRVORE, SEUS FRUTOS
-
-Essa frase é o chamado central de autoresponsabilidade.
-
-Ela nunca significará:
-
-- tudo foi culpa sua;
-- você atraiu o abuso;
-- o agressor não é responsável;
-- contexto não importa;
-- trauma é desculpa;
-- quem não mudou não quis mudar.
-
-Ela significará:
-
-> Você pode não ser responsável por tudo o que aconteceu. Quando recupera consciência, recursos e possibilidade de escolha, passa a responder pelo cultivo que decide sustentar.
-
-## Fórmula ética
-
-- Fruto é evidência, não sentença.
-- Origem explica, mas não governa automaticamente.
-- Responsabilidade devolve movimento.
-- Culpa indiscriminada esmaga.
-- Autoria não significa controle absoluto.
-
----
-
-# 12. AUTOPIEDADE
-
-A autopiedade é tratada como **praga-mãe**.
-
-## Definição
-
-> A dor se torna autopiedade quando deixa de pedir cuidado e passa a exigir governo, identidade, imunidade à confrontação ou terceirização permanente da responsabilidade.
-
-Distinguir:
-
-- dor;
-- luto;
-- trauma;
-- necessidade de proteção;
-- autocompaixão;
-- autopiedade.
-
-Autopiedade não poderá ser usada como rótulo contra quem está ferido ou vulnerável.
-
-> A dor é legítima. Ela não precisa ocupar o trono para ser respeitada.
-
----
-
-# 13. IDENTIDADE E FUGA IDENTITÁRIA
-
-## Papel no livro
-
-Identidade é fio condutor.
-
-Fuga Identitária não será centro do Reposicione-se™.
-
-## Pergunta permanente
-
-> Estou vivendo a partir do meu discernimento ou reproduzindo uma configuração que nunca examinei?
-
-## Definição operacional
-
-Fuga identitária ocorre quando a pessoa substitui o encontro consigo por:
-
-- rótulo;
-- grupo;
-- plateia;
-- performance;
-- ideologia;
-- diagnóstico;
-- papel familiar;
-- versão exigida pelo ambiente;
-- identidade oferecida por influência externa.
-
-## Proteção
-
-Nem toda identificação coletiva é fuga.
-
-Pertencimento, linguagem, comunidade e nomeação podem organizar experiência e oferecer proteção.
-
-O problema começa quando a categoria elimina investigação, autonomia, complexidade ou possibilidade de revisão.
-
-O aprofundamento ficará em **Fuga Identitária: O Apagamento do Eu**.
-
----
-
-# 14. POLARIZAÇÃO
-
-A polarização entra distribuída, não como capítulo partidário isolado.
-
-## Lente editorial
-
-Esquerda, direita e centro podem funcionar como estruturas de interpretação ou mindsets quando se tornam filtros rígidos.
-
-A obra não afirmará que todas as correntes são iguais nem apagará diferenças reais.
-
-Pergunta central:
-
-> A pessoa ainda consegue investigar, revisar, reconhecer erro no próprio lado e pensar sem autorização do grupo?
-
-## Posição da autora
-
-A autora declara posição conservadora.
-
-Essa posição exige aplicação do mesmo Filtro:
-
-- à direita;
-- a líderes conservadores;
-- a ambientes religiosos;
-- às narrativas com as quais a autora concorda.
-
-## Distribuição
-
-- Solo: filtros prévios e linguagem.
-- Raízes: pertencimento e lealdades.
-- Tronco: soberania e sustentação sem terceirização.
-- Galhos: política, família, igreja, redes e relações.
-- Pragas: pensamento binário, confirmação e desumanização.
-- Filtro: exame simétrico.
-- Frutos: divisão, arrogância, medo, dependência, clareza ou responsabilidade.
-
----
-
-# 15. AMBIENTE DIGITAL E PÓS-PANDEMIA
-
-Integrar de forma distribuída:
-
-- algoritmo;
-- economia da atenção;
-- identidade digital;
-- validação on-line;
-- terceirização do pensamento;
-- hiperreatividade;
-- anestesia por consumo;
-- inteligência artificial;
-- produção de conteúdo;
-- performance de posicionamento;
-- bolhas;
-- velocidade da influência;
-- pertencimento digital.
-
-A tecnologia não será apresentada como vilã autônoma.
-
-O foco será a interação entre pessoa, plataforma, grupo, desejo e algoritmo.
-
----
-
-# 16. TIPOS DE POSICIONAMENTO
-
-Os catorze tipos existentes são:
+# 12. OS 14 TIPOS
 
 1. O Soberano.
 2. O Vulcão.
@@ -580,24 +480,142 @@ Os catorze tipos existentes são:
 13. O Templo.
 14. O Camaleão.
 
-## Regra
+São espelhos temporários de comportamento, não identidades, diagnósticos ou nomes para terceiros.
 
-São espelhos pedagógicos, não diagnósticos clínicos.
+A expressão canônica é `Mecanismo que pode aparecer`, não `Praga provável`.
 
-Cada tipo deverá apresentar:
+Pendente:
 
-- modo operante;
-- fruto típico;
-- praga provável;
-- risco;
-- pergunta metacognitiva;
-- caminho de reposicionamento.
-
-Modelos pós-pandemia serão confrontados com os tipos para evitar duplicidade.
+- validação autoral de nomes, gêneros e diferenças entre Espelho Partido, Espelho e Vitrine.
 
 ---
 
-# 17. FÉ
+# 13. A JAULA
+
+## Função
+
+> **A Árvore explica. A Jaula interrompe.**
+
+A Jaula é intervenção narrativa, não método paralelo.
+
+## Comando
+
+> **A JAULA ESTÁ ABERTA.**
+
+## Proteções
+
+Nunca usar para:
+
+- culpabilizar vítima;
+- negar coerção;
+- minimizar risco;
+- ignorar dependência financeira;
+- desconsiderar trauma;
+- sugerir que toda prisão é mental;
+- pressionar saída sem plano;
+- dizer `você fica porque quer`.
+
+A porta pode estar aberta numa dimensão e bloqueada em outra.
+
+---
+
+# 14. RESPONSABILIDADE E AUTORIA
+
+## Frase central
+
+> **Sua Árvore, seus frutos.**
+
+Nunca significa:
+
+- tudo foi culpa sua;
+- você atraiu abuso;
+- o agressor não é responsável;
+- contexto não importa;
+- trauma é desculpa;
+- quem não mudou não quis.
+
+Significa:
+
+> Quando consciência, recurso e possibilidade aparecem, você passa a responder pelo cultivo que decide sustentar dentro da sua esfera real.
+
+## Fórmula ética
+
+- fruto é evidência;
+- origem explica sem governar automaticamente;
+- responsabilidade devolve movimento;
+- culpa indiscriminada esmaga;
+- autoria não significa controle absoluto.
+
+---
+
+# 15. AUTOPIEDADE E AUTOCOMPAIXÃO
+
+A Autopiedade permanece linguagem pedagógica de mecanismo.
+
+`Praga-mãe` é expressão autoral sensível e ainda depende de revisão psicológica, clínica, teológica e de sensibilidade.
+
+Nunca usar Autopiedade para:
+
+- silenciar violência;
+- apressar luto;
+- negar sintomas;
+- humilhar pedido de ajuda;
+- exigir ação sem recursos;
+- substituir avaliação profissional.
+
+Autocompaixão preserva cuidado e responsabilidade possível.
+
+---
+
+# 16. IDENTIDADE E FUGA IDENTITÁRIA
+
+Identidade é fio condutor.
+
+Fuga Identitária não é centro do livro nem método paralelo.
+
+Perguntas permanentes:
+
+> Este pensamento nasceu do meu discernimento ou foi terceirizado?
+
+> Consigo pertencer sem desaparecer?
+
+> Esta identificação amplia minha consciência ou está substituindo quem sou?
+
+Nem toda identificação coletiva é fuga.
+
+O aprofundamento pertence a **Fuga Identitária: O Apagamento do Eu**.
+
+---
+
+# 17. POLARIZAÇÃO E INFLUÊNCIA
+
+Polarização é tratada como:
+
+- pensamento binário;
+- pertencimento sem discernimento;
+- confirmação seletiva;
+- identidade totalizante;
+- incapacidade de revisar o próprio lado;
+- terceirização da consciência.
+
+O livro não afirma que todos os lados são iguais.
+
+Mesmo critério não significa mesmo veredito.
+
+A posição conservadora da autora exige exame de:
+
+- direita;
+- líderes conservadores;
+- ambientes religiosos;
+- narrativas convenientes ao próprio grupo.
+
+Influência saudável pode ampliar fatos, competência, responsabilidade e liberdade para discordar.
+
+> **Posso escutar sem me entregar. Posso aprender sem desaparecer.**
+
+---
+
+# 18. FÉ
 
 A Bíblia é fonte real da autora.
 
@@ -605,7 +623,7 @@ Distinguir:
 
 - fé de medo;
 - honra de obediência cega;
-- perdão de cumplicidade;
+- perdão de reconciliação e acesso;
 - submissão espiritual de apagamento;
 - espera de negligência;
 - prudência de fuga;
@@ -616,76 +634,38 @@ Não usar Deus para substituir ação que cabe à pessoa.
 
 Não usar posicionamento para desprezar oração, dependência de Deus, comunhão ou aconselhamento.
 
-> Fé fortalece discernimento e responsabilidade; não exige amputação da consciência.
+> **Fé fortalece discernimento e responsabilidade; não exige amputação da consciência.**
 
 ---
 
-# 18. NÃO GENERALIZAR
+# 19. VIOLÊNCIA, ABUSO E SEGURANÇA
 
-Evitar formulações totais como:
-
-- homens são;
-- mulheres são;
-- pais fazem;
-- mães fazem;
-- a sociedade quer;
-- a esquerda é;
-- a direita é;
-- a igreja é;
-- a família sempre;
-- vítimas permitem;
-- agressores são todos.
-
-Preferir:
-
-- em alguns contextos;
-- determinadas configurações;
-- padrões observáveis;
-- há pessoas que;
-- algumas famílias;
-- quando determinado mecanismo aparece;
-- esse tipo de interpretação pode;
-- uma corrente pode se tornar.
-
-Padrão é material de investigação, não sentença sobre toda categoria.
-
----
-
-# 19. VIOLÊNCIA, ABUSO E CONTROLE
-
-A obra não poderá sugerir que o posicionamento da vítima causa abuso.
+A obra nunca pode sugerir que o posicionamento da vítima causa abuso.
 
 A responsabilidade do agressor permanece com o agressor.
 
-O método pode ajudar a:
-
-- reconhecer padrões;
-- nomear o que ocorre;
-- procurar proteção;
-- reconstruir limites;
-- identificar vulnerabilidades e permissões;
-- recuperar autoria após violência.
-
-Não prometer que posicionamento impede toda violência.
-
-Em contextos de risco, recomendar rede de proteção e apoio profissional, jurídico, policial, médico, psicológico ou pastoral adequado.
-
-Limites e acordos deverão considerar:
+Limites, Poda e saída devem considerar:
 
 - assimetria de poder;
 - dependência financeira;
 - vigilância;
 - ameaça;
 - coerção;
+- filhos;
+- saúde;
 - recursos;
 - segurança;
 - capacidade real de escolha.
 
+Segurança vem antes do desempenho de firmeza.
+
+Em risco, orientar rede de proteção e apoio profissional, jurídico, policial, médico, psicológico ou pastoral adequado.
+
 ---
 
-# 20. HISTÓRIAS AUTORAIS E CASOS
+# 20. HISTÓRIAS E CASOS
 
-Cada caso deverá ser classificado como:
+Classificar cada caso como:
 
 - autobiográfico documentado;
 - memória autoral;
@@ -694,97 +674,90 @@ Cada caso deverá ser classificado como:
 - caso anonimizado;
 - referência externa verificável.
 
-Não apresentar composição como fato real específico.
+Não apresentar composição como fato específico.
 
-Não expor terceiros identificáveis sem necessidade, consentimento ou proteção jurídica.
+Histórias e padrões que permanecem rastreáveis:
 
-Histórias que precisam permanecer rastreáveis:
-
-- Cajueiro do Pirangi;
-- letreiro de neon;
-- batom;
+- Cajueiro de Pirangi;
+- Letreiro de Neon;
+- batom vermelho;
 - portão;
 - ministério;
 - família;
 - relacionamentos;
 - cenas judiciais;
-- casos usados em tipos ou arquétipos.
+- pai presente que não protegeu;
+- casos ligados aos Tipos.
+
+Pendências autorais permanecem explícitas.
 
 ---
 
-# 21. FONTES E AFIRMAÇÕES FACTUAIS
+# 21. FATOS E FONTES
 
-Alegações científicas, psicológicas, jurídicas, bíblicas, históricas, digitais ou sociais deverão entrar no inventário factual.
+Alegações científicas, psicológicas, jurídicas, bíblicas, históricas, digitais ou sociais devem entrar no inventário factual.
 
-Classificações:
+Classificar como:
 
 - fonte necessária;
-- reformular como metáfora;
-- manter como experiência autoral;
+- metáfora;
+- experiência autoral;
+- hipótese;
 - retirar;
 - verificar por fonte primária.
 
-Não tratar como fato sem verificação:
+Não apresentar sem verificação:
 
 - números exatos;
-- tempos cerebrais;
 - causalidades psicológicas;
-- frases atribuídas;
 - explicações neurológicas simplificadas;
 - protocolos clínicos;
 - afirmações jurídicas;
-- histórias populares;
-- interpretações bíblicas apresentadas como consenso.
-
-Na Parte IV foram retirados ou suspensos:
-
-- modelo simplificado “amígdala contra córtex” como explicação total;
-- regra universal dos 90 segundos;
-- citação não verificada atribuída a Viktor Frankl;
-- protocolo 30–90 apresentado como ferramenta validada;
-- absolutos sobre quem permanece ou sai após um limite.
+- frases atribuídas;
+- interpretações bíblicas como consenso.
 
 ---
 
 # 22. WORKBOOK
 
-O Workbook será separado do livro principal.
+O Workbook é separado do livro principal.
 
-Instrumentos mapeados:
+Pode receber:
 
-- Teste da Árvore por áreas;
-- Diagnóstico de Influência Indevida ou Coerção Mental;
+- Teste da Árvore;
+- instrumento de influência;
 - Teste de Posicionamento;
-- Diagnóstico da Autopiedade;
-- Diagnóstico de Autonomia de Pensamento;
+- auto-observação de Autopiedade;
+- autonomia de pensamento;
 - mapa de frutos;
-- folhas de poda;
-- plano de replante;
-- acompanhamento de novas sementes.
+- folhas de Poda;
+- plano de Nova Semente;
+- acompanhamento de frutos.
 
-O livro poderá apresentar versões enxutas.
+O livro preserva versões enxutas.
 
-Pontuações, escalas extensas, fichas e páginas de resposta não devem interromper a leitura principal.
+Pontuações e escalas não devem interromper a leitura principal.
 
 ---
 
 # 23. BANCO VISUAL
 
-## Destinos
+Destinos:
 
 - livro principal;
 - Workbook;
 - edição premium;
-- impressão econômica P&B;
+- impressão P&B;
 - Kindle;
-- materiais complementares;
-- atlas visual.
+- materiais complementares.
 
-## Imagens prioritárias
+Imagens prioritárias:
 
-- Árvore do Discernimento;
-- mapa da travessia;
-- Cajueiro do Pirangi;
+- Árvore;
+- rota curta;
+- ritual completo;
+- Cajueiro;
+- Semente;
 - Solo;
 - Raízes;
 - Tronco;
@@ -793,36 +766,14 @@ Pontuações, escalas extensas, fichas e páginas de resposta não devem interro
 - Pragas;
 - Poda;
 - Nova Semente;
-- Filtro da Sensatez;
-- Filtro da Influência;
-- Buscar a Lógica;
-- Autopiedade x Autocompaixão;
-- A Jaula Está Aberta;
-- Autoria Emocional;
-- tipos de posicionamento;
-- o que o método não autoriza;
-- limite x muro x controle;
-- pedido x limite x acordo x exigência;
-- fato → impacto → linha → intenção → consequência;
-- círculo de responsabilidade;
-- ritual final.
+- Filtro;
+- Jaula;
+- Limite versus muro e controle;
+- pedido versus limite, acordo e exigência;
+- Tipos;
+- Sete Frutos.
 
-## Pendência
-
-O inventário técnico depende dos arquivos originais aprovados.
-
-Não afirmar que o banco está finalizado sem:
-
-- resolução;
-- dimensões;
-- duplicidade;
-- versão P&B;
-- versão colorida;
-- ortografia interna;
-- autoria;
-- licença;
-- nome canônico;
-- destino editorial.
+Não criar arte canônica antes de aplicar as decisões reconciliadas deste Registro.
 
 ---
 
@@ -830,200 +781,129 @@ Não afirmar que o banco está finalizado sem:
 
 ## Kindle
 
-Texto refluível, imagens essenciais, sumário clicável e legibilidade em telas pequenas.
+Texto refluível, sumário clicável, imagens essenciais e inspeção do EPUB/KPF efetivamente enviado.
 
-## Impressão econômica P&B
+## Impressão econômica
 
-Contraste, escala de cinza, fundos claros, prova física e capa recalculada após paginação.
+Contraste, escala de cinza, prova física e capa recalculada após paginação.
 
-## Premium colorida
+## Premium
 
-PDF navegável, infográficos completos, experiência visual ampliada e links.
-
-## Regra
+PDF navegável, infográficos e experiência ampliada.
 
 A edição premium não é o manuscrito canônico.
 
-O texto canônico precisa existir independentemente da diagramação.
+---
+
+# 25. PENDÊNCIAS ABERTAS
+
+## Autorais
+
+- cena do batom vermelho;
+- padrão `pai presente que não protegeu`;
+- nomes, gêneros e diferenciação dos Tipos.
+
+## Teológicas
+
+- honra e obediência;
+- consciência, autoridade, submissão e dever;
+- cruz, espera, sofrimento e responsabilidade;
+- referências bíblicas e versão utilizada.
+
+## Psicológicas e clínicas
+
+- autoria emocional;
+- Autopiedade e `praga-mãe`;
+- trauma, fusão, dependência e ressentimento;
+- fronteira entre metáfora pedagógica, sintoma e diagnóstico.
+
+## Jurídicas e de segurança
+
+- consentimento;
+- violência, coerção, documentação e proteção;
+- trabalho e finanças;
+- exposição de terceiros.
+
+## Editoriais concluídas
+
+- Filtro da Influência reconciliado;
+- Mirante definido como ponto metacognitivo;
+- Checkpoint da Parte III padronizado;
+- fechamento de polarização, Fuga Identitária e influência integrado;
+- passagem global de voz, ritmo e repetição concluída nos Lotes 01–04.
+
+## Editoriais abertas
+
+- leitura contínua global;
+- auditoria comparativa entre 286–287 páginas históricas e Revisão B;
+- matriz de decisão das lacunas válidas da Skill v1;
+- confirmação do que foi preservado, reescrito, transferido, não integrado ou retirado;
+- aparato de Dicionário e Referências;
+- densidade narrativa e cenas biográficas;
+- profundidade autorizada dos Tipos canônicos.
+
+## Produção
+
+- binários do banco visual;
+- Workbook;
+- EPUB/KPF;
+- impressão;
+- prova final.
 
 ---
 
-# 25. HIERARQUIA DE FONTES DO PROJETO
+# 26. REGRA DE EXCELÊNCIA 10/10
 
-Em caso de conflito:
+A aspiração 10/10 será tratada como processo auditável.
 
-1. decisões autorais explícitas mais recentes registradas na Constituição e neste Registro;
-2. manuscrito V13 e rastreabilidade;
-3. versão consolidada premium como fonte textual anterior;
-4. manuscrito certificado anterior, quando recuperado;
-5. versões antigas como fonte de resgate;
-6. prompts e relatórios antigos como histórico.
+Não declarar excelência final enquanto houver:
 
-Nenhum arquivo chamado “FINAL” será automaticamente canônico pelo nome.
+- contradição canônica;
+- pendência autoral;
+- afirmação de alto risco não verificada;
+- revisão especializada ausente;
+- arquivo de governança desatualizado;
+- problema de voz ou repetição não examinado;
+- arte conflitante;
+- EPUB/KPF não inspecionado;
+- prova impressa não aprovada.
 
----
+Critérios de 10/10:
 
-# 26. ESTADO ATUAL DO PROJETO
+1. promessa cumprida;
+2. arquitetura sem concorrência;
+3. nomenclatura única;
+4. voz preservada;
+5. ética e segurança validadas;
+6. fatos sustentados;
+7. fé revisada com rigor;
+8. navegação memorável;
+9. visual coerente;
+10. produção testada;
+11. nenhuma pendência aberta;
+12. aprovação autoral final.
 
-## Governança concluída e revisada
-
-- Constituição Editorial;
-- Arquitetura da Obra;
-- Mapa da Árvore e Comandos;
-- Mapa da Jaula;
-- Filtro da Sensatez;
-- Fios Condutores;
-- 14 Leis certificadas;
-- Matriz capítulo a capítulo;
-- Auditoria de coerência e riscos;
-- Inventário factual inicial;
-- Matriz de Não Perda;
-- Protocolo de Continuidade sem Fadiga;
-- página de visualização imediata.
-
-## Manuscrito V13 em primeira versão editorial
-
-- Pré-livro — Mapa de Navegação;
-- Parte I — Olhe os Frutos;
-- Parte II — Solo, Sementes e Configuração;
-- Parte III — Raízes e Heranças;
-- Parte IV — Tronco, Soberania e Limites;
-- rastreabilidade dos quatro lotes.
-
-## Em andamento
-
-- auditoria linha a linha da extração antiga;
-- Parte V — Galhos;
-- recuperação do DOCX canônico;
-- inventário técnico visual;
-- verificação factual por fontes primárias.
-
-## Ainda não concluído
-
-- Parte V — Galhos;
-- Parte VI — Pragas e Jaulas;
-- Parte VII — Filtro, Poda e Posicionamento;
-- Parte VIII — Novos Frutos e encerramento;
-- Workbook final;
-- DOCX V13 consolidado;
-- diagramação;
-- Kindle;
-- PDF econômico;
-- PDF premium final;
-- revisão factual completa;
-- revisão jurídica de casos sensíveis;
-- revisão teológica;
-- revisão psicológica e de sensibilidade;
-- revisão ortográfica final;
-- aprovação autoral final;
-- prova física.
+A nota será consequência da evidência, não substituto dela.
 
 ---
 
-# 27. DECISÕES EM ABERTO
+# 27. PRÓXIMA ORDEM DE TRABALHO
 
-1. Confirmar se “Volte para a raiz” permanecerá como comando oficial ou orientação derivada.
-2. Confirmar a forma definitiva: “Deixe na árvore” ou maior preservação de “Deixa na árvore”.
-3. Recuperar o nome definitivo do terceiro teste principal do Workbook.
-4. Definir quais histórias pessoais poderão permanecer com detalhes identificáveis.
-5. Decidir destino dos arquétipos clássicos: livro, apêndice, Workbook ou retirada.
-6. Selecionar uma única imagem canônica da Árvore.
-7. Confirmar Semente inicial e Nova Semente final como elementos visuais distintos.
-8. Definir tratamento de “feminicídio emocional” após revisão jurídica, psicológica e de sensibilidade.
-9. Recuperar e comparar DOCX certificado, versão premium e binários.
-10. Definir política de referências bíblicas: tradução, notas, citações e direitos.
-11. Validar o termo “autoria emocional” como conceito pedagógico da metodologia.
-12. Definir se o roteiro fato → impacto → linha → intenção → consequência receberá nome próprio ou permanecerá recurso de capítulo.
-13. Definir quais galhos aparecerão como capítulos e quais serão aplicações internas.
-
-Nenhuma pendência autoriza improvisação silenciosa.
+1. comparar a versão histórica de 286–287 páginas com a Revisão B;
+2. produzir matriz de preservação, reescrita, transferência, ausência e retirada;
+3. decidir quais lacunas válidas da Skill v1 pertencem ao livro;
+4. resolver validações autorais;
+5. executar revisões psicológica, teológica, jurídica, factual e de sensibilidade;
+6. integrar somente correções e expansões aprovadas;
+7. realizar leitura contínua final e congelar o texto;
+8. integrar visual e Workbook;
+9. preparar EPUB/KPF e impressão;
+10. realizar prova final, auditar promessa e somente então considerar o PR pronto para merge.
 
 ---
 
-# 28. REGRESSÕES PROIBIDAS
+# 28. REGRA FINAL
 
-Não voltar a:
+> **Nenhuma melhoria editorial poderá custar identidade, integridade, memória, segurança ou promessa.**
 
-- tratar fruto como laudo;
-- afirmar que o problema sempre está na raiz;
-- dizer que resistência prova que a autora está certa;
-- afirmar que seres humanos nascem literalmente zerados;
-- tratar Mirante como camada anatômica;
-- criar metodologia autônoma da Jaula;
-- transformar Fuga Identitária em centro deste livro;
-- usar esquerda, direita ou centro como rótulos totais;
-- culpabilizar vítimas por abuso;
-- tratar 14 Leis como 13 sem registro;
-- usar Filtro diferente sem explicar versão;
-- repetir testes extensos no corpo principal;
-- apresentar tipologias como diagnóstico clínico;
-- chamar toda discordância de falta de discernimento;
-- usar fé para suspender responsabilidade;
-- usar posicionamento para justificar agressão;
-- dizer que limite sempre afasta apenas “as pessoas erradas”;
-- dizer que o outro não afeta sentimentos;
-- tratar toda culpa como falsa;
-- tratar todo desconforto como crescimento;
-- tratar toda distância como muro;
-- tratar qualquer sim como consentimento livre;
-- apresentar protocolo não validado como ciência.
-
----
-
-# 29. TESTE FINAL DE COERÊNCIA
-
-Antes de aprovar qualquer capítulo, responder:
-
-1. O posicionamento continua sendo o assunto central?
-2. A Árvore organiza a investigação?
-3. O leitor observa frutos antes de concluir?
-4. O texto ensina metacognição?
-5. A autora aparece com posição clara?
-6. A posição autoral foi submetida ao mesmo Filtro?
-7. Há generalização indevida?
-8. Há risco de culpabilização?
-9. A Jaula confronta sem competir?
-10. O Filtro foi aplicado corretamente?
-11. A identidade aparece sem sequestrar o livro?
-12. A polarização foi tratada com sensatez?
-13. A fé foi preservada sem espiritualizar fuga?
-14. Há afirmação factual sem fonte?
-15. O capítulo devolve autoria sem condenar?
-16. Existe ação concreta ao final?
-17. O conteúdo pertence ao livro ou ao Workbook?
-18. Algum conceito importante foi perdido?
-19. Alguma ideia foi repetida sem progressão?
-20. O leitor termina mais capaz de pensar por si mesmo?
-21. Poder, risco e dependência foram considerados?
-22. Limite foi diferenciado de controle e muro?
-23. Acordo foi diferenciado de expectativa e imposição?
-24. A ação proposta está dentro da esfera real do leitor?
-
-Se qualquer resposta relevante for “não”, o capítulo não está pronto.
-
----
-
-# 30. PRÓXIMO MARCO
-
-Construir a Parte V — **Os Galhos: a estrutura aparecendo na vida prática**.
-
-Núcleos obrigatórios:
-
-- princípio de que um galho adoecido não condena automaticamente toda a árvore;
-- relacionamentos;
-- família como campo atual de prática, além da origem;
-- trabalho;
-- dinheiro;
-- fé vivida;
-- comunicação;
-- política;
-- corpo e autocuidado;
-- pertencimento e presença;
-- limites e acordos aplicados;
-- reciprocidade;
-- poder e responsabilidade;
-- revisão sensível das histórias autorais;
-- frutos específicos por área;
-- comandos da Árvore em situações concretas.
-
-A Parte V deverá evitar transformar o livro num livro apenas sobre relacionamentos. Cada galho servirá para mostrar o mesmo método operando em contextos diferentes.
+> **O livro deve ensinar o leitor a pensar melhor — não apenas a repetir Sol Lima.**

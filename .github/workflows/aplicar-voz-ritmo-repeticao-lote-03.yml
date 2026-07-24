@@ -1,0 +1,135 @@
+# Lote 03 — Partes V–VI
+name: Aplicar Voz, Ritmo e Repetição — Lote 03
+
+on:
+  push:
+    branches:
+      - revisao-b-global-2026-07-20
+    paths:
+      - "scripts/aplicar_voz_ritmo_repeticao_lote_03.py"
+      - "scripts/sincronizar_estado_pos_voz_lote_03.py"
+      - ".github/workflows/aplicar-voz-ritmo-repeticao-lote-03.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: voz-ritmo-lote-03-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  aplicar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Obter repositório
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.sha }}
+          fetch-depth: 0
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Aplicar passagem de voz e ritmo
+        run: python scripts/aplicar_voz_ritmo_repeticao_lote_03.py
+
+      - name: Regenerar manuscrito completo e Marco 07
+        run: python scripts/gerar_revisao_b_marco_07.py
+
+      - name: Medir fronteira editorial Kindle
+        run: python scripts/medir_amostra_kindle.py
+
+      - name: Sincronizar estado editorial
+        run: python scripts/sincronizar_estado_pos_voz_lote_03.py
+
+      - name: Validar integridade, segurança e escopo
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          p5 = Path('revisao-b-global/23_ONDA_5_PARTE_V_REV_B.md').read_text(encoding='utf-8')
+          p6 = Path('revisao-b-global/26_ONDA_6_PARTE_VI_REV_B.md').read_text(encoding='utf-8')
+          full = Path('manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md').read_text(encoding='utf-8')
+          mark7 = Path('marcos-revisao-b/MARCO_07_MANUSCRITO_COMPLETO_REV_B.md').read_text(encoding='utf-8')
+          kindle = Path('revisao-b-global/16_MEDICAO_EDITORIAL_10_PORCENTO_KINDLE.md').read_text(encoding='utf-8')
+          ler = Path('LER_AGORA_REPOSICIONESE_REV_B.md').read_text(encoding='utf-8')
+          registro = Path('direcao-editorial/12_REGISTRO_MESTRE_DE_CONTEXTO.md').read_text(encoding='utf-8')
+          matriz = Path('direcao-editorial/13_MATRIZ_DE_NAO_PERDA.md').read_text(encoding='utf-8')
+
+          chapter_re = re.compile(r'^# CAP[IÍ]TULO\s+(\d+)\b', flags=re.M | re.I)
+          assert [int(x) for x in chapter_re.findall(p5)] == [15, 16, 17, 18, 19, 20]
+          assert [int(x) for x in chapter_re.findall(p6)] == [21, 22, 23, 24, 25, 26]
+          for label, text in {'manuscrito': full, 'Marco 07': mark7}.items():
+              assert [int(x) for x in chapter_re.findall(text)] == list(range(1, 39)), label
+              assert len(re.findall(r'^# EP[IÍ]LOGO\b', text, flags=re.M | re.I)) == 1
+
+          required = [
+              'Nenhum deles receberá um método separado.',
+              'Você pode ter dificuldade num relacionamento e possuir amizades saudáveis;',
+              'O problema não é pertencer. Começa quando permanecer exige desaparecimento.',
+              '[VALIDAÇÃO AUTORAL PENDENTE]',
+              '[REVISÃO TEOLÓGICA — validar formulações sobre consciência, autoridade, submissão, dever e interpretação bíblica antes da edição final.]',
+              '[REVISÃO JURÍDICA PENDENTE]',
+              'Nesta Parte, o nome recai sobre o **mecanismo**, nunca sobre a pessoa.',
+              'Praga não é:',
+              'Negligência não é descansar, falhar uma vez ou não conseguir fazer tudo.',
+              'A dor merece cuidado, não governo',
+              'praga-mãe',
+              '[REVISÃO TEOLÓGICA PENDENTE]',
+              '“Você fica porque quer.”',
+              'A porta pode estar aberta numa dimensão e bloqueada em outra.',
+              'Sua possibilidade de cultivo.',
+          ]
+          for phrase in required:
+              assert phrase in full, phrase
+
+          assert p5.count('# CAPÍTULO') == 6
+          assert p6.count('# CAPÍTULO') == 6
+          assert p5.count('[VALIDAÇÃO AUTORAL PENDENTE]') >= 1
+          assert p5.count('[REVISÃO TEOLÓGICA') >= 1
+          assert p5.count('[REVISÃO JURÍDICA PENDENTE]') == 1
+          assert p6.count('[REVISÃO TEOLÓGICA PENDENTE]') == 1
+          assert 'Praga não é:\n\n- pessoa;' in p6
+          assert 'A JAULA ESTÁ ABERTA.' in p6
+
+          match = re.search(r'Total editorial estimado: \*\*([0-9,]+) palavras\*\*', kindle)
+          assert match
+          count_dot = match.group(1).replace(',', '.')
+          assert f'aproximadamente {count_dot} palavras editoriais;' in ler
+          assert f'aproximadamente {count_dot} palavras editoriais;' in registro
+          assert 'CAPÍTULO 2 — A MORTE EM VIDA' in kindle
+          assert 'O primeiro sinal de retorno' in kindle
+          assert 'voz e ritmo concluídos nos Lotes 01–03' in ler
+          assert 'Lote 04 — Partes VII–VIII e Epílogo' in ler
+          assert 'Versão:** 3.3' in registro
+          assert 'Versão:** 2.3' in matriz
+
+          print('Validação concluída: Lote 03, capítulos 1–38, Epílogo, marcadores, salvaguardas e Kindle preservados.')
+          PY
+
+      - name: Versionar passagem e integração
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "4189826+github-actions[bot]@users.noreply.github.com"
+          git add \
+            revisao-b-global/23_ONDA_5_PARTE_V_REV_B.md \
+            revisao-b-global/26_ONDA_6_PARTE_VI_REV_B.md \
+            manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md \
+            marcos-revisao-b/MARCO_07_MANUSCRITO_COMPLETO_REV_B.md \
+            revisao-b-global/16_MEDICAO_EDITORIAL_10_PORCENTO_KINDLE.md \
+            LER_AGORA_REPOSICIONESE_REV_B.md \
+            direcao-editorial/12_REGISTRO_MESTRE_DE_CONTEXTO.md \
+            direcao-editorial/13_MATRIZ_DE_NAO_PERDA.md
+          if git diff --cached --quiet; then
+            echo "A passagem e o estado do Lote 03 já estavam integrados."
+          else
+            git commit -m "Sincroniza voz, ritmo e estado do Lote 03"
+            git push origin HEAD:revisao-b-global-2026-07-20
+          fi

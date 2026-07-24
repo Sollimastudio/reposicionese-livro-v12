@@ -1,191 +1,371 @@
-# Arquitetura Definitiva da Obra — Versão de Direção
+# Arquitetura Definitiva da Obra — Revisão B
 
-## Regra de construção
-A Árvore não será apenas explicada pelo livro. Ela organizará a experiência de leitura.
+## Estado
 
-A arquitetura distingue:
+A reconstrução por Partes foi concluída no Marco 07.
+
+A arquitetura abaixo descreve o manuscrito completo em Revisão B. Não é plano futuro nem proposta de reestruturação.
+
+---
+
+# REGRA DE CONSTRUÇÃO
+
+A Árvore não é apenas explicada. Ela organiza a experiência de leitura.
+
+A metodologia distingue:
+
+- **entrada do cultivo:** Semente;
 - **ordem estrutural:** Solo → Raízes → Tronco → Galhos → Frutos;
-- **ordem de investigação:** Fruto → Galho → Tronco → Raiz → Solo → Pragas → Filtro → Poda → Nova Semente → Ação.
+- **operações e condições:** Pragas, Poda e Nova Semente;
+- **ponto de observação:** Mirante do Discernimento;
+- **ordem de investigação:** Fruto → Galho → Tronco → Raízes → Solo e Semente → Pragas → Filtro → Poda → Nova Semente → Ação → novos frutos.
 
-O leitor entra pelos frutos, aprende o mapa, investiga a estrutura e termina sustentando um posicionamento.
+A representação editorial pode mostrar:
 
-# PRÉ-LIVRO — Pacto de leitura e mapa de navegação
+> **Semente → Solo → Raízes → Tronco → Galhos → Frutos.**
+
+Nessa representação, Semente é entrada do cultivo, não camada anatômica.
+
+O leitor entra pelos frutos, aprende o mapa, investiga a estrutura e termina sustentando uma escolha.
+
+---
+
+# PRÉ-LIVRO — PACTO, PROMESSA E NAVEGAÇÃO
 
 ## Função
-Declarar a voz da autora, proteger o método contra generalizações e ensinar a linguagem que será usada durante todo o livro.
 
-## Sequência
-1. Nota de Lente Autoral — cristã, conservadora, pedagógica e experiencial.
-2. O que este método não autoriza.
-3. Este livro e o anterior: de *Morte em Vida* à reconstrução.
-4. Tese inaugural: **toda pessoa já está posicionada; os frutos mostram o que a posição atual produz.**
-5. O letreiro de neon — o que a vida comunica antes do discurso.
-6. O Cajueiro de Pirangi — mudança de perspectiva e nascimento do comando “Suba na Árvore”.
-7. Manual dos Comandos da Árvore e dos Comandos do Pensamento.
-8. Mapa da Árvore: cinco camadas estruturais, três operações de cultivo e o Mirante.
-9. Mapa visual das 14 Leis, sem desenvolver todas de uma vez.
-10. Primeiro mapa de frutos por áreas da vida.
+Declarar a tese, a voz da autora, a competência ensinada, os limites éticos e a linguagem necessária para usar o livro.
 
-A Jaula pode aparecer em uma intervenção curta, mas não recebe capítulo nem parte própria.
+## Conteúdo consolidado
 
-# PARTE I — OLHE OS FRUTOS
+1. `Você já está posicionada`;
+2. observação de frutos ruins e bons;
+3. promessa de pensamento próprio e metacognição;
+4. primeira subida em noventa segundos;
+5. modo de usar em cinco movimentos;
+6. Letreiro de Neon;
+7. Cajueiro de Pirangi;
+8. mapa da Árvore;
+9. comandos oficiais;
+10. doze perguntas do Filtro;
+11. polarização, influência e Fuga Identitária como terceirização da consciência;
+12. posição cristã e conservadora da autora sem imunidade crítica;
+13. o que o método não autoriza;
+14. ponte com *Morte em Vida*.
+
+## Movimento
+
+O leitor experimenta o método antes de receber toda a teoria.
+
+---
+
+# PARTE I — OBSERVE OS FRUTOS
 
 ## Pergunta
+
 Que resultados a posição atual está produzindo?
 
-## Conteúdos
-- A Vitrine da Vida.
-- A Morte em Vida, condensada como evidência e ponte com o livro anterior.
-- Frutos em relacionamentos, família, trabalho, fé, corpo, dinheiro, limites, identidade, paz e propósito.
-- Diferença entre intenção, discurso, imagem e resultado.
-- Fruto como evidência, não sentença nem causa automática.
+## Capítulos
 
-## Movimento de posicionamento
+1. A Vitrine da Vida;
+2. A Morte em Vida.
+
+## Função
+
+- começar pela evidência;
+- separar fruto de identidade;
+- distinguir discurso, imagem, comportamento e resultado;
+- reconhecer desaparecimento e participação;
+- observar bons frutos;
+- oferecer primeiro movimento real de posicionamento.
+
+## Movimento
+
 Parar de discutir apenas intenção e reconhecer a realidade observável.
 
-# PARTE II — SOLO, SEMENTES E CONFIGURAÇÃO
+---
+
+# PARTE II — SEMENTE, SOLO E CONFIGURAÇÃO
 
 ## Pergunta
-Em que ambiente mental, espiritual, cultural e relacional esse modo de funcionar se tornou fértil?
 
-## Conteúdos
-- Sistema Operacional Interno.
-- Metáfora do celular: sistema básico, configurações, aplicativos e permissões; nunca afirmar que o ser humano nasce literalmente “zerado”.
-- Parábola do Semeador: a mesma semente encontra solos diferentes.
-- Crenças, valores, linguagem, memória, hábitos mentais e ambientes.
-- Algoritmo, economia da atenção, telas e anestesia digital.
-- Esquerda, direita e centro como possíveis filtros interpretativos quando se tornam mindsets rígidos.
-- Lei 3, Lei 4, Lei 5 e Lei 6 distribuídas no fluxo.
+O que entrou no cultivo e em que ambiente determinada interpretação se tornou fértil?
 
-## Movimento de posicionamento
+## Capítulos
+
+3. A Semente e o Solo;
+4. O Celular Configurado;
+5. O Solo Digital;
+6. Crenças, Valores e Modo Operante.
+
+## Função
+
+- distinguir fato, interpretação, emoção e Semente;
+- mostrar configurações recebidas e escolhidas;
+- examinar permissões;
+- tratar influência sem demonizá-la;
+- compreender algoritmo, grupos e pertencimento;
+- reconhecer configurações saudáveis.
+
+## Movimento
+
 Reconhecer o que foi instalado sem transformar origem em destino ou desculpa.
+
+---
 
 # PARTE III — RAÍZES E HERANÇAS
 
 ## Pergunta
-Que crenças, lealdades, feridas, vínculos e narrativas continuam alimentando esse fruto?
 
-## Conteúdos
-- Família, cultura, fé, educação, modelos de amor, autoridade e pertencimento.
-- Padrões geracionais e lealdades invisíveis.
-- A Corrente, reposicionada aqui.
-- Arquétipos somente se forem definidos pedagogicamente, sustentados e não apresentados como diagnóstico.
-- Distinção entre fé e religiosidade usada para apagar consciência.
-- Lei 2, Lei 7 e Lei 8 distribuídas conforme a necessidade.
+O que continua alimentando esse fruto?
 
-## Movimento de posicionamento
+## Capítulos
+
+7. As Raízes;
+8. A Corrente;
+9. Os Mapas Herdados;
+10. Família, Fé e Autoridade.
+
+## Função
+
+- diferenciar origem de alimentação atual;
+- distinguir herança, lealdade, dever, culpa e prisão;
+- reconhecer Raízes saudáveis;
+- separar fé de coerção religiosa;
+- preservar segurança e responsabilidade por danos reais.
+
+## Movimento
+
 Compreender a origem sem entregar a ela o governo do presente.
 
-# PARTE IV — TRONCO: IDENTIDADE, SOBERANIA E SUSTENTAÇÃO
+---
+
+# PARTE IV — O TRONCO
 
 ## Pergunta
-Eu sustento na prática aquilo que afirmo acreditar?
 
-## Conteúdos
-- Soberania Interna.
-- Identidade como estrutura, sem antecipar todo o livro *Fuga Identitária*.
-- Limite Sagrado.
-- Acordos Conscientes.
-- Coerência, autocontrole, critérios e sustentação emocional.
-- Posicionamento como presença inteira quando existe custo.
-- Lei 1, Lei 11, Lei 12 e Lei 13 integradas.
+Sustento na prática aquilo que afirmo acreditar?
 
-## Movimento de posicionamento
+## Conteúdo consolidado
+
+- Tronco;
+- Soberania Interna;
+- autoria emocional;
+- polarização como teste de soberania;
+- Limite Sagrado;
+- pedido, limite, acordo e exigência;
+- risco, poder e segurança;
+- bons recursos transferíveis.
+
+## Movimento
+
 Parar de confundir opinião, dureza, silêncio ou performance com sustentação real.
 
-# PARTE V — GALHOS: A VIDA ONDE A ESTRUTURA APARECE
+---
+
+# PARTE V — OS GALHOS
 
 ## Pergunta
+
 Em que área esse padrão produz fruto?
 
-## Conteúdos
-- Relacionamentos.
-- Família.
-- Trabalho.
-- Fé e comunidade.
-- Comunicação e escuta de verdades.
-- Corpo, dinheiro, maternidade, paternidade, sexualidade, propósito e pertencimento, conforme o manuscrito sustentar.
-- Capítulos sensíveis sobre pais e proteção submetidos a revisão de linguagem, causalidade e risco de culpabilização.
-- Polarização aplicada à convivência: discordar sem terceirizar consciência nem transformar pessoas em rótulos.
+## Conteúdo consolidado
 
-## Movimento de posicionamento
-Levar o discernimento para relações, limites, acordos e decisões concretas.
+- relacionamentos;
+- família;
+- trabalho, dinheiro e propósito;
+- fé, comunidade, política e pertencimento;
+- corpo, sexualidade, cuidado e outros Galhos;
+- transferência de recursos saudáveis entre áreas.
+
+## Movimento
+
+Levar o discernimento para a vida concreta sem transformar cada Galho em método próprio.
+
+---
 
 # PARTE VI — PRAGAS, JAULAS E FUGAS
 
 ## Pergunta
-O que está sugando a seiva, deformando a leitura ou impedindo crescimento?
 
-## Conteúdos
-- Autopiedade como praga-mãe, distinguida de autocompaixão.
-- Sono da Negligência.
-- Sofá Quente da Mentira.
-- Vitimismo sofisticado, ressentimento, comparação, validação externa, dependência de plateia, autoengano e culpa paralisante.
-- Influência indevida, pensamento binário, identidade emprestada e fuga identitária como fios distribuídos.
-- Geração Anestesiada e Geração que Fugiu de Si Mesma desmontadas e redistribuídas, evitando um capítulo autônomo que transforme identidade em tema concorrente.
+Que mecanismo está drenando, distorcendo, capturando uma necessidade legítima ou impedindo revisão?
 
-## Uso da Jaula
-A Jaula aparece em intervenções breves por toda a obra e ganha aqui apenas uma síntese operacional. Ela não recebe uma “Parte da Jaula”.
+## Capítulos
 
-## Movimento de posicionamento
-Nomear a prisão sem confundir contexto real com prisão exclusivamente mental.
+21. O que é uma Praga;
+22. O Sono da Negligência;
+23. O Sofá Quente da Mentira;
+24. Autopiedade e Autocompaixão;
+25. Pragas de Atenção, Pertencimento e Imagem;
+26. A Jaula e a Porta Possível.
+
+## Regra
+
+Praga é mecanismo, nunca pessoa, grupo, diagnóstico, emoção difícil ou dor.
+
+A Jaula é intervenção narrativa subordinada à Árvore.
+
+## Movimento
+
+Nomear o mecanismo, proteger o que é legítimo e recuperar espaço de decisão.
+
+---
 
 # PARTE VII — FILTRO, PODA E POSICIONAMENTO
 
 ## Pergunta
+
 O que precisa ser examinado, interrompido e sustentado agora?
 
-## Conteúdos
-- Filtro da Sensatez com as 12 perguntas oficiais.
-- Comandos: Pense comigo, Pense nisso e Repense isso.
-- A Arte de Ouvir Verdades.
-- Posicionamento saudável, tóxico e morno.
-- Os 14 Tipos como espelhos pedagógicos, não diagnósticos.
-- Tipos contemporâneos integrados aos 14 existentes, sem duplicar a tipologia.
-- Ação com Visão de Futuro.
-- Poda de hábitos, permissões, narrativas, ambientes e vínculos.
-- Leis 9, 10 e 14 como eixo de decisão e sensatez.
+## Conteúdo consolidado
 
-## Movimento de posicionamento
+- Filtro da Sensatez com as doze perguntas oficiais;
+- proporcionalidade ao risco;
+- regra de parada;
+- Comandos do Pensamento;
+- quatorze Tipos como espelhos pedagógicos;
+- decisão sob incerteza;
+- Poda de mecanismo, acesso, prática, expectativa ou vínculo;
+- preservação dos bons frutos;
+- preparação da Nova Semente.
+
+## Movimento
+
 Sair da análise, escolher a intervenção possível e assumir o custo da coerência.
+
+---
 
 # PARTE VIII — NOVA SEMENTE E NOVOS FRUTOS
 
 ## Pergunta
+
 O que começo a cultivar e como saberei se mudou?
 
-## Conteúdos
-- O Que o Posicionamento Produz.
-- Os 7 Frutos do Posicionamento.
-- Que Fruto Isso Vai Dar?
-- Plano de nova semente: prática, repetição, ambiente, limite e acompanhamento.
-- Retorno ao mapa de frutos inicial.
-- Capítulo final: Sua Árvore, Seus Frutos.
+## Capítulos
 
-## Ritual final
-1. Olhe os frutos.
+33. A Nova Semente;
+34. Cultivo, Repetição e Revisão;
+35. O que o Posicionamento Produz;
+36. Os Sete Frutos do Posicionamento;
+37. Volte ao Mapa dos Frutos;
+38. Sua Árvore, Seus Frutos.
+
+## Conteúdo consolidado
+
+- menor Semente viável;
+- prática observável;
+- repetição;
+- recaída sem identidade;
+- revisão por frutos;
+- preservação do que funciona;
+- Sete Frutos;
+- retorno honesto ao mapa;
+- ritual completo de dez movimentos;
+- descida e continuidade.
+
+## Movimento
+
+Transformar Poda em cultivo e metacognição em disciplina de liberdade que termina em ação.
+
+---
+
+# EPÍLOGO — O CAJUEIRO AINDA ESTÁ LÁ
+
+## Função
+
+Fechar visual e literariamente sem voltar a explicar o livro inteiro.
+
+## Elementos preservados
+
+- Cajueiro de Pirangi;
+- complexidade;
+- tempo e apoio especializado;
+- ponto de observação;
+- subir e descer;
+- devolução à vida;
+- cultivo.
+
+## Frase final canônica
+
+> Sua Árvore.  
+> Seus frutos.  
+> Sua responsabilidade.  
+> Sua possibilidade de cultivo.
+
+---
+
+# COMANDOS OFICIAIS
+
+1. Observe os Frutos.
 2. Suba na Árvore.
-3. Deixe o julgamento na Árvore.
-4. Passe pelo Filtro da Sensatez.
-5. Reconheça a porta da Jaula.
-6. Escolha a poda e a nova semente.
-7. Desça da Árvore.
-8. Sustente o posicionamento.
+3. Deixe na Árvore.
+4. Volte às Raízes.
+5. Passe pelo Filtro da Sensatez.
+6. Desça da Árvore.
 
-## Fechamento
-> Sua árvore, seus frutos.
->
-> A Jaula está aberta.
->
-> Agora desça da Árvore e sustente uma escolha.
+`Volte às Raízes e ao Solo` é aplicação ampliada no ritual final.
 
-# Regra para os capítulos
-Todo capítulo deve conter, de forma orgânica:
-1. um fruto ou evidência observável;
-2. a parte da Árvore a investigar;
-3. uma pergunta metacognitiva;
-4. uma aplicação do Filtro ou de uma Lei;
-5. uma possível Jaula, quando houver prisão invisível;
-6. um movimento de posicionamento na vida real.
+---
 
-Nenhum capítulo termina apenas explicando. Ele termina devolvendo ao leitor uma decisão, uma prática ou uma pergunta que possa ser sustentada fora do livro.
+# ROTA CURTA
+
+1. Observe os Frutos.
+2. Deixe a conclusão não examinada na Árvore.
+3. Suba e localize a estrutura e os mecanismos.
+4. Passe pelo Filtro.
+5. Defina Poda e Nova Semente.
+6. Desça e aja.
+7. Observe os novos frutos.
+
+---
+
+# RITUAL COMPLETO
+
+O Capítulo 38 contém dez movimentos:
+
+1. Observe os Frutos;
+2. Suba na Árvore;
+3. Identifique o Galho;
+4. Examine o Tronco;
+5. Volte às Raízes e ao Solo;
+6. Reconheça Pragas e Jaulas;
+7. Passe pelo Filtro;
+8. Defina a Poda;
+9. Escolha a Nova Semente;
+10. Desça da Árvore.
+
+A rota curta e o ritual completo pertencem à mesma Árvore.
+
+---
+
+# REGRA PARA OS CAPÍTULOS
+
+Cada capítulo deve, de forma orgânica:
+
+1. apresentar fruto ou evidência;
+2. indicar a parte ou operação relevante da Árvore;
+3. provocar percepção do próprio pensamento;
+4. aplicar o Filtro ou uma Lei quando necessário;
+5. usar a Jaula apenas quando houver prisão invisível;
+6. terminar devolvendo decisão, prática, pergunta ou ação verificável.
+
+Nenhum capítulo deve criar arquitetura concorrente.
+
+---
+
+# ESTADO EDITORIAL
+
+A arquitetura está implementada no Marco 07.
+
+Próximas etapas:
+
+- coerência metodológica localizada;
+- voz, ritmo e repetição;
+- especialistas;
+- validações autorais;
+- visual e Workbook;
+- EPUB/KPF e impressão;
+- prova final;
+- auditoria final da promessa.
+
+O manuscrito não deve ser reconstruído novamente por Partes.
