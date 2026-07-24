@@ -10,7 +10,6 @@ on:
       - "scripts/medir_amostra_kindle.py"
       - "scripts/aplicar_voz_ritmo_repeticao_lote_04.py"
       - "scripts/corrigir_regressao_parte_viii_pos_lote_04.py"
-      - "scripts/sincronizar_estado_pos_voz_lote_04.py"
       - ".github/workflows/gerar-revisao-b-marco-07.yml"
   pull_request:
     branches: [direcao-editorial-executiva-2026-07-20]
@@ -20,7 +19,6 @@ on:
       - "scripts/medir_amostra_kindle.py"
       - "scripts/aplicar_voz_ritmo_repeticao_lote_04.py"
       - "scripts/corrigir_regressao_parte_viii_pos_lote_04.py"
-      - "scripts/sincronizar_estado_pos_voz_lote_04.py"
       - ".github/workflows/gerar-revisao-b-marco-07.yml"
   workflow_dispatch:
 
@@ -59,10 +57,9 @@ jobs:
           g.CONTINUOUS.write_text(g.metadata('Manuscrito contínuo completo — Revisão B — Marco 07','MANUSCRITO DE TRABALHO — REVISÃO B COMPLETA. Pré-livro, Partes I–VIII e Epílogo revisados.') + body, encoding='utf-8', newline='\n')
           g.MILESTONE.write_text(g.metadata('Marco 07 — Manuscrito completo — Revisão B','MARCO 07 DA REVISÃO B — Manuscrito completo, capítulos 1–38 e Epílogo revisados.') + body, encoding='utf-8', newline='\n')
           PY
-      - name: Medir Kindle e sincronizar estado
+      - name: Medir Kindle
         run: |
           python scripts/medir_amostra_kindle.py
-          python scripts/sincronizar_estado_pos_voz_lote_04.py
       - name: Validar integridade, cadência e escopo
         run: |
           python - <<'PY'
@@ -94,9 +91,12 @@ jobs:
             'Uma conversa marcada, uma resposta adiada por vinte minutos',
             'Compreender produz possibilidade, não incorporação automática.',
             'Mudanças internas podem ser difíceis de perceber no cotidiano. Registre evidências',
+            'Posicionamento é uma habilidade',
+            'A JAULA COMO FIO DA TRAVESSIA',
+            'O PACTO DESTA TRAVESSIA',
           ]
           for phrase in required:
-            assert phrase in p7+p8, phrase
+            assert phrase in full, phrase
           forbidden=[
             'Você observou frutos.\n\nSubiu na Árvore.',
             'O desejo importa.\n\nMostra direção.',
@@ -105,15 +105,15 @@ jobs:
           for phrase in forbidden:
             assert phrase not in p8, phrase
           assert 'voz e ritmo concluídos nos Lotes 01–04' in Path('LER_AGORA_REPOSICIONESE_REV_B.md').read_text(encoding='utf-8')
-          print('Lote 04 validado sem regressão: 38 capítulos, Epílogo, Filtro, Tipos, Frutos, cadência e final preservados.')
+          print('Revisão B validada: Pré-livro consolidado, 38 capítulos, Epílogo, Filtro, Tipos, Frutos, cadência e final preservados.')
           PY
       - name: Versionar integração
         if: github.event_name == 'push'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add revisao-b-global/29_ONDA_7_PARTE_VII_REV_B.md revisao-b-global/32_ONDA_8_PARTE_VIII_EPILOGO_REV_B.md manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md marcos-revisao-b/MARCO_07_MANUSCRITO_COMPLETO_REV_B.md revisao-b-global/16_MEDICAO_EDITORIAL_10_PORCENTO_KINDLE.md LER_AGORA_REPOSICIONESE_REV_B.md direcao-editorial/12_REGISTRO_MESTRE_DE_CONTEXTO.md direcao-editorial/13_MATRIZ_DE_NAO_PERDA.md
-          if ! git diff --cached --quiet; then git commit -m "Corrige regressão e fecha voz e ritmo do Lote 04" && git push origin HEAD:revisao-b-global-2026-07-20; fi
+          git add revisao-b-global/29_ONDA_7_PARTE_VII_REV_B.md revisao-b-global/32_ONDA_8_PARTE_VIII_EPILOGO_REV_B.md manuscrito-revisao-b/REPOSICIONESE_REV_B_CONTINUO.md marcos-revisao-b/MARCO_07_MANUSCRITO_COMPLETO_REV_B.md revisao-b-global/16_MEDICAO_EDITORIAL_10_PORCENTO_KINDLE.md
+          if ! git diff --cached --quiet; then git commit -m "Integra Pré-livro consolidado ao manuscrito contínuo" && git push origin HEAD:revisao-b-global-2026-07-20; fi
       - uses: actions/upload-artifact@v4
         with:
           name: reposicionese-revisao-b-marco-07-texto-${{ github.event_name }}
