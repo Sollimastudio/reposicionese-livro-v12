@@ -3,7 +3,7 @@
 
 **Autora:** Sol Lima  
 **Método:** Árvore do Discernimento  
-**Estado:** manuscrito textual completo; governança e coerência metodológica reconciliadas; voz e ritmo concluídos nos Lotes 01–04; leitura contínua, especialistas e produção pendentes  
+**Estado:** Pré-livro consolidado para a Edição Mestra; Partes I–VIII e Epílogo preservados; leitura contínua, especialistas e produção pendentes  
 **PR:** #2 — rascunho, sem merge
 
 ---
@@ -16,18 +16,19 @@
 
 Estado confirmado:
 
-- Pré-livro — Revisão B;
+- Pré-livro consolidado a partir das versões históricas e da Revisão B;
 - Partes I–VIII — Revisão B;
 - capítulos 1–38 validados;
 - um Epílogo;
-- aproximadamente 37.026 palavras editoriais;
+- aproximadamente 38.874 palavras editoriais;
 - Revisão A preservada;
 - Marcos 01–06 preservados;
 - Marco 07 vigente;
 - governança reconciliada e protegida por validação automática;
 - conflitos metodológicos localizados corrigidos e integrados;
 - trava de extensão e auditoria comparativa de paginação registrada;
-- certificação editorial pela Skill v1 concluída como análise, sem reescrita.
+- certificação editorial pela Skill v1 concluída como análise;
+- nenhuma Parte I–VIII reescrita na consolidação do Pré-livro.
 
 A reconstrução por Partes foi encerrada. O manuscrito não deve voltar automaticamente à Parte I nem reiniciar sua arquitetura.
 
@@ -111,6 +112,7 @@ O Capítulo 38 preserva dez movimentos de aplicação completa. A rota curta e o
 - [Laudo completo de estado e conclusão](revisao-b-global/50_LAUDO_COMPLETO_ESTADO_E_CONCLUSAO_REPOSICIONESE.md)
 - [Trava de extensão e auditoria de paginação](revisao-b-global/57_TRAVA_DE_EXTENSAO_E_AUDITORIA_DE_PAGINACAO.md)
 - [Certificação editorial pela Skill v1](revisao-b-global/58_CERTIFICACAO_EDITORIAL_SKILL_V1_REPOSICIONESE.md)
+- [Rastreabilidade do Pré-livro consolidado](revisao-b-global/59_RASTREABILIDADE_PRE_LIVRO_EDICAO_MESTRA.md)
 - [Rastreabilidade da reconciliação](revisao-b-global/38_RASTREABILIDADE_RECONCILIACAO_GOVERNANCA.md)
 - [Validação da reconciliação](revisao-b-global/39_VALIDACAO_RECONCILIACAO_GOVERNANCA.md)
 
@@ -171,10 +173,11 @@ Nenhum Marco anterior deve ser sobrescrito.
 
 A Revisão B textual está completa, mas a publicação ainda depende de:
 
-- leitura contínua global após a conclusão dos quatro lotes;
+- leitura autoral contínua do novo Pré-livro;
+- decisão sobre a fronteira dos 10% Kindle, agora no final do Pré-livro;
+- leitura contínua global;
 - auditoria comparativa entre a versão histórica de 286–287 páginas e a Revisão B;
 - classificação do que foi preservado, reescrito, transferido, ainda não integrado ou realmente retirado;
-- decisão autoral sobre as lacunas válidas apontadas pela certificação da Skill v1;
 - revisão psicológica e clínica;
 - revisão teológica;
 - revisão jurídica;
@@ -193,6 +196,4 @@ A prova técnica automática de 177 páginas não é meta de publicação nem au
 
 # PRÓXIMA ETAPA
 
-A **Rodada de Coerência Metodológica Localizada está concluída**.
-
-A passagem global de voz, ritmo e repetição foi concluída nos **Lotes 01–04 — Pré-livro, Partes I–VIII e Epílogo**. A próxima etapa é a **leitura contínua global com auditoria comparativa de extensão e matriz de decisão sobre as lacunas válidas da Skill v1**, seguida das decisões autorais e auditorias especializadas. A pista visual permanece separada porque os binários ainda não foram versionados no repositório.
+O **Pré-livro foi consolidado integralmente** a partir das versões históricas e do cânone atual. A próxima etapa é a **leitura autoral do Pré-livro e a decisão sobre a amostra Kindle**, sem novos cortes automáticos. Depois disso, a Matriz Mestra avança para a Parte I.
